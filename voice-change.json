@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "question": "Change the voice: He reads a book.",
+    "options": ["A book is read by him.", "A book was read by him.", "A book is being read by him.", "A book has been read by him."],
+    "answer": "A book is read by him.",
+    "explanation": "এটি Present Indefinite Tense-এ আছে। Active থেকে Passive করার নিয়ম: Object (A book) + am/is/are + Verb-এর 3rd form (read) + by + Subject (him)।"
+  },
+  {
+    "id": 2,
+    "question": "Change the voice: She is singing a song.",
+    "options": ["A song was being sung by her.", "A song is being sung by her.", "A song has been sung by her.", "A song is sung by her."],
+    "answer": "A song is being sung by her.",
+    "explanation": "Present Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'is/are/am + being + V3' ব্যবহৃত হয়। তাই 'is being sung' সঠিক।"
+  },
+  {
+    "id": 3,
+    "question": "Change the voice: They have done the work.",
+    "options": ["The work is done by them.", "The work was done by them.", "The work has been done by them.", "The work had been done by them."],
+    "answer": "The work has been done by them.",
+    "explanation": "Present Perfect Tense-এর Passive voice-এ 'has been/have been + V3' হয়। 'The work' Singular হওয়ায় 'has been' বসেছে।"
+  },
+  {
+    "id": 4,
+    "question": "Change the voice: I saw a bird.",
+    "options": ["A bird is seen by me.", "A bird is being seen by me.", "A bird has been seen by me.", "A bird was seen by me."],
+    "answer": "A bird was seen by me.",
+    "explanation": "Past Indefinite Tense-এর Passive voice-এ 'was/were + V3' ব্যবহৃত হয়। Object 'A bird' এর পরে 'was' বসবে।"
+  },
+  {
+    "id": 5,
+    "question": "Change the voice: He was writing a letter.",
+    "options": ["A letter was being written by him.", "A letter is being written by him.", "A letter was written by him.", "A letter had been written by him."],
+    "answer": "A letter was being written by him.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়। 'write'-এর V3 হলো 'written'।"
+  },
+  {
+    "id": 6,
+    "question": "Change the voice: We had completed the task.",
+    "options": ["The task has been completed by us.", "The task had been completed by us.", "The task was completed by us.", "The task is completed by us."],
+    "answer": "The task had been completed by us.",
+    "explanation": "Past Perfect Tense-এর Passive-এ 'had been + V3' হয়। 'had' এর সাথে 'been' যুক্ত হয়ে passive form গঠিত হয়।"
+  },
+  {
+    "id": 7,
+    "question": "Change the voice: I will buy a car.",
+    "options": ["A car would be bought by me.", "A car will buy by me.", "A car will be bought by me.", "A car is to be bought by me."],
+    "answer": "A car will be bought by me.",
+    "explanation": "Future Indefinite Tense-এর Passive voice-এ 'shall/will + be + V3' ব্যবহৃত হয়। 'buy'-এর V3 হলো 'bought'।"
+  },
+  {
+    "id": 8,
+    "question": "Change the voice: Shut the door.",
+    "options": ["The door should be shut.", "You are ordered to shut the door.", "Let the door shut.", "Let the door be shut."],
+    "answer": "Let the door be shut.",
+    "explanation": "Imperative Sentence-এ Order বা আদেশ বোঝালে Passive করার নিয়ম: Let + Object + be + V3। 'shut'-এর V3 'shut' ই থাকে।"
+  },
+  {
+    "id": 9,
+    "question": "Change the voice: Did you eat rice?",
+    "options": ["Was rice eaten by you?", "Is rice eaten by you?", "Has rice been eaten by you?", "Did rice eaten by you?"],
+    "answer": "Was rice eaten by you?",
+    "explanation": "Interrogative sentence (Past Indefinite)-এর Passive শুরু হয় 'Was/Were' দিয়ে। গঠন: Was/Were + Object + V3 + by + Subject?"
+  },
+  {
+    "id": 10,
+    "question": "Change the voice: Who broke the window?",
+    "options": ["By whom the window was broken?", "By whom was the window broken?", "Who was the window broken by?", "Whom was the window broken by?"],
+    "answer": "By whom was the window broken?",
+    "explanation": "'Who' দিয়ে প্রশ্ন শুরু হলে Passive voice 'By whom' দিয়ে শুরু হয় এবং auxiliary verb (was/were) subject-এর আগে বসে।"
+  },
+  {
+    "id": 11,
+    "question": "Change the voice: Whom did you call?",
+    "options": ["By whom were you called?", "Who are called by you?", "Who was called by you?", "Who did you called?"],
+    "answer": "Who was called by you?",
+    "explanation": "Active voice 'Whom' দিয়ে শুরু হলে Passive voice 'Who' দিয়ে শুরু হয়। গঠন: Who + was/were + V3 + by + Subject?"
+  },
+  {
+    "id": 12,
+    "question": "Change the voice: He gave me a pen.",
+    "options": ["A pen was given by him to me.", "I was given him a pen.", "Me was given a pen by him.", "I was given a pen by him."],
+    "answer": "I was given a pen by him.",
+    "explanation": "Double Object (me, a pen) থাকলে ব্যক্তিবাচক Object (me)-কে Subject (I) হিসেবে ব্যবহার করে Passive করা বেশি প্রচলিত।"
+  },
+  {
+    "id": 13,
+    "question": "Change the voice: Honey tastes sweet.",
+    "options": ["Honey is sweet when it is tasted.", "Honey is sweet when tasted.", "Honey is tasted sweet.", "Honey is being sweet when tasted."],
+    "answer": "Honey is sweet when it is tasted.",
+    "explanation": "এটি Quasi-passive verb। এর Passive করার নিয়ম: Subject (Honey) + is + Adjective (sweet) + when + it/they + is/are + V3 (tasted)।"
+  },
+  {
+    "id": 14,
+    "question": "Change the voice: It is time to close the shop.",
+    "options": ["It is time to the shop to be closed.", "It is time for the shop to be closed.", "It is time for shop close.", "The shop is time to be closed."],
+    "answer": "It is time for the shop to be closed.",
+    "explanation": "Infinitive ('to close') যুক্ত 'It is time' বাক্যকে Passive করার নিয়ম: It is time + for + Object + to be + V3।"
+  },
+  {
+    "id": 15,
+    "question": "Change the voice: They laughed at the poor man.",
+    "options": ["The poor man is laughed by them.", "The poor man was laughed by them.", "The poor man was laughed at by them.", "The poor man was being laughed at by them."],
+    "answer": "The poor man was laughed at by them.",
+    "explanation": "Prepositional Verb-এর ক্ষেত্রে Verb-এর সাথে যুক্ত Preposition-টি (at) Passive voice-এ V3-এর ঠিক পরেই অপরিবর্তিত অবস্থায় বসে।"
+  },
+  {
+    "id": 16,
+    "question": "Change the voice: We made him captain.",
+    "options": ["Captain was made by him.", "He is made captain by us.", "Captain was made to him by us.", "He was made captain by us."],
+    "answer": "He was made captain by us.",
+    "explanation": "এখানে 'captain' হলো Factitive Object। Factitive Object কখনো Passive voice-এ Subject হতে পারে না। তাই 'him' (He) Subject হয়েছে।"
+  },
+  {
+    "id": 17,
+    "question": "Change the voice: He killed himself.",
+    "options": ["He was killed by himself.", "Himself was killed by him.", "He had been killed by himself.", "He kills himself."],
+    "answer": "He was killed by himself.",
+    "explanation": "Reflexive Pronoun (himself) যুক্ত বাক্যের Passive করার সময় Subject ও Object-এর স্থান পরিবর্তন হয় না। শুধু tense অনুযায়ী auxiliary verb ও by বসে।"
+  },
+  {
+    "id": 18,
+    "question": "Change the voice: I know him.",
+    "options": ["He is known by me.", "He is known to me.", "He was known to me.", "He has been known to me."],
+    "answer": "He is known to me.",
+    "explanation": "'Know' verb-এর পর Passive voice-এ 'by' না বসে 'to' Preposition বসে। এটি অত্যন্ত গুরুত্বপূর্ণ একটি ব্যতিক্রম নিয়ম।"
+  },
+  {
+    "id": 19,
+    "question": "Change the voice: Please help me.",
+    "options": ["You are requested to helped me.", "You are ordered to help me.", "You are requested to help me.", "Let me be helped please."],
+    "answer": "You are requested to help me.",
+    "explanation": "'Please' দিয়ে শুরু হওয়া Imperative বাক্যের Passive voice করতে হলে 'You are requested to' দিয়ে বাক্য শুরু করতে হয়।"
+  },
+  {
+    "id": 20,
+    "question": "Change the voice: One should keep one's promises.",
+    "options": ["Promises should keep by one.", "One's promises should be kept.", "Promises should be kept by one.", "Promises should be kept."],
+    "answer": "Promises should be kept.",
+    "explanation": "যেকোনো সাধারণ নিয়মের ক্ষেত্রে (Universal truth বা General advice) 'One' এবং 'one's' Passive voice-এ উহ্য থাকে।"
+  },
+  {
+    "id": 21,
+    "question": "Change the voice: People speak English all over the world.",
+    "options": ["English is spoken all over the world.", "English was spoken all over the world.", "English is spoken by people all over the world.", "English is being spoken all over the world."],
+    "answer": "English is spoken all over the world.",
+    "explanation": "Vague বা সাধারণ subject ('People', 'Someone', 'They') থাকলে Passive-এ 'by + agent' দেওয়াটা আবশ্যিক নয় এবং এটি বাদ দেওয়াটা বেশি মানানসই।"
+  },
+  {
+    "id": 22,
+    "question": "Change the voice: Circumstances will oblige me to go.",
+    "options": ["I will oblige the circumstances to go.", "I shall be obliged to go.", "I shall be obliged by circumstances to go.", "I will be oblige to go."],
+    "answer": "I shall be obliged to go.",
+    "explanation": "'oblige'-এর পর passive এ সাধরণত 'by circumstances' উহ্য থাকে এবং I-এর পর shall বসে। (I shall be obliged...)"
+  },
+  {
+    "id": 23,
+    "question": "Change the voice: Do not insult the weak.",
+    "options": ["Let the weak not insulted.", "Let not the weak be insult.", "Let not the weak be insulted.", "Let the weak be not insulted."],
+    "answer": "Let not the weak be insulted.",
+    "explanation": "Negative Imperative বাক্যের Passive গঠন: Let not + Object (the weak) + be + V3 (insulted)।"
+  },
+  {
+    "id": 24,
+    "question": "Change the voice: Has he finished the work?",
+    "options": ["Have the work been finished by him?", "Has the work been finish by him?", "Had the work been finished by him?", "Has the work been finished by him?"],
+    "answer": "Has the work been finished by him?",
+    "explanation": "Interrogative (Present Perfect)-এর Passive: Has/Have + Object (the work) + been + V3 + by + Subject? 'The work' singular তাই Has বসেছে।"
+  },
+  {
+    "id": 25,
+    "question": "Change the voice: They are going to build a new house.",
+    "options": ["A new house is going to be built by them.", "A new house is going to build by them.", "A new house are going to be built by them.", "A new house was going to be built by them."],
+    "answer": "A new house is going to be built by them.",
+    "explanation": "'Going to' যুক্ত বাক্যের Passive-এ 'going to be + V3' ব্যবহৃত হয়। 'build'-এর V3 হলো 'built'।"
+  },
+  {
+    "id": 26,
+    "question": "Change the voice: The teacher was teaching the students.",
+    "options": ["The students was being taught by the teacher.", "The students were being taught by the teacher.", "The students were taught by the teacher.", "The students are being taught by the teacher."],
+    "answer": "The students were being taught by the teacher.",
+    "explanation": "Past Continuous Tense-এ Object 'The students' plural হওয়ায় 'were being + V3 (taught)' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 27,
+    "question": "Change the voice: We expect good news.",
+    "options": ["Good news are expected by us.", "Good news is being expected by us.", "Good news is expected by us.", "Good news was expected by us."],
+    "answer": "Good news is expected by us.",
+    "explanation": "'News' শব্দটি দেখতে plural মনে হলেও এটি singular। তাই verb হিসেবে 'is' ব্যবহৃত হয়। (Present Indefinite Tense)"
+  },
+  {
+    "id": 28,
+    "question": "Change the voice: What do you want?",
+    "options": ["What is wanted by you?", "What was wanted by you?", "What are wanted by you?", "What is wanted by you?"],
+    "answer": "What is wanted by you?",
+    "explanation": "'What' নিজেই Object হিসেবে কাজ করলে Passive-এ 'What' Subject হয়ে যায় এবং 'is + V3 + by' গঠন অনুসরণ করে।"
+  },
+  {
+    "id": 29,
+    "question": "Change the voice: Let him do the work.",
+    "options": ["Let the work be done by him.", "Let the work done by him.", "Let the work is done by him.", "Let the work be doing by him."],
+    "answer": "Let the work be done by him.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া Active বাক্যের Passive গঠন: Let + Direct Object (the work) + be + V3 (done) + by + Indirect Object (him)।"
+  },
+  {
+    "id": 30,
+    "question": "Change the voice: I remember my father taking me to the zoo.",
+    "options": ["I remember taken to the zoo by my father.", "I remember being taken to the zoo by my father.", "I remember to be taken to the zoo by my father.", "I remembered being taken to the zoo by my father."],
+    "answer": "I remember being taken to the zoo by my father.",
+    "explanation": "Gerund (taking) যুক্ত Object-এর Passive করতে হলে 'being + V3 (taken)' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 31,
+    "question": "Change the voice: He hurt his leg.",
+    "options": ["His leg is hurt by him.", "His leg was hurting by him.", "His leg was hurt by him.", "His leg had been hurt by him."],
+    "answer": "His leg was hurt by him.",
+    "explanation": "'Hurt' verb-এর তিনটি form-ই একই (hurt)। যেহেতু বাক্যের subject third-person singular কিন্তু verb-এর সাথে 's/es' নেই, তাই এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 32,
+    "question": "Change the voice: Your behavior surprises me.",
+    "options": ["I am surprised with your behavior.", "I am surprised by your behavior.", "I was surprised at your behavior.", "I am surprised at your behavior."],
+    "answer": "I am surprised at your behavior.",
+    "explanation": "'Surprise' verb-এর পর Passive voice-এ 'by' না বসে 'at' Preposition বসে। (surprised at)"
+  },
+  {
+    "id": 33,
+    "question": "Change the voice: The rose smells sweet.",
+    "options": ["The rose is sweet when it is smelt.", "The rose is sweet when smelt.", "The rose is smelt sweet.", "The rose is being sweet when smelt."],
+    "answer": "The rose is sweet when it is smelt.",
+    "explanation": "এটি Quasi-passive verb (without object)। এর Passive করার নিয়ম: Subject + is + Adjective + when + it is + V3 (smelt)।"
+  },
+  {
+    "id": 34,
+    "question": "Change the voice: They say that he is a spy.",
+    "options": ["It was said that he is a spy.", "It is said that he is a spy.", "That he is a spy is said by them.", "He is said to be spy by them."],
+    "answer": "It is said that he is a spy.",
+    "explanation": "Complex sentence-এ Principal Clause-এর (They say) Passive 'It is said' দিয়ে শুরু করা সবচেয়ে মানানসই। 'by them' উহ্য থাকে।"
+  },
+  {
+    "id": 35,
+    "question": "Change the voice: Someone has stolen my pen.",
+    "options": ["My pen was stolen by someone.", "My pen has been stolen by someone.", "My pen has been stolen.", "My pen is stolen."],
+    "answer": "My pen has been stolen.",
+    "explanation": "'Someone', 'Somebody' ইত্যাদি অনির্দিষ্ট subject থাকলে Passive voice-এ 'by someone' লেখার প্রয়োজন হয় না। (Present Perfect Tense)"
+  },
+  {
+    "id": 36,
+    "question": "Change the voice: The house is building.",
+    "options": ["The house is being build.", "The house was being built.", "The house is built.", "The house is being built."],
+    "answer": "The house is being built.",
+    "explanation": "এটি Quasi-passive verb (Present Continuous)। এক্ষেত্রে Subject (The house) + is being + V3 (built) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 37,
+    "question": "Change the voice: He likes people calling him 'Sir'.",
+    "options": ["He likes being called 'Sir'.", "He likes to be called 'Sir' by people.", "He likes people to call him 'Sir'.", "He is liked being called 'Sir'."],
+    "answer": "He likes being called 'Sir'.",
+    "explanation": "Gerund (calling) থাকলে Passive-এ 'being + V3 (called)' হয়। 'by people' বা 'people' উহ্য রাখা হয়।"
+  },
+  {
+    "id": 38,
+    "question": "Change the voice: Rome was not built in a day.",
+    "options": ["The Romans do not build Rome in a day.", "The Romans did not build Rome in a day.", "The Romans had not built Rome in a day.", "The Romans were not building Rome in a day."],
+    "answer": "The Romans did not build Rome in a day.",
+    "explanation": "এটি Passive থেকে Active-এ রূপান্তর। 'was not built' (Past Indefinite) থাকায় Active-এ 'did not build' হবে। Subject হিসেবে 'The Romans' ধরে নেওয়া হয়েছে।"
+  },
+  {
+    "id": 39,
+    "question": "Change the voice: My watch has been stolen.",
+    "options": ["Someone is stealing my watch.", "Someone stole my watch.", "Someone has stolen my watch.", "Someone had stolen my watch."],
+    "answer": "Someone has stolen my watch.",
+    "explanation": "Passive থেকে Active। 'has been stolen' থাকায় এটি Present Perfect tense। উহ্য Subject 'Someone' ব্যবহার করে 'has stolen' করা হলো।"
+  },
+  {
+    "id": 40,
+    "question": "Change the voice: It is impossible to do this.",
+    "options": ["Doing this is impossible.", "This is impossible to be doing.", "This is impossible to do.", "This is impossible to be done."],
+    "answer": "This is impossible to be done.",
+    "explanation": "'It is + adjective + infinitive' গঠনের ক্ষেত্রে Passive করার নিয়ম: Object (This) + is + adjective (impossible) + to be + V3 (done)।"
+  },
+  {
+    "id": 41,
+    "question": "Change the voice: The boy is flying a kite.",
+    "options": ["A kite is being flown by the boy.", "A kite was being flown by the boy.", "A kite is being flied by the boy.", "A kite is flown by the boy."],
+    "answer": "A kite is being flown by the boy.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। 'fly'-এর V3 form হলো 'flown'। 'is being flown' সঠিক।"
+  },
+  {
+    "id": 42,
+    "question": "Change the voice: She had baked a cake.",
+    "options": ["A cake has been baked by her.", "A cake had been baked by her.", "A cake was baked by her.", "A cake had baked by her."],
+    "answer": "A cake had been baked by her.",
+    "explanation": "Past Perfect Tense-এ Passive করার নিয়ম: Object (A cake) + had been + V3 (baked) + by + Subject (her)।"
+  },
+  {
+    "id": 43,
+    "question": "Change the voice: Will you help me?",
+    "options": ["Will I be helped by you?", "Would I be helped by you?", "Shall I be helped by you?", "Shall I helped by you?"],
+    "answer": "Shall I be helped by you.",
+    "explanation": "Future Indefinite Interrogative Sentence। 'me' Object হওয়ায় Subject 'I' হবে। 'I'-এর সাথে সাধারণত 'Shall' বসে। তাই 'Shall I be helped...' সঠিক।"
+  },
+  {
+    "id": 44,
+    "question": "Change the voice: Why did he punish you?",
+    "options": ["Why had you been punished by him?", "Why was you punished by him?", "Why did you punished by him?", "Why were you punished by him?"],
+    "answer": "Why were you punished by him?",
+    "explanation": "'Why' দিয়ে শুরু হওয়া Past Indefinite-এর প্রশ্ন। 'you' Plural হওয়ায় 'were' বসবে। গঠন: Why + were + you + V3 + by + him?"
+  },
+  {
+    "id": 45,
+    "question": "Change the voice: I am to do it.",
+    "options": ["It is to be done by me.", "It was to be done by me.", "It is to done by me.", "It has to be done by me."],
+    "answer": "It is to be done by me.",
+    "explanation": "'am to', 'is to', 'are to', 'have to' থাকলে Passive-এ 'am to be / is to be / has to be + V3' হয়।"
+  },
+  {
+    "id": 46,
+    "question": "Change the voice: We must respect our elders.",
+    "options": ["Our elders must respect by us.", "Our elders must be respected.", "Our elders should be respected.", "Our elders must respected."],
+    "answer": "Our elders must be respected.",
+    "explanation": "Modal auxiliary (must) থাকলে Passive-এ 'must be + V3' ব্যবহৃত হয়। 'by us' উহ্য রাখা শ্রেয়।"
+  },
+  {
+    "id": 47,
+    "question": "Change the voice: The book is printing.",
+    "options": ["The book is being print.", "The book has been printed.", "The book is being printed.", "The book was being printed."],
+    "answer": "The book is being printed.",
+    "explanation": "Quasi-passive (continuous) এর ক্ষেত্রে: Object/Subject (The book) + is being + V3 (printed)।"
+  },
+  {
+    "id": 48,
+    "question": "Change the voice: Bring a glass of water.",
+    "options": ["Let a glass of water brought.", "Let a glass of water is brought.", "You are requested to bring a glass of water.", "Let a glass of water be brought."],
+    "answer": "Let a glass of water be brought.",
+    "explanation": "Imperative Sentence-এর Order বোঝাচ্ছে। তাই 'Let + object + be + V3' নিয়মটি প্রযোজ্য হয়েছে। 'bring'-এর V3 হলো 'brought'।"
+  },
+  {
+    "id": 49,
+    "question": "Change the voice: He wants someone to take photographs.",
+    "options": ["He wants photographs to be taken.", "He wants photographs are taken.", "He wants to be taken photographs by someone.", "He wanted photographs to be taken."],
+    "answer": "He wants photographs to be taken.",
+    "explanation": "Infinitive ('to take') যুক্ত বাক্যে Principal clause-এর কোনো পরিবর্তন হয় বোমা (He wants)। শুধু 'to take photographs' অংশটি 'photographs to be taken' হয়।"
+  },
+  {
+    "id": 50,
+    "question": "Change the voice: Nobody can solve this problem.",
+    "options": ["This problem cannot be solved by nobody.", "This problem cannot be solved.", "This problem can be solved by nobody.", "This problem could not be solved."],
+    "answer": "This problem cannot be solved.",
+    "explanation": "'Nobody', 'None' ইত্যাদি negative subject থাকলে Passive voice-এ negative auxiliary (cannot) বসাতে হয় এবং 'by nobody' বাদ দিতে হয়।"
+  },
+  {
+    "id": 51,
+    "question": "Change the voice: The police arrested him.",
+    "options": ["He was arrested.", "He had been arrested.", "He is arrested.", "He was being arrested."],
+    "answer": "He was arrested.",
+    "explanation": "Past Indefinite Tense-এর Passive voice। Subject 'The police' বা 'The public' এর মতো সুনির্দিষ্ট/সাধারণ subject থাকলে Passive voice-এ 'by the police' সাধারণত উহ্য রাখা হয়।"
+  },
+  {
+    "id": 52,
+    "question": "Change the voice: Are they playing football?",
+    "options": ["Was football being played by them?", "Is football being played by them?", "Has football been played by them?", "Is football played by them?"],
+    "answer": "Is football being played by them?",
+    "explanation": "Present Continuous Interrogative Sentence-এর ক্ষেত্রে 'is/are + object + being + V3 + by + subject' ব্যবহৃত হয়। Football Singular তাই 'Is' বসেছে।"
+  },
+  {
+    "id": 53,
+    "question": "Change the voice: Never tell a lie.",
+    "options": ["Let not a lie be told never.", "Let never a lie told.", "Let a lie never be told.", "A lie is never told."],
+    "answer": "Let a lie never be told.",
+    "explanation": "Imperative sentence-এ 'Never' থাকলে Passive-এ 'Let + Object + never + be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 54,
+    "question": "Change the voice: I know that he did it.",
+    "options": ["That he did it is known by me.", "He is known to do it.", "It is known to me that he did it.", "It is known to me that it was done by him."],
+    "answer": "It is known to me that it was done by him.",
+    "explanation": "Complex sentence-এর ক্ষেত্রে দুটি Clause-এরই Passive করতে হয়। 'I know' পরিবর্তন হয়ে 'It is known to me' এবং 'he did it' পরিবর্তন হয়ে 'it was done by him' হয়।"
+  },
+  {
+    "id": 55,
+    "question": "Change the voice: Please keep quiet.",
+    "options": ["You are requested to keep quiet.", "You are ordered to keep quiet.", "Let you be kept quiet.", "You are advised to kept quiet."],
+    "answer": "You are requested to keep quiet.",
+    "explanation": "'Please' দিয়ে শুরু হওয়া বাক্যে অনুরোধ বোঝায়, তাই Passive voice 'You are requested to' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 56,
+    "question": "Change the voice: The drums are beating.",
+    "options": ["The drums are beaten.", "The drums are being beaten.", "The drums have been beaten.", "The drums were being beaten."],
+    "answer": "The drums are being beaten.",
+    "explanation": "এটি Quasi-passive verb (Present Continuous)। Object নিজেই Subject-এর জায়গায় বসেছে। এর Passive: Subject + is/are being + V3।"
+  },
+  {
+    "id": 57,
+    "question": "Change the voice: Do you know him?",
+    "options": ["Is he known by you?", "Was he known to you?", "Is he known to you?", "Has he been known to you?"],
+    "answer": "Is he known to you?",
+    "explanation": "Present Indefinite Interrogative sentence। 'Know' verb-এর পর Passive voice-এ 'by' বসে না, 'to' বসে। তাই 'known to you' সঠিক।"
+  },
+  {
+    "id": 58,
+    "question": "Change the voice: We ought to respect our teachers.",
+    "options": ["Our teachers ought be respected.", "Our teachers should respected.", "Our teachers ought to respect.", "Our teachers ought to be respected."],
+    "answer": "Our teachers ought to be respected.",
+    "explanation": "Modal 'ought to'-এর পর Passive-এ 'be + V3' ব্যবহৃত হয়। 'by us' এক্ষেত্রে উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 59,
+    "question": "Change the voice: The news shocked me.",
+    "options": ["I was shocked at the news.", "I was shocked by the news.", "I am shocked at the news.", "I had been shocked at the news."],
+    "answer": "I was shocked at the news.",
+    "explanation": "Past Indefinite Tense। 'Shocked', 'surprised', 'astonished' ইত্যাদি verb-এর পর ব্যক্তির বদলে কোনো বিষয় (The news) থাকলে preposition 'at' বসে।"
+  },
+  {
+    "id": 60,
+    "question": "Change the voice: Open the window.",
+    "options": ["Let the window opened.", "Let the window be opened.", "You are ordered to opened the window.", "The window should opened."],
+    "answer": "Let the window be opened.",
+    "explanation": "আদেশমূলক (Order) Imperative বাক্যের Passive গঠন: Let + Object + be + V3।"
+  },
+  {
+    "id": 61,
+    "question": "Change the voice: I have to do this work.",
+    "options": ["This work is to be done by me.", "This work have to be done by me.", "This work has to be done by me.", "This work had to be done by me."],
+    "answer": "This work has to be done by me.",
+    "explanation": "'have to / has to' থাকলে Passive-এ Object অনুযায়ী 'have to be / has to be + V3' ব্যবহৃত হয়। 'This work' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 62,
+    "question": "Change the voice: Someone is following us.",
+    "options": ["We are followed.", "We were being followed.", "We have been followed.", "We are being followed."],
+    "answer": "We are being followed.",
+    "explanation": "Present Continuous Tense। Object 'us' পরিবর্তিত হয়ে 'We' হয়েছে এবং এর সাথে 'are being + V3' বসেছে। 'by someone' উহ্য থাকে।"
+  },
+  {
+    "id": 63,
+    "question": "Change the voice: They elected him president.",
+    "options": ["He was elected president.", "President was elected by him.", "He is elected president by them.", "He had been elected president."],
+    "answer": "He was elected president.",
+    "explanation": "এখানে 'president' হলো Factitive Object যা Passive-এ Subject হতে পারে না। তাই Personal object 'him' (He) কে Subject করা হয়েছে এবং 'by them' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 64,
+    "question": "Change the voice: Tears filled her eyes.",
+    "options": ["Her eyes were filled by tears.", "Her eyes were filled with tears.", "Her eyes filled with tears.", "Her eyes had been filled with tears."],
+    "answer": "Her eyes were filled with tears.",
+    "explanation": "'Filled' verb-এর পর Passive voice-এ 'by' এর বদলে preposition 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 65,
+    "question": "Change the voice: He handed her a chair.",
+    "options": ["A chair was handed her by him.", "She is handed a chair by him.", "She was handed a chair by him.", "She had been handed a chair by him."],
+    "answer": "She was handed a chair by him.",
+    "explanation": "Double object (her, a chair) থাকলে ব্যক্তিবাচক object (her) কে Subject (She) হিসেবে গ্রহণ করা বেশি প্রচলিত। এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 66,
+    "question": "Change the voice: Does she like tea?",
+    "options": ["Has tea been liked by her?", "Was tea liked by her?", "Is tea like by her?", "Is tea liked by her?"],
+    "answer": "Is tea liked by her?",
+    "explanation": "Present Indefinite Interrogative sentence। Object 'tea'-এর পূর্বে Auxiliary verb 'Is' বসবে।"
+  },
+  {
+    "id": 67,
+    "question": "Change the voice: Who taught you English?",
+    "options": ["By whom were you taught English?", "By whom are you taught English?", "Who were you taught English by?", "By whom was you taught English?"],
+    "answer": "By whom were you taught English?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয় এবং 'you' এর সাথে 'were' বসে।"
+  },
+  {
+    "id": 68,
+    "question": "Change the voice: Prepare yourself for the worst.",
+    "options": ["Let yourself be prepared for the worst.", "Be prepared for the worst.", "You are advised to prepare for the worst.", "Prepare for the worst by yourself."],
+    "answer": "Be prepared for the worst.",
+    "explanation": "Reflexive pronoun যুক্ত Imperative sentence-এর ক্ষেত্রে 'Be + V3' (Be prepared) দিয়ে Passive করা হয়।"
+  },
+  {
+    "id": 69,
+    "question": "Change the voice: We saw them go out.",
+    "options": ["They were seen go out.", "They are seen to go out.", "They were seen to go out.", "They had been seen to go out."],
+    "answer": "They were seen to go out.",
+    "explanation": "'See', 'make', 'hear' ইত্যাদি verb-এর পর Active-এ 'to' উহ্য থাকে (bare infinitive), কিন্তু Passive voice-এ 'to' বসাতে হয় (to go out)।"
+  },
+  {
+    "id": 70,
+    "question": "Change the voice: His conduct annoyed me.",
+    "options": ["I was annoyed with his conduct.", "I am annoyed at his conduct.", "I was annoyed by his conduct.", "I was annoyed at his conduct."],
+    "answer": "I was annoyed at his conduct.",
+    "explanation": "'Annoyed'-এর পর ব্যক্তির ক্ষেত্রে 'with' বসে, কিন্তু কোনো আচরণ বা কাজের (his conduct) ক্ষেত্রে 'at' বসে।"
+  },
+  {
+    "id": 71,
+    "question": "Change the voice: Has anyone answered your question?",
+    "options": ["Has your question been answered?", "Have your question been answered?", "Is your question answered?", "Was your question answered?"],
+    "answer": "Has your question been answered?",
+    "explanation": "Present Perfect Interrogative। 'your question' Singular তাই Has বসেছে। 'by anyone' Passive-এ উহ্য থাকে।"
+  },
+  {
+    "id": 72,
+    "question": "Change the voice: I shall have finished the work.",
+    "options": ["The work shall have been finished by me.", "The work will have been finished by me.", "The work would have been finished by me.", "The work will be finished by me."],
+    "answer": "The work will have been finished by me.",
+    "explanation": "Future Perfect Tense-এর Passive-এ 'shall/will have been + V3' বসে। 'The work'-এর পর 'will' বসে।"
+  },
+  {
+    "id": 73,
+    "question": "Change the voice: People consider him a genius.",
+    "options": ["A genius is considered him.", "He was considered a genius.", "He is considered a genius.", "He is considered to be genius by people."],
+    "answer": "He is considered a genius.",
+    "explanation": "এখানে 'a genius' Complement Object। তাই মূল Object 'him' (He) Subject হবে। 'By people' উহ্য থাকে।"
+  },
+  {
+    "id": 74,
+    "question": "Change the voice: Let me do it.",
+    "options": ["Let it done by me.", "Let it do by me.", "Let it be do by me.", "Let it be done by me."],
+    "answer": "Let it be done by me.",
+    "explanation": "'Let' যুক্ত বাক্যের Passive গঠন: Let + Object (it) + be + V3 (done) + by + Indirect object (me)।"
+  },
+  {
+    "id": 75,
+    "question": "Change the voice: It is time to say prayers.",
+    "options": ["It is time for prayers to be said.", "It is time to prayers be said.", "It is time for prayers to say.", "It is time that prayers should be said."],
+    "answer": "It is time for prayers to be said.",
+    "explanation": "'It is time to...' যুক্ত বাক্যের Passive গঠন: It is time + for + Object (prayers) + to be + V3 (said)।"
+  },
+  {
+    "id": 76,
+    "question": "Change the voice: She cannot tolerate this nonsense.",
+    "options": ["This nonsense could not be tolerated by her.", "This nonsense cannot be tolerated by her.", "This nonsense cannot tolerated by her.", "This nonsense is not tolerated by her."],
+    "answer": "This nonsense cannot be tolerated by her.",
+    "explanation": "Modal 'cannot' থাকলে Passive-এ 'cannot be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "Change the voice: He kept me waiting.",
+    "options": ["I am kept waiting.", "I was kept to wait.", "I was kept waiting.", "I had been kept waiting."],
+    "answer": "I was kept waiting.",
+    "explanation": "Participle (waiting) যুক্ত বাক্যের Passive-এ Participle-টি V3 এর ঠিক পরেই বসে যায়। (was kept waiting)"
+  },
+  {
+    "id": 78,
+    "question": "Change the voice: They are looking at the picture.",
+    "options": ["The picture is looked at by them.", "The picture was being looked at by them.", "The picture is being looked by them.", "The picture is being looked at by them."],
+    "answer": "The picture is being looked at by them.",
+    "explanation": "Prepositional verb 'look at'-এর 'at' Passive voice-এ V3-এর ঠিক পরেই বসবে। Present Continuous Tense-এর নিয়ম অনুসরণ করা হয়েছে।"
+  },
+  {
+    "id": 79,
+    "question": "Change the voice: One must do one's duty.",
+    "options": ["Duty must be done.", "One's duty must be done.", "Duty must be done by one.", "Duty should be done."],
+    "answer": "Duty must be done.",
+    "explanation": "'One' এবং 'one's' থাকলে Passive voice-এ সেগুলো বাদ যায় এবং কেবল 'Duty must be done' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 80,
+    "question": "Change the voice: What did he buy?",
+    "options": ["What is bought by him?", "What was bought by him?", "What did bought by him?", "What had been bought by him?"],
+    "answer": "What was bought by him?",
+    "explanation": "'What' নিজেই Object হলে Passive-এ Subject হিসেবে বসে। Past Indefinite হওয়ায় 'was + V3' বসেছে।"
+  },
+  {
+    "id": 81,
+    "question": "Change the voice: Help the poor.",
+    "options": ["Let the poor helped.", "The poor are requested to be helped.", "The poor should be helped.", "You are ordered to help the poor."],
+    "answer": "The poor should be helped.",
+    "explanation": "Imperative sentence-এ উপদেশ (Advice) বা নৈতিক কর্তব্য বোঝালে 'Object + should be + V3' নিয়মে Passive করা শ্রেয়।"
+  },
+  {
+    "id": 82,
+    "question": "Change the voice: He is writing a letter.",
+    "options": ["A letter was being written by him.", "A letter is written by him.", "A letter has been written by him.", "A letter is being written by him."],
+    "answer": "A letter is being written by him.",
+    "explanation": "Present Continuous Tense। Object 'A letter' এর পর 'is being' এবং 'write' এর 3rd form 'written' বসেছে।"
+  },
+  {
+    "id": 83,
+    "question": "Change the voice: Did they catch the thief?",
+    "options": ["Was the thief caught by them?", "Were the thief caught by them?", "Is the thief caught by them?", "Did the thief be caught by them?"],
+    "answer": "Was the thief caught by them?",
+    "explanation": "Past Indefinite Interrogative। 'the thief' Singular তাই 'Was' দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 84,
+    "question": "Change the voice: We have to admit this.",
+    "options": ["This have to be admitted by us.", "This has to be admitted by us.", "This had to be admitted by us.", "This is to admit by us."],
+    "answer": "This has to be admitted by us.",
+    "explanation": "'This' Singular হওয়ায় 'has to be + V3' বসেছে। 'admit' এর V3 'admitted'।"
+  },
+  {
+    "id": 85,
+    "question": "Change the voice: Do it at once.",
+    "options": ["Let it done at once.", "You are requested to do it at once.", "Let it be done at once.", "It should be done at once."],
+    "answer": "Let it be done at once.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (it) + be + V3 (done) + at once."
+  },
+  {
+    "id": 86,
+    "question": "Change the voice: The judge found him guilty.",
+    "options": ["Guilty was found to him.", "He is found guilty by the judge.", "He was found guilty.", "He was found guilty by the judge."],
+    "answer": "He was found guilty by the judge.",
+    "explanation": "এখানে 'him' হলো Object এবং 'guilty' হলো Complement। তাই 'He' Subject হয়েছে। Past Indefinite Tense।"
+  },
+  {
+    "id": 87,
+    "question": "Change the voice: Women like men to flatter them.",
+    "options": ["Women like to be flattered by men.", "Men are liked to flatter women.", "Women liked to be flattered by men.", "Women like being flattered by men."],
+    "answer": "Women like to be flattered by men.",
+    "explanation": "Infinitive ('to flatter') যুক্ত Complex sentence-এ Principal clause ঠিক থাকে এবং Infinitive-এর Passive 'to be + V3' হয়।"
+  },
+  {
+    "id": 88,
+    "question": "Change the voice: You can play with these cubs quite safely.",
+    "options": ["These cubs can play with quite safely.", "These cubs can be played with quite safely.", "These cubs could be played with quite safely.", "These cubs can be played quite safely."],
+    "answer": "These cubs can be played with quite safely.",
+    "explanation": "Modal verb 'can' থাকায় 'can be + played' বসেছে। Preposition 'with' V3 এর সাথেই থাকবে। 'by you' উহ্য।"
+  },
+  {
+    "id": 89,
+    "question": "Change the voice: A thunderstorm often turns milk sour.",
+    "options": ["Milk often turned sour by a thunderstorm.", "Milk has been often turned sour by a thunderstorm.", "Milk is often turned sour by a thunderstorm.", "Milk is being turned sour by a thunderstorm."],
+    "answer": "Milk is often turned sour by a thunderstorm.",
+    "explanation": "Present Indefinite Tense। Object 'milk' Subject হয়েছে এবং Adverb 'often' auxiliary verb-এর পরেই বসে।"
+  },
+  {
+    "id": 90,
+    "question": "Change the voice: How did you do this?",
+    "options": ["How is this done by you?", "How did this done by you?", "How was this done?", "How was this done by you?"],
+    "answer": "How was this done by you?",
+    "explanation": "'How' দিয়ে শুরু হওয়া Past Indefinite। How + was/were + Object (this) + V3 + by + Subject?"
+  },
+  {
+    "id": 91,
+    "question": "Change the voice: Iron feels hard.",
+    "options": ["Iron is hard when it is felt.", "Iron is felt hard.", "Iron is hard when felt.", "Iron feels to be hard."],
+    "answer": "Iron is hard when it is felt.",
+    "explanation": "Quasi-passive (Without object)। Subject + is + Adjective (hard) + when + it is + V3 (felt)।"
+  },
+  {
+    "id": 92,
+    "question": "Change the voice: Do not laugh at a beggar.",
+    "options": ["Let a beggar not laughed at.", "Let not a beggar be laughed at.", "A beggar should not be laughed.", "Let not a beggar be laughed."],
+    "answer": "Let not a beggar be laughed at.",
+    "explanation": "Negative Imperative। Let not + Object (a beggar) + be + V3 (laughed) + at."
+  },
+  {
+    "id": 93,
+    "question": "Change the voice: They are to serve the food.",
+    "options": ["The food are to be served by them.", "The food is to serve by them.", "The food is to be served by them.", "The food was to be served by them."],
+    "answer": "The food is to be served by them.",
+    "explanation": "'are to' থাকলে Passive-এ 'is/are to be + V3' ব্যবহৃত হয়। 'The food' Singular তাই 'is to be' বসেছে।"
+  },
+  {
+    "id": 94,
+    "question": "Change the voice: Who has broken the glass?",
+    "options": ["By whom the glass has been broken?", "Who has the glass been broken by?", "By whom had the glass been broken?", "By whom has the glass been broken?"],
+    "answer": "By whom has the glass been broken?",
+    "explanation": "Present Perfect Tense। 'Who' এর বদলে 'By whom' এবং auxiliary verb 'has' subject-এর আগে বসে।"
+  },
+  {
+    "id": 95,
+    "question": "Change the voice: I forgave him his faults.",
+    "options": ["He was forgiven his faults by me.", "His faults were forgiven to him.", "He is forgiven his faults by me.", "I was forgiven his faults."],
+    "answer": "He was forgiven his faults by me.",
+    "explanation": "Double object (him, his faults) এর ক্ষেত্রে ব্যক্তিবাচক object-কে Subject হিসেবে নিলে তা বেশি গ্রহণযোগ্য। এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 96,
+    "question": "Change the voice: She is feeding the baby.",
+    "options": ["The baby was being fed by her.", "The baby is being fed by her.", "The baby is fed by her.", "The baby has been fed by her."],
+    "answer": "The baby is being fed by her.",
+    "explanation": "Present Continuous Tense। Object 'The baby' এর পর 'is being' এবং 'feed' এর 3rd form 'fed' বসেছে।"
+  },
+  {
+    "id": 97,
+    "question": "Change the voice: Your behavior shocked me.",
+    "options": ["I was shocked by your behavior.", "I am shocked at your behavior.", "I was shocked at your behavior.", "I was shocked with your behavior."],
+    "answer": "I was shocked at your behavior.",
+    "explanation": "আচরণের (behavior) দ্বারা আঘাতপ্রাপ্ত হলে 'shocked'-এর পর preposition হিসেবে 'by' এর বদলে 'at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 98,
+    "question": "Change the voice: Have you finished the report?",
+    "options": ["Have the report been finished by you?", "Has the report finished by you?", "Had the report been finished by you?", "Has the report been finished by you?"],
+    "answer": "Has the report been finished by you?",
+    "explanation": "Present Perfect Interrogative। Object 'the report' Singular তাই 'Have' এর পরিবর্তে 'Has' দিয়ে প্রশ্ন শুরু হয়েছে।"
+  },
+  {
+    "id": 99,
+    "question": "Change the voice: We saw him swimming in the river.",
+    "options": ["He was seen swimming in the river.", "He is seen swimming in the river.", "He was seen to swimming in the river.", "Swimming in the river was seen by him."],
+    "answer": "He was seen swimming in the river.",
+    "explanation": "Participle (swimming) যুক্ত বাক্যের Passive-এ Participle-টি V3 এর ঠিক পরেই বসে। Object 'him' পরিবর্তিত হয়ে 'He' হয়েছে।"
+  },
+  {
+    "id": 100,
+    "question": "Change the voice: Take care of your health.",
+    "options": ["Let your health be taken care.", "Your health should be taken care of.", "You are advised to take care of health.", "Your health must be taken care."],
+    "answer": "Your health should be taken care of.",
+    "explanation": "উপদেশমূলক Imperative sentence-এ 'should be + V3' ব্যবহৃত হয়। 'take care of' Prepositional verb তাই 'of' অপরিবর্তিত থাকবে।"
+  },
+  {
+    "id": 101,
+    "question": "Change the voice: Did you write a letter?",
+    "options": ["Was a letter written by you?", "Is a letter written by you?", "Has a letter been written by you?", "Did a letter written by you?"],
+    "answer": "Was a letter written by you?",
+    "explanation": "Past Indefinite Interrogative Sentence-এর ক্ষেত্রে Passive voice শুরু হয় Was/Were দিয়ে। 'a letter' Singular তাই 'Was' বসেছে: Was + Object + V3 + by + Subject?"
+  },
+  {
+    "id": 102,
+    "question": "Change the voice: They are decorating the room.",
+    "options": ["The room is decorated by them.", "The room is being decorated by them.", "The room was being decorated by them.", "The room has been decorated by them."],
+    "answer": "The room is being decorated by them.",
+    "explanation": "Present Continuous Tense-এর Passive voice-এ 'is/are/am + being + V3' ব্যবহৃত হয়। 'The room' Singular তাই 'is being decorated' সঠিক।"
+  },
+  {
+    "id": 103,
+    "question": "Change the voice: One should obey one's parents.",
+    "options": ["One's parents should be obeyed.", "Parents should obeyed by one.", "Parents should be obeyed.", "Parents must be obeyed."],
+    "answer": "Parents should be obeyed.",
+    "explanation": "'One' এবং 'one's' থাকলে Passive voice-এ সেগুলি উহ্য থাকে। Modal verb 'should' থাকায় 'should be + V3 (obeyed)' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 104,
+    "question": "Change the voice: Who painted it?",
+    "options": ["By whom it was painted?", "Who was it painted by?", "By whom had it been painted?", "By whom was it painted?"],
+    "answer": "By whom was it painted?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয় এবং auxiliary verb 'was' subject 'it'-এর আগে বসে।"
+  },
+  {
+    "id": 105,
+    "question": "Change the voice: Let him sing a song.",
+    "options": ["Let a song be sung by him.", "Let a song sing by him.", "Let a song is sung by him.", "Let a song be sang by him."],
+    "answer": "Let a song be sung by him.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া Active বাক্যের Passive গঠন: Let + Direct Object (a song) + be + V3 (sung) + by + Indirect Object (him)।"
+  },
+  {
+    "id": 106,
+    "question": "Change the voice: We made him the Chairman.",
+    "options": ["The Chairman was made by us.", "He was made the Chairman by us.", "He is made the Chairman by us.", "He had been made the Chairman."],
+    "answer": "He was made the Chairman by us.",
+    "explanation": "এখানে 'the Chairman' হলো Factitive Object যা Subject হতে পারে না। তাই 'him' (He) কে Subject করা হয়েছে। এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 107,
+    "question": "Change the voice: People will forget it.",
+    "options": ["It will forget by people.", "It would be forgotten.", "It will be forgotten.", "It will be forgotten by people."],
+    "answer": "It will be forgotten.",
+    "explanation": "Future Indefinite Tense। 'People' এর মতো সাধারণ subject থাকলে Passive-এ 'by people' সাধারণত উহ্য রাখা হয়।"
+  },
+  {
+    "id": 108,
+    "question": "Change the voice: Quinine tastes bitter.",
+    "options": ["Quinine is tasted bitter.", "Quinine is bitter when tasted.", "Quinine is being bitter when tasted.", "Quinine is bitter when it is tasted."],
+    "answer": "Quinine is bitter when it is tasted.",
+    "explanation": "Quasi-passive verb। এর Passive করার নিয়ম: Subject (Quinine) + is + Adjective (bitter) + when + it is + V3 (tasted)।"
+  },
+  {
+    "id": 109,
+    "question": "Change the voice: I am reading a book.",
+    "options": ["A book is being read by me.", "A book is read by me.", "A book was being read by me.", "A book has been read by me."],
+    "answer": "A book is being read by me.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। Object 'A book' এর পর 'is being' এবং 'read'-এর 3rd form (read) বসেছে।"
+  },
+  {
+    "id": 110,
+    "question": "Change the voice: They have cut all the telephone wires.",
+    "options": ["All the telephone wires has been cut.", "All the telephone wires have been cut.", "All the telephone wires had been cut.", "All the telephone wires were cut."],
+    "answer": "All the telephone wires have been cut.",
+    "explanation": "Present Perfect Tense। 'All the telephone wires' Plural হওয়ায় 'have been' বসেছে এবং 'cut' এর V3 'cut' ই থাকে।"
+  },
+  {
+    "id": 111,
+    "question": "Change the voice: Do you see the bird?",
+    "options": ["Was the bird seen by you?", "Are the bird seen by you?", "Is the bird seen by you?", "Has the bird been seen by you?"],
+    "answer": "Is the bird seen by you?",
+    "explanation": "Present Indefinite Interrogative sentence। Object 'the bird' Singular হওয়ায় Auxiliary verb 'Is' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 112,
+    "question": "Change the voice: The cow gives us milk.",
+    "options": ["Milk is given us by the cow.", "We were given milk by the cow.", "Milk was given to us by the cow.", "We are given milk by the cow."],
+    "answer": "We are given milk by the cow.",
+    "explanation": "Double Object (us, milk) থাকলে ব্যক্তিবাচক Object (us)-কে Subject (We) হিসেবে ব্যবহার করে Passive করা বেশি প্রচলিত। Present Indefinite Tense।"
+  },
+  {
+    "id": 113,
+    "question": "Change the voice: It is time to ring the bell.",
+    "options": ["It is time for the bell to be rung.", "It is time to the bell be rung.", "It is time that the bell should be rung.", "It is time for the bell to ring."],
+    "answer": "It is time for the bell to be rung.",
+    "explanation": "Infinitive ('to ring') যুক্ত 'It is time' বাক্যকে Passive করার নিয়ম: It is time + for + Object + to be + V3 (rung)।"
+  },
+  {
+    "id": 114,
+    "question": "Change the voice: Someone has picked my pocket.",
+    "options": ["My pocket was picked.", "My pocket has been picked.", "My pocket is picked.", "My pocket had been picked."],
+    "answer": "My pocket has been picked.",
+    "explanation": "'Someone' বা 'Somebody' অনির্দিষ্ট subject হলে Passive-এ 'by someone' লেখার প্রয়োজন হয় না। Present Perfect Tense।"
+  },
+  {
+    "id": 115,
+    "question": "Change the voice: Tell him to go.",
+    "options": ["He should be told to go.", "Let to go be told him.", "Let him be told to go.", "Let him told to go."],
+    "answer": "Let him be told to go.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (him) + be + V3 (told) + to go."
+  },
+  {
+    "id": 116,
+    "question": "Change the voice: The fire destroyed the whole village.",
+    "options": ["The whole village is destroyed by the fire.", "The whole village has been destroyed by the fire.", "The whole village had been destroyed by the fire.", "The whole village was destroyed by the fire."],
+    "answer": "The whole village was destroyed by the fire.",
+    "explanation": "Past Indefinite Tense-এর Passive voice-এ 'was/were + V3' ব্যবহৃত হয়। 'The whole village' Singular তাই 'was' বসেছে।"
+  },
+  {
+    "id": 117,
+    "question": "Change the voice: We expect that he will succeed.",
+    "options": ["It is expected that he will succeed.", "He is expected to succeed by us.", "That he will succeed is expected by us.", "It was expected that he will succeed."],
+    "answer": "It is expected that he will succeed.",
+    "explanation": "Complex sentence-এ Principal Clause-এর (We expect) Passive 'It is expected' দিয়ে শুরু করা হয়। 'by us' উহ্য থাকে।"
+  },
+  {
+    "id": 118,
+    "question": "Change the voice: Whom do you want?",
+    "options": ["Who was wanted by you?", "Who is wanted by you?", "By whom are you wanted?", "Who is want by you?"],
+    "answer": "Who is wanted by you?",
+    "explanation": "Active voice 'Whom' দিয়ে শুরু হলে Passive voice 'Who' দিয়ে শুরু হয়। এটি Present Indefinite Tense, তাই 'is wanted' বসেছে।"
+  },
+  {
+    "id": 119,
+    "question": "Change the voice: His performance satisfied the teachers.",
+    "options": ["The teachers were satisfied by his performance.", "The teachers are satisfied with his performance.", "The teachers were satisfied with his performance.", "The teachers had been satisfied with his performance."],
+    "answer": "The teachers were satisfied with his performance.",
+    "explanation": "'Satisfied' verb-এর পর Passive voice-এ 'by' না বসে 'with' Preposition বসে। এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 120,
+    "question": "Change the voice: A machine is doing this.",
+    "options": ["This is done by a machine.", "This was being done by a machine.", "This has been done by a machine.", "This is being done by a machine."],
+    "answer": "This is being done by a machine.",
+    "explanation": "Present Continuous Tense-এ Passive-এ 'is being + V3' হয়। 'This' এর পর 'is being done' বসেছে।"
+  },
+  {
+    "id": 121,
+    "question": "Change the voice: Post the letter.",
+    "options": ["Let the letter be posted.", "Let the letter posted.", "The letter should post.", "You are requested to post the letter."],
+    "answer": "Let the letter be posted.",
+    "explanation": "Imperative Sentence-এ Order বোঝালে Passive করার নিয়ম: Let + Object (the letter) + be + V3 (posted)।"
+  },
+  {
+    "id": 122,
+    "question": "Change the voice: Has she cooked the food?",
+    "options": ["Have the food been cooked by her?", "Has the food been cooked by her?", "Is the food cooked by her?", "Had the food been cooked by her?"],
+    "answer": "Has the food been cooked by her?",
+    "explanation": "Present Perfect Interrogative। 'the food' Singular তাই 'Has' দিয়ে প্রশ্ন শুরু হয়েছে: Has + Object + been + V3 + by + Subject?"
+  },
+  {
+    "id": 123,
+    "question": "Change the voice: We must endure what we cannot cure.",
+    "options": ["What cannot cured must be endured.", "What cannot be cured must endured.", "What cannot be cured must be endured.", "What we cannot cure must be endured by us."],
+    "answer": "What cannot be cured must be endured.",
+    "explanation": "Complex বাক্যে দুটি অংশেরই Passive করতে হয়। 'we cannot cure' থেকে 'what cannot be cured' এবং 'we must endure' থেকে 'must be endured' হয়েছে।"
+  },
+  {
+    "id": 124,
+    "question": "Change the voice: They will not show mercy.",
+    "options": ["Mercy would not be shown by them.", "Mercy is not shown by them.", "Mercy shall not be shown by them.", "Mercy will not be shown by them."],
+    "answer": "Mercy will not be shown by them.",
+    "explanation": "Future Indefinite Negative Sentence-এর Passive-এ 'will not be + V3' ব্যবহৃত হয়। 'show'-এর V3 হলো 'shown'।"
+  },
+  {
+    "id": 125,
+    "question": "Change the voice: Please give me a glass of water.",
+    "options": ["You are requested to give me a glass of water.", "Let a glass of water be given to me.", "You are ordered to give me a glass of water.", "You are requested giving me a glass of water."],
+    "answer": "You are requested to give me a glass of water.",
+    "explanation": "'Please' দিয়ে শুরু হওয়া Imperative বাক্যের Passive voice 'You are requested to' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 126,
+    "question": "Change the voice: The doctor is examining the patient.",
+    "options": ["The patient is examined by the doctor.", "The patient is being examined by the doctor.", "The patient was being examined by the doctor.", "The patient has been examined by the doctor."],
+    "answer": "The patient is being examined by the doctor.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। Object 'The patient' এর পর 'is being' এবং 'examine' এর 3rd form 'examined' বসেছে।"
+  },
+  {
+    "id": 127,
+    "question": "Change the voice: Can you solve this puzzle?",
+    "options": ["Could this puzzle be solved by you?", "Can this puzzle solved by you?", "Can this puzzle be solved by you?", "Can this puzzle being solved by you?"],
+    "answer": "Can this puzzle be solved by you?",
+    "explanation": "Modal Interrogative। 'Can' দিয়ে শুরু হলে Passive-ও 'Can' দিয়েই হবে। গঠন: Can + Object + be + V3 + by + Subject?"
+  },
+  {
+    "id": 128,
+    "question": "Change the voice: I have bought a new car.",
+    "options": ["A new car have been bought by me.", "A new car is bought by me.", "A new car had been bought by me.", "A new car has been bought by me."],
+    "answer": "A new car has been bought by me.",
+    "explanation": "Present Perfect Tense। Object 'A new car' Singular হওয়ায় 'has been + V3' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 129,
+    "question": "Change the voice: The book reads well.",
+    "options": ["The book is good when it is read.", "The book is well when read.", "The book reads to be good.", "The book is read well."],
+    "answer": "The book is good when it is read.",
+    "explanation": "Quasi-passive verb। 'reads well' অর্থে বইটি ভালো। তাই Passive গঠন: Subject + is + Adjective (good) + when + it is + V3 (read)।"
+  },
+  {
+    "id": 130,
+    "question": "Change the voice: He was playing tennis.",
+    "options": ["Tennis is being played by him.", "Tennis was being played by him.", "Tennis was played by him.", "Tennis had been played by him."],
+    "answer": "Tennis was being played by him.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 131,
+    "question": "Change the voice: Let us discuss the matter.",
+    "options": ["Let the matter discussed by us.", "The matter should be discussed by us.", "Let the matter be discussed by us.", "Let the matter be discussing by us."],
+    "answer": "Let the matter be discussed by us.",
+    "explanation": "'Let us' দিয়ে প্রস্তাব (Proposal) বোঝালেও সাধারণ নিয়মে 'Let + Object + be + V3 + by us' করা যায়।"
+  },
+  {
+    "id": 132,
+    "question": "Change the voice: Did she sing a song?",
+    "options": ["Is a song sung by her?", "Did a song sung by her?", "Has a song been sung by her?", "Was a song sung by her?"],
+    "answer": "Was a song sung by her?",
+    "explanation": "Interrogative sentence (Past Indefinite)-এর Passive শুরু হয় 'Was/Were' দিয়ে। 'a song' Singular তাই 'Was' বসেছে।"
+  },
+  {
+    "id": 133,
+    "question": "Change the voice: They expect good news.",
+    "options": ["Good news is expected.", "Good news are expected.", "Good news was expected.", "Good news is being expected."],
+    "answer": "Good news is expected.",
+    "explanation": "'News' শব্দটি Singular। তাই 'is expected' বসেছে। সাধারণ subject হওয়ায় 'by them' উহ্য রাখা শ্রেয়।"
+  },
+  {
+    "id": 134,
+    "question": "Change the voice: He pleased me.",
+    "options": ["I was pleased by him.", "I was pleased with him.", "I am pleased with him.", "I had been pleased by him."],
+    "answer": "I was pleased with him.",
+    "explanation": "ব্যক্তির দ্বারা সন্তুষ্ট হওয়া বোঝালে 'pleased' verb-এর পর Passive voice-এ 'by' না বসে 'with' Preposition বসে।"
+  },
+  {
+    "id": 135,
+    "question": "Change the voice: She wants someone to help her.",
+    "options": ["She wanted to be helped.", "She wants someone be helped.", "She wants to be helped.", "She wants to be helping."],
+    "answer": "She wants to be helped.",
+    "explanation": "Infinitive ('to help') যুক্ত বাক্যে Principal clause-এর কোনো পরিবর্তন হয় না। 'someone' উহ্য থাকে এবং 'to help her' পরিবর্তন হয়ে 'to be helped' হয়।"
+  },
+  {
+    "id": 136,
+    "question": "Change the voice: Why do you waste time?",
+    "options": ["Why was time wasted by you?", "Why has time been wasted by you?", "Why is time being wasted by you?", "Why is time wasted by you?"],
+    "answer": "Why is time wasted by you?",
+    "explanation": "Present Indefinite Interrogative (Why যুক্ত)। গঠন: Why + is/are + Object (time) + V3 + by + Subject?"
+  },
+  {
+    "id": 137,
+    "question": "Change the voice: I knew that he was a thief.",
+    "options": ["It was known to me that he was a thief.", "It is known to me that he was a thief.", "He was known to me that he is a thief.", "That he was a thief is known to me."],
+    "answer": "It was known to me that he was a thief.",
+    "explanation": "Complex sentence-এ Principal clause (I knew) Past Tense-এ আছে। তাই Passive-এ 'It was known to me' হবে।"
+  },
+  {
+    "id": 138,
+    "question": "Change the voice: May God bless you.",
+    "options": ["May you blessed by God.", "May you be blessed by God.", "You may be blessed by God.", "Might you be blessed by God."],
+    "answer": "May you be blessed by God.",
+    "explanation": "Optative Sentence (May যুক্ত)। Passive গঠন: May + Object (you) + be + V3 (blessed) + by + Subject (God)।"
+  },
+  {
+    "id": 139,
+    "question": "Change the voice: The mango tastes sour.",
+    "options": ["The mango is sour when tasted.", "The mango is tasted sour.", "The mango is sour when it is tasted.", "The mango was sour when tasted."],
+    "answer": "The mango is sour when it is tasted.",
+    "explanation": "Quasi-passive verb। Passive করার নিয়ম: Subject (The mango) + is + Adjective (sour) + when + it is + V3 (tasted)।"
+  },
+  {
+    "id": 140,
+    "question": "Change the voice: Don't touch the wire.",
+    "options": ["Let not the wire touched.", "The wire should not touched.", "You are ordered not touching the wire.", "Let the wire not be touched."],
+    "answer": "Let the wire not be touched.",
+    "explanation": "Negative Imperative বাক্যের Passive গঠন: Let + Object (the wire) + not be + V3 (touched)।"
+  },
+  {
+    "id": 141,
+    "question": "Change the voice: He may help you.",
+    "options": ["You may be helped by him.", "You might be helped by him.", "You may help by him.", "You could be helped by him."],
+    "answer": "You may be helped by him.",
+    "explanation": "Modal verb (may) থাকলে Passive-এ 'may be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 142,
+    "question": "Change the voice: They said that the earth is round.",
+    "options": ["It is said that the earth is round.", "It was said that the earth is round.", "The earth is said to be round.", "That the earth is round was said by them."],
+    "answer": "It was said that the earth is round.",
+    "explanation": "Complex sentence-এর Principal Clause 'They said' (Past Tense) হওয়ায় Passive 'It was said' হবে। 'by them' উহ্য থাকে।"
+  },
+  {
+    "id": 143,
+    "question": "Change the voice: Who is knocking at the door?",
+    "options": ["By whom was the door being knocked at?", "By whom is the door knocked at?", "By whom is the door being knocked at?", "Who is the door being knocked at by?"],
+    "answer": "By whom is the door being knocked at?",
+    "explanation": "Present Continuous Tense-এ 'Who' দিয়ে প্রশ্ন শুরু হলে Passive-এ 'By whom + is/are + Object + being + V3 + Preposition (at)' হয়।"
+  },
+  {
+    "id": 144,
+    "question": "Change the voice: I cannot agree to your proposal.",
+    "options": ["Your proposal cannot agreed to by me.", "Your proposal could not be agreed to by me.", "Your proposal cannot be agreed by me.", "Your proposal cannot be agreed to by me."],
+    "answer": "Your proposal cannot be agreed to by me.",
+    "explanation": "Modal 'cannot' থাকায় 'cannot be + V3' হবে। 'agree to' Prepositional verb তাই 'to' অপরিবর্তিত থাকবে।"
+  },
+  {
+    "id": 145,
+    "question": "Change the voice: A car ran over the dog.",
+    "options": ["The dog was run over by a car.", "The dog is run over by a car.", "The dog was ran over by a car.", "The dog was run by a car."],
+    "answer": "The dog was run over by a car.",
+    "explanation": "Past Indefinite Tense। 'run over' (Prepositional verb)-এর 3rd form 'run over' ই থাকে এবং 'was' auxiliary verb হিসেবে বসে।"
+  },
+  {
+    "id": 146,
+    "question": "Change the voice: He teaches us Grammar.",
+    "options": ["Grammar is taught us by him.", "We are taught Grammar by him.", "We were taught Grammar by him.", "We are being taught Grammar by him."],
+    "answer": "We are taught Grammar by him.",
+    "explanation": "Double Object (us, Grammar) থাকলে ব্যক্তিবাচক Object (us)-কে Subject (We) হিসেবে ব্যবহার করে Passive করা বেশি প্রচলিত।"
+  },
+  {
+    "id": 147,
+    "question": "Change the voice: She has to finish the task.",
+    "options": ["The task have to be finished by her.", "The task has to finished by her.", "The task has to be finished by her.", "The task had to be finished by her."],
+    "answer": "The task has to be finished by her.",
+    "explanation": "'has to' থাকলে Passive-এ Object অনুযায়ী 'has to be + V3' ব্যবহৃত হয়। 'The task' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 148,
+    "question": "Change the voice: Bring the book.",
+    "options": ["Let the book brought.", "You are requested to bring the book.", "The book should be brought.", "Let the book be brought."],
+    "answer": "Let the book be brought.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (the book) + be + V3 (brought)."
+  },
+  {
+    "id": 149,
+    "question": "Change the voice: She handed him a letter.",
+    "options": ["He was handed a letter by her.", "A letter is handed him by her.", "He is handed a letter by her.", "He had been handed a letter by her."],
+    "answer": "He was handed a letter by her.",
+    "explanation": "Past Indefinite Tense-এ Double object (him, a letter)। ব্যক্তিবাচক Object (him)-কে Subject (He) করে Passive করা হয়েছে।"
+  },
+  {
+    "id": 150,
+    "question": "Change the voice: He looks after his parents.",
+    "options": ["His parents is looked after by him.", "His parents are looked after by him.", "His parents were looked after by him.", "His parents are look after by him."],
+    "answer": "His parents are looked after by him.",
+    "explanation": "Present Indefinite Tense। 'His parents' Plural হওয়ায় 'are' বসেছে। 'look after' Prepositional verb তাই 'after' V3 এর ঠিক পরেই বসেছে।"
+  },
+  {
+    "id": 151,
+    "question": "Change the voice: Someone gave her a bulldog.",
+    "options": ["She was given a bulldog.", "A bulldog was being given to her.", "She is given a bulldog.", "She had been given a bulldog."],
+    "answer": "She was given a bulldog.",
+    "explanation": "Double Object (her, a bulldog) এর ক্ষেত্রে ব্যক্তিবাচক object-কে Subject করা বেশি প্রচলিত। এটি Past Indefinite Tense, তাই 'was given' বসেছে এবং 'by someone' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 152,
+    "question": "Change the voice: They are pulling down the old building.",
+    "options": ["The old building is pulled down.", "The old building is being pulled down.", "The old building was being pulled down.", "The old building has been pulled down."],
+    "answer": "The old building is being pulled down.",
+    "explanation": "Present Continuous Tense-এর Passive voice। 'pull down' (Group verb) এর 3rd form 'pulled down' এবং 'is being' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 153,
+    "question": "Change the voice: Why did your brother write such a letter?",
+    "options": ["Why did such a letter written by your brother?", "Why was such a letter being written by your brother?", "Why was such a letter written by your brother?", "Why had such a letter been written by your brother?"],
+    "answer": "Why was such a letter written by your brother?",
+    "explanation": "Past Indefinite Interrogative (Why যুক্ত)। গঠন: Why + was + Object (such a letter) + V3 (written) + by + Subject (your brother)?"
+  },
+  {
+    "id": 154,
+    "question": "Change the voice: The boy laughed at the beggar.",
+    "options": ["The beggar is laughed at by the boy.", "The beggar was laughed by the boy.", "The beggar had been laughed at by the boy.", "The beggar was laughed at by the boy."],
+    "answer": "The beggar was laughed at by the boy.",
+    "explanation": "Prepositional verb 'laugh at'-এর ক্ষেত্রে Preposition 'at' Passive voice-এ Verb-এর 3rd form-এর ঠিক পরেই বসে।"
+  },
+  {
+    "id": 155,
+    "question": "Change the voice: Does he speak English?",
+    "options": ["Is English spoken by him?", "Was English spoken by him?", "Is English speak by him?", "Has English been spoken by him?"],
+    "answer": "Is English spoken by him?",
+    "explanation": "Present Indefinite Interrogative Sentence। Object 'English' Singular হওয়ায় Auxiliary verb 'Is' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 156,
+    "question": "Change the voice: My mother is cooking food.",
+    "options": ["Food is cooked by my mother.", "Food is being cooked by my mother.", "Food was being cooked by my mother.", "Food has been cooked by my mother."],
+    "answer": "Food is being cooked by my mother.",
+    "explanation": "Present Continuous Tense। Object 'Food' এর পর 'is being' এবং 'cook' এর 3rd form 'cooked' বসেছে।"
+  },
+  {
+    "id": 157,
+    "question": "Change the voice: The king gave him a reward.",
+    "options": ["He is given a reward by the king.", "A reward is given him by the king.", "He was given a reward by the king.", "He had been given a reward by the king."],
+    "answer": "He was given a reward by the king.",
+    "explanation": "Past Indefinite Tense-এ Double object। 'him'-কে Subject 'He' করে 'was given a reward' করা হয়েছে।"
+  },
+  {
+    "id": 158,
+    "question": "Change the voice: Whom did you recommend?",
+    "options": ["Who is recommended by you?", "Who are recommended by you?", "Whom was recommended by you?", "Who was recommended by you?"],
+    "answer": "Who was recommended by you?",
+    "explanation": "'Whom' দিয়ে শুরু হলে Passive voice 'Who' দিয়ে শুরু হয়। Past Indefinite Tense হওয়ায় 'Who was recommended by you?' সঠিক।"
+  },
+  {
+    "id": 159,
+    "question": "Change the voice: Always speak the truth.",
+    "options": ["Let the truth always be spoken.", "Let the truth always spoken.", "The truth should always spoken.", "Let always the truth be spoken."],
+    "answer": "Let the truth always be spoken.",
+    "explanation": "Imperative Sentence-এ 'Always' থাকলে Passive-এ 'Let + Object + always + be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 160,
+    "question": "Change the voice: We have already done the exercise.",
+    "options": ["The exercise is already done by us.", "The exercise has already been done by us.", "The exercise had already been done by us.", "The exercise has already done by us."],
+    "answer": "The exercise has already been done by us.",
+    "explanation": "Present Perfect Tense। 'already' Adverb-টি auxiliary verb (has) এবং been-এর মাঝে বসে।"
+  },
+  {
+    "id": 161,
+    "question": "Change the voice: One cannot gather grapes from thistles.",
+    "options": ["Grapes cannot gathered from thistles.", "Grapes could not be gathered from thistles.", "Grapes cannot be gathered from thistles.", "Grapes are not gathered from thistles."],
+    "answer": "Grapes cannot be gathered from thistles.",
+    "explanation": "Modal 'cannot' থাকায় 'cannot be + V3' হবে। Subject 'One' থাকায় 'by one' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 162,
+    "question": "Change the voice: Did the noise frighten you?",
+    "options": ["Was you frightened by the noise?", "Are you frightened by the noise?", "Have you been frightened by the noise?", "Were you frightened by the noise?"],
+    "answer": "Were you frightened by the noise?",
+    "explanation": "Past Indefinite Interrogative। 'you' Object হিসেবে Plural, তাই 'Were' দিয়ে বাক্য শুরু হবে। Were + you + V3 + by + Subject?"
+  },
+  {
+    "id": 163,
+    "question": "Change the voice: I know his address.",
+    "options": ["His address is known to me.", "His address is known by me.", "His address was known to me.", "His address has been known to me."],
+    "answer": "His address is known to me.",
+    "explanation": "Present Indefinite Tense। 'know' verb-এর পর Passive voice-এ 'by' বসে না, 'to' বসে।"
+  },
+  {
+    "id": 164,
+    "question": "Change the voice: She is to write a letter.",
+    "options": ["A letter is to write by her.", "A letter is to be written by her.", "A letter was to be written by her.", "A letter has to be written by her."],
+    "answer": "A letter is to be written by her.",
+    "explanation": "'am to/is to/are to' থাকলে Passive-এ 'is to be / are to be + V3' হয়।"
+  },
+  {
+    "id": 165,
+    "question": "Change the voice: The child broke the mirror.",
+    "options": ["The mirror is broken by the child.", "The mirror had been broken by the child.", "The mirror was broken by the child.", "The mirror was being broken by the child."],
+    "answer": "The mirror was broken by the child.",
+    "explanation": "Past Indefinite Tense-এর Passive voice-এ 'was/were + V3' ব্যবহৃত হয়। 'break'-এর V3 হলো 'broken'।"
+  },
+  {
+    "id": 166,
+    "question": "Change the voice: Has anyone seen the postman?",
+    "options": ["Has the postman been saw?", "Have the postman been seen?", "Was the postman seen?", "Has the postman been seen?"],
+    "answer": "Has the postman been seen?",
+    "explanation": "Present Perfect Interrogative। 'Has + Object (the postman) + been + V3' এবং 'by anyone' উহ্য থাকে।"
+  },
+  {
+    "id": 167,
+    "question": "Change the voice: They will ask you a lot of questions.",
+    "options": ["You will be asked a lot of questions.", "You shall be asked a lot of questions.", "A lot of questions will ask you.", "You would be asked a lot of questions."],
+    "answer": "You will be asked a lot of questions.",
+    "explanation": "Future Indefinite Tense। Double Object-এর ক্ষেত্রে 'You'-কে Subject করা হয়েছে এবং 'by them' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 168,
+    "question": "Change the voice: I remember my sister taking me to the museum.",
+    "options": ["I remember to be taken to the museum by my sister.", "I remember being taken to the museum by my sister.", "I remembered being taken to the museum by my sister.", "I remember taken to the museum by my sister."],
+    "answer": "I remember being taken to the museum by my sister.",
+    "explanation": "Gerund (taking) যুক্ত Object-এর Passive করতে হলে 'being + V3' ব্যবহার করতে হয়। Principal clause 'I remember' ঠিক থাকবে।"
+  },
+  {
+    "id": 169,
+    "question": "Change the voice: We can gain nothing without effort.",
+    "options": ["Nothing could be gained without effort.", "Nothing can gained without effort.", "Nothing can be gained without effort.", "Nothing is being gained without effort."],
+    "answer": "Nothing can be gained without effort.",
+    "explanation": "Object 'nothing' Subject হয়েছে। 'can' Modal verb হওয়ায় 'can be gained' বসেছে এবং 'by us' উহ্য।"
+  },
+  {
+    "id": 170,
+    "question": "Change the voice: Do you imitate others?",
+    "options": ["Are others imitated by you.", "Were others imitated by you?", "Are others imitate by you?", "Are others imitated by you?"],
+    "answer": "Are others imitated by you?",
+    "explanation": "Present Indefinite Interrogative sentence। 'others' Plural হওয়ায় 'Are' দিয়ে প্রশ্ন শুরু হবে।"
+  },
+  {
+    "id": 171,
+    "question": "Change the voice: The man cut down the tree.",
+    "options": ["The tree was cut down by the man.", "The tree is cut down by the man.", "The tree had been cut down by the man.", "The tree was being cut down by the man."],
+    "answer": "The tree was cut down by the man.",
+    "explanation": "'cut' verb-টির তিনটি রূপই একই (cut)। Subject Singular হওয়া সত্ত্বেও verb-এ 's/es' নেই, তাই এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 172,
+    "question": "Change the voice: It is time to stop the work.",
+    "options": ["It is time for the work to stop.", "It is time for the work to be stopped.", "It is time to the work be stopped.", "The work is time to be stopped."],
+    "answer": "It is time for the work to be stopped.",
+    "explanation": "Infinitive ('to stop') যুক্ত 'It is time' বাক্যকে Passive করার নিয়ম: It is time + for + Object + to be + V3।"
+  },
+  {
+    "id": 173,
+    "question": "Change the voice: They expected him to win the match.",
+    "options": ["He is expected to win the match.", "It was expected him to win the match.", "He was expected to win the match.", "He had been expected to win the match."],
+    "answer": "He was expected to win the match.",
+    "explanation": "Complex structure-এর ক্ষেত্রে 'him' Subject হয়ে 'He was expected' হয় এবং Infinitive অংশটি (to win the match) অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 174,
+    "question": "Change the voice: I was making a plan.",
+    "options": ["A plan is being made by me.", "A plan was made by me.", "A plan had been made by me.", "A plan was being made by me."],
+    "answer": "A plan was being made by me.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 175,
+    "question": "Change the voice: He had kept his promise.",
+    "options": ["His promise had been kept by him.", "His promise has been kept by him.", "His promise was kept by him.", "His promise would be kept by him."],
+    "answer": "His promise had been kept by him.",
+    "explanation": "Past Perfect Tense-এ Passive করার নিয়ম: Object (His promise) + had been + V3 (kept) + by + Subject (him)।"
+  },
+  {
+    "id": 176,
+    "question": "Change the voice: Why are you making a noise?",
+    "options": ["Why is a noise made by you?", "Why is a noise being made by you?", "Why was a noise being made by you?", "Why has a noise been made by you?"],
+    "answer": "Why is a noise being made by you?",
+    "explanation": "Present Continuous Interrogative (Why যুক্ত)। 'a noise' Singular তাই 'is' বসেছে। গঠন: Why + is + Object + being + V3 + by + Subject?"
+  },
+  {
+    "id": 177,
+    "question": "Change the voice: We propose to hold a meeting.",
+    "options": ["It is proposed holding a meeting.", "It was proposed to hold a meeting.", "It is proposed to hold a meeting.", "A meeting is proposed to hold."],
+    "answer": "It is proposed to hold a meeting.",
+    "explanation": "Infinitive ('to hold') যুক্ত বাক্যে 'We propose' পরিবর্তিত হয়ে 'It is proposed' হয় এবং পরের অংশটি অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 178,
+    "question": "Change the voice: The sudden noise frightened the baby.",
+    "options": ["The baby is frightened by the sudden noise.", "The baby had been frightened by the sudden noise.", "The baby was frightened with the sudden noise.", "The baby was frightened by the sudden noise."],
+    "answer": "The baby was frightened by the sudden noise.",
+    "explanation": "Past Indefinite Tense। Object 'the baby' এর পর 'was' এবং 'frighten' এর 3rd form 'frightened' বসেছে।"
+  },
+  {
+    "id": 179,
+    "question": "Change the voice: Your shoes need repairing.",
+    "options": ["Your shoes need to be repaired.", "Your shoes needed to be repaired.", "Your shoes need repairing by you.", "Your shoes are needed to be repaired."],
+    "answer": "Your shoes need to be repaired.",
+    "explanation": "'Need + V-ing' (repairing) Active form-এ থাকলেও এর অর্থ Passive। একে পরিবর্তন করে 'need to be + V3' (repaired) করতে হয়।"
+  },
+  {
+    "id": 180,
+    "question": "Change the voice: Let him buy a book.",
+    "options": ["Let a book bought by him.", "Let a book be bought by him.", "Let a book is bought by him.", "Let a book be buying by him."],
+    "answer": "Let a book be bought by him.",
+    "explanation": "'Let' যুক্ত বাক্যের Passive গঠন: Let + Direct Object (a book) + be + V3 (bought) + by + Indirect Object (him)।"
+  },
+  {
+    "id": 181,
+    "question": "Change the voice: They were digging a canal.",
+    "options": ["A canal is being dug by them.", "A canal was dug by them.", "A canal was being dug by them.", "A canal had been dug by them."],
+    "answer": "A canal was being dug by them.",
+    "explanation": "Past Continuous Tense-এর Passive গঠন। 'dig'-এর V3 form হলো 'dug'। 'was being dug' সঠিক।"
+  },
+  {
+    "id": 182,
+    "question": "Change the voice: Who can count the stars?",
+    "options": ["By whom can the stars counted?", "By whom could the stars be counted?", "Who can be counted the stars?", "By whom can the stars be counted?"],
+    "answer": "By whom can the stars be counted?",
+    "explanation": "'Who' দিয়ে শুরু হলে Passive 'By whom' দিয়ে শুরু হয়। Modal verb 'can' থাকায় 'can + Object + be + V3' হয়।"
+  },
+  {
+    "id": 183,
+    "question": "Change the voice: The police have caught the thief.",
+    "options": ["The thief has been caught by the police.", "The thief have been caught by the police.", "The thief was caught by the police.", "The thief had been caught by the police."],
+    "answer": "The thief has been caught by the police.",
+    "explanation": "Present Perfect Tense। 'The thief' Singular হওয়ায় 'has been' বসেছে।"
+  },
+  {
+    "id": 184,
+    "question": "Change the voice: We forbade him to leave the house.",
+    "options": ["He is forbidden to leave the house.", "He was forbidden to leave the house.", "He had been forbidden to leave the house.", "He was forbid to leave the house."],
+    "answer": "He was forbidden to leave the house.",
+    "explanation": "Past Indefinite Tense। 'forbade' এর 3rd form হলো 'forbidden'। 'by us' উহ্য থাকে এবং Infinitive অংশটি অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 185,
+    "question": "Change the voice: Did you understand the poem?",
+    "options": ["Is the poem understood by you?", "Did the poem understood by you?", "Was the poem understood by you?", "Has the poem been understood by you?"],
+    "answer": "Was the poem understood by you?",
+    "explanation": "Past Indefinite Interrogative Sentence-এর ক্ষেত্রে Passive voice 'Was/Were' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 186,
+    "question": "Change the voice: He is helping his father.",
+    "options": ["His father is helped by him.", "His father was being helped by him.", "His father has been helped by him.", "His father is being helped by him."],
+    "answer": "His father is being helped by him.",
+    "explanation": "Present Continuous Tense। Object 'His father' এর পর 'is being' এবং 'help' এর 3rd form 'helped' বসেছে।"
+  },
+  {
+    "id": 187,
+    "question": "Change the voice: Will you have finished the work?",
+    "options": ["Will the work have been finished by you?", "Shall the work have been finished by you?", "Would the work have been finished by you?", "Will the work be finished by you?"],
+    "answer": "Will the work have been finished by you?",
+    "explanation": "Future Perfect Interrogative। Passive গঠন: Will + Object + have been + V3 + by + Subject?"
+  },
+  {
+    "id": 188,
+    "question": "Change the voice: This box contains ten cigars.",
+    "options": ["Ten cigars are contained by this box.", "Ten cigars are contained in this box.", "Ten cigars were contained in this box.", "Ten cigars are containing in this box."],
+    "answer": "Ten cigars are contained in this box.",
+    "explanation": "'Contain' verb-এর পর Passive voice-এ 'by' না বসে 'in' Preposition বসে। (contained in this box)"
+  },
+  {
+    "id": 189,
+    "question": "Change the voice: The surface feels smooth.",
+    "options": ["The surface is smooth when felt.", "The surface is felt smooth.", "The surface is smooth when it is felt.", "The surface is smooth when it is being felt."],
+    "answer": "The surface is smooth when it is felt.",
+    "explanation": "এটি Quasi-passive verb। Passive করার নিয়ম: Subject + is + Adjective + when + it is + V3 (felt)।"
+  },
+  {
+    "id": 190,
+    "question": "Change the voice: She was writing a story.",
+    "options": ["A story is being written by her.", "A story was written by her.", "A story had been written by her.", "A story was being written by her."],
+    "answer": "A story was being written by her.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়। 'write'-এর V3 হলো 'written'।"
+  },
+  {
+    "id": 191,
+    "question": "Change the voice: Let her draw a picture.",
+    "options": ["Let a picture be drawn by her.", "Let a picture drawn by her.", "Let a picture is drawn by her.", "Let a picture be drawing by her."],
+    "answer": "Let a picture be drawn by her.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া বাক্যের Passive গঠন: Let + Direct Object (a picture) + be + V3 (drawn) + by + Indirect Object (her)।"
+  },
+  {
+    "id": 192,
+    "question": "Change the voice: Open your book.",
+    "options": ["Let your book opened.", "Let your book be opened.", "Let your book be open.", "Your book should opened."],
+    "answer": "Let your book be opened.",
+    "explanation": "আদেশমূলক (Order) Imperative বাক্যের Passive গঠন: Let + Object (your book) + be + V3 (opened)।"
+  },
+  {
+    "id": 193,
+    "question": "Change the voice: I expect him to do the job.",
+    "options": ["He is expecting to do the job.", "He was expected to do the job.", "He is expected to do the job.", "It is expected to do the job by him."],
+    "answer": "He is expected to do the job.",
+    "explanation": "Principal Clause (I expect)-কে Passive (He is expected) করা হয়েছে এবং Infinitive অংশটি (to do the job) অপরিবর্তিত রয়েছে।"
+  },
+  {
+    "id": 194,
+    "question": "Change the voice: Someone left the gate open.",
+    "options": ["The gate is left open.", "The gate has been left open.", "The gate had been left open.", "The gate was left open."],
+    "answer": "The gate was left open.",
+    "explanation": "Past Indefinite Tense। 'open' এখানে Objective Complement। 'Someone' অনির্দিষ্ট subject হওয়ায় 'by someone' বাদ দেওয়া হয়েছে।"
+  },
+  {
+    "id": 195,
+    "question": "Change the voice: The boy is climbing the tree.",
+    "options": ["The tree is climbed by the boy.", "The tree was being climbed by the boy.", "The tree is being climbed by the boy.", "The tree has been climbed by the boy."],
+    "answer": "The tree is being climbed by the boy.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। 'is being' এবং 'climb'-এর 3rd form 'climbed' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 196,
+    "question": "Change the voice: Have you seen a tiger?",
+    "options": ["Has a tiger seen by you?", "Have a tiger been seen by you?", "Had a tiger been seen by you?", "Has a tiger been seen by you?"],
+    "answer": "Has a tiger been seen by you?",
+    "explanation": "Present Perfect Interrogative। Object 'a tiger' Singular তাই 'Has' দিয়ে প্রশ্ন শুরু হয়েছে। Has + Object + been + V3 + by + Subject?"
+  },
+  {
+    "id": 197,
+    "question": "Change the voice: We called him a fool.",
+    "options": ["He is called a fool by us.", "He had been called a fool by us.", "He was called a fool by us.", "A fool was called him by us."],
+    "answer": "He was called a fool by us.",
+    "explanation": "এখানে 'a fool' হলো Factitive Object। Factitive Object কখনো Subject হতে পারে না। তাই 'him' (He) Subject হয়েছে। এটি Past Indefinite Tense।"
+  },
+  {
+    "id": 198,
+    "question": "Change the voice: He likes people praising him.",
+    "options": ["He likes to be praised by people.", "He liked being praised by people.", "He likes people to praise him.", "He likes being praised by people."],
+    "answer": "He likes being praised by people.",
+    "explanation": "Gerund (praising) থাকলে Passive-এ 'being + V3 (praised)' হয়। 'by people' বা 'people' উহ্য রাখাই বেশি প্রচলিত, তবে অপশনে থাকলে সেটিই নিতে হবে।"
+  },
+  {
+    "id": 199,
+    "question": "Change the voice: The children are playing cricket.",
+    "options": ["Cricket is played by the children.", "Cricket was being played by the children.", "Cricket is being played by the children.", "Cricket has been played by the children."],
+    "answer": "Cricket is being played by the children.",
+    "explanation": "Present Continuous Tense। Object 'Cricket'-এর পর 'is being' এবং 'play'-এর 3rd form 'played' বসেছে।"
+  },
+  {
+    "id": 200,
+    "question": "Change the voice: Do not waste your time.",
+    "options": ["Let not your time wasted.", "Your time should not waste.", "Let your time not wasted.", "Let not your time be wasted."],
+    "answer": "Let not your time be wasted.",
+    "explanation": "Negative Imperative বাক্যের Passive গঠন: Let not + Object (your time) + be + V3 (wasted)।"
+  },
+  {
+    "id": 201,
+    "question": "Change the voice: He taught me English.",
+    "options": ["I was taught English by him.", "English is taught to me by him.", "I am taught English by him.", "I was being taught English by him."],
+    "answer": "I was taught English by him.",
+    "explanation": "Double Object (me, English) থাকলে ব্যক্তিবাচক Object (me)-কে Subject (I) হিসেবে ব্যবহার করে Passive করা বেশি প্রচলিত। Past Indefinite Tense থাকায় 'was taught' বসবে।"
+  },
+  {
+    "id": 202,
+    "question": "Change the voice: They offered me a chair.",
+    "options": ["A chair is offered to me by them.", "I was offered a chair by them.", "I am offered a chair by them.", "A chair had been offered to me by them."],
+    "answer": "I was offered a chair by them.",
+    "explanation": "Past Indefinite Tense-এ Double object (me, a chair)। ব্যক্তিবাচক Object (me)-কে Subject 'I' করে Passive করা হয়েছে।"
+  },
+  {
+    "id": 203,
+    "question": "Change the voice: Keep your word.",
+    "options": ["Let your word kept.", "You are requested to keep your word.", "Your word should be kept.", "Let your word be keeping."],
+    "answer": "Your word should be kept.",
+    "explanation": "Imperative sentence-এ উপদেশ বা নৈতিক কর্তব্য (Moral advice) বোঝালে 'Object + should be + V3' নিয়মে Passive করা শ্রেয়।"
+  },
+  {
+    "id": 204,
+    "question": "Change the voice: Has he completed the assignment?",
+    "options": ["Have the assignment been completed by him?", "Has the assignment completed by him?", "Is the assignment completed by him?", "Has the assignment been completed by him?"],
+    "answer": "Has the assignment been completed by him?",
+    "explanation": "Present Perfect Interrogative। 'the assignment' Singular তাই 'Has' বসেছে: Has + Object + been + V3 + by + Subject?"
+  },
+  {
+    "id": 205,
+    "question": "Change the voice: The police have arrested the culprit.",
+    "options": ["The culprit has been arrested.", "The culprit have been arrested.", "The culprit had been arrested.", "The culprit is arrested."],
+    "answer": "The culprit has been arrested.",
+    "explanation": "Present Perfect Tense। Subject 'The police' নির্দিষ্ট হওয়ায় Passive-এ 'by the police' উহ্য রাখা হয়েছে এবং Object Singular হওয়ায় 'has been' বসেছে।"
+  },
+  {
+    "id": 206,
+    "question": "Change the voice: They were repairing the bridge.",
+    "options": ["The bridge is being repaired by them.", "The bridge was being repaired by them.", "The bridge was repaired by them.", "The bridge had been repaired by them."],
+    "answer": "The bridge was being repaired by them.",
+    "explanation": "Past Continuous Tense-এর Passive গঠন। Object 'The bridge' এর পর 'was being' এবং 'repair'-এর 3rd form 'repaired' বসেছে।"
+  },
+  {
+    "id": 207,
+    "question": "Change the voice: She will sing a beautiful song.",
+    "options": ["A beautiful song will sing by her.", "A beautiful song is sung by her.", "A beautiful song will be sung by her.", "A beautiful song would be sung by her."],
+    "answer": "A beautiful song will be sung by her.",
+    "explanation": "Future Indefinite Tense-এর Passive voice-এ 'shall/will + be + V3' ব্যবহৃত হয়। 'sing'-এর V3 হলো 'sung'।"
+  },
+  {
+    "id": 208,
+    "question": "Change the voice: You must write the letter.",
+    "options": ["The letter must write by you.", "The letter must have been written by you.", "The letter must be wrote by you.", "The letter must be written by you."],
+    "answer": "The letter must be written by you.",
+    "explanation": "Modal auxiliary (must) থাকলে Passive-এ 'must be + V3' ব্যবহৃত হয়। 'write'-এর 3rd form 'written'।"
+  },
+  {
+    "id": 209,
+    "question": "Change the voice: There is no time to lose.",
+    "options": ["There is no time to be lost.", "There is no time for lost.", "It is no time to be lost.", "There has no time to be lost."],
+    "answer": "There is no time to be lost.",
+    "explanation": "Infinitive ('to lose') যুক্ত 'There is...' বাক্যে 'to lose' অংশটি পরিবর্তিত হয়ে 'to be lost' হয়।"
+  },
+  {
+    "id": 210,
+    "question": "Change the voice: Who wrote this poem?",
+    "options": ["By whom this poem was written?", "By whom was this poem written?", "Who was this poem written by?", "By whom is this poem written?"],
+    "answer": "By whom was this poem written?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয় এবং auxiliary verb (was) subject-এর আগে বসে।"
+  },
+  {
+    "id": 211,
+    "question": "Change the voice: The bed feels soft.",
+    "options": ["The bed is soft when felt.", "The bed is felt soft.", "The bed is soft when it is felt.", "The bed is soft when it is being felt."],
+    "answer": "The bed is soft when it is felt.",
+    "explanation": "Quasi-passive verb। এর Passive করার নিয়ম: Subject (The bed) + is + Adjective (soft) + when + it is + V3 (felt)।"
+  },
+  {
+    "id": 212,
+    "question": "Change the voice: People say that he is a saint.",
+    "options": ["That he is a saint is said by people.", "He is said a saint.", "It was said that he is a saint.", "It is said that he is a saint."],
+    "answer": "It is said that he is a saint.",
+    "explanation": "Complex sentence-এ Principal Clause-এর (People say) Passive 'It is said' দিয়ে শুরু করা সবচেয়ে মানানসই। 'by people' উহ্য থাকে।"
+  },
+  {
+    "id": 213,
+    "question": "Change the voice: She is looking for a job.",
+    "options": ["A job is being looked for by her.", "A job was being looked for by her.", "A job is looked for by her.", "A job has been looked for by her."],
+    "answer": "A job is being looked for by her.",
+    "explanation": "Present Continuous Tense। Prepositional Verb-এর ক্ষেত্রে Verb-এর সাথে যুক্ত Preposition-টি (for) V3-এর ঠিক পরেই বসে।"
+  },
+  {
+    "id": 214,
+    "question": "Change the voice: The committee appointed him secretary.",
+    "options": ["Secretary was appointed him by the committee.", "He was appointed secretary by the committee.", "He is appointed secretary by the committee.", "Secretary had been appointed to him by the committee."],
+    "answer": "He was appointed secretary by the committee.",
+    "explanation": "'secretary' হলো Factitive Object যা Passive-এ Subject হতে পারে না। তাই Personal object 'him' (He) কে Subject করা হয়েছে।"
+  },
+  {
+    "id": 215,
+    "question": "Change the voice: Someone has broken the window.",
+    "options": ["The window was broken.", "The window is broken.", "The window has been broken.", "The window had been broken."],
+    "answer": "The window has been broken.",
+    "explanation": "'Someone', 'Somebody' ইত্যাদি অনির্দিষ্ট subject থাকলে Passive voice-এ 'by someone' লেখার প্রয়োজন হয় না। (Present Perfect Tense)"
+  },
+  {
+    "id": 216,
+    "question": "Change the voice: Do not make a noise.",
+    "options": ["Let a noise not made.", "Let a noise not be made.", "A noise should not make.", "Let not a noise be made."],
+    "answer": "Let not a noise be made.",
+    "explanation": "Negative Imperative বাক্যের Passive গঠন: Let not + Object (a noise) + be + V3 (made)।"
+  },
+  {
+    "id": 217,
+    "question": "Change the voice: Cows eat grass.",
+    "options": ["Grass is eaten by cows.", "Grass was eaten by cows.", "Grass has been eaten by cows.", "Grass is being eaten by cows."],
+    "answer": "Grass is eaten by cows.",
+    "explanation": "Present Indefinite Tense। Object (Grass) + is + V3 (eaten) + by + Subject (cows)।"
+  },
+  {
+    "id": 218,
+    "question": "Change the voice: Columbus discovered America.",
+    "options": ["America is discovered by Columbus.", "America was discovered by Columbus.", "America has been discovered by Columbus.", "America had been discovered by Columbus."],
+    "answer": "America was discovered by Columbus.",
+    "explanation": "Past Indefinite Tense। Object 'America'-এর পর 'was' এবং 'discover'-এর 3rd form 'discovered' বসেছে।"
+  },
+  {
+    "id": 219,
+    "question": "Change the voice: He will have finished the project.",
+    "options": ["The project will finish by him.", "The project will be finished by him.", "The project will have been finished by him.", "The project would have been finished by him."],
+    "answer": "The project will have been finished by him.",
+    "explanation": "Future Perfect Tense-এর Passive-এ 'shall/will have been + V3' বসে। 'The project'-এর পর 'will have been' বসেছে।"
+  },
+  {
+    "id": 220,
+    "question": "Change the voice: They elected him Mayor.",
+    "options": ["Mayor was elected by them.", "He is elected Mayor by them.", "He had been elected Mayor by them.", "He was elected Mayor by them."],
+    "answer": "He was elected Mayor by them.",
+    "explanation": "'Mayor' Factitive Object হওয়ায় 'him' (He) Subject হবে। Past Indefinite Tense থাকায় 'was elected' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 221,
+    "question": "Change the voice: She keeps her room clean.",
+    "options": ["Her room is kept clean by her.", "Her room was kept clean by her.", "Her room is being kept clean by her.", "Her room keeps clean by her."],
+    "answer": "Her room is kept clean by her.",
+    "explanation": "Present Indefinite Tense। 'clean' এখানে objective complement, এটি V3-এর পর অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 222,
+    "question": "Change the voice: I remember my teacher teaching me this lesson.",
+    "options": ["I remember to be taught this lesson by my teacher.", "I remember being taught this lesson by my teacher.", "I remember this lesson taught by my teacher.", "I remember this lesson being teaching by my teacher."],
+    "answer": "I remember being taught this lesson by my teacher.",
+    "explanation": "Gerund (teaching) যুক্ত Object-এর Passive করতে হলে 'being + V3' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 223,
+    "question": "Change the voice: It is time to start the race.",
+    "options": ["It is time for the race start.", "It is time to the race be started.", "It is time for the race to be started.", "It is time that the race should start."],
+    "answer": "It is time for the race to be started.",
+    "explanation": "Infinitive ('to start') যুক্ত 'It is time' বাক্যকে Passive করার নিয়ম: It is time + for + Object + to be + V3।"
+  },
+  {
+    "id": 224,
+    "question": "Change the voice: Let him bring some food.",
+    "options": ["Let some food brought by him.", "Let some food is brought by him.", "Let some food be bringing by him.", "Let some food be brought by him."],
+    "answer": "Let some food be brought by him.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া Active বাক্যের Passive গঠন: Let + Direct Object (some food) + be + V3 (brought) + by + Indirect Object (him)।"
+  },
+  {
+    "id": 225,
+    "question": "Change the voice: The manager will give you a ticket.",
+    "options": ["You will be given a ticket by the manager.", "A ticket will give you by the manager.", "You shall be given a ticket by the manager.", "You will give a ticket by the manager."],
+    "answer": "You will be given a ticket by the manager.",
+    "explanation": "Future Indefinite Tense। Double Object-এর ক্ষেত্রে ব্যক্তিবাচক Object (You)-কে Subject করা হয়েছে।"
+  },
+  {
+    "id": 226,
+    "question": "Change the voice: Does she know you?",
+    "options": ["Is you known to her?", "Are you known to her?", "Were you known to her?", "Are you known by her?"],
+    "answer": "Are you known to her?",
+    "explanation": "Present Indefinite Interrogative sentence। 'know' verb-এর পর Passive voice-এ 'by' বসে না, 'to' বসে।"
+  },
+  {
+    "id": 227,
+    "question": "Change the voice: Why did they beat him?",
+    "options": ["Why was he beaten?", "Why did he beaten by them?", "Why was he beaten by them?", "Why had he been beaten by them?"],
+    "answer": "Why was he beaten by them?",
+    "explanation": "Past Indefinite Interrogative (Why যুক্ত)। গঠন: Why + was/were + Object + V3 + by + Subject?"
+  },
+  {
+    "id": 228,
+    "question": "Change the voice: Please give me some more time.",
+    "options": ["Let some more time be given to me.", "You are ordered to give me some more time.", "You are requested give me some more time.", "You are requested to give me some more time."],
+    "answer": "You are requested to give me some more time.",
+    "explanation": "'Please' দিয়ে শুরু হওয়া Imperative বাক্যের Passive voice 'You are requested to' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 229,
+    "question": "Change the voice: The audience loudly cheered the Mayor's speech.",
+    "options": ["The Mayor's speech was loudly cheered by the audience.", "The Mayor's speech is loudly cheered by the audience.", "The Mayor's speech loudly cheered by the audience.", "The Mayor's speech was loudly cheering by the audience."],
+    "answer": "The Mayor's speech was loudly cheered by the audience.",
+    "explanation": "Past Indefinite Tense। Object 'The Mayor's speech'-এর পর 'was' এবং Adverb 'loudly' মূল Verb-এর পূর্বে বসেছে।"
+  },
+  {
+    "id": 230,
+    "question": "Change the voice: You ought to obey your teachers.",
+    "options": ["Your teachers ought be obeyed.", "Your teachers ought to be obeyed.", "Your teachers should obeyed.", "Your teachers ought to obey."],
+    "answer": "Your teachers ought to be obeyed.",
+    "explanation": "Modal 'ought to'-এর পর Passive-এ 'be + V3' ব্যবহৃত হয়। 'by you' উহ্য রাখা যেতে পারে বা থাকতে পারে।"
+  },
+  {
+    "id": 231,
+    "question": "Change the voice: I have to purchase a laptop.",
+    "options": ["A laptop have to be purchased by me.", "A laptop has to purchased by me.", "A laptop has to be purchased by me.", "A laptop had to be purchased by me."],
+    "answer": "A laptop has to be purchased by me.",
+    "explanation": "'have to' থাকলে Passive-এ Object অনুযায়ী 'has to be + V3' ব্যবহৃত হয়। 'A laptop' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 232,
+    "question": "Change the voice: Panic seized the people.",
+    "options": ["The people were seized by panic.", "The people was seized with panic.", "The people are seized with panic.", "The people were seized with panic."],
+    "answer": "The people were seized with panic.",
+    "explanation": "'Seized' verb-এর পর Passive voice-এ 'by'-এর বদলে preposition 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 233,
+    "question": "Change the voice: He was writing a poem.",
+    "options": ["A poem was being written by him.", "A poem is being written by him.", "A poem was written by him.", "A poem had been written by him."],
+    "answer": "A poem was being written by him.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 234,
+    "question": "Change the voice: Did you invite him?",
+    "options": ["Is he invited by you?", "Was he invited by you?", "Has he been invited by you?", "Did he invited by you?"],
+    "answer": "Was he invited by you?",
+    "explanation": "Past Indefinite Interrogative Sentence-এর ক্ষেত্রে Passive voice শুরু হয় Was/Were দিয়ে।"
+  },
+  {
+    "id": 235,
+    "question": "Change the voice: Who is calling me?",
+    "options": ["By whom am I calling?", "By whom is I being called?", "By whom am I being called?", "Who am I being called by?"],
+    "answer": "By whom am I being called?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Present Continuous Tense। 'By whom' এর পর 'I' অনুযায়ী auxiliary verb 'am' বসবে।"
+  },
+  {
+    "id": 236,
+    "question": "Change the voice: Whom are you calling?",
+    "options": ["Who are being called by you?", "Whom is being called by you?", "By whom are you called?", "Who is being called by you?"],
+    "answer": "Who is being called by you?",
+    "explanation": "Active voice 'Whom' দিয়ে শুরু হলে Passive 'Who' দিয়ে শুরু হয় এবং Singular হিসেবে 'is being + V3' বসে।"
+  },
+  {
+    "id": 237,
+    "question": "Change the voice: You can see the mountain from the window.",
+    "options": ["The mountain can be seen from the window.", "The mountain could be seen from the window.", "The mountain can seen from the window.", "The mountain is seen from the window."],
+    "answer": "The mountain can be seen from the window.",
+    "explanation": "Modal verb 'can' থাকায় 'can be + V3' বসেছে। 'by you' উহ্য রাখা হয়েছে কারণ এটি একটি সাধারণ বিবৃতি।"
+  },
+  {
+    "id": 238,
+    "question": "Change the voice: Has anybody answered your question?",
+    "options": ["Have your question been answered?", "Has your question been answered?", "Is your question answered?", "Was your question answered?"],
+    "answer": "Has your question been answered?",
+    "explanation": "Present Perfect Interrogative। 'your question' Singular তাই 'Has' বসেছে। 'by anybody' Passive-এ উহ্য থাকে।"
+  },
+  {
+    "id": 239,
+    "question": "Change the voice: Let us go out for a walk.",
+    "options": ["Let a walk be gone out for us.", "Let it be gone out for a walk.", "It is suggested that we should go out for a walk.", "We should be gone out for a walk."],
+    "answer": "It is suggested that we should go out for a walk.",
+    "explanation": "'Let us' দিয়ে প্রস্তাব (Proposal) বোঝালে এবং Intransitive verb (go) থাকলে 'It is suggested that we should...' দিয়ে Passive করা হয়।"
+  },
+  {
+    "id": 240,
+    "question": "Change the voice: Smoke filled the room.",
+    "options": ["The room was filled by smoke.", "The room is filled with smoke.", "The room was filling with smoke.", "The room was filled with smoke."],
+    "answer": "The room was filled with smoke.",
+    "explanation": "'Filled' verb-এর পর Passive voice-এ 'by' এর বদলে preposition 'with' ব্যবহৃত হয়। Past Indefinite Tense।"
+  },
+  {
+    "id": 241,
+    "question": "Change the voice: We elected him chairman.",
+    "options": ["He was elected chairman.", "Chairman was elected him.", "He is elected chairman.", "He was elected to be chairman."],
+    "answer": "He was elected chairman.",
+    "explanation": "Factitive Object 'chairman' Subject হতে পারে না, তাই 'him' (He) Subject হয়েছে।"
+  },
+  {
+    "id": 242,
+    "question": "Change the voice: I know that he is an honest man.",
+    "options": ["That he is an honest man is known by me.", "It is known to me that he is an honest man.", "He is known to me that he is an honest man.", "It was known to me that he is an honest man."],
+    "answer": "It is known to me that he is an honest man.",
+    "explanation": "Complex sentence-এ Principal clause (I know) Present Tense-এ আছে। তাই Passive-এ 'It is known to me' হবে।"
+  },
+  {
+    "id": 243,
+    "question": "Change the voice: Love your neighbors.",
+    "options": ["Let your neighbors loved.", "Let your neighbors be loved.", "Your neighbors should be loved.", "Your neighbors are requested to be loved."],
+    "answer": "Your neighbors should be loved.",
+    "explanation": "Imperative sentence-এ উপদেশ বা নৈতিক কর্তব্য (Moral advice) বোঝালে 'Object + should be + V3' নিয়মে Passive করা শ্রেয়।"
+  },
+  {
+    "id": 244,
+    "question": "Change the voice: Enter by this door.",
+    "options": ["Let this door be entered.", "This door should be entered.", "Let it be entered by this door.", "You are requested to enter by this door."],
+    "answer": "You are requested to enter by this door.",
+    "explanation": "Intransitive verb যুক্ত Imperative Sentence-এ অনুরোধ বোঝালে 'You are requested to' দিয়ে Passive করতে হয়।"
+  },
+  {
+    "id": 245,
+    "question": "Change the voice: I am doing my homework.",
+    "options": ["My homework is being done by me.", "My homework is done by me.", "My homework was being done by me.", "My homework has been done by me."],
+    "answer": "My homework is being done by me.",
+    "explanation": "Present Continuous Tense। Object 'My homework'-এর পর 'is being' এবং 'do'-এর 3rd form 'done' বসেছে।"
+  },
+  {
+    "id": 246,
+    "question": "Change the voice: They have built a new hospital.",
+    "options": ["A new hospital has built by them.", "A new hospital has been built by them.", "A new hospital have been built by them.", "A new hospital had been built by them."],
+    "answer": "A new hospital has been built by them.",
+    "explanation": "Present Perfect Tense। 'A new hospital' Singular হওয়ায় 'has been' বসেছে এবং 'build' এর V3 'built' ই থাকে।"
+  },
+  {
+    "id": 247,
+    "question": "Change the voice: We were watching a movie.",
+    "options": ["A movie is being watched by us.", "A movie was watched by us.", "A movie was being watched by us.", "A movie had been watched by us."],
+    "answer": "A movie was being watched by us.",
+    "explanation": "Past Continuous Tense-এর Passive গঠন। Object 'A movie'-এর পর 'was being' এবং 'watch'-এর 3rd form 'watched' বসেছে।"
+  },
+  {
+    "id": 248,
+    "question": "Change the voice: He had written a letter before you came.",
+    "options": ["A letter had written by him before you came.", "A letter was written by him before you came.", "A letter has been written by him before you came.", "A letter had been written by him before you came."],
+    "answer": "A letter had been written by him before you came.",
+    "explanation": "Past Perfect Tense-এ Passive করার নিয়ম: Object + had been + V3। 'before you came' অংশটি অপরিবর্তিত থাকবে।"
+  },
+  {
+    "id": 249,
+    "question": "Change the voice: I shall write a book.",
+    "options": ["A book will be written by me.", "A book shall be written by me.", "A book would be written by me.", "A book is written by me."],
+    "answer": "A book will be written by me.",
+    "explanation": "Future Indefinite Tense-এর Passive voice-এ 'shall/will + be + V3' ব্যবহৃত হয়। 'A book'-এর পর 'will' বসবে।"
+  },
+  {
+    "id": 250,
+    "question": "Change the voice: Will she sing a song?",
+    "options": ["Shall a song be sung by her?", "Will a song be sung by her?", "Would a song be sung by her?", "Will a song sing by her?"],
+    "answer": "Will a song be sung by her?",
+    "explanation": "Future Indefinite Interrogative Sentence। 'a song'-এর সাথে 'Will' বসে: Will + Object + be + V3 + by + Subject?"
+  },
+  {
+    "id": 251,
+    "question": "Change the voice: He is reading a novel.",
+    "options": ["A novel is being read by him.", "A novel is read by him.", "A novel was being read by him.", "A novel has been read by him."],
+    "answer": "A novel is being read by him.",
+    "explanation": "Present Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'is/are/am + being + V3' ব্যবহৃত হয়। 'A novel' Singular তাই 'is being read' সঠিক।"
+  },
+  {
+    "id": 252,
+    "question": "Change the voice: Did he finish the work?",
+    "options": ["Is the work finished by him?", "Was the work finished by him?", "Did the work finished by him?", "Has the work been finished by him?"],
+    "answer": "Was the work finished by him?",
+    "explanation": "Past Indefinite Interrogative Sentence-এর ক্ষেত্রে Passive voice শুরু হয় Was/Were দিয়ে। 'the work' Singular তাই 'Was' বসেছে: Was + Object + V3 + by + Subject?"
+  },
+  {
+    "id": 253,
+    "question": "Change the voice: Please open the door.",
+    "options": ["Let the door be opened.", "You are ordered to open the door.", "You are requested to open the door.", "The door should be opened."],
+    "answer": "You are requested to open the door.",
+    "explanation": "'Please' দিয়ে শুরু হওয়া বাক্যে অনুরোধ (Request) বোঝায়, তাই Passive voice 'You are requested to' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 254,
+    "question": "Change the voice: They must help the poor.",
+    "options": ["The poor must help by them.", "The poor should be helped.", "The poor must have been helped.", "The poor must be helped."],
+    "answer": "The poor must be helped.",
+    "explanation": "Modal auxiliary (must) থাকলে Passive-এ 'must be + V3' ব্যবহৃত হয়। 'by them' উহ্য রাখা শ্রেয়।"
+  },
+  {
+    "id": 255,
+    "question": "Change the voice: Who taught you French?",
+    "options": ["By whom were you taught French?", "By whom are you taught French?", "Who was you taught French by?", "By whom was you taught French?"],
+    "answer": "By whom were you taught French?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয় এবং 'you'-এর সাথে 'were' বসে।"
+  },
+  {
+    "id": 256,
+    "question": "Change the voice: The rose smells sweet.",
+    "options": ["The rose is sweet when smelt.", "The rose is sweet when it is smelt.", "The rose is smelt sweet.", "The rose was sweet when it is smelt."],
+    "answer": "The rose is sweet when it is smelt.",
+    "explanation": "Quasi-passive verb। এর Passive করার নিয়ম: Subject (The rose) + is + Adjective (sweet) + when + it is + V3 (smelt)।"
+  },
+  {
+    "id": 257,
+    "question": "Change the voice: I know her.",
+    "options": ["She is known by me.", "She was known to me.", "She is known to me.", "She has been known to me."],
+    "answer": "She is known to me.",
+    "explanation": "Present Indefinite Tense। 'know' verb-এর পর Passive voice-এ 'by' বসে না, 'to' বসে।"
+  },
+  {
+    "id": 258,
+    "question": "Change the voice: We are to do it.",
+    "options": ["It is to do by us.", "It is to be done.", "It was to be done by us.", "It is to be done by us."],
+    "answer": "It is to be done by us.",
+    "explanation": "'am to/is to/are to' থাকলে Passive-এ 'is to be / are to be + V3' হয়।"
+  },
+  {
+    "id": 259,
+    "question": "Change the voice: Someone has stolen my purse.",
+    "options": ["My purse has been stolen.", "My purse is stolen.", "My purse was stolen.", "My purse had been stolen."],
+    "answer": "My purse has been stolen.",
+    "explanation": "Present Perfect Tense। 'Someone', 'Somebody' ইত্যাদি অনির্দিষ্ট subject থাকলে Passive voice-এ 'by someone' লেখার প্রয়োজন হয় না।"
+  },
+  {
+    "id": 260,
+    "question": "Change the voice: They will cancel the meeting.",
+    "options": ["The meeting will cancel.", "The meeting will be cancelled.", "The meeting would be cancelled.", "The meeting shall be cancelled."],
+    "answer": "The meeting will be cancelled.",
+    "explanation": "Future Indefinite Tense-এর Passive voice-এ 'will + be + V3' ব্যবহৃত হয়। 'by them' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 261,
+    "question": "Change the voice: What do you want?",
+    "options": ["What was wanted by you?", "What are wanted by you?", "What is wanted by you?", "What is want by you?"],
+    "answer": "What is wanted by you?",
+    "explanation": "'What' নিজেই Object হলে Passive-এ Subject হিসেবে বসে। Present Indefinite হওয়ায় 'is + V3' বসেছে।"
+  },
+  {
+    "id": 262,
+    "question": "Change the voice: He gave me a book.",
+    "options": ["A book is given me by him.", "I was given to a book by him.", "I am given a book by him.", "I was given a book by him."],
+    "answer": "I was given a book by him.",
+    "explanation": "Double Object (me, a book) থাকলে ব্যক্তিবাচক Object (me)-কে Subject (I) হিসেবে ব্যবহার করে Passive করা বেশি প্রচলিত। Past Tense হওয়ায় 'was given' বসেছে।"
+  },
+  {
+    "id": 263,
+    "question": "Change the voice: Let him finish the task.",
+    "options": ["Let the task be finished by him.", "Let the task finished by him.", "The task should be finished by him.", "Let him be finished the task."],
+    "answer": "Let the task be finished by him.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া Active বাক্যের Passive গঠন: Let + Direct Object (the task) + be + V3 (finished) + by + Indirect Object (him)।"
+  },
+  {
+    "id": 264,
+    "question": "Change the voice: I have done my duty.",
+    "options": ["My duty have been done by me.", "My duty has been done by me.", "My duty is done by me.", "My duty had been done by me."],
+    "answer": "My duty has been done by me.",
+    "explanation": "Present Perfect Tense। 'My duty' Singular হওয়ায় 'has been + V3' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 265,
+    "question": "Change the voice: Circumstances oblige me to stay.",
+    "options": ["I was obliged to stay.", "I am obliged to stay by circumstances.", "I am obliged to stay.", "I shall be obliged to stay."],
+    "answer": "I am obliged to stay.",
+    "explanation": "'oblige'-এর পর passive এ সাধরণত 'by circumstances' উহ্য থাকে। Present Indefinite Tense থাকায় 'am obliged' বসেছে।"
+  },
+  {
+    "id": 266,
+    "question": "Change the voice: He made us laugh.",
+    "options": ["We are made to laugh by him.", "We were made laugh by him.", "We are made laugh.", "We were made to laugh by him."],
+    "answer": "We were made to laugh by him.",
+    "explanation": "'Make' verb-এর পর Active-এ 'to' উহ্য থাকে (bare infinitive), কিন্তু Passive voice-এ 'to' বসাতে হয় (to laugh)।"
+  },
+  {
+    "id": 267,
+    "question": "Change the voice: The doctor advised him to rest.",
+    "options": ["He was advised to rest by the doctor.", "He is advised to rest by the doctor.", "He was advised rest.", "To rest was advised him."],
+    "answer": "He was advised to rest by the doctor.",
+    "explanation": "Past Indefinite Tense। Object 'him' পরিবর্তিত হয়ে 'He' হয়েছে এবং 'was advised' বসেছে। Infinitive অংশটি (to rest) অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 268,
+    "question": "Change the voice: Does she cook food?",
+    "options": ["Was food cooked by her?", "Is food cooked by her?", "Has food been cooked by her?", "Did food cooked by her?"],
+    "answer": "Is food cooked by her?",
+    "explanation": "Present Indefinite Interrogative sentence। Object 'food' Singular হওয়ায় Auxiliary verb 'Is' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 269,
+    "question": "Change the voice: They are building a house.",
+    "options": ["A house is building.", "A house is built by them.", "A house is being built by them.", "A house was being built by them."],
+    "answer": "A house is being built by them.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। Object 'A house' এর পর 'is being' এবং 'build'-এর 3rd form 'built' বসেছে।"
+  },
+  {
+    "id": 270,
+    "question": "Change the voice: People speak Hindi in India.",
+    "options": ["Hindi was spoken in India.", "Hindi is speaking in India.", "Hindi has been spoken in India.", "Hindi is spoken in India."],
+    "answer": "Hindi is spoken in India.",
+    "explanation": "Present Indefinite Tense। 'People'-এর মতো সাধারণ subject থাকলে Passive-এ 'by people' সাধারণত উহ্য রাখা হয়।"
+  },
+  {
+    "id": 271,
+    "question": "Change the voice: I will never forget this experience.",
+    "options": ["This experience will never be forgotten by me.", "This experience would never be forgotten by me.", "This experience will never forget by me.", "This experience is never forgotten by me."],
+    "answer": "This experience will never be forgotten by me.",
+    "explanation": "Future Indefinite Negative/Adverb Tense। 'never' শব্দটি 'will' এবং 'be'-এর মাঝে বসবে।"
+  },
+  {
+    "id": 272,
+    "question": "Change the voice: Shut the window.",
+    "options": ["The window should be shut.", "Let the window be shut.", "You are ordered to shut.", "Let the window shut."],
+    "answer": "Let the window be shut.",
+    "explanation": "Imperative Sentence-এ Order বোঝালে Passive করার নিয়ম: Let + Object (the window) + be + V3 (shut)।"
+  },
+  {
+    "id": 273,
+    "question": "Change the voice: She had lost her bag.",
+    "options": ["Her bag has been lost by her.", "Her bag was lost by her.", "Her bag had been lost by her.", "Her bag had lost by her."],
+    "answer": "Her bag had been lost by her.",
+    "explanation": "Past Perfect Tense-এ Passive করার নিয়ম: Object (Her bag) + had been + V3 (lost) + by + Subject (her)।"
+  },
+  {
+    "id": 274,
+    "question": "Change the voice: The teacher is correcting the copies.",
+    "options": ["The copies are corrected by the teacher.", "The copies were being corrected by the teacher.", "The copies is being corrected by the teacher.", "The copies are being corrected by the teacher."],
+    "answer": "The copies are being corrected by the teacher.",
+    "explanation": "Present Continuous Tense। 'The copies' Plural হওয়ায় 'are being' এবং 'correct'-এর 3rd form 'corrected' বসেছে।"
+  },
+  {
+    "id": 275,
+    "question": "Change the voice: It is time to take tea.",
+    "options": ["It is time for tea to be taken.", "It is time to tea be taken.", "It is time for tea to take.", "Tea is time to be taken."],
+    "answer": "It is time for tea to be taken.",
+    "explanation": "Infinitive ('to take') যুক্ত 'It is time' বাক্যকে Passive করার নিয়ম: It is time + for + Object (tea) + to be + V3 (taken)।"
+  },
+  {
+    "id": 276,
+    "question": "Change the voice: We expect good news.",
+    "options": ["Good news are expected by us.", "Good news is expected.", "Good news was expected.", "Good news have been expected."],
+    "answer": "Good news is expected.",
+    "explanation": "'News' শব্দটি Singular। তাই 'is expected' বসেছে। সাধারণ subject হওয়ায় 'by us' উহ্য রাখা শ্রেয়।"
+  },
+  {
+    "id": 277,
+    "question": "Change the voice: Whom are you searching for?",
+    "options": ["Who is searched for by you?", "By whom are you being searched?", "Who is being searched for by you?", "Whom is being searched for by you?"],
+    "answer": "Who is being searched for by you?",
+    "explanation": "Active voice 'Whom' দিয়ে শুরু হলে Passive 'Who' দিয়ে শুরু হয় এবং Present Continuous হওয়ায় 'is being + V3' বসে। Preposition 'for' অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 278,
+    "question": "Change the voice: I cannot do it.",
+    "options": ["It could not be done by me.", "It cannot done by me.", "It cannot be do by me.", "It cannot be done by me."],
+    "answer": "It cannot be done by me.",
+    "explanation": "Modal 'cannot' থাকলে Passive-এ 'cannot be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 279,
+    "question": "Change the voice: One should keep one's promise.",
+    "options": ["A promise should be kept.", "A promise should keep.", "One's promise should be kept.", "A promise must be kept by one."],
+    "answer": "A promise should be kept.",
+    "explanation": "'One' এবং 'one's' থাকলে Passive voice-এ সেগুলি উহ্য থাকে। Modal verb 'should' থাকায় 'should be + V3' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 280,
+    "question": "Change the voice: Did he break the glass?",
+    "options": ["Is the glass broken by him?", "Was the glass broken by him?", "Did the glass break by him?", "Has the glass been broken by him?"],
+    "answer": "Was the glass broken by him?",
+    "explanation": "Past Indefinite Interrogative। 'the glass' Singular তাই 'Was' দিয়ে শুরু হয়েছে: Was + Object + V3 + by + Subject?"
+  },
+  {
+    "id": 281,
+    "question": "Change the voice: They say that truth always triumphs.",
+    "options": ["That truth always triumphs is said.", "Truth is said to always triumph.", "It is said that truth always triumphs.", "It was said that truth always triumphs."],
+    "answer": "It is said that truth always triumphs.",
+    "explanation": "Complex sentence-এ Principal Clause-এর (They say) Passive 'It is said' দিয়ে শুরু করা সবচেয়ে মানানসই। 'by them' উহ্য থাকে।"
+  },
+  {
+    "id": 282,
+    "question": "Change the voice: We elected him President.",
+    "options": ["President was elected him by us.", "He is elected President.", "He was elected to be President.", "He was elected President."],
+    "answer": "He was elected President.",
+    "explanation": "'President' Factitive Object হওয়ায় 'him' (He) Subject হবে। Past Indefinite Tense থাকায় 'was elected' ব্যবহৃত হয়েছে এবং 'by us' উহ্য।"
+  },
+  {
+    "id": 283,
+    "question": "Change the voice: A car ran over the cat.",
+    "options": ["The cat was run over by a car.", "The cat is run over by a car.", "The cat was ran over by a car.", "The cat had been run over by a car."],
+    "answer": "The cat was run over by a car.",
+    "explanation": "Past Indefinite Tense। 'run over' (Prepositional verb)-এর 3rd form 'run over' ই থাকে এবং 'was' auxiliary verb হিসেবে বসে।"
+  },
+  {
+    "id": 284,
+    "question": "Change the voice: Why are you laughing at him?",
+    "options": ["Why was he being laughed at by you?", "Why is he being laughed at by you?", "Why is he laughed at by you?", "Why has he been laughed at by you?"],
+    "answer": "Why is he being laughed at by you?",
+    "explanation": "Present Continuous Interrogative। 'Why' এর পর Object (he) অনুযায়ী 'is' বসবে। Group verb 'laugh at' এর 'at' V3-এর সাথেই থাকবে।"
+  },
+  {
+    "id": 285,
+    "question": "Change the voice: He likes people calling him sir.",
+    "options": ["He likes to be called sir.", "He likes people to call him sir.", "He likes being called sir.", "He is liked to be called sir."],
+    "answer": "He likes being called sir.",
+    "explanation": "Gerund (calling) থাকলে Passive-এ 'being + V3' হয়। 'by people' বা 'people' উহ্য রাখা হয়।"
+  },
+  {
+    "id": 286,
+    "question": "Change the voice: Bring a cup of tea.",
+    "options": ["A cup of tea should be brought.", "Let a cup of tea brought.", "You are requested to bring a cup of tea.", "Let a cup of tea be brought."],
+    "answer": "Let a cup of tea be brought.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (a cup of tea) + be + V3 (brought)."
+  },
+  {
+    "id": 287,
+    "question": "Change the voice: They are repairing the road.",
+    "options": ["The road is being repaired by them.", "The road was being repaired by them.", "The road is repaired by them.", "The road has been repaired by them."],
+    "answer": "The road is being repaired by them.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। Object 'The road' এর পর 'is being' এবং 'repair'-এর 3rd form 'repaired' বসেছে।"
+  },
+  {
+    "id": 288,
+    "question": "Change the voice: His behavior surprised me.",
+    "options": ["I was surprised by his behavior.", "I was surprised at his behavior.", "I am surprised at his behavior.", "I was surprised with his behavior."],
+    "answer": "I was surprised at his behavior.",
+    "explanation": "'Surprised'-এর পর ব্যক্তির বদলে কোনো বিষয় বা আচরণ (behavior) থাকলে preposition 'at' বসে।"
+  },
+  {
+    "id": 289,
+    "question": "Change the voice: God loves all.",
+    "options": ["All was loved by God.", "All are love by God.", "All are loved by God.", "All is loved by God."],
+    "answer": "All are loved by God.",
+    "explanation": "Present Indefinite Tense। Object 'All' Plural হিসেবে ব্যবহৃত হওয়ায় 'are' এবং 'love'-এর 3rd form 'loved' বসেছে।"
+  },
+  {
+    "id": 290,
+    "question": "Change the voice: Will she draw a picture?",
+    "options": ["Will a picture drawn by her?", "Shall a picture be drawn by her?", "Would a picture be drawn by her?", "Will a picture be drawn by her?"],
+    "answer": "Will a picture be drawn by her?",
+    "explanation": "Future Indefinite Interrogative Sentence। 'a picture'-এর সাথে 'Will' বসে: Will + Object + be + V3 + by + Subject?"
+  },
+  {
+    "id": 291,
+    "question": "Change the voice: The girl is singing a song.",
+    "options": ["A song is being sung by the girl.", "A song was being sung by the girl.", "A song is sung by the girl.", "A song has been sung by the girl."],
+    "answer": "A song is being sung by the girl.",
+    "explanation": "Present Continuous Tense। 'is/are/am + being + V3' ব্যবহৃত হয়। তাই 'is being sung' সঠিক।"
+  },
+  {
+    "id": 292,
+    "question": "Change the voice: Nobody can solve it.",
+    "options": ["It cannot be solved by nobody.", "It cannot be solved.", "It can be solved by nobody.", "It could not be solved."],
+    "answer": "It cannot be solved.",
+    "explanation": "'Nobody', 'None' ইত্যাদি negative subject থাকলে Passive voice-এ negative auxiliary (cannot) বসাতে হয় এবং 'by nobody' বাদ দিতে হয়।"
+  },
+  {
+    "id": 293,
+    "question": "Change the voice: Let me do the work.",
+    "options": ["Let the work done by me.", "Let the work be do by me.", "Let the work be done by me.", "The work should be done by me."],
+    "answer": "Let the work be done by me.",
+    "explanation": "'Let' যুক্ত বাক্যের Passive গঠন: Let + Object (the work) + be + V3 (done) + by + Indirect object (me)।"
+  },
+  {
+    "id": 294,
+    "question": "Change the voice: Who has broken the plate?",
+    "options": ["By whom was the plate broken?", "By whom had the plate been broken?", "Who has the plate been broken by?", "By whom has the plate been broken?"],
+    "answer": "By whom has the plate been broken?",
+    "explanation": "Present Perfect Tense। 'Who' এর বদলে 'By whom' এবং auxiliary verb 'has' subject-এর আগে বসে।"
+  },
+  {
+    "id": 295,
+    "question": "Change the voice: I have to finish this job.",
+    "options": ["This job has to be finished by me.", "This job have to be finished by me.", "This job had to be finished by me.", "This job is to be finished by me."],
+    "answer": "This job has to be finished by me.",
+    "explanation": "'have to' থাকলে Passive-এ Object অনুযায়ী 'has to be + V3' ব্যবহৃত হয়। 'This job' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 296,
+    "question": "Change the voice: We expected him to come.",
+    "options": ["He is expected to come.", "He was expected to come.", "It is expected that he will come.", "He had been expected to come."],
+    "answer": "He was expected to come.",
+    "explanation": "Complex structure-এর ক্ষেত্রে 'him' Subject হয়ে 'He was expected' হয় এবং Infinitive অংশটি (to come) অপরিবর্তিত থাকে। (Past Tense)"
+  },
+  {
+    "id": 297,
+    "question": "Change the voice: Honey is sweet when it is tasted. (Change to Active)",
+    "options": ["Honey is tasting sweet.", "Tasted honey is sweet.", "Honey tastes sweet.", "Honey tasted sweet."],
+    "answer": "Honey tastes sweet.",
+    "explanation": "এটি Passive থেকে Active-এ রূপান্তর। Quasi-passive verb (Present Indefinite)-কে Active করতে হলে Subject (Honey) + Verb + Adjective (sweet) বসাতে হয়।"
+  },
+  {
+    "id": 298,
+    "question": "Change the voice: Prepare yourself for the exam.",
+    "options": ["Let yourself be prepared for the exam.", "You are advised to prepare yourself.", "Let the exam be prepared by you.", "Be prepared for the exam."],
+    "answer": "Be prepared for the exam.",
+    "explanation": "Reflexive pronoun যুক্ত Imperative sentence-এর ক্ষেত্রে 'Be + V3' (Be prepared) দিয়ে Passive করা হয়।"
+  },
+  {
+    "id": 299,
+    "question": "Change the voice: Do you read the newspaper daily?",
+    "options": ["Is the newspaper read by you daily?", "Was the newspaper read by you daily?", "Are the newspaper read by you daily?", "Has the newspaper been read by you daily?"],
+    "answer": "Is the newspaper read by you daily?",
+    "explanation": "Present Indefinite Interrogative sentence। Object 'the newspaper' Singular হওয়ায় Auxiliary verb 'Is' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 300,
+    "question": "Change the voice: Our army has defeated the enemy.",
+    "options": ["The enemy have been defeated by our army.", "The enemy has been defeated by our army.", "The enemy was defeated by our army.", "The enemy had been defeated by our army."],
+    "answer": "The enemy has been defeated by our army.",
+    "explanation": "Present Perfect Tense। 'The enemy' Singular Collective Noun হিসেবে ব্যবহৃত হওয়ায় 'has been' বসেছে।"
+  },
+  {
+    "id": 301,
+    "question": "Change the voice: She bought me a pen.",
+    "options": ["I was bought a pen by her.", "A pen is bought for me by her.", "I am bought a pen by her.", "I had been bought a pen by her."],
+    "answer": "I was bought a pen by her.",
+    "explanation": "Double Object (me, a pen) থাকলে ব্যক্তিবাচক Object (me)-কে Subject (I) হিসেবে ব্যবহার করা বেশি প্রচলিত। Past Indefinite Tense হওয়ায় 'was bought' বসবে।"
+  },
+  {
+    "id": 302,
+    "question": "Change the voice: Nobody has answered my question.",
+    "options": ["My question has been answered by nobody.", "My question has not been answered.", "My question was not answered.", "My question had not been answered."],
+    "answer": "My question has not been answered.",
+    "explanation": "'Nobody' negative subject হওয়ায় Passive voice-এ negative auxiliary (has not been) বসাতে হয় এবং 'by nobody' বাদ দিতে হয়।"
+  },
+  {
+    "id": 303,
+    "question": "Change the voice: They say that honesty is the best policy.",
+    "options": ["Honesty is said to be the best policy by them.", "That honesty is the best policy is said.", "It is said that honesty is the best policy.", "It was said that honesty is the best policy."],
+    "answer": "It is said that honesty is the best policy.",
+    "explanation": "Complex sentence-এ Principal Clause (They say)-এর Passive 'It is said' দিয়ে শুরু করা হয়। 'by them' উহ্য থাকে।"
+  },
+  {
+    "id": 304,
+    "question": "Change the voice: Who gave you this book?",
+    "options": ["Who was given this book by you?", "By whom was this book given you?", "By whom are you given this book?", "By whom were you given this book?"],
+    "answer": "By whom were you given this book?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয় এবং auxiliary verb (were) subject-এর আগে বসে।"
+  },
+  {
+    "id": 305,
+    "question": "Change the voice: Let us help him.",
+    "options": ["Let him be helped by us.", "Let he be helped by us.", "He should be helped by us.", "Let him helped by us."],
+    "answer": "Let him be helped by us.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া বাক্যের Passive গঠন: Let + Object (him) + be + V3 (helped) + by + us।"
+  },
+  {
+    "id": 306,
+    "question": "Change the voice: We must write to him.",
+    "options": ["He must be written by us.", "He must be written to by us.", "He must write to us.", "He must have been written to by us."],
+    "answer": "He must be written to by us.",
+    "explanation": "Modal auxiliary (must) থাকলে Passive-এ 'must be + V3' ব্যবহৃত হয়। Preposition 'to' Verb-এর সাথেই থাকবে।"
+  },
+  {
+    "id": 307,
+    "question": "Change the voice: Does he fly a kite?",
+    "options": ["Was a kite flown by him?", "Is a kite fly by him?", "Is a kite flown by him?", "Has a kite been flown by him?"],
+    "answer": "Is a kite flown by him?",
+    "explanation": "Present Indefinite Interrogative Sentence। Object 'a kite' Singular হওয়ায় Auxiliary verb 'Is' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 308,
+    "question": "Change the voice: The noise frightened the horse.",
+    "options": ["The horse is frightened by the noise.", "The horse had been frightened by the noise.", "The horse was frightened with the noise.", "The horse was frightened by the noise."],
+    "answer": "The horse was frightened by the noise.",
+    "explanation": "Past Indefinite Tense। Object 'the horse'-এর পর 'was' এবং 'frighten'-এর 3rd form 'frightened' বসেছে।"
+  },
+  {
+    "id": 309,
+    "question": "Change the voice: Keep it in the box.",
+    "options": ["Let it be kept in the box.", "It should keep in the box.", "Let it kept in the box.", "You are requested to keep it in the box."],
+    "answer": "Let it be kept in the box.",
+    "explanation": "Imperative Sentence-এ আদেশ (Order) বোঝালে Passive করার নিয়ম: Let + Object (it) + be + V3 (kept)।"
+  },
+  {
+    "id": 310,
+    "question": "Change the voice: They are throwing stones at the dog.",
+    "options": ["The dog is being thrown stones at by them.", "Stones are being thrown at the dog by them.", "Stones were being thrown at the dog by them.", "Stones are thrown at the dog by them."],
+    "answer": "Stones are being thrown at the dog by them.",
+    "explanation": "Present Continuous Tense। Prepositional Verb 'throw at'-এর ক্ষেত্রে Preposition 'at' V3-এর ঠিক পরেই বসে।"
+  },
+  {
+    "id": 311,
+    "question": "Change the voice: Have you read this novel?",
+    "options": ["Have this novel been read by you?", "Is this novel read by you?", "Has this novel been read by you?", "Was this novel read by you?"],
+    "answer": "Has this novel been read by you?",
+    "explanation": "Present Perfect Interrogative। 'this novel' Singular তাই 'Has' দিয়ে প্রশ্ন শুরু হয়েছে।"
+  },
+  {
+    "id": 312,
+    "question": "Change the voice: He has to pay the fine.",
+    "options": ["The fine have to be paid by him.", "The fine is to be paid by him.", "The fine had to be paid by him.", "The fine has to be paid by him."],
+    "answer": "The fine has to be paid by him.",
+    "explanation": "'has to' থাকলে Passive-এ Object অনুযায়ী 'has to be + V3' ব্যবহৃত হয়। 'The fine' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 313,
+    "question": "Change the voice: I was making tea.",
+    "options": ["Tea was being made by me.", "Tea is being made by me.", "Tea was made by me.", "Tea had been made by me."],
+    "answer": "Tea was being made by me.",
+    "explanation": "Past Continuous Tense-এর Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 314,
+    "question": "Change the voice: They expected him to arrive early.",
+    "options": ["He is expected to arrive early.", "He was expected to arrive early.", "It was expected him to arrive early.", "He was expected arriving early."],
+    "answer": "He was expected to arrive early.",
+    "explanation": "Complex structure-এর ক্ষেত্রে 'him' Subject হয়ে 'He was expected' হয় এবং Infinitive অংশটি (to arrive early) অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 315,
+    "question": "Change the voice: Shut the door and leave.",
+    "options": ["Let the door be shut and leave.", "The door should be shut and left.", "Let the door be shut and you are ordered to leave.", "Let the door be shut and let leave."],
+    "answer": "Let the door be shut and you are ordered to leave.",
+    "explanation": "Compound Imperative বাক্য। প্রথম অংশ 'Shut the door' থেকে 'Let the door be shut' এবং দ্বিতীয় অংশ (intransitive) 'leave' থেকে 'you are ordered to leave' হয়।"
+  },
+  {
+    "id": 316,
+    "question": "Change the voice: Do you need some help?",
+    "options": ["Was some help needed by you?", "Are some help needed by you?", "Has some help been needed by you?", "Is some help needed by you?"],
+    "answer": "Is some help needed by you?",
+    "explanation": "Present Indefinite Interrogative sentence। Object 'some help' Singular হওয়ায় Auxiliary verb 'Is' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 317,
+    "question": "Change the voice: She is typing a letter.",
+    "options": ["A letter is being typed by her.", "A letter was being typed by her.", "A letter has been typed by her.", "A letter is typed by her."],
+    "answer": "A letter is being typed by her.",
+    "explanation": "Present Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'is/are/am + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 318,
+    "question": "Change the voice: The match was won by us. (Change to Active)",
+    "options": ["We win the match.", "We won the match.", "We had won the match.", "We were winning the match."],
+    "answer": "We won the match.",
+    "explanation": "Passive থেকে Active-এ রূপান্তর। 'was won' (Past Indefinite) থাকায় Active-এ 'won' হবে এবং Object 'by us', Subject 'We' হবে।"
+  },
+  {
+    "id": 319,
+    "question": "Change the voice: I know what you mean.",
+    "options": ["What you mean is known by me.", "What is meant by you is known by me.", "What you mean is known to me.", "What is meant by you was known to me."],
+    "answer": "What you mean is known to me.",
+    "explanation": "Noun clause 'what you mean' এখানে Object। তাই Passive-এ 'What you mean is known to me' হবে। 'know'-এর পর 'to' বসে।"
+  },
+  {
+    "id": 320,
+    "question": "Change the voice: The smell of the food tempted him.",
+    "options": ["He is tempted by the smell of the food.", "He had been tempted by the smell of the food.", "He was tempted with the smell of the food.", "He was tempted by the smell of the food."],
+    "answer": "He was tempted by the smell of the food.",
+    "explanation": "Past Indefinite Tense। Object 'him' Subject 'He' হয়েছে এবং 'was tempted' বসেছে।"
+  },
+  {
+    "id": 321,
+    "question": "Change the voice: Did the police catch the thief?",
+    "options": ["Was the thief caught by the police?", "Is the thief caught by the police?", "Were the thief caught by the police?", "Did the thief caught by the police?"],
+    "answer": "Was the thief caught by the police?",
+    "explanation": "Past Indefinite Interrogative Sentence-এর ক্ষেত্রে Passive voice শুরু হয় Was/Were দিয়ে।"
+  },
+  {
+    "id": 322,
+    "question": "Change the voice: He kept his word.",
+    "options": ["His word is kept by him.", "His word was kept by him.", "His word had been kept by him.", "His word has been kept by him."],
+    "answer": "His word was kept by him.",
+    "explanation": "Past Indefinite Tense-এর Passive voice-এ 'was/were + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 323,
+    "question": "Change the voice: I will not tolerate this behavior.",
+    "options": ["This behavior would not be tolerated by me.", "This behavior is not tolerated by me.", "This behavior will not be tolerated by me.", "This behavior cannot be tolerated by me."],
+    "answer": "This behavior will not be tolerated by me.",
+    "explanation": "Modal verb 'will' এবং negative 'not' থাকায় Passive-এ 'will not be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 324,
+    "question": "Change the voice: Tell him to wait.",
+    "options": ["He should be told to wait.", "Let to wait be told him.", "You are ordered to tell him to wait.", "Let him be told to wait."],
+    "answer": "Let him be told to wait.",
+    "explanation": "Imperative sentence-এ Object এবং Infinitive থাকলে 'Let + Object + be + V3 + to wait' নিয়মে Passive করা যায়।"
+  },
+  {
+    "id": 325,
+    "question": "Change the voice: A stone struck him on the head.",
+    "options": ["He was struck on the head by a stone.", "He is struck on the head by a stone.", "He had been struck on the head by a stone.", "He was strucked on the head by a stone."],
+    "answer": "He was struck on the head by a stone.",
+    "explanation": "Past Indefinite Tense। 'strike'-এর 3rd form হলো 'struck'। Object 'him' পরিবর্তিত হয়ে 'He' হয়েছে।"
+  },
+  {
+    "id": 326,
+    "question": "Change the voice: They are building a bridge over the river.",
+    "options": ["A bridge is built over the river by them.", "A bridge is being built over the river by them.", "A bridge was being built over the river by them.", "A bridge has been built over the river by them."],
+    "answer": "A bridge is being built over the river by them.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। Object 'A bridge' এর পর 'is being' এবং 'build'-এর 3rd form 'built' বসেছে।"
+  },
+  {
+    "id": 327,
+    "question": "Change the voice: You should respect your elders.",
+    "options": ["Your elders ought to be respected.", "Your elders must be respected.", "Your elders should be respected.", "Your elders should respect."],
+    "answer": "Your elders should be respected.",
+    "explanation": "Modal auxiliary (should) থাকলে Passive-এ 'should be + V3' ব্যবহৃত হয়। 'by you' উহ্য রাখা শ্রেয়।"
+  },
+  {
+    "id": 328,
+    "question": "Change the voice: Has he done his homework?",
+    "options": ["Have his homework been done by him?", "Is his homework done by him?", "Had his homework been done by him?", "Has his homework been done by him?"],
+    "answer": "Has his homework been done by him?",
+    "explanation": "Present Perfect Interrogative। 'his homework' Singular তাই 'Has' বসেছে: Has + Object + been + V3 + by + Subject?"
+  },
+  {
+    "id": 329,
+    "question": "Change the voice: Who broke this beautiful cup?",
+    "options": ["By whom was this beautiful cup broken?", "Who was this beautiful cup broken by?", "By whom had this beautiful cup been broken?", "By whom is this beautiful cup broken?"],
+    "answer": "By whom was this beautiful cup broken?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 330,
+    "question": "Change the voice: My father will write a letter.",
+    "options": ["A letter will write by my father.", "A letter will be written by my father.", "A letter shall be written by my father.", "A letter would be written by my father."],
+    "answer": "A letter will be written by my father.",
+    "explanation": "Future Indefinite Tense-এর Passive voice-এ 'shall/will + be + V3' ব্যবহৃত হয়। 'A letter'-এর পর 'will' বসবে।"
+  },
+  {
+    "id": 331,
+    "question": "Change the voice: The tiger was chasing the deer.",
+    "options": ["The deer is being chased by the tiger.", "The deer was chased by the tiger.", "The deer was being chased by the tiger.", "The deer had been chased by the tiger."],
+    "answer": "The deer was being chased by the tiger.",
+    "explanation": "Past Continuous Tense। Object 'The deer'-এর পর 'was being' এবং 'chase'-এর 3rd form 'chased' বসেছে।"
+  },
+  {
+    "id": 332,
+    "question": "Change the voice: I can solve this problem.",
+    "options": ["This problem could be solved by me.", "This problem can solved by me.", "This problem can be solve by me.", "This problem can be solved by me."],
+    "answer": "This problem can be solved by me.",
+    "explanation": "Modal verb 'can' থাকায় 'can be + V3' বসেছে।"
+  },
+  {
+    "id": 333,
+    "question": "Change the voice: Let her sing a song.",
+    "options": ["Let a song be sung by her.", "Let a song sing by her.", "A song should be sung by her.", "Let a song is sung by her."],
+    "answer": "Let a song be sung by her.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া Active বাক্যের Passive গঠন: Let + Direct Object (a song) + be + V3 (sung) + by + Indirect Object (her)।"
+  },
+  {
+    "id": 334,
+    "question": "Change the voice: We elected him our leader.",
+    "options": ["Our leader was elected him.", "He was elected our leader.", "He is elected our leader.", "He had been elected our leader."],
+    "answer": "He was elected our leader.",
+    "explanation": "'leader' Factitive Object হওয়ায় 'him' (He) Subject হবে। Past Indefinite Tense থাকায় 'was elected' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 335,
+    "question": "Change the voice: Open your book at page ten.",
+    "options": ["Your book should be opened at page ten.", "Let your book open at page ten.", "Let your book be opened at page ten.", "You are requested to open your book at page ten."],
+    "answer": "Let your book be opened at page ten.",
+    "explanation": "আদেশমূলক (Order) Imperative বাক্যের Passive গঠন: Let + Object (your book) + be + V3 (opened)।"
+  },
+  {
+    "id": 336,
+    "question": "Change the voice: Why did he scold you?",
+    "options": ["Why was you scolded by him?", "Why did you scolded by him?", "Why are you scolded by him?", "Why were you scolded by him?"],
+    "answer": "Why were you scolded by him?",
+    "explanation": "Past Indefinite Interrogative (Why যুক্ত)। গঠন: Why + was/were + Object (you) + V3 + by + Subject?"
+  },
+  {
+    "id": 337,
+    "question": "Change the voice: People speak English all over the world.",
+    "options": ["English is spoken all over the world.", "English was spoken all over the world.", "English has been spoken all over the world.", "English is being spoken all over the world."],
+    "answer": "English is spoken all over the world.",
+    "explanation": "Present Indefinite Tense। 'People'-এর মতো সাধারণ subject থাকলে Passive-এ 'by people' সাধারণত উহ্য রাখা হয়।"
+  },
+  {
+    "id": 338,
+    "question": "Change the voice: He had finished his work before you came.",
+    "options": ["His work was finished by him before you came.", "His work had been finished by him before you came.", "His work has been finished by him before you came.", "His work had finished by him before you came."],
+    "answer": "His work had been finished by him before you came.",
+    "explanation": "Past Perfect Tense-এ Passive করার নিয়ম: Object + had been + V3। 'before you came' অংশটি অপরিবর্তিত থাকবে।"
+  },
+  {
+    "id": 339,
+    "question": "Change the voice: Whom did you see?",
+    "options": ["Who is seen by you?", "Who are seen by you?", "Who was seen by you?", "Whom was seen by you?"],
+    "answer": "Who was seen by you?",
+    "explanation": "'Whom' দিয়ে শুরু হলে Passive 'Who' দিয়ে শুরু হয় এবং Past Tense হওয়ায় 'was seen' বসে।"
+  },
+  {
+    "id": 340,
+    "question": "Change the voice: They are to sell the house.",
+    "options": ["The house is to sell by them.", "The house was to be sold by them.", "The house is to be sell by them.", "The house is to be sold by them."],
+    "answer": "The house is to be sold by them.",
+    "explanation": "'are to' থাকলে Passive-এ 'is to be / are to be + V3' হয়। 'The house' Singular তাই 'is to be' বসেছে।"
+  },
+  {
+    "id": 341,
+    "question": "Change the voice: Someone has bought the tickets.",
+    "options": ["The tickets have been bought.", "The tickets has been bought.", "The tickets were bought.", "The tickets had been bought."],
+    "answer": "The tickets have been bought.",
+    "explanation": "Present Perfect Tense। 'Someone', 'Somebody' ইত্যাদি অনির্দিষ্ট subject থাকলে Passive voice-এ 'by someone' লেখার প্রয়োজন হয় না।"
+  },
+  {
+    "id": 342,
+    "question": "Change the voice: Do you know the answer?",
+    "options": ["Is the answer known by you?", "Is the answer known to you?", "Was the answer known to you?", "Has the answer been known to you?"],
+    "answer": "Is the answer known to you?",
+    "explanation": "Present Indefinite Interrogative sentence। 'know' verb-এর পর Passive voice-এ 'by' বসে না, 'to' বসে।"
+  },
+  {
+    "id": 343,
+    "question": "Change the voice: She was singing a sweet song.",
+    "options": ["A sweet song is being sung by her.", "A sweet song was sung by her.", "A sweet song was being sung by her.", "A sweet song had been sung by her."],
+    "answer": "A sweet song was being sung by her.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 344,
+    "question": "Change the voice: Bring a glass of water for me.",
+    "options": ["A glass of water should be brought for me.", "You are requested to bring a glass of water for me.", "Let a glass of water brought for me.", "Let a glass of water be brought for me."],
+    "answer": "Let a glass of water be brought for me.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (a glass of water) + be + V3 (brought)."
+  },
+  {
+    "id": 345,
+    "question": "Change the voice: I have to do my homework.",
+    "options": ["My homework has to be done by me.", "My homework have to be done by me.", "My homework had to be done by me.", "My homework is to be done by me."],
+    "answer": "My homework has to be done by me.",
+    "explanation": "'have to' থাকলে Passive-এ Object অনুযায়ী 'has to be + V3' ব্যবহৃত হয়। 'My homework' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 346,
+    "question": "Change the voice: We called him a genius.",
+    "options": ["A genius was called to him by us.", "He was called a genius by us.", "He is called a genius by us.", "He had been called a genius by us."],
+    "answer": "He was called a genius by us.",
+    "explanation": "'genius' Factitive Object হওয়ায় 'him' Subject 'He' হয়েছে। Past Indefinite Tense থাকায় 'was called' বসেছে।"
+  },
+  {
+    "id": 347,
+    "question": "Change the voice: Why are they destroying the forest?",
+    "options": ["Why was the forest being destroyed by them?", "Why is the forest destroyed by them?", "Why is the forest being destroyed by them?", "Why has the forest been destroyed by them?"],
+    "answer": "Why is the forest being destroyed by them?",
+    "explanation": "Present Continuous Interrogative। 'Why' এর পর Object (the forest) অনুযায়ী 'is being' বসবে।"
+  },
+  {
+    "id": 348,
+    "question": "Change the voice: Nobody could help him.",
+    "options": ["He could be helped by nobody.", "He cannot be helped.", "He could not help.", "He could not be helped."],
+    "answer": "He could not be helped.",
+    "explanation": "'Nobody' negative subject হওয়ায় Passive voice-এ negative auxiliary (could not be) বসাতে হয় এবং 'by nobody' বাদ দিতে হয়।"
+  },
+  {
+    "id": 349,
+    "question": "Change the voice: Let him say whatever he likes.",
+    "options": ["Let whatever he likes be said by him.", "Whatever he likes should be said by him.", "Let whatever he likes said by him.", "Let whatever he likes be saying by him."],
+    "answer": "Let whatever he likes be said by him.",
+    "explanation": "Noun clause 'whatever he likes' Object হিসেবে ব্যবহৃত হয়েছে। Let + Object (whatever he likes) + be + V3 (said) + by him।"
+  },
+  {
+    "id": 350,
+    "question": "Change the voice: Did you write this letter?",
+    "options": ["Is this letter written by you?", "Was this letter written by you?", "Did this letter written by you?", "Has this letter been written by you?"],
+    "answer": "Was this letter written by you?",
+    "explanation": "Past Indefinite Interrogative Sentence-এর ক্ষেত্রে Passive voice শুরু হয় Was/Were দিয়ে। 'this letter' Singular তাই 'Was' বসেছে।"
+  },
+  {
+    "id": 351,
+    "question": "Change the voice: We saw him cry.",
+    "options": ["He was seen to cry.", "He was seen cry.", "He is seen to cry.", "He was crying seen by us."],
+    "answer": "He was seen to cry.",
+    "explanation": "'See', 'make', 'hear' ইত্যাদি verb-এর পর Active-এ 'to' উহ্য থাকে (bare infinitive), কিন্তু Passive voice-এ 'to' বসাতে হয় (to cry)। Past Tense থাকায় 'was seen' বসেছে।"
+  },
+  {
+    "id": 352,
+    "question": "Change the voice: Do you know the result?",
+    "options": ["Is the result known by you?", "Is the result known to you?", "Was the result known to you?", "Has the result been known to you?"],
+    "answer": "Is the result known to you?",
+    "explanation": "Present Indefinite Interrogative sentence। 'know' verb-এর পর Passive voice-এ 'by' বসে না, 'to' বসে।"
+  },
+  {
+    "id": 353,
+    "question": "Change the voice: People claim that he is a spy.",
+    "options": ["That he is a spy is claimed.", "He was claimed to be a spy.", "It is claimed that he is a spy.", "He is claimed that he is a spy."],
+    "answer": "It is claimed that he is a spy.",
+    "explanation": "Complex sentence-এ Principal Clause-এর (People claim) Passive 'It is claimed' দিয়ে শুরু করা সবচেয়ে মানানসই। 'by people' উহ্য থাকে।"
+  },
+  {
+    "id": 354,
+    "question": "Change the voice: She is writing a story.",
+    "options": ["A story was being written by her.", "A story is written by her.", "A story has been written by her.", "A story is being written by her."],
+    "answer": "A story is being written by her.",
+    "explanation": "Present Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'is/are/am + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 355,
+    "question": "Change the voice: Never deceive anyone.",
+    "options": ["Let no one ever be deceived.", "Let anyone not be deceived.", "No one should deceive.", "Let anyone never be deceived."],
+    "answer": "Let no one ever be deceived.",
+    "explanation": "Imperative sentence-এ 'Never' থাকলে Passive-এ 'Let no one ever be + V3' বা 'Let + Object + never be + V3' ব্যবহৃত হয়। এখানে প্রথম অপশনটি ব্যাকরণগতভাবে সবচেয়ে সঠিক।"
+  },
+  {
+    "id": 356,
+    "question": "Change the voice: He has completed the project.",
+    "options": ["The project was completed by him.", "The project has been completed by him.", "The project had been completed by him.", "The project is completed by him."],
+    "answer": "The project has been completed by him.",
+    "explanation": "Present Perfect Tense। Object 'The project' Singular হওয়ায় 'has been + V3' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 357,
+    "question": "Change the voice: Can she control this situation?",
+    "options": ["Could this situation be controlled by her?", "Can this situation controlled by her?", "Can this situation be controlled by her?", "Can this situation being controlled by her?"],
+    "answer": "Can this situation be controlled by her?",
+    "explanation": "Modal Interrogative। 'Can' দিয়ে শুরু হলে Passive-ও 'Can' দিয়েই হবে। গঠন: Can + Object + be + V3 + by + Subject?"
+  },
+  {
+    "id": 358,
+    "question": "Change the voice: Please help the poor.",
+    "options": ["Let the poor be helped.", "The poor should be helped.", "You are ordered to help the poor.", "You are requested to help the poor."],
+    "answer": "You are requested to help the poor.",
+    "explanation": "'Please' দিয়ে শুরু হওয়া বাক্যে অনুরোধ বোঝায়, তাই Passive voice 'You are requested to' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 359,
+    "question": "Change the voice: They will publish the book next month.",
+    "options": ["The book will be published next month.", "The book would be published next month.", "The book is being published next month.", "The book will have been published next month."],
+    "answer": "The book will be published next month.",
+    "explanation": "Future Indefinite Tense-এর Passive voice-এ 'will + be + V3' ব্যবহৃত হয়। 'by them' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 360,
+    "question": "Change the voice: He was delivering a speech.",
+    "options": ["A speech is being delivered by him.", "A speech was being delivered by him.", "A speech was delivered by him.", "A speech had been delivered by him."],
+    "answer": "A speech was being delivered by him.",
+    "explanation": "Past Continuous Tense-এর ক্ষেত্রে Passive voice-এ 'was/were + being + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 361,
+    "question": "Change the voice: Somebody had already warned him.",
+    "options": ["He was already warned.", "He has already been warned.", "He had already been warned.", "He had been already warned by somebody."],
+    "answer": "He had already been warned.",
+    "explanation": "Past Perfect Tense। 'already' Adverb-টি auxiliary verb (had) এবং been-এর মাঝে বসে। 'Somebody' উহ্য থাকে।"
+  },
+  {
+    "id": 362,
+    "question": "Change the voice: I expect you to complete this work.",
+    "options": ["It was expected for this work to be completed.", "I expect this work to be completed.", "This work is expected to complete by you.", "You are expected to complete this work."],
+    "answer": "You are expected to complete this work.",
+    "explanation": "Principal Clause 'I expect you' পরিবর্তিত হয়ে 'You are expected' হয় এবং Infinitive অংশটি (to complete this work) অপরিবর্তিত থাকে। 'by me' উহ্য।"
+  },
+  {
+    "id": 363,
+    "question": "Change the voice: Let him draw a map.",
+    "options": ["Let a map be drawn by him.", "Let a map draw by him.", "Let a map is drawn by him.", "A map should be drawn by him."],
+    "answer": "Let a map be drawn by him.",
+    "explanation": "'Let' দিয়ে শুরু হওয়া Active বাক্যের Passive গঠন: Let + Direct Object (a map) + be + V3 (drawn) + by + Indirect Object (him)।"
+  },
+  {
+    "id": 364,
+    "question": "Change the voice: Who killed the snake?",
+    "options": ["By whom the snake was killed?", "By whom was the snake killed?", "Who was the snake killed by?", "By whom had the snake been killed?"],
+    "answer": "By whom was the snake killed?",
+    "explanation": "'Who' দিয়ে শুরু হওয়া Past Indefinite প্রশ্নের Passive voice 'By whom' দিয়ে শুরু হয় এবং auxiliary verb (was) subject-এর আগে বসে।"
+  },
+  {
+    "id": 365,
+    "question": "Change the voice: Whom did you call yesterday?",
+    "options": ["Who is called by you yesterday?", "Who are called by you yesterday?", "Who was called by you yesterday?", "Whom was called by you yesterday?"],
+    "answer": "Who was called by you yesterday?",
+    "explanation": "Active voice 'Whom' দিয়ে শুরু হলে Passive 'Who' দিয়ে শুরু হয়। Past Tense হওয়ায় 'was called' বসেছে।"
+  },
+  {
+    "id": 366,
+    "question": "Change the voice: Does he help you?",
+    "options": ["Are you help by him?", "Was you helped by him?", "Is you helped by him?", "Are you helped by him?"],
+    "answer": "Are you helped by him?",
+    "explanation": "Present Indefinite Interrogative sentence। Object 'you' Plural হওয়ায় Auxiliary verb 'Are' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 367,
+    "question": "Change the voice: The news surprised everyone.",
+    "options": ["Everyone was surprised at the news.", "Everyone was surprised by the news.", "Everyone is surprised at the news.", "Everyone was surprised with the news."],
+    "answer": "Everyone was surprised at the news.",
+    "explanation": "Past Indefinite Tense। 'Surprised'-এর পর ব্যক্তির বদলে কোনো বিষয় (news) থাকলে preposition 'at' বসে।"
+  },
+  {
+    "id": 368,
+    "question": "Change the voice: It is impossible to solve this.",
+    "options": ["This is impossible to be solve.", "This is impossible to be solved.", "This is impossible to solve.", "Solving this is impossible."],
+    "answer": "This is impossible to be solved.",
+    "explanation": "'It is + adjective + infinitive' গঠনের ক্ষেত্রে Passive করার নিয়ম: Object (This) + is + adjective (impossible) + to be + V3 (solved)।"
+  },
+  {
+    "id": 369,
+    "question": "Change the voice: Keep the door closed.",
+    "options": ["The door must be kept closed.", "Let the door closed.", "Let the door be kept closed.", "You are requested to keep the door closed."],
+    "answer": "Let the door be kept closed.",
+    "explanation": "Imperative Sentence-এ আদেশ বোঝালে Passive করার নিয়ম: Let + Object (the door) + be + V3 (kept)। 'closed' এখানে Objective complement, তাই অপরিবর্তিত থাকবে।"
+  },
+  {
+    "id": 370,
+    "question": "Change the voice: His behavior annoyed me.",
+    "options": ["I was annoyed by his behavior.", "I was annoyed with his behavior.", "I am annoyed at his behavior.", "I was annoyed at his behavior."],
+    "answer": "I was annoyed at his behavior.",
+    "explanation": "'Annoyed'-এর পর ব্যক্তির ক্ষেত্রে 'with' বসে, কিন্তু কোনো আচরণ বা কাজের (behavior) ক্ষেত্রে 'at' বসে।"
+  },
+  {
+    "id": 371,
+    "question": "Change the voice: He has to write a letter.",
+    "options": ["A letter has to be written by him.", "A letter have to be written by him.", "A letter had to be written by him.", "A letter is to be written by him."],
+    "answer": "A letter has to be written by him.",
+    "explanation": "'has to' থাকলে Passive-এ Object অনুযায়ী 'has to be + V3' ব্যবহৃত হয়। 'A letter' Singular তাই 'has to be' বসেছে।"
+  },
+  {
+    "id": 372,
+    "question": "Change the voice: They are plucking flowers.",
+    "options": ["Flowers are plucked by them.", "Flowers are being plucked by them.", "Flowers were being plucked by them.", "Flowers have been plucked by them."],
+    "answer": "Flowers are being plucked by them.",
+    "explanation": "Present Continuous Tense। 'Flowers' Plural হওয়ায় 'are being' এবং 'pluck'-এর 3rd form 'plucked' বসেছে।"
+  },
+  {
+    "id": 373,
+    "question": "Change the voice: I know that he is a good boy.",
+    "options": ["That he is a good boy is known by me.", "He is known to me that he is a good boy.", "It is known to me that he is a good boy.", "It was known to me that he is a good boy."],
+    "answer": "It is known to me that he is a good boy.",
+    "explanation": "Complex sentence-এ Principal clause (I know) Present Tense-এ আছে। তাই Passive-এ 'It is known to me' হবে।"
+  },
+  {
+    "id": 374,
+    "question": "Change the voice: We elected him captain.",
+    "options": ["Captain was elected to him.", "He is elected captain by us.", "He had been elected captain.", "He was elected captain."],
+    "answer": "He was elected captain.",
+    "explanation": "'captain' Factitive Object হওয়ায় 'him' (He) Subject হবে। Past Indefinite Tense থাকায় 'was elected' ব্যবহৃত হয়েছে এবং 'by us' উহ্য।"
+  },
+  {
+    "id": 375,
+    "question": "Change the voice: I cannot agree to your proposal.",
+    "options": ["Your proposal cannot be agreed to by me.", "Your proposal cannot agreed to by me.", "Your proposal cannot be agreed by me.", "Your proposal could not be agreed to by me."],
+    "answer": "Your proposal cannot be agreed to by me.",
+    "explanation": "Modal 'cannot' থাকায় 'cannot be + V3' হবে। 'agree to' Prepositional verb তাই 'to' অপরিবর্তিত থাকবে।"
+  },
+  {
+    "id": 376,
+    "question": "Change the voice: Has he submitted the report?",
+    "options": ["Have the report been submitted by him?", "Has the report been submitted by him?", "Is the report submitted by him?", "Was the report submitted by him?"],
+    "answer": "Has the report been submitted by him?",
+    "explanation": "Present Perfect Interrogative। 'the report' Singular তাই 'Has' বসেছে: Has + Object + been + V3 + by + Subject?"
+  },
+  {
+    "id": 377,
+    "question": "Change the voice: Post this letter.",
+    "options": ["This letter should be posted.", "Let this letter posted.", "Let this letter be posted.", "You are requested to post this letter."],
+    "answer": "Let this letter be posted.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (this letter) + be + V3 (posted)."
+  },
+  {
+    "id": 378,
+    "question": "Change the voice: What are you doing?",
+    "options": ["What is done by you?", "What was being done by you?", "What are being done by you?", "What is being done by you?"],
+    "answer": "What is being done by you?",
+    "explanation": "'What' নিজেই Object হলে Passive-এ Subject হিসেবে বসে। Present Continuous হওয়ায় 'is being + V3' বসেছে।"
+  },
+  {
+    "id": 379,
+    "question": "Change the voice: The master ordered the servant to leave the room.",
+    "options": ["The servant was ordered by the master to leave the room.", "The servant is ordered by the master to leave the room.", "To leave the room was ordered by the master to the servant.", "The servant was ordered to leave the room."],
+    "answer": "The servant was ordered by the master to leave the room.",
+    "explanation": "Principal Clause 'The master ordered the servant'-কে Passive করা হয়েছে 'The servant was ordered by the master'। Infinitive অংশটি অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 380,
+    "question": "Change the voice: My mother is cooking dinner.",
+    "options": ["Dinner is cooked by my mother.", "Dinner is being cooked by my mother.", "Dinner was being cooked by my mother.", "Dinner has been cooked by my mother."],
+    "answer": "Dinner is being cooked by my mother.",
+    "explanation": "Present Continuous Tense। Object 'Dinner'-এর পর 'is being' এবং 'cook'-এর 3rd form 'cooked' বসেছে।"
+  },
+  {
+    "id": 381,
+    "question": "Change the voice: People built this bridge in 1990.",
+    "options": ["This bridge is built in 1990.", "This bridge had been built in 1990.", "This bridge was built in 1990.", "This bridge was being built in 1990."],
+    "answer": "This bridge was built in 1990.",
+    "explanation": "Past Indefinite Tense। 'People' সাধারণ subject হওয়ায় 'by people' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 382,
+    "question": "Change the voice: The book is printing.",
+    "options": ["The book is being print.", "The book was being printed.", "The book is printed.", "The book is being printed."],
+    "answer": "The book is being printed.",
+    "explanation": "Quasi-passive (continuous) এর ক্ষেত্রে: Object/Subject (The book) + is being + V3 (printed)।"
+  },
+  {
+    "id": 383,
+    "question": "Change the voice: They made him cry.",
+    "options": ["He was made to cry.", "He was made cry.", "He is made to cry.", "He was made to crying."],
+    "answer": "He was made to cry.",
+    "explanation": "'Make' verb-এর পর Active-এ 'to' উহ্য থাকে (bare infinitive), কিন্তু Passive voice-এ 'to' বসাতে হয় (to cry)। Past Tense থাকায় 'was made' বসেছে।"
+  },
+  {
+    "id": 384,
+    "question": "Change the voice: He teaches us grammar.",
+    "options": ["Grammar is taught us by him.", "We are taught grammar by him.", "We were taught grammar by him.", "We are being taught grammar by him."],
+    "answer": "We are taught grammar by him.",
+    "explanation": "Double Object (us, grammar) থাকলে ব্যক্তিবাচক Object (us)-কে Subject (We) হিসেবে ব্যবহার করে Passive করা বেশি প্রচলিত।"
+  },
+  {
+    "id": 385,
+    "question": "Change the voice: Someone has cut the telephone wires.",
+    "options": ["The telephone wires has been cut.", "The telephone wires had been cut.", "The telephone wires have been cut.", "The telephone wires are cut."],
+    "answer": "The telephone wires have been cut.",
+    "explanation": "Present Perfect Tense। 'The telephone wires' Plural হওয়ায় 'have been' বসেছে এবং 'cut' এর V3 'cut' ই থাকে।"
+  },
+  {
+    "id": 386,
+    "question": "Change the voice: Do not insult the poor.",
+    "options": ["Let not the poor insulted.", "Let the poor not be insult.", "The poor should not be insulted.", "Let not the poor be insulted."],
+    "answer": "Let not the poor be insulted.",
+    "explanation": "Negative Imperative বাক্যের Passive গঠন: Let not + Object (the poor) + be + V3 (insulted)।"
+  },
+  {
+    "id": 387,
+    "question": "Change the voice: You must obey your parents.",
+    "options": ["Your parents must be obeyed by you.", "Your parents should be obeyed by you.", "Your parents must obey by you.", "Your parents must have been obeyed."],
+    "answer": "Your parents must be obeyed by you.",
+    "explanation": "Modal auxiliary (must) থাকলে Passive-এ 'must be + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 388,
+    "question": "Change the voice: I had seen him before.",
+    "options": ["He was seen by me before.", "He had been seen by me before.", "He has been seen by me before.", "He had seen by me before."],
+    "answer": "He had been seen by me before.",
+    "explanation": "Past Perfect Tense-এ Passive করার নিয়ম: Object (He) + had been + V3 (seen) + by + Subject (me)।"
+  },
+  {
+    "id": 389,
+    "question": "Change the voice: The jar contains milk.",
+    "options": ["Milk is contained by the jar.", "Milk was contained in the jar.", "Milk is contained in the jar.", "Milk is contained with the jar."],
+    "answer": "Milk is contained in the jar.",
+    "explanation": "'Contain' verb-এর পর Passive voice-এ 'by' না বসে 'in' Preposition বসে। (contained in)"
+  },
+  {
+    "id": 390,
+    "question": "Change the voice: The police were investigating the matter.",
+    "options": ["The matter was investigated by the police.", "The matter is being investigated by the police.", "The matter had been investigated by the police.", "The matter was being investigated by the police."],
+    "answer": "The matter was being investigated by the police.",
+    "explanation": "Past Continuous Tense-এর Passive গঠন। Object 'The matter' এর পর 'was being' এবং 'investigate'-এর 3rd form 'investigated' বসেছে।"
+  },
+  {
+    "id": 391,
+    "question": "Change the voice: The child broke the toy.",
+    "options": ["The toy was broken by the child.", "The toy is broken by the child.", "The toy was broke by the child.", "The toy had been broken by the child."],
+    "answer": "The toy was broken by the child.",
+    "explanation": "Past Indefinite Tense-এর Passive voice-এ 'was/were + V3' ব্যবহৃত হয়। 'break'-এর V3 হলো 'broken'।"
+  },
+  {
+    "id": 392,
+    "question": "Change the voice: Are they playing cricket?",
+    "options": ["Was cricket being played by them?", "Is cricket being played by them?", "Is cricket played by them?", "Has cricket been played by them?"],
+    "answer": "Is cricket being played by them?",
+    "explanation": "Present Continuous Interrogative Sentence-এর ক্ষেত্রে 'is/are + object + being + V3 + by + subject' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 393,
+    "question": "Change the voice: Close the door at once.",
+    "options": ["Let the door close at once.", "You are requested to close the door at once.", "Let the door be closed at once.", "The door should be closed at once."],
+    "answer": "Let the door be closed at once.",
+    "explanation": "Imperative (Order) Sentence। Let + Object (the door) + be + V3 (closed) + at once."
+  },
+  {
+    "id": 394,
+    "question": "Change the voice: Who has seen the wind?",
+    "options": ["By whom the wind has been seen?", "By whom had the wind been seen?", "Who has the wind been seen by?", "By whom has the wind been seen?"],
+    "answer": "By whom has the wind been seen?",
+    "explanation": "Present Perfect Tense। 'Who' এর বদলে 'By whom' এবং auxiliary verb 'has' subject-এর আগে বসে।"
+  },
+  {
+    "id": 395,
+    "question": "Change the voice: We should not laugh at the lame man.",
+    "options": ["The lame man should not be laughed.", "Let not the lame man be laughed at.", "The lame man should not be laughed at.", "The lame man should not laughed at."],
+    "answer": "The lame man should not be laughed at.",
+    "explanation": "Modal verb 'should not' থাকায় 'should not be + V3' হবে। Group verb 'laugh at'-এর 'at' V3-এর সাথেই থাকবে।"
+  },
+  {
+    "id": 396,
+    "question": "Change the voice: I am reading a novel.",
+    "options": ["A novel was being read by me.", "A novel is read by me.", "A novel has been read by me.", "A novel is being read by me."],
+    "answer": "A novel is being read by me.",
+    "explanation": "Present Continuous Tense-এর Passive গঠন। Object 'A novel' এর পর 'is being' এবং 'read'-এর 3rd form (read) বসেছে।"
+  },
+  {
+    "id": 397,
+    "question": "Change the voice: Did the sound frighten you?",
+    "options": ["Was you frightened by the sound?", "Are you frightened by the sound?", "Were you frightened by the sound?", "Did you frightened by the sound?"],
+    "answer": "Were you frightened by the sound?",
+    "explanation": "Past Indefinite Interrogative। 'you' Object হিসেবে Plural, তাই 'Were' দিয়ে বাক্য শুরু হবে। Were + you + V3 + by + Subject?"
+  },
+  {
+    "id": 398,
+    "question": "Change the voice: The committee elected him President.",
+    "options": ["President was elected him.", "He is elected President.", "He had been elected President.", "He was elected President."],
+    "answer": "He was elected President.",
+    "explanation": "'President' Factitive Object হওয়ায় 'him' (He) Subject হবে। Past Indefinite Tense থাকায় 'was elected' ব্যবহৃত হয়েছে এবং 'by the committee' উহ্য।"
+  },
+  {
+    "id": 399,
+    "question": "Change the voice: Someone gave me a ticket.",
+    "options": ["A ticket is given me by someone.", "I was given a ticket by someone.", "I was given a ticket.", "I am given a ticket."],
+    "answer": "I was given a ticket.",
+    "explanation": "Double Object (me, a ticket) এর ক্ষেত্রে ব্যক্তিবাচক object-কে Subject করা বেশি প্রচলিত। এটি Past Indefinite Tense, তাই 'was given' বসেছে এবং 'by someone' উহ্য রাখা হয়েছে।"
+  },
+  {
+    "id": 400,
+    "question": "Change the voice: It is time to say our prayers.",
+    "options": ["It is time for our prayers to say.", "It is time to our prayers be said.", "It is time that our prayers should be said.", "It is time for our prayers to be said."],
+    "answer": "It is time for our prayers to be said.",
+    "explanation": "'It is time to...' যুক্ত বাক্যের Passive গঠন: It is time + for + Object (our prayers) + to be + V3 (said)।"
+  }
+]

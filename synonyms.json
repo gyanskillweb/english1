@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct synonym for the word: ABANDON",
+    "options": ["Forsake", "Keep", "Cherish", "Retain"],
+    "answer": "Forsake",
+    "explanation": "'Abandon' (ত্যাগ করা বা বর্জন করা)-এর সমার্থক শব্দ হলো 'Forsake'। অন্যান্য অপশন: Keep (রাখা), Cherish (লালন করা), Retain (ধরে রাখা)।"
+  },
+  {
+    "id": 2,
+    "question": "What is the synonym of 'ABUNDANT'?",
+    "options": ["Scarce", "Plentiful", "Rare", "Limited"],
+    "answer": "Plentiful",
+    "explanation": "'Abundant' (প্রচুর বা বিপুল)-এর সমার্থক শব্দ 'Plentiful'। Scarce এবং Rare মানে বিরল, Limited মানে সীমিত।"
+  },
+  {
+    "id": 3,
+    "question": "Select the correct synonym for: CANDID",
+    "options": ["Deceitful", "Artful", "Frank", "Sly"],
+    "answer": "Frank",
+    "explanation": "'Candid' (অকপট বা স্পষ্টবক্তা)-এর সমার্থক শব্দ হলো 'Frank'। বাকি শব্দগুলো (Deceitful, Artful, Sly) ধূর্ত বা প্রতারণাপূর্ণ অর্থ প্রকাশ করে।"
+  },
+  {
+    "id": 4,
+    "question": "Find the synonym of the given word: DILIGENT",
+    "options": ["Lazy", "Lethargic", "Idle", "Industrious"],
+    "answer": "Industrious",
+    "explanation": "'Diligent' (পরিশ্রমী বা অধ্যবসায়ী)-এর সমার্থক 'Industrious'। Lazy, Lethargic এবং Idle-এর অর্থ অলস।"
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct synonym for: ENIGMATIC",
+    "options": ["Mysterious", "Clear", "Obvious", "Plain"],
+    "answer": "Mysterious",
+    "explanation": "'Enigmatic' (রহস্যময় বা দুর্বোধ্য)-এর সঠিক সমার্থক 'Mysterious'। Clear, Obvious এবং Plain মানে স্পষ্ট।"
+  },
+  {
+    "id": 6,
+    "question": "What is the synonym of 'FRUGAL'?",
+    "options": ["Extravagant", "Thrifty", "Wasteful", "Lavish"],
+    "answer": "Thrifty",
+    "explanation": "'Frugal' (মিতব্যয়ী বা হিসেবি)-এর সমার্থক শব্দ 'Thrifty'। Extravagant, Wasteful এবং Lavish হলো অপব্যয়ী।"
+  },
+  {
+    "id": 7,
+    "question": "Select the synonym of: GARRULOUS",
+    "options": ["Quiet", "Silent", "Talkative", "Mute"],
+    "answer": "Talkative",
+    "explanation": "'Garrulous' (বাচাল বা যে বেশি কথা বলে)-এর সমার্থক শব্দ 'Talkative'। Quiet, Silent এবং Mute মানে চুপচাপ।"
+  },
+  {
+    "id": 8,
+    "question": "Find the synonym of the given word: HAUGHTY",
+    "options": ["Humble", "Modest", "Meek", "Arrogant"],
+    "answer": "Arrogant",
+    "explanation": "'Haughty' (অহংকারী বা উদ্ধত)-এর সমার্থক 'Arrogant'। Humble, Modest এবং Meek মানে বিনয়ী।"
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct synonym for: INEVITABLE",
+    "options": ["Unavoidable", "Uncertain", "Doubtful", "Escapable"],
+    "answer": "Unavoidable",
+    "explanation": "'Inevitable' (অনিবার্য বা যা এড়ানো যায় না)-এর সমার্থক শব্দ 'Unavoidable'। Uncertain মানে অনিশ্চিত।"
+  },
+  {
+    "id": 10,
+    "question": "What is the synonym of 'JUBILANT'?",
+    "options": ["Sorrowful", "Rejoicing", "Depressed", "Gloomy"],
+    "answer": "Rejoicing",
+    "explanation": "'Jubilant' (উল্লসিত বা আনন্দিত)-এর সমার্থক 'Rejoicing'। Sorrowful, Depressed এবং Gloomy মানে বিষণ্ণ বা দুঃখিত।"
+  },
+  {
+    "id": 11,
+    "question": "Select the correct synonym for: LETHARGIC",
+    "options": ["Active", "Energetic", "Sluggish", "Lively"],
+    "answer": "Sluggish",
+    "explanation": "'Lethargic' (অলস বা নিস্তেজ)-এর সমার্থক শব্দ 'Sluggish'। Active, Energetic এবং Lively মানে কর্মক্ষম বা প্রাণবন্ত।"
+  },
+  {
+    "id": 12,
+    "question": "Find the synonym of the given word: MITIGATE",
+    "options": ["Aggravate", "Intensify", "Increase", "Lessen"],
+    "answer": "Lessen",
+    "explanation": "'Mitigate' (প্রশমিত করা বা কমানো)-এর সমার্থক 'Lessen'। Aggravate বা Intensify মানে পরিস্থিতি আরও খারাপ করা।"
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct synonym for: NOTORIOUS",
+    "options": ["Infamous", "Famous", "Renowned", "Honorable"],
+    "answer": "Infamous",
+    "explanation": "'Notorious' (কুখ্যাত)-এর সমার্থক শব্দ হলো 'Infamous'। Famous এবং Renowned মানে বিখ্যাত বা সুপরিচিত।"
+  },
+  {
+    "id": 14,
+    "question": "What is the synonym of 'OBSCURE'?",
+    "options": ["Clear", "Unclear", "Distinct", "Apparent"],
+    "answer": "Unclear",
+    "explanation": "'Obscure' (অস্পষ্ট বা দুর্বোধ্য)-এর সমার্থক 'Unclear'। Clear, Distinct এবং Apparent মানে খুব স্পষ্ট।"
+  },
+  {
+    "id": 15,
+    "question": "Select the synonym for: PRAGMATIC",
+    "options": ["Idealistic", "Impractical", "Practical", "Unrealistic"],
+    "answer": "Practical",
+    "explanation": "'Pragmatic' (বাস্তববাদী বা প্রায়োগিক)-এর সমার্থক শব্দ 'Practical'। Idealistic এবং Impractical মানে অবাস্তব।"
+  },
+  {
+    "id": 16,
+    "question": "Find the synonym of the given word: QUAINT",
+    "options": ["Modern", "Contemporary", "Ordinary", "Charming"],
+    "answer": "Charming",
+    "explanation": "'Quaint' (আকর্ষণীয়ভাবে অদ্ভুত বা পুরনো ধাঁচের সুন্দর)-এর সমার্থক 'Charming'। Modern মানে আধুনিক।"
+  },
+  {
+    "id": 17,
+    "question": "Choose the correct synonym for: RELUCTANT",
+    "options": ["Unwilling", "Eager", "Enthusiastic", "Ready"],
+    "answer": "Unwilling",
+    "explanation": "'Reluctant' (অনিচ্ছুক)-এর সমার্থক শব্দ হলো 'Unwilling'। Eager এবং Enthusiastic মানে প্রবল আগ্রহী।"
+  },
+  {
+    "id": 18,
+    "question": "What is the synonym of 'SPORADIC'?",
+    "options": ["Continuous", "Irregular", "Frequent", "Constant"],
+    "answer": "Irregular",
+    "explanation": "'Sporadic' (বিক্ষিপ্ত বা অনিয়মিত)-এর সমার্থক 'Irregular'। Continuous এবং Constant মানে একটানা।"
+  },
+  {
+    "id": 19,
+    "question": "Select the correct synonym for: TENACIOUS",
+    "options": ["Weak", "Fragile", "Persistent", "Yielding"],
+    "answer": "Persistent",
+    "explanation": "'Tenacious' (নাছোড়বান্দা বা দৃঢ়প্রতিজ্ঞ)-এর সমার্থক 'Persistent'। Weak এবং Fragile মানে দুর্বল।"
+  },
+  {
+    "id": 20,
+    "question": "Find the synonym of the given word: UBIQUITOUS",
+    "options": ["Rare", "Scarce", "Uncommon", "Omnipresent"],
+    "answer": "Omnipresent",
+    "explanation": "'Ubiquitous' (সর্বব্যাপী বা সব জায়গায় উপস্থিত)-এর সমার্থক 'Omnipresent'। Rare এবং Scarce মানে বিরল।"
+  },
+  {
+    "id": 21,
+    "question": "Choose the correct synonym for: VENERATE",
+    "options": ["Respect", "Despise", "Disregard", "Insult"],
+    "answer": "Respect",
+    "explanation": "'Venerate' (গভীর শ্রদ্ধা করা)-এর সমার্থক হলো 'Respect'। Despise বা Insult মানে ঘৃণা বা অপমান করা।"
+  },
+  {
+    "id": 22,
+    "question": "What is the synonym of 'WARY'?",
+    "options": ["Careless", "Cautious", "Reckless", "Rash"],
+    "answer": "Cautious",
+    "explanation": "'Wary' (সতর্ক বা সাবধানী)-এর সমার্থক 'Cautious'। Careless, Reckless এবং Rash মানে বেপরোয়া।"
+  },
+  {
+    "id": 23,
+    "question": "Select the synonym of: ZENITH",
+    "options": ["Bottom", "Base", "Pinnacle", "Nadir"],
+    "answer": "Pinnacle",
+    "explanation": "'Zenith' (শীর্ষবিন্দু বা সর্বোচ্চ চূড়া)-এর সমার্থক শব্দ 'Pinnacle'। Nadir এবং Bottom মানে সর্বনিম্ন বিন্দু।"
+  },
+  {
+    "id": 24,
+    "question": "Find the synonym of the given word: ACUMEN",
+    "options": ["Stupidity", "Ignorance", "Inability", "Insight"],
+    "answer": "Insight",
+    "explanation": "'Acumen' (তীক্ষ্ণ বুদ্ধি বা অন্তর্দৃষ্টি)-এর সমার্থক 'Insight'। Stupidity এবং Ignorance মানে বোকামি বা অজ্ঞতা।"
+  },
+  {
+    "id": 25,
+    "question": "Choose the correct synonym for: BANAL",
+    "options": ["Trite", "Original", "Fresh", "New"],
+    "answer": "Trite",
+    "explanation": "'Banal' (গতানুগতিক বা বৈচিত্র্যহীন)-এর সমার্থক শব্দ 'Trite'। Original, Fresh এবং New মানে নতুন বা অভিনব।"
+  },
+  {
+    "id": 26,
+    "question": "What is the synonym of 'CACOPHONY'?",
+    "options": ["Harmony", "Dissonance", "Melody", "Symphony"],
+    "answer": "Dissonance",
+    "explanation": "'Cacophony' (কর্কশ শব্দ বা কোলাহল)-এর সমার্থক 'Dissonance'। Harmony এবং Melody মানে সুমধুর সুর।"
+  },
+  {
+    "id": 27,
+    "question": "Select the correct synonym for: DERIDE",
+    "options": ["Praise", "Compliment", "Ridicule", "Flatter"],
+    "answer": "Ridicule",
+    "explanation": "'Deride' (উপহাস করা বা ঠাট্টা করা)-এর সমার্থক 'Ridicule'। Praise বা Compliment মানে প্রশংসা করা।"
+  },
+  {
+    "id": 28,
+    "question": "Find the synonym of the given word: ELOQUENT",
+    "options": ["Inarticulate", "Hesitant", "Mumbling", "Articulate"],
+    "answer": "Articulate",
+    "explanation": "'Eloquent' (বাকপটু বা স্পষ্টভাষী)-এর সমার্থক 'Articulate'। Inarticulate বা Mumbling মানে অস্পষ্টভাবে কথা বলা।"
+  },
+  {
+    "id": 29,
+    "question": "Choose the correct synonym for: FASTIDIOUS",
+    "options": ["Meticulous", "Careless", "Sloppy", "Lax"],
+    "answer": "Meticulous",
+    "explanation": "'Fastidious' (খুঁতখুঁতে বা খুঁটিনাটি বিষয়ে অত্যন্ত সতর্ক)-এর সমার্থক 'Meticulous'। Careless এবং Sloppy মানে অসতর্ক।"
+  },
+  {
+    "id": 30,
+    "question": "What is the synonym of 'GREGARIOUS'?",
+    "options": ["Introverted", "Sociable", "Aloof", "Isolated"],
+    "answer": "Sociable",
+    "explanation": "'Gregarious' (মিশুকে বা দলবদ্ধভাবে থাকতে পছন্দ করে এমন)-এর সমার্থক 'Sociable'। Introverted বা Aloof মানে একাকী বা নির্জনতাপ্রিয়।"
+  },
+  {
+    "id": 31,
+    "question": "Select the synonym of: HOSTILE",
+    "options": ["Friendly", "Welcoming", "Antagonistic", "Amiable"],
+    "answer": "Antagonistic",
+    "explanation": "'Hostile' (শত্রুভাবাপন্ন)-এর সমার্থক শব্দ 'Antagonistic'। Friendly এবং Amiable মানে বন্ধুত্বপূর্ণ।"
+  },
+  {
+    "id": 32,
+    "question": "Find the synonym of the given word: IMPECCABLE",
+    "options": ["Defective", "Flawed", "Imperfect", "Flawless"],
+    "answer": "Flawless",
+    "explanation": "'Impeccable' (নিখুঁত বা ত্রুটিহীন)-এর সমার্থক 'Flawless'। Defective এবং Flawed মানে ত্রুটিযুক্ত।"
+  },
+  {
+    "id": 33,
+    "question": "Choose the correct synonym for: JEOPARDIZE",
+    "options": ["Endanger", "Protect", "Save", "Guard"],
+    "answer": "Endanger",
+    "explanation": "'Jeopardize' (বিপন্ন করা বা ঝুঁকিতে ফেলা)-এর সমার্থক 'Endanger'। Protect, Save এবং Guard মানে রক্ষা করা।"
+  },
+  {
+    "id": 34,
+    "question": "What is the synonym of 'KINDLE'?",
+    "options": ["Extinguish", "Ignite", "Quench", "Smother"],
+    "answer": "Ignite",
+    "explanation": "'Kindle' (আগুন জ্বালানো বা উদ্দীপিত করা)-এর সমার্থক 'Ignite'। Extinguish বা Quench মানে নিভিয়ে দেওয়া।"
+  },
+  {
+    "id": 35,
+    "question": "Select the correct synonym for: LUCID",
+    "options": ["Confusing", "Muddled", "Clear", "Vague"],
+    "answer": "Clear",
+    "explanation": "'Lucid' (সহজবোধ্য বা স্পষ্ট)-এর সমার্থক শব্দ 'Clear'। Confusing এবং Vague মানে অস্পষ্ট বা বিভ্রান্তিকর।"
+  },
+  {
+    "id": 36,
+    "question": "Find the synonym of the given word: NOVICE",
+    "options": ["Expert", "Professional", "Veteran", "Beginner"],
+    "answer": "Beginner",
+    "explanation": "'Novice' (শিক্ষানবিশ বা নতুন)-এর সমার্থক 'Beginner'। Expert এবং Veteran মানে অভিজ্ঞ বা বিশেষজ্ঞ।"
+  },
+  {
+    "id": 37,
+    "question": "Choose the correct synonym for: OPAQUE",
+    "options": ["Cloudy", "Transparent", "Clear", "Translucent"],
+    "answer": "Cloudy",
+    "explanation": "'Opaque' (অস্বচ্ছ বা যার মধ্যে দিয়ে আলো যায় না)-এর সমার্থক 'Cloudy' বা Obscure। Transparent মানে স্বচ্ছ।"
+  },
+  {
+    "id": 38,
+    "question": "What is the synonym of 'PLACID'?",
+    "options": ["Turbulent", "Calm", "Agitated", "Violent"],
+    "answer": "Calm",
+    "explanation": "'Placid' (শান্ত বা সমাহিত)-এর সমার্থক শব্দ 'Calm'। Turbulent বা Agitated মানে অশান্ত বা বিক্ষুব্ধ।"
+  },
+  {
+    "id": 39,
+    "question": "Select the synonym of: QUELL",
+    "options": ["Provoke", "Incite", "Suppress", "Agitate"],
+    "answer": "Suppress",
+    "explanation": "'Quell' (দমন করা বা শান্ত করা)-এর সমার্থক 'Suppress'। Provoke এবং Incite মানে উসকানি দেওয়া।"
+  },
+  {
+    "id": 40,
+    "question": "Find the synonym of the given word: RESILIENT",
+    "options": ["Vulnerable", "Rigid", "Fragile", "Flexible"],
+    "answer": "Flexible",
+    "explanation": "'Resilient' (স্থিতিস্থাপক বা যে সহজে আঘাত সামলে উঠতে পারে)-এর সমার্থক 'Flexible'। Rigid মানে অনমনীয় এবং Fragile মানে ভঙ্গুর।"
+  },
+  {
+    "id": 41,
+    "question": "Choose the correct synonym for: SCRUTINIZE",
+    "options": ["Examine", "Ignore", "Neglect", "Overlook"],
+    "answer": "Examine",
+    "explanation": "'Scrutinize' (তন্ন তন্ন করে পরীক্ষা করা)-এর সমার্থক 'Examine'। Ignore বা Overlook মানে এড়িয়ে যাওয়া।"
+  },
+  {
+    "id": 42,
+    "question": "What is the synonym of 'TRANSIENT'?",
+    "options": ["Permanent", "Temporary", "Enduring", "Perpetual"],
+    "answer": "Temporary",
+    "explanation": "'Transient' (ক্ষণস্থায়ী)-এর সমার্থক শব্দ 'Temporary'। Permanent, Enduring এবং Perpetual মানে চিরস্থায়ী।"
+  },
+  {
+    "id": 43,
+    "question": "Select the correct synonym for: UNCOUTH",
+    "options": ["Polite", "Refined", "Coarse", "Elegant"],
+    "answer": "Coarse",
+    "explanation": "'Uncouth' (অভদ্র বা অমার্জিত)-এর সমার্থক শব্দ 'Coarse'। Polite, Refined এবং Elegant মানে ভদ্র ও মার্জিত।"
+  },
+  {
+    "id": 44,
+    "question": "Find the synonym of the given word: VORACIOUS",
+    "options": ["Satisfied", "Full", "Quenched", "Insatiable"],
+    "answer": "Insatiable",
+    "explanation": "'Voracious' (রাক্ষুসে বা অতৃপ্ত)-এর সমার্থক 'Insatiable' (যাকে তৃপ্ত করা যায় না)। Satisfied মানে সন্তুষ্ট।"
+  },
+  {
+    "id": 45,
+    "question": "Choose the correct synonym for: WHIMSICAL",
+    "options": ["Capricious", "Sensible", "Practical", "Serious"],
+    "answer": "Capricious",
+    "explanation": "'Whimsical' (খেয়ালি বা খামখেয়ালি)-এর সমার্থক 'Capricious'। Sensible এবং Practical মানে বাস্তববাদী।"
+  },
+  {
+    "id": 46,
+    "question": "What is the synonym of 'YIELD'?",
+    "options": ["Resist", "Surrender", "Defy", "Oppose"],
+    "answer": "Surrender",
+    "explanation": "'Yield' (নতি স্বীকার করা বা বশ্যতা স্বীকার করা)-এর সমার্থক 'Surrender'। Resist বা Defy মানে প্রতিরোধ করা।"
+  },
+  {
+    "id": 47,
+    "question": "Select the synonym of: ZEAL",
+    "options": ["Apathy", "Indifference", "Passion", "Lethargy"],
+    "answer": "Passion",
+    "explanation": "'Zeal' (প্রবল উৎসাহ বা উদ্দীপনা)-এর সমার্থক শব্দ 'Passion'। Apathy এবং Indifference মানে অনীহা বা উদাসীনতা।"
+  },
+  {
+    "id": 48,
+    "question": "Find the synonym of the given word: ADVERSITY",
+    "options": ["Prosperity", "Fortune", "Success", "Misfortune"],
+    "answer": "Misfortune",
+    "explanation": "'Adversity' (দুর্দশা বা প্রতিকূল অবস্থা)-এর সমার্থক 'Misfortune'। Prosperity এবং Success মানে সমৃদ্ধি ও সাফল্য।"
+  },
+  {
+    "id": 49,
+    "question": "Choose the correct synonym for: BENEVOLENT",
+    "options": ["Kind", "Cruel", "Malicious", "Unkind"],
+    "answer": "Kind",
+    "explanation": "'Benevolent' (দয়ালু বা হিতৈষী)-এর সমার্থক শব্দ 'Kind'। Cruel, Malicious এবং Unkind মানে নিষ্ঠুর বা ক্ষতিকর।"
+  },
+  {
+    "id": 50,
+    "question": "What is the synonym of 'CAPACIOUS'?",
+    "options": ["Cramped", "Spacious", "Tiny", "Narrow"],
+    "answer": "Spacious",
+    "explanation": "'Capacious' (প্রশান্ত বা বিশাল ধারণক্ষমতাসম্পন্ন)-এর সমার্থক 'Spacious'। Cramped, Tiny এবং Narrow মানে সঙ্কুচিত বা ছোট।"
+  },
+  {
+    "id": 51,
+    "question": "Choose the correct synonym for the word: DEFER",
+    "options": ["Postpone", "Accelerate", "Hasten", "Expedite"],
+    "answer": "Postpone",
+    "explanation": "'Defer' (মুলতুবি করা বা স্থগিত রাখা)-এর সমার্থক শব্দ হলো 'Postpone'। Accelerate, Hasten এবং Expedite-এর অর্থ দ্রুততর করা।"
+  },
+  {
+    "id": 52,
+    "question": "What is the synonym of 'EMBELLISH'?",
+    "options": ["Spoil", "Decorate", "Blemish", "Deface"],
+    "answer": "Decorate",
+    "explanation": "'Embellish' (সজ্জিত করা বা অলংকৃত করা)-এর সমার্থক শব্দ 'Decorate'। Spoil, Blemish এবং Deface মানে নষ্ট বা বিকৃত করা।"
+  },
+  {
+    "id": 53,
+    "question": "Select the correct synonym for: FURTIVE",
+    "options": ["Open", "Honest", "Secretive", "Direct"],
+    "answer": "Secretive",
+    "explanation": "'Furtive' (চুরি-করা, গোপন বা অলক্ষ্য)-এর সমার্থক শব্দ হলো 'Secretive'। Open, Honest এবং Direct মানে প্রকাশ্য বা অকপট।"
+  },
+  {
+    "id": 54,
+    "question": "Find the synonym of the given word: GUILE",
+    "options": ["Honesty", "Frankness", "Sincerity", "Deceit"],
+    "answer": "Deceit",
+    "explanation": "'Guile' (ছলনা বা প্রতারণা)-এর সমার্থক 'Deceit'। Honesty, Frankness এবং Sincerity মানে সততা বা আন্তরিকতা।"
+  },
+  {
+    "id": 55,
+    "question": "Choose the correct synonym for: HINDER",
+    "options": ["Impede", "Assist", "Facilitate", "Help"],
+    "answer": "Impede",
+    "explanation": "'Hinder' (বাধা দেওয়া বা ব্যাহত করা)-এর সমার্থক 'Impede'। Assist, Facilitate এবং Help মানে সাহায্য করা বা সহজতর করা।"
+  },
+  {
+    "id": 56,
+    "question": "What is the synonym of 'INDUSTRIOUS'?",
+    "options": ["Lazy", "Hardworking", "Idle", "Sluggish"],
+    "answer": "Hardworking",
+    "explanation": "'Industrious' (পরিশ্রমী)-এর সমার্থক 'Hardworking'। Lazy, Idle এবং Sluggish মানে অলস বা কুঁড়ে।"
+  },
+  {
+    "id": 57,
+    "question": "Select the synonym of: JOVIAL",
+    "options": ["Sad", "Gloomy", "Cheerful", "Depressed"],
+    "answer": "Cheerful",
+    "explanation": "'Jovial' (প্রফুল্ল বা হাসিখুশি)-এর সমার্থক শব্দ 'Cheerful'। Sad, Gloomy এবং Depressed মানে দুঃখিত বা বিষণ্ণ।"
+  },
+  {
+    "id": 58,
+    "question": "Find the synonym of the given word: KEEN",
+    "options": ["Dull", "Blunt", "Thick", "Sharp"],
+    "answer": "Sharp",
+    "explanation": "'Keen' (তীক্ষ্ণ বা প্রবল উৎসাহী)-এর সমার্থক 'Sharp'। Dull, Blunt এবং Thick মানে ভোঁতা বা স্থূল।"
+  },
+  {
+    "id": 59,
+    "question": "Choose the correct synonym for: LETHAL",
+    "options": ["Deadly", "Harmless", "Safe", "Vital"],
+    "answer": "Deadly",
+    "explanation": "'Lethal' (প্রাণঘাতী বা মারাত্মক)-এর সমার্থক শব্দ 'Deadly'। Harmless এবং Safe মানে নিরাপদ বা ক্ষতিকর নয়।"
+  },
+  {
+    "id": 60,
+    "question": "What is the synonym of 'MOROSE'?",
+    "options": ["Cheerful", "Gloomy", "Happy", "Joyous"],
+    "answer": "Gloomy",
+    "explanation": "'Morose' (বিষণ্ণ বা বদমেজাজি)-এর সমার্থক 'Gloomy'। Cheerful, Happy এবং Joyous মানে আনন্দিত বা প্রফুল্ল।"
+  },
+  {
+    "id": 61,
+    "question": "Select the correct synonym for: NEFARIOUS",
+    "options": ["Good", "Pleasant", "Wicked", "Kind"],
+    "answer": "Wicked",
+    "explanation": "'Nefarious' (পাপাচারী বা অতিশয় দুষ্ট)-এর সমার্থক শব্দ 'Wicked'। Good, Pleasant এবং Kind মানে ভালো বা দয়ালু।"
+  },
+  {
+    "id": 62,
+    "question": "Find the synonym of the given word: OBSOLETE",
+    "options": ["Modern", "Recent", "New", "Outdated"],
+    "answer": "Outdated",
+    "explanation": "'Obsolete' (অপ্রচলিত বা সেকেলে)-এর সমার্থক 'Outdated'। Modern, Recent এবং New মানে আধুনিক বা নতুন।"
+  },
+  {
+    "id": 63,
+    "question": "Choose the correct synonym for: PACIFY",
+    "options": ["Calm", "Agitate", "Enrage", "Provoke"],
+    "answer": "Calm",
+    "explanation": "'Pacify' (শান্ত করা বা মেটানো)-এর সমার্থক শব্দ হলো 'Calm'। Agitate, Enrage এবং Provoke মানে উত্তেজিত করা বা রাগানো।"
+  },
+  {
+    "id": 64,
+    "question": "What is the synonym of 'QUASH'?",
+    "options": ["Support", "Suppress", "Encourage", "Promote"],
+    "answer": "Suppress",
+    "explanation": "'Quash' (বাতিল করা বা দমন করা)-এর সমার্থক 'Suppress'। Support, Encourage এবং Promote মানে সমর্থন বা উৎসাহ দেওয়া।"
+  },
+  {
+    "id": 65,
+    "question": "Select the synonym for: RECTIFY",
+    "options": ["Worsen", "Damage", "Amend", "Ruin"],
+    "answer": "Amend",
+    "explanation": "'Rectify' (সংশোধন করা বা ঠিক করা)-এর সমার্থক শব্দ 'Amend'। Worsen, Damage এবং Ruin মানে খারাপ করা বা নষ্ট করা।"
+  },
+  {
+    "id": 66,
+    "question": "Find the synonym of the given word: SAGACIOUS",
+    "options": ["Foolish", "Ignorant", "Stupid", "Wise"],
+    "answer": "Wise",
+    "explanation": "'Sagacious' (জ্ঞানী বা বিচক্ষণ)-এর সমার্থক 'Wise'। Foolish, Ignorant এবং Stupid মানে বোকা বা অজ্ঞ।"
+  },
+  {
+    "id": 67,
+    "question": "Choose the correct synonym for: TIMID",
+    "options": ["Cowardly", "Brave", "Bold", "Fearless"],
+    "answer": "Cowardly",
+    "explanation": "'Timid' (ভীরু বা লাজুক)-এর সমার্থক শব্দ হলো 'Cowardly'। Brave, Bold এবং Fearless মানে সাহসী।"
+  },
+  {
+    "id": 68,
+    "question": "What is the synonym of 'UNANIMOUS'?",
+    "options": ["Divided", "United", "Split", "Conflicted"],
+    "answer": "United",
+    "explanation": "'Unanimous' (সর্বসম্মত বা একমত)-এর সমার্থক 'United'। Divided, Split এবং Conflicted মানে বিভক্ত বা মতবিরোধপূর্ণ।"
+  },
+  {
+    "id": 69,
+    "question": "Select the correct synonym for: VAGUE",
+    "options": ["Definite", "Clear", "Unclear", "Distinct"],
+    "answer": "Unclear",
+    "explanation": "'Vague' (অস্পষ্ট বা অনির্দিষ্ট)-এর সমার্থক 'Unclear'। Definite, Clear এবং Distinct মানে স্পষ্ট বা সুনির্দিষ্ট।"
+  },
+  {
+    "id": 70,
+    "question": "Find the synonym of the given word: WAIVE",
+    "options": ["Claim", "Demand", "Require", "Forgo"],
+    "answer": "Forgo",
+    "explanation": "'Waive' (দাবি ত্যাগ করা বা মওকুফ করা)-এর সমার্থক 'Forgo'। Claim, Demand এবং Require মানে দাবি করা বা প্রয়োজন হওয়া।"
+  },
+  {
+    "id": 71,
+    "question": "Choose the correct synonym for: YEARN",
+    "options": ["Crave", "Despise", "Hate", "Dislike"],
+    "answer": "Crave",
+    "explanation": "'Yearn' (ব্যাকুলভাবে আকাঙ্ক্ষা করা)-এর সমার্থক হলো 'Crave'। Despise, Hate এবং Dislike মানে ঘৃণা করা বা অপছন্দ করা।"
+  },
+  {
+    "id": 72,
+    "question": "What is the synonym of 'ZEALOUS'?",
+    "options": ["Apathetic", "Enthusiastic", "Indifferent", "Uncaring"],
+    "answer": "Enthusiastic",
+    "explanation": "'Zealous' (প্রবল উৎসাহী বা উদ্দীপনাপূর্ণ)-এর সমার্থক 'Enthusiastic'। Apathetic, Indifferent এবং Uncaring মানে উদাসীন।"
+  },
+  {
+    "id": 73,
+    "question": "Select the synonym of: ABATE",
+    "options": ["Increase", "Intensify", "Decrease", "Magnify"],
+    "answer": "Decrease",
+    "explanation": "'Abate' (কমানো বা প্রশমিত হওয়া)-এর সমার্থক শব্দ 'Decrease'। Increase, Intensify এবং Magnify মানে বৃদ্ধি পাওয়া বা জোরালো হওয়া।"
+  },
+  {
+    "id": 74,
+    "question": "Find the synonym of the given word: BAFFLE",
+    "options": ["Clarify", "Enlighten", "Explain", "Confuse"],
+    "answer": "Confuse",
+    "explanation": "'Baffle' (হতবুদ্ধি করা বা বিভ্রান্ত করা)-এর সমার্থক 'Confuse'। Clarify, Enlighten এবং Explain মানে স্পষ্ট করা বা বোঝানো।"
+  },
+  {
+    "id": 75,
+    "question": "Choose the correct synonym for: CAJOLE",
+    "options": ["Coax", "Force", "Bully", "Repel"],
+    "answer": "Coax",
+    "explanation": "'Cajole' (মিষ্টি কথায় ভোলানো বা প্ররোচিত করা)-এর সমার্থক শব্দ 'Coax'। Force বা Bully মানে জোর করা এবং Repel মানে দূরে সরানো।"
+  },
+  {
+    "id": 76,
+    "question": "What is the synonym of 'DAUNTLESS'?",
+    "options": ["Timid", "Fearless", "Cowardly", "Fearful"],
+    "answer": "Fearless",
+    "explanation": "'Dauntless' (নির্ভীক বা অকুতোভয়)-এর সমার্থক 'Fearless'। Timid, Cowardly এবং Fearful মানে ভীরু।"
+  },
+  {
+    "id": 77,
+    "question": "Select the correct synonym for: EBB",
+    "options": ["Flow", "Rise", "Decline", "Grow"],
+    "answer": "Decline",
+    "explanation": "'Ebb' (ভাটা বা হ্রাস পাওয়া)-এর সমার্থক 'Decline'। Flow, Rise এবং Grow মানে জোয়ার বা বৃদ্ধি পাওয়া।"
+  },
+  {
+    "id": 78,
+    "question": "Find the synonym of the given word: FABRICATE",
+    "options": ["Destroy", "Dismantle", "Ruin", "Forge"],
+    "answer": "Forge",
+    "explanation": "'Fabricate' (উদ্ভাবন করা, বানানো বা জালিয়াতি করা)-এর সমার্থক 'Forge'। Destroy, Dismantle এবং Ruin মানে ধ্বংস করা।"
+  },
+  {
+    "id": 79,
+    "question": "Choose the correct synonym for: GENUINE",
+    "options": ["Authentic", "Fake", "Spurious", "Sham"],
+    "answer": "Authentic",
+    "explanation": "'Genuine' (অকৃত্রিম বা খাঁটি)-এর সমার্থক 'Authentic'। Fake, Spurious এবং Sham মানে নকল বা জাল।"
+  },
+  {
+    "id": 80,
+    "question": "What is the synonym of 'HAPHAZARD'?",
+    "options": ["Systematic", "Random", "Organized", "Planned"],
+    "answer": "Random",
+    "explanation": "'Haphazard' (এলোমেলো বা বিশৃঙ্খল)-এর সমার্থক 'Random'। Systematic, Organized এবং Planned মানে সুশৃঙ্খল বা পরিকল্পিত।"
+  },
+  {
+    "id": 81,
+    "question": "Select the synonym of: IMMINENT",
+    "options": ["Distant", "Delayed", "Impending", "Later"],
+    "answer": "Impending",
+    "explanation": "'Imminent' (আসন্ন বা যা শীঘ্রই ঘটতে যাচ্ছে)-এর সমার্থক শব্দ 'Impending'। Distant, Delayed এবং Later মানে বিলম্বিত বা দূরের।"
+  },
+  {
+    "id": 82,
+    "question": "Find the synonym of the given word: JEJUNE",
+    "options": ["Interesting", "Exciting", "Fascinating", "Dull"],
+    "answer": "Dull",
+    "explanation": "'Jejune' (নীরস বা একঘেয়ে)-এর সমার্থক 'Dull'। Interesting, Exciting এবং Fascinating মানে মজাদার বা আকর্ষণীয়।"
+  },
+  {
+    "id": 83,
+    "question": "Choose the correct synonym for: KNACK",
+    "options": ["Dexterity", "Inability", "Clumsiness", "Awkwardness"],
+    "answer": "Dexterity",
+    "explanation": "'Knack' (সহজাত দক্ষতা বা নৈপুণ্য)-এর সমার্থক 'Dexterity'। Inability, Clumsiness এবং Awkwardness মানে অদক্ষতা।"
+  },
+  {
+    "id": 84,
+    "question": "What is the synonym of 'LURE'?",
+    "options": ["Repel", "Attract", "Deter", "Discourage"],
+    "answer": "Attract",
+    "explanation": "'Lure' (প্রলোভন দেখানো বা আকর্ষণ করা)-এর সমার্থক 'Attract'। Repel, Deter এবং Discourage মানে নিরুৎসাহিত করা বা বিকর্ষণ করা।"
+  },
+  {
+    "id": 85,
+    "question": "Select the correct synonym for: MANDATORY",
+    "options": ["Optional", "Voluntary", "Compulsory", "Unnecessary"],
+    "answer": "Compulsory",
+    "explanation": "'Mandatory' (বাধ্যতামূলক)-এর সমার্থক শব্দ 'Compulsory'। Optional, Voluntary এবং Unnecessary মানে ঐচ্ছিক বা অপ্রয়োজনীয়।"
+  },
+  {
+    "id": 86,
+    "question": "Find the synonym of the given word: NEGLIGIBLE",
+    "options": ["Important", "Significant", "Major", "Insignificant"],
+    "answer": "Insignificant",
+    "explanation": "'Negligible' (উপেক্ষণীয় বা নগণ্য)-এর সমার্থক 'Insignificant'। Important, Significant এবং Major মানে গুরুত্বপূর্ণ বা বিশাল।"
+  },
+  {
+    "id": 87,
+    "question": "Choose the correct synonym for: OMINOUS",
+    "options": ["Threatening", "Auspicious", "Favorable", "Propitious"],
+    "answer": "Threatening",
+    "explanation": "'Ominous' (অশুভ বা অমঙ্গলজনক)-এর সমার্থক হলো 'Threatening'। Auspicious, Favorable এবং Propitious মানে শুভ বা অনুকূল।"
+  },
+  {
+    "id": 88,
+    "question": "What is the synonym of 'PARAMOUNT'?",
+    "options": ["Inferior", "Supreme", "Minor", "Secondary"],
+    "answer": "Supreme",
+    "explanation": "'Paramount' (সর্বোচ্চ বা সর্বপ্রধান)-এর সমার্থক 'Supreme'। Inferior, Minor এবং Secondary মানে গৌণ বা নিম্নমানের।"
+  },
+  {
+    "id": 89,
+    "question": "Select the synonym of: QUIRKY",
+    "options": ["Normal", "Ordinary", "Peculiar", "Conventional"],
+    "answer": "Peculiar",
+    "explanation": "'Quirky' (অদ্ভুত বা স্বকীয় বৈশিষ্ট্যে ভরপুর)-এর সমার্থক শব্দ 'Peculiar'। Normal, Ordinary এবং Conventional মানে সাধারণ বা প্রথাগত।"
+  },
+  {
+    "id": 90,
+    "question": "Find the synonym of the given word: RADIANT",
+    "options": ["Dull", "Dark", "Gloomy", "Luminous"],
+    "answer": "Luminous",
+    "explanation": "'Radiant' (উজ্জ্বল বা দীপ্তিমান)-এর সমার্থক 'Luminous'। Dull, Dark এবং Gloomy মানে অনুজ্জ্বল বা অন্ধকার।"
+  },
+  {
+    "id": 91,
+    "question": "Choose the correct synonym for: SCANTY",
+    "options": ["Meager", "Abundant", "Plentiful", "Profuse"],
+    "answer": "Meager",
+    "explanation": "'Scanty' (অপ্রতুল বা অপর্যাপ্ত)-এর সমার্থক 'Meager'। Abundant, Plentiful এবং Profuse মানে প্রচুর বা বিপুল পরিমাণ।"
+  },
+  {
+    "id": 92,
+    "question": "What is the synonym of 'TEDIOUS'?",
+    "options": ["Exciting", "Boring", "Interesting", "Thrilling"],
+    "answer": "Boring",
+    "explanation": "'Tedious' (ক্লান্তিকর বা একঘেয়ে)-এর সমার্থক শব্দ 'Boring'। Exciting, Interesting এবং Thrilling মানে রোমাঞ্চকর বা মজাদার।"
+  },
+  {
+    "id": 93,
+    "question": "Select the correct synonym for: URBANE",
+    "options": ["Uncouth", "Rustic", "Suave", "Crude"],
+    "answer": "Suave",
+    "explanation": "'Urbane' (মার্জিত বা সুশীল)-এর সমার্থক 'Suave'। Uncouth, Rustic এবং Crude মানে অভদ্র বা গ্রাম্য প্রকৃতির।"
+  },
+  {
+    "id": 94,
+    "question": "Find the synonym of the given word: VINDICTIVE",
+    "options": ["Forgiving", "Merciful", "Kind", "Revengeful"],
+    "answer": "Revengeful",
+    "explanation": "'Vindictive' (প্রতিহিংসাপরায়ণ)-এর সমার্থক 'Revengeful'। Forgiving, Merciful এবং Kind মানে ক্ষমাশীল বা দয়ালু।"
+  },
+  {
+    "id": 95,
+    "question": "Choose the correct synonym for: WRATH",
+    "options": ["Anger", "Happiness", "Joy", "Delight"],
+    "answer": "Anger",
+    "explanation": "'Wrath' (প্রবল ক্রোধ বা রাগ)-এর সমার্থক শব্দ হলো 'Anger'। Happiness, Joy এবং Delight মানে আনন্দ বা সুখ।"
+  },
+  {
+    "id": 96,
+    "question": "What is the synonym of 'YELL'?",
+    "options": ["Whisper", "Shout", "Mutter", "Murmur"],
+    "answer": "Shout",
+    "explanation": "'Yell' (চিৎকার করা)-এর সমার্থক 'Shout'। Whisper, Mutter এবং Murmur মানে ফিসফিস করে বা অস্পষ্টভাবে কথা বলা।"
+  },
+  {
+    "id": 97,
+    "question": "Select the synonym of: ZEST",
+    "options": ["Apathy", "Disinterest", "Enthusiasm", "Lethargy"],
+    "answer": "Enthusiasm",
+    "explanation": "'Zest' (প্রবল উৎসাহ বা আনন্দ)-এর সমার্থক শব্দ 'Enthusiasm'। Apathy, Disinterest এবং Lethargy মানে অনীহা বা অলসতা।"
+  },
+  {
+    "id": 98,
+    "question": "Find the synonym of the given word: ABSURD",
+    "options": ["Logical", "Reasonable", "Sensible", "Ridiculous"],
+    "answer": "Ridiculous",
+    "explanation": "'Absurd' (অযৌক্তিক বা হাস্যকর)-এর সমার্থক 'Ridiculous'। Logical, Reasonable এবং Sensible মানে যুক্তিসঙ্গত।"
+  },
+  {
+    "id": 99,
+    "question": "Choose the correct synonym for: BARREN",
+    "options": ["Infertile", "Fertile", "Productive", "Fruitful"],
+    "answer": "Infertile",
+    "explanation": "'Barren' (অনুর্বর বা নিষ্ফলা)-এর সমার্থক 'Infertile'। Fertile, Productive এবং Fruitful মানে উর্বর বা ফলপ্রসূ।"
+  },
+  {
+    "id": 100,
+    "question": "What is the synonym of 'CALLOUS'?",
+    "options": ["Sensitive", "Insensitive", "Caring", "Sympathetic"],
+    "answer": "Insensitive",
+    "explanation": "'Callous' (নির্মম বা অনুভূতিহীন)-এর সমার্থক শব্দ 'Insensitive'। Sensitive, Caring এবং Sympathetic মানে সংবেদনশীল বা সহানুভূতিশীল।"
+  },
+  {
+    "id": 101,
+    "question": "Choose the correct synonym for the word: DEBACLE",
+    "options": ["Collapse", "Success", "Triumph", "Victory"],
+    "answer": "Collapse",
+    "explanation": "'Debacle' (আকস্মিক পতন বা চরম ব্যর্থতা)-এর সমার্থক শব্দ হলো 'Collapse'। Success, Triumph এবং Victory মানে জয় বা সাফল্য।"
+  },
+  {
+    "id": 102,
+    "question": "What is the synonym of 'ECCENTRIC'?",
+    "options": ["Normal", "Peculiar", "Common", "Ordinary"],
+    "answer": "Peculiar",
+    "explanation": "'Eccentric' (অস্বাভাবিক বা খামখেয়ালি)-এর সমার্থক শব্দ 'Peculiar'। Normal, Common এবং Ordinary মানে সাধারণ বা স্বাভাবিক।"
+  },
+  {
+    "id": 103,
+    "question": "Select the correct synonym for: FALLACY",
+    "options": ["Truth", "Fact", "Delusion", "Reality"],
+    "answer": "Delusion",
+    "explanation": "'Fallacy' (ভ্রান্ত ধারণা বা মিথ্যা বিশ্বাস)-এর সমার্থক শব্দ 'Delusion'। Truth, Fact এবং Reality মানে সত্য বা বাস্তব।"
+  },
+  {
+    "id": 104,
+    "question": "Find the synonym of the given word: GRUESOME",
+    "options": ["Attractive", "Pleasant", "Appealing", "Hideous"],
+    "answer": "Hideous",
+    "explanation": "'Gruesome' (ভয়ংকর বা লোমহর্ষক)-এর সমার্থক 'Hideous'। Attractive, Pleasant এবং Appealing মানে আকর্ষণীয় বা আনন্দদায়ক।"
+  },
+  {
+    "id": 105,
+    "question": "Choose the correct synonym for: HAPLESS",
+    "options": ["Unfortunate", "Lucky", "Blessed", "Happy"],
+    "answer": "Unfortunate",
+    "explanation": "'Hapless' (ভাগ্যহীন বা দুর্ভাগা)-এর সমার্থক 'Unfortunate'। Lucky, Blessed এবং Happy মানে ভাগ্যবান বা সুখী।"
+  },
+  {
+    "id": 106,
+    "question": "What is the synonym of 'IGNOMINY'?",
+    "options": ["Honor", "Disgrace", "Glory", "Respect"],
+    "answer": "Disgrace",
+    "explanation": "'Ignominy' (লজ্জা, অপমান বা কলঙ্ক)-এর সমার্থক শব্দ 'Disgrace'। Honor, Glory এবং Respect মানে সম্মান বা গৌরব।"
+  },
+  {
+    "id": 107,
+    "question": "Select the synonym of: JADED",
+    "options": ["Refreshed", "Energetic", "Exhausted", "Active"],
+    "answer": "Exhausted",
+    "explanation": "'Jaded' (ক্লান্ত বা অবসাদগ্রস্ত)-এর সমার্থক 'Exhausted'। Refreshed, Energetic এবং Active মানে সতেজ বা কর্মক্ষম।"
+  },
+  {
+    "id": 108,
+    "question": "Find the synonym of the given word: KINSHIP",
+    "options": ["Enmity", "Hatred", "Hostility", "Affinity"],
+    "answer": "Affinity",
+    "explanation": "'Kinship' (আত্মীয়তা বা সাদৃশ্য)-এর সমার্থক 'Affinity'। Enmity, Hatred এবং Hostility মানে শত্রুতা বা ঘৃণা।"
+  },
+  {
+    "id": 109,
+    "question": "Choose the correct synonym for: LAMENT",
+    "options": ["Mourn", "Rejoice", "Celebrate", "Enjoy"],
+    "answer": "Mourn",
+    "explanation": "'Lament' (বিলাপ করা বা শোক প্রকাশ করা)-এর সমার্থক 'Mourn'। Rejoice, Celebrate এবং Enjoy মানে আনন্দ করা।"
+  },
+  {
+    "id": 110,
+    "question": "What is the synonym of 'MAGNANIMOUS'?",
+    "options": ["Selfish", "Generous", "Stingy", "Mean"],
+    "answer": "Generous",
+    "explanation": "'Magnanimous' (উদার বা মহৎ)-এর সমার্থক শব্দ 'Generous'। Selfish, Stingy এবং Mean মানে স্বার্থপর বা কৃপণ।"
+  },
+  {
+    "id": 111,
+    "question": "Select the correct synonym for: NOSTALGIA",
+    "options": ["Foresight", "Future", "Homesickness", "Amnesia"],
+    "answer": "Homesickness",
+    "explanation": "'Nostalgia' (অতীতের স্মৃতিচারণ বা গৃহকাতরতা)-এর সমার্থক 'Homesickness'। Foresight মানে ভবিষ্যৎ দৃষ্টি এবং Amnesia মানে স্মৃতিভ্রংশ।"
+  },
+  {
+    "id": 112,
+    "question": "Find the synonym of the given word: OBLITERATE",
+    "options": ["Create", "Build", "Construct", "Destroy"],
+    "answer": "Destroy",
+    "explanation": "'Obliterate' (সম্পূর্ণ মুছে ফেলা বা ধ্বংস করা)-এর সমার্থক 'Destroy'। Create, Build এবং Construct মানে তৈরি করা।"
+  },
+  {
+    "id": 113,
+    "question": "Choose the correct synonym for: PENSIVE",
+    "options": ["Thoughtful", "Carefree", "Frivolous", "Ignorant"],
+    "answer": "Thoughtful",
+    "explanation": "'Pensive' (চিন্তামগ্ন বা বিষণ্ণ)-এর সমার্থক শব্দ হলো 'Thoughtful'। Carefree বা Frivolous মানে চিন্তাহীন বা চঞ্চল।"
+  },
+  {
+    "id": 114,
+    "question": "What is the synonym of 'QUANDARY'?",
+    "options": ["Solution", "Dilemma", "Certainty", "Clarity"],
+    "answer": "Dilemma",
+    "explanation": "'Quandary' (কিংকর্তব্যবিমূঢ় অবস্থা বা উভয়সঙ্কট)-এর সমার্থক 'Dilemma'। Solution, Certainty এবং Clarity মানে সমাধান বা নিশ্চয়তা।"
+  },
+  {
+    "id": 115,
+    "question": "Select the synonym for: RUTHLESS",
+    "options": ["Merciful", "Compassionate", "Merciless", "Kind"],
+    "answer": "Merciless",
+    "explanation": "'Ruthless' (নির্মম বা দয়াহীন)-এর সমার্থক শব্দ 'Merciless'। Merciful, Compassionate এবং Kind মানে দয়ালু বা করুণাময়।"
+  },
+  {
+    "id": 116,
+    "question": "Find the synonym of the given word: SYCOPHANT",
+    "options": ["Leader", "Critic", "Opponent", "Flatterer"],
+    "answer": "Flatterer",
+    "explanation": "'Sycophant' (চাটুকার বা তোষামোদকারী)-এর সমার্থক 'Flatterer'। Leader, Critic এবং Opponent মানে নেতা, সমালোচক বা বিরোধী।"
+  },
+  {
+    "id": 117,
+    "question": "Choose the correct synonym for: TACITURN",
+    "options": ["Silent", "Talkative", "Chatty", "Loud"],
+    "answer": "Silent",
+    "explanation": "'Taciturn' (স্বল্পভাষী বা যে কম কথা বলে)-এর সমার্থক 'Silent'। Talkative, Chatty এবং Loud মানে বাচাল বা শব্দমুখর।"
+  },
+  {
+    "id": 118,
+    "question": "What is the synonym of 'UTOPIA'?",
+    "options": ["Hell", "Paradise", "Dystopia", "Misery"],
+    "answer": "Paradise",
+    "explanation": "'Utopia' (কল্পনার আদর্শ রাজ্য)-এর সমার্থক 'Paradise'। Hell, Dystopia এবং Misery মানে নরক বা দুঃসহ অবস্থা।"
+  },
+  {
+    "id": 119,
+    "question": "Select the correct synonym for: VACILLATE",
+    "options": ["Decide", "Resolve", "Waver", "Determine"],
+    "answer": "Waver",
+    "explanation": "'Vacillate' (দ্বিধাগ্রস্ত হওয়া বা দোদুল্যমান থাকা)-এর সমার্থক 'Waver'। Decide, Resolve এবং Determine মানে স্থির সিদ্ধান্ত নেওয়া।"
+  },
+  {
+    "id": 120,
+    "question": "Find the synonym of the given word: WANE",
+    "options": ["Increase", "Grow", "Expand", "Decline"],
+    "answer": "Decline",
+    "explanation": "'Wane' (হ্রাস পাওয়া বা কমা)-এর সমার্থক 'Decline'। Increase, Grow এবং Expand মানে বৃদ্ধি পাওয়া বা প্রসারিত হওয়া।"
+  },
+  {
+    "id": 121,
+    "question": "Choose the correct synonym for: XENOPHOBIA",
+    "options": ["Prejudice", "Tolerance", "Acceptance", "Love"],
+    "answer": "Prejudice",
+    "explanation": "'Xenophobia' (বিদেশী বা অপরিচিতদের প্রতি অযৌক্তিক ভয় বা ঘৃণা)-এর সমার্থক 'Prejudice'। Tolerance, Acceptance এবং Love মানে সহনশীলতা বা ভালোবাসা।"
+  },
+  {
+    "id": 122,
+    "question": "What is the synonym of 'YIELDING'?",
+    "options": ["Obstinate", "Submissive", "Stubborn", "Firm"],
+    "answer": "Submissive",
+    "explanation": "'Yielding' (নমনীয় বা বশ্যতা স্বীকারকারী)-এর সমার্থক 'Submissive'। Obstinate, Stubborn এবং Firm মানে একগুঁয়ে বা দৃঢ়।"
+  },
+  {
+    "id": 123,
+    "question": "Select the synonym of: ZEPHYR",
+    "options": ["Gale", "Storm", "Breeze", "Hurricane"],
+    "answer": "Breeze",
+    "explanation": "'Zephyr' (মৃদু মন্দ বায়ু)-এর সমার্থক শব্দ 'Breeze'। Gale, Storm এবং Hurricane মানে প্রবল ঝড় বা ঘূর্ণিবার্তা।"
+  },
+  {
+    "id": 124,
+    "question": "Find the synonym of the given word: AMBIGUOUS",
+    "options": ["Clear", "Explicit", "Lucid", "Unclear"],
+    "answer": "Unclear",
+    "explanation": "'Ambiguous' (দ্ব্যর্থবোধক বা অস্পষ্ট)-এর সমার্থক 'Unclear'। Clear, Explicit এবং Lucid মানে অত্যন্ত স্পষ্ট।"
+  },
+  {
+    "id": 125,
+    "question": "Choose the correct synonym for: BELLIGERENT",
+    "options": ["Hostile", "Peaceful", "Friendly", "Calm"],
+    "answer": "Hostile",
+    "explanation": "'Belligerent' (যুদ্ধবাজ বা শত্রুভাবাপন্ন)-এর সমার্থক শব্দ 'Hostile'। Peaceful, Friendly এবং Calm মানে শান্ত বা বন্ধুত্বপূর্ণ।"
+  },
+  {
+    "id": 126,
+    "question": "What is the synonym of 'CLANDESTINE'?",
+    "options": ["Open", "Secret", "Public", "Known"],
+    "answer": "Secret",
+    "explanation": "'Clandestine' (লুক্কায়িত বা গুপ্ত)-এর সমার্থক 'Secret'। Open, Public এবং Known মানে প্রকাশ্য বা সবার জানা।"
+  },
+  {
+    "id": 127,
+    "question": "Select the correct synonym for: DESTITUTE",
+    "options": ["Wealthy", "Rich", "Penniless", "Prosperous"],
+    "answer": "Penniless",
+    "explanation": "'Destitute' (নিঃস্ব বা অভাবগ্রস্ত)-এর সমার্থক 'Penniless'। Wealthy, Rich এবং Prosperous মানে ধনী বা সমৃদ্ধশালী।"
+  },
+  {
+    "id": 128,
+    "question": "Find the synonym of the given word: EPHEMERAL",
+    "options": ["Permanent", "Eternal", "Everlasting", "Transient"],
+    "answer": "Transient",
+    "explanation": "'Ephemeral' (ক্ষণস্থায়ী বা স্বল্পায়ু)-এর সমার্থক 'Transient'। Permanent, Eternal এবং Everlasting মানে চিরস্থায়ী।"
+  },
+  {
+    "id": 129,
+    "question": "Choose the correct synonym for: FRIVOLOUS",
+    "options": ["Trivial", "Serious", "Important", "Grave"],
+    "answer": "Trivial",
+    "explanation": "'Frivolous' (তুচ্ছ বা অগুরুত্বপূর্ণ)-এর সমার্থক 'Trivial'। Serious, Important এবং Grave মানে গুরুত্বপূর্ণ বা গম্ভীর।"
+  },
+  {
+    "id": 130,
+    "question": "What is the synonym of 'GIGANTIC'?",
+    "options": ["Tiny", "Enormous", "Small", "Miniature"],
+    "answer": "Enormous",
+    "explanation": "'Gigantic' (বিশাল বা প্রকাণ্ড)-এর সমার্থক শব্দ 'Enormous'। Tiny, Small এবং Miniature মানে খুব ছোট।"
+  },
+  {
+    "id": 131,
+    "question": "Select the synonym of: HYPOCRISY",
+    "options": ["Honesty", "Sincerity", "Deception", "Truthfulness"],
+    "answer": "Deception",
+    "explanation": "'Hypocrisy' (ভণ্ডামি বা কপটতা)-এর সমার্থক শব্দ 'Deception'। Honesty, Sincerity এবং Truthfulness মানে সততা বা আন্তরিকতা।"
+  },
+  {
+    "id": 132,
+    "question": "Find the synonym of the given word: IMPERATIVE",
+    "options": ["Optional", "Unnecessary", "Voluntary", "Crucial"],
+    "answer": "Crucial",
+    "explanation": "'Imperative' (অত্যন্ত জরুরি বা অপরিহার্য)-এর সমার্থক 'Crucial'। Optional, Unnecessary এবং Voluntary মানে ঐচ্ছিক বা অপ্রয়োজনীয়।"
+  },
+  {
+    "id": 133,
+    "question": "Choose the correct synonym for: JUDICIOUS",
+    "options": ["Wise", "Foolish", "Rash", "Careless"],
+    "answer": "Wise",
+    "explanation": "'Judicious' (বিচক্ষণ বা বুদ্ধিমান)-এর সমার্থক 'Wise'। Foolish, Rash এবং Careless মানে বোকা বা অবিবেচক।"
+  },
+  {
+    "id": 134,
+    "question": "What is the synonym of 'KNAVE'?",
+    "options": ["Hero", "Rogue", "Angel", "Saint"],
+    "answer": "Rogue",
+    "explanation": "'Knave' (প্রতারক বা ঠক)-এর সমার্থক 'Rogue'। Hero, Angel এবং Saint মানে সৎ বা মহৎ ব্যক্তি।"
+  },
+  {
+    "id": 135,
+    "question": "Select the correct synonym for: LANGUID",
+    "options": ["Active", "Energetic", "Sluggish", "Lively"],
+    "answer": "Sluggish",
+    "explanation": "'Languid' (ক্লান্ত বা নিস্তেজ)-এর সমার্থক শব্দ 'Sluggish'। Active, Energetic এবং Lively মানে চটপটে বা কর্মঠ।"
+  },
+  {
+    "id": 136,
+    "question": "Find the synonym of the given word: MEAGER",
+    "options": ["Abundant", "Plentiful", "Ample", "Scanty"],
+    "answer": "Scanty",
+    "explanation": "'Meager' (অপ্রতুল বা সামান্য)-এর সমার্থক 'Scanty'। Abundant, Plentiful এবং Ample মানে প্রচুর।"
+  },
+  {
+    "id": 137,
+    "question": "Choose the correct synonym for: NOMADIC",
+    "options": ["Wandering", "Settled", "Fixed", "Stationary"],
+    "answer": "Wandering",
+    "explanation": "'Nomadic' (যাযাবর বা ভ্রাম্যমাণ)-এর সমার্থক হলো 'Wandering'। Settled, Fixed এবং Stationary মানে স্থায়ী বা স্থির।"
+  },
+  {
+    "id": 138,
+    "question": "What is the synonym of 'OBSTINATE'?",
+    "options": ["Flexible", "Stubborn", "Docile", "Pliant"],
+    "answer": "Stubborn",
+    "explanation": "'Obstinate' (একগুঁয়ে বা জেদি)-এর সমার্থক 'Stubborn'। Flexible, Docile এবং Pliant মানে নমনীয় বা বাধ্য।"
+  },
+  {
+    "id": 139,
+    "question": "Select the synonym of: PERILOUS",
+    "options": ["Safe", "Secure", "Dangerous", "Protected"],
+    "answer": "Dangerous",
+    "explanation": "'Perilous' (বিপজ্জনক)-এর সমার্থক শব্দ 'Dangerous'। Safe, Secure এবং Protected মানে নিরাপদ বা সুরক্ষিত।"
+  },
+  {
+    "id": 140,
+    "question": "Find the synonym of the given word: REQUISITE",
+    "options": ["Optional", "Extra", "Superfluous", "Necessary"],
+    "answer": "Necessary",
+    "explanation": "'Requisite' (প্রয়োজনীয় বা অত্যাবশ্যক)-এর সমার্থক 'Necessary'। Optional, Extra এবং Superfluous মানে অতিরিক্ত বা অপ্রয়োজনীয়।"
+  },
+  {
+    "id": 141,
+    "question": "Choose the correct synonym for: SPURIOUS",
+    "options": ["Fake", "Genuine", "Authentic", "Real"],
+    "answer": "Fake",
+    "explanation": "'Spurious' (নকল বা জাল)-এর সমার্থক 'Fake'। Genuine, Authentic এবং Real মানে আসল বা খাঁটি।"
+  },
+  {
+    "id": 142,
+    "question": "What is the synonym of 'TREPIDATION'?",
+    "options": ["Calmness", "Fear", "Bravery", "Confidence"],
+    "answer": "Fear",
+    "explanation": "'Trepidation' (ভয় বা উদ্বেগ)-এর সমার্থক শব্দ 'Fear'। Calmness, Bravery এবং Confidence মানে শান্তভাব বা সাহস।"
+  },
+  {
+    "id": 143,
+    "question": "Select the correct synonym for: UNCANNY",
+    "options": ["Normal", "Common", "Weird", "Ordinary"],
+    "answer": "Weird",
+    "explanation": "'Uncanny' (অদ্ভুত বা রহস্যময়)-এর সমার্থক 'Weird'। Normal, Common এবং Ordinary মানে সাধারণ।"
+  },
+  {
+    "id": 144,
+    "question": "Find the synonym of the given word: VIGILANT",
+    "options": ["Careless", "Negligent", "Inattentive", "Watchful"],
+    "answer": "Watchful",
+    "explanation": "'Vigilant' (সতর্ক বা প্রহরারত)-এর সমার্থক 'Watchful'। Careless, Negligent এবং Inattentive মানে অসতর্ক বা অমনোযোগী।"
+  },
+  {
+    "id": 145,
+    "question": "Choose the correct synonym for: WINSOME",
+    "options": ["Charming", "Ugly", "Repulsive", "Offensive"],
+    "answer": "Charming",
+    "explanation": "'Winsome' (মনোরম বা আকর্ষণীয়)-এর সমার্থক 'Charming'। Ugly, Repulsive এবং Offensive মানে কদর্য বা আপত্তিকর।"
+  },
+  {
+    "id": 146,
+    "question": "What is the synonym of 'ZEALOT'?",
+    "options": ["Moderate", "Fanatic", "Agnostic", "Conservative"],
+    "answer": "Fanatic",
+    "explanation": "'Zealot' (গোঁড়া বা ধর্মান্ধ ব্যক্তি)-এর সমার্থক শব্দ 'Fanatic'। Moderate বা Conservative মানে মধ্যপন্থী বা রক্ষণশীল।"
+  },
+  {
+    "id": 147,
+    "question": "Select the synonym of: AUDACIOUS",
+    "options": ["Cowardly", "Timid", "Bold", "Fearful"],
+    "answer": "Bold",
+    "explanation": "'Audacious' (দুঃসাহসী)-এর সমার্থক শব্দ 'Bold'। Cowardly, Timid এবং Fearful মানে ভীরু বা ভয়প্রবণ।"
+  },
+  {
+    "id": 148,
+    "question": "Find the synonym of the given word: BLATANT",
+    "options": ["Hidden", "Subtle", "Concealed", "Obvious"],
+    "answer": "Obvious",
+    "explanation": "'Blatant' (বড়সড় রকমের স্পষ্ট বা নির্লজ্জ)-এর সমার্থক 'Obvious'। Hidden, Subtle এবং Concealed মানে লুকানো বা সূক্ষ্ম।"
+  },
+  {
+    "id": 149,
+    "question": "Choose the correct synonym for: CANDOR",
+    "options": ["Frankness", "Deceit", "Dishonesty", "Lies"],
+    "answer": "Frankness",
+    "explanation": "'Candor' (অকপটতা বা সরলতা)-এর সমার্থক 'Frankness'। Deceit, Dishonesty এবং Lies মানে ছলনা বা মিথ্যাচার।"
+  },
+  {
+    "id": 150,
+    "question": "What is the synonym of 'DEXTEROUS'?",
+    "options": ["Clumsy", "Skillful", "Awkward", "Inept"],
+    "answer": "Skillful",
+    "explanation": "'Dexterous' (দক্ষ বা নিপুণ)-এর সমার্থক শব্দ 'Skillful'। Clumsy, Awkward এবং Inept মানে আনাড়ি বা অদক্ষ।"
+  },
+  {
+    "id": 151,
+    "question": "Choose the correct synonym for the word: EXONERATE",
+    "options": ["Absolve", "Convict", "Accuse", "Blame"],
+    "answer": "Absolve",
+    "explanation": "'Exonerate' (দোষমুক্ত করা বা খালাস দেওয়া)-এর সমার্থক শব্দ হলো 'Absolve'। Convict, Accuse এবং Blame মানে দোষী সাব্যস্ত করা বা অভিযুক্ত করা।"
+  },
+  {
+    "id": 152,
+    "question": "What is the synonym of 'FRAGILE'?",
+    "options": ["Strong", "Brittle", "Sturdy", "Tough"],
+    "answer": "Brittle",
+    "explanation": "'Fragile' (ভঙ্গুর বা সহজে ভেঙে যায় এমন)-এর সমার্থক শব্দ 'Brittle'। Strong, Sturdy এবং Tough মানে শক্তিশালী বা শক্ত।"
+  },
+  {
+    "id": 153,
+    "question": "Select the correct synonym for: GRIM",
+    "options": ["Joyful", "Pleasant", "Gloomy", "Happy"],
+    "answer": "Gloomy",
+    "explanation": "'Grim' (ভয়ংকর বা নিরানন্দ)-এর সমার্থক শব্দ 'Gloomy'। Joyful, Pleasant এবং Happy মানে আনন্দদায়ক বা খুশি।"
+  },
+  {
+    "id": 154,
+    "question": "Find the synonym of the given word: INNOCUOUS",
+    "options": ["Harmful", "Toxic", "Lethal", "Harmless"],
+    "answer": "Harmless",
+    "explanation": "'Innocuous' (ক্ষতিকারক নয় এমন বা নির্দোষ)-এর সমার্থক 'Harmless'। Harmful, Toxic এবং Lethal মানে ক্ষতিকারক বা প্রাণঘাতী।"
+  },
+  {
+    "id": 155,
+    "question": "Choose the correct synonym for: INTRICATE",
+    "options": ["Complex", "Simple", "Basic", "Straightforward"],
+    "answer": "Complex",
+    "explanation": "'Intricate' (জটিল বা প্যাঁচানো)-এর সমার্থক শব্দ 'Complex'। Simple, Basic এবং Straightforward মানে সরল বা সাধারণ।"
+  },
+  {
+    "id": 156,
+    "question": "What is the synonym of 'ENVIOUS'?",
+    "options": ["Content", "Jealous", "Satisfied", "Pleased"],
+    "answer": "Jealous",
+    "explanation": "'Envious' (ঈর্ষান্বিত বা পরশ্রীকাতর)-এর সমার্থক 'Jealous'। Content, Satisfied এবং Pleased মানে সন্তুষ্ট বা তৃপ্ত।"
+  },
+  {
+    "id": 157,
+    "question": "Select the synonym of: KINDRED",
+    "options": ["Unrelated", "Different", "Related", "Separate"],
+    "answer": "Related",
+    "explanation": "'Kindred' (সমগোত্রীয় বা সম্পর্কিত)-এর সমার্থক শব্দ 'Related'। Unrelated, Different এবং Separate মানে সম্পর্কহীন বা আলাদা।"
+  },
+  {
+    "id": 158,
+    "question": "Find the synonym of the given word: LETHARGY",
+    "options": ["Energy", "Vitality", "Activity", "Sluggishness"],
+    "answer": "Sluggishness",
+    "explanation": "'Lethargy' (অলসতা বা জড়তা)-এর সমার্থক 'Sluggishness'। Energy, Vitality এবং Activity মানে শক্তি বা কর্মচাঞ্চল্য।"
+  },
+  {
+    "id": 159,
+    "question": "Choose the correct synonym for: METICULOUS",
+    "options": ["Careful", "Careless", "Sloppy", "Negligent"],
+    "answer": "Careful",
+    "explanation": "'Meticulous' (অত্যন্ত খুঁতখুঁতে বা অতি-সতর্ক)-এর সমার্থক শব্দ হলো 'Careful'। Careless, Sloppy এবং Negligent মানে অসতর্ক বা অবহেলাকারী।"
+  },
+  {
+    "id": 160,
+    "question": "What is the synonym of 'NEBULOUS'?",
+    "options": ["Clear", "Vague", "Distinct", "Definite"],
+    "answer": "Vague",
+    "explanation": "'Nebulous' (অস্পষ্ট বা মেঘলা)-এর সমার্থক শব্দ 'Vague'। Clear, Distinct এবং Definite মানে অত্যন্ত স্পষ্ট বা সুনির্দিষ্ট।"
+  },
+  {
+    "id": 161,
+    "question": "Select the correct synonym for: OBSEQUIOUS",
+    "options": ["Arrogant", "Proud", "Servile", "Domineering"],
+    "answer": "Servile",
+    "explanation": "'Obsequious' (অত্যধিক আজ্ঞাবহ বা চাটুকার প্রকৃতির)-এর সমার্থক 'Servile'। Arrogant, Proud এবং Domineering মানে অহংকারী বা কর্তৃত্বপরায়ণ।"
+  },
+  {
+    "id": 162,
+    "question": "Find the synonym of the given word: PENCHANT",
+    "options": ["Dislike", "Hatred", "Aversion", "Liking"],
+    "answer": "Liking",
+    "explanation": "'Penchant' (তীব্র আকর্ষণ বা ঝোঁক)-এর সমার্থক শব্দ 'Liking'। Dislike, Hatred এবং Aversion মানে অপছন্দ বা ঘৃণা।"
+  },
+  {
+    "id": 163,
+    "question": "Choose the correct synonym for: QUERULOUS",
+    "options": ["Complaining", "Content", "Satisfied", "Cheerful"],
+    "answer": "Complaining",
+    "explanation": "'Querulous' (খিটখিটে বা অভিযোগকারী)-এর সমার্থক হলো 'Complaining'। Content, Satisfied এবং Cheerful মানে সন্তুষ্ট বা প্রফুল্ল।"
+  },
+  {
+    "id": 164,
+    "question": "What is the synonym of 'RETICENT'?",
+    "options": ["Talkative", "Silent", "Garrulous", "Vocal"],
+    "answer": "Silent",
+    "explanation": "'Reticent' (স্বল্পভাষী বা চুপচাপ)-এর সমার্থক শব্দ 'Silent'। Talkative, Garrulous এবং Vocal মানে বাচাল বা যে বেশি কথা বলে।"
+  },
+  {
+    "id": 165,
+    "question": "Select the synonym for: SANGUINE",
+    "options": ["Pessimistic", "Depressed", "Optimistic", "Hopeless"],
+    "answer": "Optimistic",
+    "explanation": "'Sanguine' (আশাবাদী বা আত্মবিশ্বাসী)-এর সমার্থক শব্দ 'Optimistic'। Pessimistic, Depressed এবং Hopeless মানে নিরাশাবাদী বা হতাশ।"
+  },
+  {
+    "id": 166,
+    "question": "Find the synonym of the given word: TACIT",
+    "options": ["Explicit", "Spoken", "Stated", "Implied"],
+    "answer": "Implied",
+    "explanation": "'Tacit' (উহ্য বা অলিখিত)-এর সমার্থক 'Implied'। Explicit, Spoken এবং Stated মানে সুনির্দিষ্টভাবে বলা বা প্রকাশিত।"
+  },
+  {
+    "id": 167,
+    "question": "Choose the correct synonym for: USURP",
+    "options": ["Seize", "Release", "Surrender", "Give"],
+    "answer": "Seize",
+    "explanation": "'Usurp' (জোরপূর্বক দখল করা)-এর সমার্থক শব্দ 'Seize'। Release, Surrender এবং Give মানে ছেড়ে দেওয়া বা সমর্পণ করা।"
+  },
+  {
+    "id": 168,
+    "question": "What is the synonym of 'VACUOUS'?",
+    "options": ["Full", "Empty", "Intelligent", "Meaningful"],
+    "answer": "Empty",
+    "explanation": "'Vacuous' (শূন্যগর্ভ বা বুদ্ধিহীন)-এর সমার্থক 'Empty'। Full, Intelligent এবং Meaningful মানে পূর্ণ বা অর্থবহ।"
+  },
+  {
+    "id": 169,
+    "question": "Select the correct synonym for: WAN",
+    "options": ["Bright", "Colorful", "Pale", "Glowing"],
+    "answer": "Pale",
+    "explanation": "'Wan' (ফ্যাকাশে বা বিবর্ণ)-এর সমার্থক শব্দ 'Pale'। Bright, Colorful এবং Glowing মানে উজ্জ্বল বা রঙিন।"
+  },
+  {
+    "id": 170,
+    "question": "Find the synonym of the given word: YOKE",
+    "options": ["Release", "Free", "Detach", "Harness"],
+    "answer": "Harness",
+    "explanation": "'Yoke' (জোয়াল বা সংযুক্ত করা)-এর সমার্থক 'Harness' বা যুক্ত করা। Release, Free এবং Detach মানে মুক্ত বা বিচ্ছিন্ন করা।"
+  },
+  {
+    "id": 171,
+    "question": "Choose the correct synonym for: ZIGZAG",
+    "options": ["Winding", "Straight", "Direct", "Even"],
+    "answer": "Winding",
+    "explanation": "'Zigzag' (আঁকাবাঁকা)-এর সমার্থক শব্দ 'Winding'। Straight, Direct এবং Even মানে সোজা বা সমতল।"
+  },
+  {
+    "id": 172,
+    "question": "What is the synonym of 'ABHOR'?",
+    "options": ["Love", "Hate", "Adore", "Cherish"],
+    "answer": "Hate",
+    "explanation": "'Abhor' (তীব্র ঘৃণা করা)-এর সমার্থক শব্দ 'Hate' বা Detest। Love, Adore এবং Cherish মানে ভালোবাসা বা আদর করা।"
+  },
+  {
+    "id": 173,
+    "question": "Select the synonym of: BANEFUL",
+    "options": ["Helpful", "Beneficial", "Harmful", "Lucky"],
+    "answer": "Harmful",
+    "explanation": "'Baneful' (ক্ষতিকারক বা ধ্বংসাত্মক)-এর সমার্থক 'Harmful'। Helpful, Beneficial এবং Lucky মানে উপকারী বা সৌভাগ্যবান।"
+  },
+  {
+    "id": 174,
+    "question": "Find the synonym of the given word: COGENT",
+    "options": ["Weak", "Ineffective", "Invalid", "Convincing"],
+    "answer": "Convincing",
+    "explanation": "'Cogent' (অকাট্য বা জোরালো)-এর সমার্থক শব্দ 'Convincing'। Weak, Ineffective এবং Invalid মানে দুর্বল বা অকার্যকর।"
+  },
+  {
+    "id": 175,
+    "question": "Choose the correct synonym for: DEARTH",
+    "options": ["Scarcity", "Abundance", "Plenty", "Surplus"],
+    "answer": "Scarcity",
+    "explanation": "'Dearth' (আকাল বা অভাব)-এর সমার্থক 'Scarcity'। Abundance, Plenty এবং Surplus মানে প্রচুর বা উদ্বৃত্ত।"
+  },
+  {
+    "id": 176,
+    "question": "What is the synonym of 'EFFIGY'?",
+    "options": ["Human", "Dummy", "Original", "Being"],
+    "answer": "Dummy",
+    "explanation": "'Effigy' (কারো প্রতিমূর্তি বা কুশপুত্তলিকা)-এর সমার্থক 'Dummy'। Human, Original এবং Being মানে আসল বা মানুষ।"
+  },
+  {
+    "id": 177,
+    "question": "Select the correct synonym for: FATIGUE",
+    "options": ["Energy", "Vigor", "Weariness", "Strength"],
+    "answer": "Weariness",
+    "explanation": "'Fatigue' (ক্লান্তি বা অবসাদ)-এর সমার্থক শব্দ 'Weariness'। Energy, Vigor এবং Strength মানে শক্তি বা সতেজতা।"
+  },
+  {
+    "id": 178,
+    "question": "Find the synonym of the given word: GULLIBLE",
+    "options": ["Suspicious", "Cynical", "Skeptical", "Credulous"],
+    "answer": "Credulous",
+    "explanation": "'Gullible' (সহজে প্রতারিত হয় এমন বা অতি-সরল)-এর সমার্থক 'Credulous'। Suspicious, Cynical এবং Skeptical মানে সন্দেহপ্রবণ।"
+  },
+  {
+    "id": 179,
+    "question": "Choose the correct synonym for: HEINOUS",
+    "options": ["Atrocious", "Wonderful", "Splendid", "Glorious"],
+    "answer": "Atrocious",
+    "explanation": "'Heinous' (জঘন্য বা অতিশয় ঘৃণ্য)-এর সমার্থক শব্দ 'Atrocious'। Wonderful, Splendid এবং Glorious মানে চমৎকার বা গৌরবময়।"
+  },
+  {
+    "id": 180,
+    "question": "What is the synonym of 'INSOLENT'?",
+    "options": ["Polite", "Disrespectful", "Courteous", "Humble"],
+    "answer": "Disrespectful",
+    "explanation": "'Insolent' (উদ্ধত বা বেয়াদব)-এর সমার্থক শব্দ 'Disrespectful'। Polite, Courteous এবং Humble মানে ভদ্র বা বিনীত।"
+  },
+  {
+    "id": 181,
+    "question": "Select the synonym of: JOCUND",
+    "options": ["Sad", "Depressed", "Cheerful", "Gloomy"],
+    "answer": "Cheerful",
+    "explanation": "'Jocund' (প্রফুল্ল বা হাসিখুশি)-এর সমার্থক শব্দ 'Cheerful'। Sad, Depressed এবং Gloomy মানে বিষণ্ণ বা দুঃখিত।"
+  },
+  {
+    "id": 182,
+    "question": "Find the synonym of the given word: KNAVERY",
+    "options": ["Honesty", "Integrity", "Truthfulness", "Dishonesty"],
+    "answer": "Dishonesty",
+    "explanation": "'Knavery' (প্রতারণা বা শঠতা)-এর সমার্থক 'Dishonesty'। Honesty, Integrity এবং Truthfulness মানে সততা বা সত্যবাদিতা।"
+  },
+  {
+    "id": 183,
+    "question": "Choose the correct synonym for: LACONIC",
+    "options": ["Concise", "Verbose", "Wordy", "Rambling"],
+    "answer": "Concise",
+    "explanation": "'Laconic' (স্বল্পকথায় বা সংক্ষিপ্ত)-এর সমার্থক 'Concise'। Verbose, Wordy এবং Rambling মানে শব্দবহুল বা অবাঞ্ছিতভাবে দীর্ঘ।"
+  },
+  {
+    "id": 184,
+    "question": "What is the synonym of 'MENDACIOUS'?",
+    "options": ["Honest", "Untruthful", "Truthful", "Sincere"],
+    "answer": "Untruthful",
+    "explanation": "'Mendacious' (মিথ্যাবাদী বা অসত্য)-এর সমার্থক 'Untruthful'। Honest, Truthful এবং Sincere মানে সৎ বা সত্যবাদী।"
+  },
+  {
+    "id": 185,
+    "question": "Select the correct synonym for: NOXIOUS",
+    "options": ["Healthy", "Beneficial", "Harmful", "Healing"],
+    "answer": "Harmful",
+    "explanation": "'Noxious' (ক্ষতিকর বা বিষাক্ত)-এর সমার্থক শব্দ 'Harmful'। Healthy, Beneficial এবং Healing মানে স্বাস্থ্যকর বা উপকারী।"
+  },
+  {
+    "id": 186,
+    "question": "Find the synonym of the given word: ONEROUS",
+    "options": ["Easy", "Light", "Effortless", "Burdensome"],
+    "answer": "Burdensome",
+    "explanation": "'Onerous' (কষ্টসাধ্য বা গুরুভার)-এর সমার্থক 'Burdensome'। Easy, Light এবং Effortless মানে সহজ বা পরিশ্রমহীন।"
+  },
+  {
+    "id": 187,
+    "question": "Choose the correct synonym for: PERTINENT",
+    "options": ["Relevant", "Irrelevant", "Unrelated", "Inappropriate"],
+    "answer": "Relevant",
+    "explanation": "'Pertinent' (প্রাসঙ্গিক বা উপযুক্ত)-এর সমার্থক শব্দ 'Relevant'। Irrelevant, Unrelated এবং Inappropriate মানে অপ্রাসঙ্গিক।"
+  },
+  {
+    "id": 188,
+    "question": "What is the synonym of 'QUIESCENT'?",
+    "options": ["Active", "Dormant", "Lively", "Restless"],
+    "answer": "Dormant",
+    "explanation": "'Quiescent' (সুপ্ত বা নিষ্ক্রিয়)-এর সমার্থক 'Dormant'। Active, Lively এবং Restless মানে সক্রিয় বা চটপটে।"
+  },
+  {
+    "id": 189,
+    "question": "Select the synonym of: REPUDIATE",
+    "options": ["Accept", "Admit", "Reject", "Acknowledge"],
+    "answer": "Reject",
+    "explanation": "'Repudiate' (অস্বীকার করা বা বাতিল করা)-এর সমার্থক শব্দ 'Reject'। Accept, Admit এবং Acknowledge মানে মেনে নেওয়া বা স্বীকার করা।"
+  },
+  {
+    "id": 190,
+    "question": "Find the synonym of the given word: SAGACITY",
+    "options": ["Foolishness", "Stupidity", "Ignorance", "Wisdom"],
+    "answer": "Wisdom",
+    "explanation": "'Sagacity' (প্রজ্ঞা বা বিচক্ষণতা)-এর সমার্থক শব্দ 'Wisdom'। Foolishness, Stupidity এবং Ignorance মানে বোকামি বা অজ্ঞতা।"
+  },
+  {
+    "id": 191,
+    "question": "Choose the correct synonym for: TRANQUIL",
+    "options": ["Peaceful", "Noisy", "Violent", "Agitated"],
+    "answer": "Peaceful",
+    "explanation": "'Tranquil' (শান্ত বা প্রশান্ত)-এর সমার্থক শব্দ 'Peaceful'। Noisy, Violent এবং Agitated মানে কোলাহলপূর্ণ বা অশান্ত।"
+  },
+  {
+    "id": 192,
+    "question": "What is the synonym of 'UPROAR'?",
+    "options": ["Peace", "Tumult", "Calm", "Silence"],
+    "answer": "Tumult",
+    "explanation": "'Uproar' (হট্টগোল বা চরম বিশৃঙ্খলা)-এর সমার্থক শব্দ 'Tumult'। Peace, Calm এবং Silence মানে শান্তি বা নীরবতা।"
+  },
+  {
+    "id": 193,
+    "question": "Select the correct synonym for: VINDICATE",
+    "options": ["Blame", "Condemn", "Justify", "Convict"],
+    "answer": "Justify",
+    "explanation": "'Vindicate' (ন্যায্য প্রমাণ করা বা দোষমুক্ত করা)-এর সমার্থক 'Justify' বা Absolve। Blame, Condemn এবং Convict মানে দোষারোপ করা।"
+  },
+  {
+    "id": 194,
+    "question": "Find the synonym of the given word: WEARY",
+    "options": ["Energetic", "Fresh", "Lively", "Tired"],
+    "answer": "Tired",
+    "explanation": "'Weary' (ক্লান্ত বা শ্রান্ত)-এর সমার্থক শব্দ 'Tired'। Energetic, Fresh এবং Lively মানে সতেজ বা প্রাণবন্ত।"
+  },
+  {
+    "id": 195,
+    "question": "Choose the correct synonym for: YAWN",
+    "options": ["Gape", "Close", "Ignore", "Focus"],
+    "answer": "Gape",
+    "explanation": "'Yawn' (হাই তোলা বা হাঁ করে থাকা)-এর সমার্থক শব্দ হলো 'Gape'। Close, Ignore এবং Focus মানে বন্ধ করা বা মনোযোগ দেওয়া।"
+  },
+  {
+    "id": 196,
+    "question": "What is the synonym of 'AMELIORATE'?",
+    "options": ["Worsen", "Improve", "Deteriorate", "Harm"],
+    "answer": "Improve",
+    "explanation": "'Ameliorate' (উন্নতি সাধন করা বা ভালো করা)-এর সমার্থক 'Improve'। Worsen, Deteriorate এবং Harm মানে আরও খারাপ হওয়া বা ক্ষতি করা।"
+  },
+  {
+    "id": 197,
+    "question": "Select the synonym of: BALEFUL",
+    "options": ["Promising", "Favorable", "Deadly", "Auspicious"],
+    "answer": "Deadly",
+    "explanation": "'Baleful' (অশুভ বা ক্ষতিকারক)-এর সমার্থক শব্দ 'Deadly'। Promising, Favorable এবং Auspicious মানে আশাব্যঞ্জক বা শুভ।"
+  },
+  {
+    "id": 198,
+    "question": "Find the synonym of the given word: CAPRICIOUS",
+    "options": ["Steady", "Constant", "Reliable", "Fickle"],
+    "answer": "Fickle",
+    "explanation": "'Capricious' (খামখেয়ালী বা চঞ্চল)-এর সমার্থক শব্দ 'Fickle'। Steady, Constant এবং Reliable মানে স্থির বা নির্ভরযোগ্য।"
+  },
+  {
+    "id": 199,
+    "question": "Choose the correct synonym for: DESPICABLE",
+    "options": ["Contemptible", "Admirable", "Honorable", "Respectable"],
+    "answer": "Contemptible",
+    "explanation": "'Despicable' (ঘৃণ্য বা ন্যাক্কারজনক)-এর সমার্থক শব্দ 'Contemptible'। Admirable, Honorable এবং Respectable মানে প্রশংসনীয় বা সম্মানজনক।"
+  },
+  {
+    "id": 200,
+    "question": "What is the synonym of 'ENIGMA'?",
+    "options": ["Clarity", "Puzzle", "Solution", "Answer"],
+    "answer": "Puzzle",
+    "explanation": "'Enigma' (প্রহেলিকা বা রহস্য)-এর সমার্থক শব্দ 'Puzzle'। Clarity, Solution এবং Answer মানে স্পষ্টতা বা সমাধান।"
+  },
+  {
+    "id": 201,
+    "question": "Choose the correct synonym for the word: ABORTIVE",
+    "options": ["Unsuccessful", "Fruitful", "Progressive", "Successful"],
+    "answer": "Unsuccessful",
+    "explanation": "'Abortive' (নিষ্ফল বা ব্যর্থ)-এর সমার্থক শব্দ হলো 'Unsuccessful'। Fruitful, Progressive এবং Successful মানে ফলপ্রসূ বা সফল।"
+  },
+  {
+    "id": 202,
+    "question": "What is the synonym of 'ACRIMONY'?",
+    "options": ["Sweetness", "Bitterness", "Courtesy", "Friendship"],
+    "answer": "Bitterness",
+    "explanation": "'Acrimony' (তিক্ততা বা কটু কথা)-এর সমার্থক 'Bitterness'। Sweetness, Courtesy এবং Friendship মানে মিষ্টতা বা বন্ধুত্ব।"
+  },
+  {
+    "id": 203,
+    "question": "Select the correct synonym for: ADROIT",
+    "options": ["Clumsy", "Inept", "Skillful", "Awkward"],
+    "answer": "Skillful",
+    "explanation": "'Adroit' (নিপুণ বা দক্ষ)-এর সমার্থক শব্দ 'Skillful'। Clumsy, Inept এবং Awkward মানে আনাড়ি বা অদক্ষ।"
+  },
+  {
+    "id": 204,
+    "question": "Find the synonym of the given word: ALACRITY",
+    "options": ["Sluggishness", "Lethargy", "Apathy", "Eagerness"],
+    "answer": "Eagerness",
+    "explanation": "'Alacrity' (তৎপরতা বা সাগ্রহে প্রস্তুত থাকা)-এর সমার্থক 'Eagerness'। Sluggishness, Lethargy এবং Apathy মানে অলসতা বা অনীহা।"
+  },
+  {
+    "id": 205,
+    "question": "Choose the correct synonym for: ALTRUISTIC",
+    "options": ["Selfless", "Selfish", "Egoistic", "Greedy"],
+    "answer": "Selfless",
+    "explanation": "'Altruistic' (পরার্থপর বা নিঃস্বার্থ)-এর সমার্থক 'Selfless'। Selfish, Egoistic এবং Greedy মানে স্বার্থপর বা লোভী।"
+  },
+  {
+    "id": 206,
+    "question": "What is the synonym of 'AMICABLE'?",
+    "options": ["Hostile", "Friendly", "Unfriendly", "Rude"],
+    "answer": "Friendly",
+    "explanation": "'Amicable' (বন্ধুত্বপূর্ণ বা সৌহার্দ্যপূর্ণ)-এর সমার্থক শব্দ 'Friendly'। Hostile, Unfriendly এবং Rude মানে শত্রুভাবাপন্ন বা অভদ্র।"
+  },
+  {
+    "id": 207,
+    "question": "Select the synonym of: ANOMALY",
+    "options": ["Normality", "Regularity", "Irregularity", "Standard"],
+    "answer": "Irregularity",
+    "explanation": "'Anomaly' (ব্যতিক্রম বা অসঙ্গতি)-এর সমার্থক শব্দ 'Irregularity'। Normality, Regularity এবং Standard মানে স্বাভাবিকতা বা নিয়মমাফিক।"
+  },
+  {
+    "id": 208,
+    "question": "Find the synonym of the given word: ANTIPATHY",
+    "options": ["Admiration", "Fondness", "Approval", "Dislike"],
+    "answer": "Dislike",
+    "explanation": "'Antipathy' (তীব্র বিদ্বেষ বা অপছন্দ)-এর সমার্থক 'Dislike'। Admiration, Fondness এবং Approval মানে প্রশংসা বা পছন্দ করা।"
+  },
+  {
+    "id": 209,
+    "question": "Choose the correct synonym for: APATHY",
+    "options": ["Indifference", "Enthusiasm", "Passion", "Interest"],
+    "answer": "Indifference",
+    "explanation": "'Apathy' (উদাসীনতা বা অনীহা)-এর সমার্থক 'Indifference'। Enthusiasm, Passion এবং Interest মানে প্রবল উৎসাহ বা আগ্রহ।"
+  },
+  {
+    "id": 210,
+    "question": "What is the synonym of 'APPEASE'?",
+    "options": ["Agitate", "Pacify", "Provoke", "Irritate"],
+    "answer": "Pacify",
+    "explanation": "'Appease' (শান্ত করা বা মেটানো)-এর সমার্থক শব্দ 'Pacify'। Agitate, Provoke এবং Irritate মানে উত্তেজিত বা রাগান্বিত করা।"
+  },
+  {
+    "id": 211,
+    "question": "Select the correct synonym for: APPOSITE",
+    "options": ["Inappropriate", "Irrelevant", "Appropriate", "Unrelated"],
+    "answer": "Appropriate",
+    "explanation": "'Apposite' (যথাযথ বা প্রাসঙ্গিক)-এর সমার্থক শব্দ 'Appropriate'। Inappropriate, Irrelevant এবং Unrelated মানে অপ্রাসঙ্গিক।"
+  },
+  {
+    "id": 212,
+    "question": "Find the synonym of the given word: ARBITRARY",
+    "options": ["Logical", "Reasonable", "Rational", "Random"],
+    "answer": "Random",
+    "explanation": "'Arbitrary' (স্বেচ্ছাচারী বা খেয়ালখুশিমতো)-এর সমার্থক 'Random'। Logical, Reasonable এবং Rational মানে যুক্তিসঙ্গত।"
+  },
+  {
+    "id": 213,
+    "question": "Choose the correct synonym for: ARCANE",
+    "options": ["Mysterious", "Common", "Public", "Known"],
+    "answer": "Mysterious",
+    "explanation": "'Arcane' (রহস্যময় বা দুর্বোধ্য)-এর সমার্থক 'Mysterious'। Common, Public এবং Known মানে সাধারণ বা সর্বজনবিদিত।"
+  },
+  {
+    "id": 214,
+    "question": "What is the synonym of 'ARDUOUS'?",
+    "options": ["Easy", "Difficult", "Effortless", "Simple"],
+    "answer": "Difficult",
+    "explanation": "'Arduous' (কষ্টসাধ্য বা শ্রমসাধ্য)-এর সমার্থক শব্দ 'Difficult'। Easy, Effortless এবং Simple মানে সহজ বা আয়াসহীন।"
+  },
+  {
+    "id": 215,
+    "question": "Select the synonym of: ARTICULATE",
+    "options": ["Unclear", "Mumbled", "Fluent", "Hesitant"],
+    "answer": "Fluent",
+    "explanation": "'Articulate' (স্পষ্ট ও সাবলীলভাবে কথা বলতে সক্ষম)-এর সমার্থক 'Fluent'। Unclear, Mumbled এবং Hesitant মানে অস্পষ্ট বা জড়তাগ্রস্ত।"
+  },
+  {
+    "id": 216,
+    "question": "Find the synonym of the given word: ASCETIC",
+    "options": ["Hedonistic", "Luxurious", "Sensual", "Austere"],
+    "answer": "Austere",
+    "explanation": "'Ascetic' (কঠোর সংযমী বা সন্ন্যাসীর মতো)-এর সমার্থক 'Austere'। Hedonistic, Luxurious এবং Sensual মানে ভোগবিলাসী।"
+  },
+  {
+    "id": 217,
+    "question": "Choose the correct synonym for: ASSUAGE",
+    "options": ["Relieve", "Intensify", "Aggravate", "Worsen"],
+    "answer": "Relieve",
+    "explanation": "'Assuage' (প্রশমিত করা বা উপশম করা)-এর সমার্থক 'Relieve'। Intensify, Aggravate এবং Worsen মানে বাড়িয়ে দেওয়া বা অবনতি ঘটানো।"
+  },
+  {
+    "id": 218,
+    "question": "What is the synonym of 'ASTUTE'?",
+    "options": ["Foolish", "Shrewd", "Stupid", "Naive"],
+    "answer": "Shrewd",
+    "explanation": "'Astute' (বিচক্ষণ বা চতুর)-এর সমার্থক শব্দ 'Shrewd'। Foolish, Stupid এবং Naive মানে বোকা বা অনভিজ্ঞ।"
+  },
+  {
+    "id": 219,
+    "question": "Select the correct synonym for: AUDACITY",
+    "options": ["Cowardice", "Timidity", "Boldness", "Fearfulness"],
+    "answer": "Boldness",
+    "explanation": "'Audacity' (দুঃসাহস বা ধৃষ্টতা)-এর সমার্থক 'Boldness'। Cowardice, Timidity এবং Fearfulness মানে ভীরুতা।"
+  },
+  {
+    "id": 220,
+    "question": "Find the synonym of the given word: AUGUST",
+    "options": ["Ridiculous", "Common", "Undignified", "Majestic"],
+    "answer": "Majestic",
+    "explanation": "'August' (মর্যাদাপূর্ণ বা রাজকীয়)-এর সমার্থক 'Majestic'। Ridiculous, Common এবং Undignified মানে হাস্যকর বা সাধারণ।"
+  },
+  {
+    "id": 221,
+    "question": "Choose the correct synonym for: AUSPICIOUS",
+    "options": ["Favorable", "Ominous", "Unlucky", "Inauspicious"],
+    "answer": "Favorable",
+    "explanation": "'Auspicious' (শুভ বা অনুকূল)-এর সমার্থক 'Favorable'। Ominous, Unlucky এবং Inauspicious মানে অশুভ বা দুর্ভাগা।"
+  },
+  {
+    "id": 222,
+    "question": "What is the synonym of 'AVARICE'?",
+    "options": ["Generosity", "Greed", "Philanthropy", "Charity"],
+    "answer": "Greed",
+    "explanation": "'Avarice' (অর্থলিপ্সা বা প্রবল লোভ)-এর সমার্থক শব্দ 'Greed'। Generosity, Philanthropy এবং Charity মানে উদারতা বা দানশীলতা।"
+  },
+  {
+    "id": 223,
+    "question": "Select the synonym of: BELLICOSE",
+    "options": ["Peaceful", "Calm", "Warlike", "Mild"],
+    "answer": "Warlike",
+    "explanation": "'Bellicose' (যুদ্ধবাজ বা কলহপ্রিয়)-এর সমার্থক শব্দ 'Warlike'। Peaceful, Calm এবং Mild মানে শান্তভাব বা নম্র।"
+  },
+  {
+    "id": 224,
+    "question": "Find the synonym of the given word: BEREFT",
+    "options": ["Full", "Rich", "Endowed", "Deprived"],
+    "answer": "Deprived",
+    "explanation": "'Bereft' (বঞ্চিত বা হারানো)-এর সমার্থক 'Deprived'। Full, Rich এবং Endowed মানে পরিপূর্ণ বা সমৃদ্ধ।"
+  },
+  {
+    "id": 225,
+    "question": "Choose the correct synonym for: BLEAK",
+    "options": ["Desolate", "Bright", "Cheerful", "Promising"],
+    "answer": "Desolate",
+    "explanation": "'Bleak' (নিরানন্দ বা ফাঁকা ও হতাশাব্যঞ্জক)-এর সমার্থক 'Desolate'। Bright, Cheerful এবং Promising মানে উজ্জ্বল বা আশাব্যঞ্জক।"
+  },
+  {
+    "id": 226,
+    "question": "What is the synonym of 'BOISTEROUS'?",
+    "options": ["Quiet", "Noisy", "Calm", "Silent"],
+    "answer": "Noisy",
+    "explanation": "'Boisterous' (কোলাহলপূর্ণ বা হৈচৈপূর্ণ)-এর সমার্থক 'Noisy'। Quiet, Calm এবং Silent মানে শান্ত বা নীরব।"
+  },
+  {
+    "id": 227,
+    "question": "Select the correct synonym for: BOLSTER",
+    "options": ["Undermine", "Weaken", "Support", "Hinder"],
+    "answer": "Support",
+    "explanation": "'Bolster' (সমর্থন করা বা শক্তিশালী করা)-এর সমার্থক 'Support'। Undermine, Weaken এবং Hinder মানে দুর্বল করা বা বাধা দেওয়া।"
+  },
+  {
+    "id": 228,
+    "question": "Find the synonym of the given word: BOMBASTIC",
+    "options": ["Simple", "Plain", "Humble", "Pompous"],
+    "answer": "Pompous",
+    "explanation": "'Bombastic' (বাগাড়ম্বরপূর্ণ বা বড় বড় কথা বলা)-এর সমার্থক 'Pompous'। Simple, Plain এবং Humble মানে সাধারণ বা বিনীত।"
+  },
+  {
+    "id": 229,
+    "question": "Choose the correct synonym for: BRAZEN",
+    "options": ["Shameless", "Modest", "Shy", "Timid"],
+    "answer": "Shameless",
+    "explanation": "'Brazen' (নির্লজ্জ বা বেহায়া)-এর সমার্থক 'Shameless'। Modest, Shy এবং Timid মানে লাজুক বা বিনীত।"
+  },
+  {
+    "id": 230,
+    "question": "What is the synonym of 'BUCOLIC'?",
+    "options": ["Urban", "Rustic", "Metropolitan", "Civic"],
+    "answer": "Rustic",
+    "explanation": "'Bucolic' (গ্রাম্য বা পল্লীজীবন সম্পর্কিত)-এর সমার্থক শব্দ 'Rustic'। Urban, Metropolitan এবং Civic মানে শহর বা নাগরিক সম্পর্কিত।"
+  },
+  {
+    "id": 231,
+    "question": "Select the synonym of: CALUMNY",
+    "options": ["Praise", "Vindication", "Slander", "Flattery"],
+    "answer": "Slander",
+    "explanation": "'Calumny' (মিথ্যা অপবাদ বা কুৎসা)-এর সমার্থক 'Slander'। Praise, Vindication এবং Flattery মানে প্রশংসা করা বা সমর্থন করা।"
+  },
+  {
+    "id": 232,
+    "question": "Find the synonym of the given word: CAMARADERIE",
+    "options": ["Enmity", "Hostility", "Hatred", "Companionship"],
+    "answer": "Companionship",
+    "explanation": "'Camaraderie' (পারস্পরিক বিশ্বাস ও বন্ধুত্ব)-এর সমার্থক 'Companionship'। Enmity, Hostility এবং Hatred মানে শত্রুতা বা ঘৃণা।"
+  },
+  {
+    "id": 233,
+    "question": "Choose the correct synonym for: CANTANKEROUS",
+    "options": ["Irritable", "Good-natured", "Pleasant", "Friendly"],
+    "answer": "Irritable",
+    "explanation": "'Cantankerous' (বদমেজাজি বা ঝগড়াটে)-এর সমার্থক 'Irritable'। Good-natured, Pleasant এবং Friendly মানে ভালো স্বভাবের বা মিশুকে।"
+  },
+  {
+    "id": 234,
+    "question": "What is the synonym of 'CASTIGATE'?",
+    "options": ["Praise", "Reprimand", "Approve", "Reward"],
+    "answer": "Reprimand",
+    "explanation": "'Castigate' (কঠোর সমালোচনা বা তিরস্কার করা)-এর সমার্থক শব্দ 'Reprimand'। Praise, Approve এবং Reward মানে প্রশংসা বা পুরস্কৃত করা।"
+  },
+  {
+    "id": 235,
+    "question": "Select the correct synonym for: CATALYST",
+    "options": ["Block", "Hindrance", "Stimulant", "Prevention"],
+    "answer": "Stimulant",
+    "explanation": "'Catalyst' (অনুঘটক যা কোনো কাজকে ত্বরান্বিত করে)-এর সমার্থক 'Stimulant'। Block, Hindrance এবং Prevention মানে বাধা।"
+  },
+  {
+    "id": 236,
+    "question": "Find the synonym of the given word: CATHARSIS",
+    "options": ["Repression", "Suppression", "Holding", "Purification"],
+    "answer": "Purification",
+    "explanation": "'Catharsis' (মানসিক আবেগের মুক্তি বা পরিশোধন)-এর সমার্থক 'Purification'। Repression বা Suppression মানে দমন করা।"
+  },
+  {
+    "id": 237,
+    "question": "Choose the correct synonym for: CAUSTIC",
+    "options": ["Sarcastic", "Mild", "Soothing", "Gentle"],
+    "answer": "Sarcastic",
+    "explanation": "'Caustic' (তীব্র জ্বালাধরানো বা শ্লেষাত্মক কথা)-এর সমার্থক 'Sarcastic'। Mild, Soothing এবং Gentle মানে নরম বা প্রশান্তিদায়ক।"
+  },
+  {
+    "id": 238,
+    "question": "What is the synonym of 'CENSURE'?",
+    "options": ["Praise", "Criticize", "Applaud", "Commend"],
+    "answer": "Criticize",
+    "explanation": "'Censure' (কঠোর নিন্দা বা সমালোচনা করা)-এর সমার্থক শব্দ 'Criticize'। Praise, Applaud এবং Commend মানে প্রশংসা করা।"
+  },
+  {
+    "id": 239,
+    "question": "Select the synonym of: CHARLATAN",
+    "options": ["Expert", "Professional", "Quack", "Master"],
+    "answer": "Quack",
+    "explanation": "'Charlatan' (হাতুড়ে বা যে মিথ্যা দক্ষতার ভান করে)-এর সমার্থক শব্দ 'Quack'। Expert, Professional এবং Master মানে প্রকৃত বিশেষজ্ঞ।"
+  },
+  {
+    "id": 240,
+    "question": "Find the synonym of the given word: CHICANERY",
+    "options": ["Honesty", "Truthfulness", "Frankness", "Trickery"],
+    "answer": "Trickery",
+    "explanation": "'Chicanery' (ছলচাতুরী বা কূটকৌশল)-এর সমার্থক 'Trickery'। Honesty, Truthfulness এবং Frankness মানে সততা বা অকপটতা।"
+  },
+  {
+    "id": 241,
+    "question": "Choose the correct synonym for: COERCE",
+    "options": ["Force", "Allow", "Persuade", "Request"],
+    "answer": "Force",
+    "explanation": "'Coerce' (জোর করা বা বাধ্য করা)-এর সমার্থক 'Force'। Allow, Persuade এবং Request মানে অনুমতি দেওয়া বা বোঝানো।"
+  },
+  {
+    "id": 242,
+    "question": "What is the synonym of 'COLLOQUIAL'?",
+    "options": ["Formal", "Conversational", "Standard", "Official"],
+    "answer": "Conversational",
+    "explanation": "'Colloquial' (কথ্য বা চলিত ভাষারূপ)-এর সমার্থক শব্দ 'Conversational'। Formal, Standard এবং Official মানে আনুষ্ঠানিক বা মান্য ভাষা।"
+  },
+  {
+    "id": 243,
+    "question": "Select the correct synonym for: COMMENSURATE",
+    "options": ["Disproportionate", "Unequal", "Proportionate", "Unmatched"],
+    "answer": "Proportionate",
+    "explanation": "'Commensurate' (সমানুপাতিক বা উপযুক্ত)-এর সমার্থক শব্দ 'Proportionate'। Disproportionate, Unequal এবং Unmatched মানে অসম বা বেমানান।"
+  },
+  {
+    "id": 244,
+    "question": "Find the synonym of the given word: CONCILIATORY",
+    "options": ["Antagonistic", "Hostile", "Provocative", "Appeasing"],
+    "answer": "Appeasing",
+    "explanation": "'Conciliatory' (মিটমাট বা আপস করার প্রবণতা)-এর সমার্থক 'Appeasing'। Antagonistic, Hostile এবং Provocative মানে শত্রুতাপূর্ণ বা উত্তেজনামূলক।"
+  },
+  {
+    "id": 245,
+    "question": "Choose the correct synonym for: CONDONE",
+    "options": ["Overlook", "Condemn", "Punish", "Forbid"],
+    "answer": "Overlook",
+    "explanation": "'Condone' (দোষ উপেক্ষা করা বা ক্ষমা করে দেওয়া)-এর সমার্থক 'Overlook'। Condemn, Punish এবং Forbid মানে শাস্তি দেওয়া বা নিষেধ করা।"
+  },
+  {
+    "id": 246,
+    "question": "What is the synonym of 'CONFLAGRATION'?",
+    "options": ["Spark", "Fire", "Drizzle", "Breeze"],
+    "answer": "Fire",
+    "explanation": "'Conflagration' (প্রলয়ংকরী অগ্নিকাণ্ড)-এর সমার্থক শব্দ 'Fire' বা Inferno। Spark, Drizzle এবং Breeze মানে ফুলকি, গুঁড়িগুঁড়ি বৃষ্টি বা বাতাস।"
+  },
+  {
+    "id": 247,
+    "question": "Select the synonym of: CONUNDRUM",
+    "options": ["Solution", "Clarity", "Riddle", "Answer"],
+    "answer": "Riddle",
+    "explanation": "'Conundrum' (ধাঁধা বা জটিল সমস্যা)-এর সমার্থক 'Riddle'। Solution, Clarity এবং Answer মানে সমাধান বা স্পষ্টতা।"
+  },
+  {
+    "id": 248,
+    "question": "Find the synonym of the given word: COPIOUS",
+    "options": ["Scarce", "Sparse", "Meager", "Plentiful"],
+    "answer": "Plentiful",
+    "explanation": "'Copious' (প্রচুর বা বিপুল পরিমাণ)-এর সমার্থক 'Plentiful'। Scarce, Sparse এবং Meager মানে সামান্য বা অপ্রতুল।"
+  },
+  {
+    "id": 249,
+    "question": "Choose the correct synonym for: CORROBORATE",
+    "options": ["Confirm", "Deny", "Contradict", "Refute"],
+    "answer": "Confirm",
+    "explanation": "'Corroborate' (সমর্থন করা বা প্রমাণ দিয়ে নিশ্চিত করা)-এর সমার্থক 'Confirm'। Deny, Contradict এবং Refute মানে অস্বীকার করা বা খণ্ডন করা।"
+  },
+  {
+    "id": 250,
+    "question": "What is the synonym of 'COVERT'?",
+    "options": ["Open", "Secret", "Public", "Known"],
+    "answer": "Secret",
+    "explanation": "'Covert' (লুক্কায়িত বা গুপ্ত)-এর সমার্থক শব্দ 'Secret'। Open, Public এবং Known মানে প্রকাশ্য বা সবার জানা।"
+  },
+  {
+    "id": 251,
+    "question": "Choose the correct synonym for the word: CULPABLE",
+    "options": ["Guilty", "Innocent", "Blameless", "Righteous"],
+    "answer": "Guilty",
+    "explanation": "'Culpable' (অপরাধী বা দায়ী)-এর সমার্থক শব্দ হলো 'Guilty'। Innocent, Blameless এবং Righteous মানে নির্দোষ বা পুণ্যবান।"
+  },
+  {
+    "id": 252,
+    "question": "What is the synonym of 'CURSORY'?",
+    "options": ["Thorough", "Superficial", "Detailed", "Painstaking"],
+    "answer": "Superficial",
+    "explanation": "'Cursory' (ভাসা-ভাসা বা দ্রুত)-এর সমার্থক 'Superficial'। Thorough, Detailed এবং Painstaking মানে পুঙ্খানুপুঙ্খ বা বিস্তারিত।"
+  },
+  {
+    "id": 253,
+    "question": "Select the correct synonym for: CURTAIL",
+    "options": ["Extend", "Lengthen", "Shorten", "Expand"],
+    "answer": "Shorten",
+    "explanation": "'Curtail' (কমানো বা সংক্ষিপ্ত করা)-এর সমার্থক শব্দ 'Shorten'। Extend, Lengthen এবং Expand মানে প্রসারিত বা দীর্ঘ করা।"
+  },
+  {
+    "id": 254,
+    "question": "Find the synonym of the given word: CYNICAL",
+    "options": ["Trusting", "Optimistic", "Believing", "Skeptical"],
+    "answer": "Skeptical",
+    "explanation": "'Cynical' (সন্দেহবাতিক বা নৈরাশ্যবাদী)-এর সমার্থক 'Skeptical'। Trusting, Optimistic এবং Believing মানে বিশ্বাসী বা আশাবাদী।"
+  },
+  {
+    "id": 255,
+    "question": "Choose the correct synonym for: DECIMATE",
+    "options": ["Destroy", "Build", "Preserve", "Construct"],
+    "answer": "Destroy",
+    "explanation": "'Decimate' (ব্যাপকভাবে ধ্বংস করা বা নিশ্চিহ্ন করা)-এর সমার্থক 'Destroy'। Build, Preserve এবং Construct মানে নির্মাণ বা সংরক্ষণ করা।"
+  },
+  {
+    "id": 256,
+    "question": "What is the synonym of 'DEFERENCE'?",
+    "options": ["Disrespect", "Respect", "Contempt", "Disobedience"],
+    "answer": "Respect",
+    "explanation": "'Deference' (সম্মান বা মান্য করা)-এর সমার্থক শব্দ 'Respect'। Disrespect, Contempt এবং Disobedience মানে অসম্মান বা অবজ্ঞা।"
+  },
+  {
+    "id": 257,
+    "question": "Select the synonym of: DELETERIOUS",
+    "options": ["Helpful", "Beneficial", "Harmful", "Safe"],
+    "answer": "Harmful",
+    "explanation": "'Deleterious' (ক্ষতিকর)-এর সমার্থক শব্দ 'Harmful'। Helpful, Beneficial এবং Safe মানে উপকারী বা নিরাপদ।"
+  },
+  {
+    "id": 258,
+    "question": "Find the synonym of the given word: DELINEATE",
+    "options": ["Confuse", "Distort", "Misrepresent", "Describe"],
+    "answer": "Describe",
+    "explanation": "'Delineate' (বর্ণনা করা বা চিত্রিত করা)-এর সমার্থক 'Describe'। Confuse, Distort এবং Misrepresent মানে বিভ্রান্ত করা বা বিকৃত করা।"
+  },
+  {
+    "id": 259,
+    "question": "Choose the correct synonym for: DELUGE",
+    "options": ["Flood", "Drought", "Scarcity", "Dearth"],
+    "answer": "Flood",
+    "explanation": "'Deluge' (প্লাবন বা বন্যা)-এর সমার্থক 'Flood'। Drought, Scarcity এবং Dearth মানে খরা বা আকাল।"
+  },
+  {
+    "id": 260,
+    "question": "What is the synonym of 'DEMISE'?",
+    "options": ["Birth", "Death", "Beginning", "Start"],
+    "answer": "Death",
+    "explanation": "'Demise' (মৃত্যু বা অবসান)-এর সমার্থক শব্দ 'Death'। Birth, Beginning এবং Start মানে জন্ম বা শুরু।"
+  },
+  {
+    "id": 261,
+    "question": "Select the correct synonym for: DENOUNCE",
+    "options": ["Praise", "Applaud", "Condemn", "Commend"],
+    "answer": "Condemn",
+    "explanation": "'Denounce' (তীব্র নিন্দা করা)-এর সমার্থক শব্দ 'Condemn'। Praise, Applaud এবং Commend মানে প্রশংসা করা।"
+  },
+  {
+    "id": 262,
+    "question": "Find the synonym of the given word: DEPLETE",
+    "options": ["Fill", "Add", "Restore", "Exhaust"],
+    "answer": "Exhaust",
+    "explanation": "'Deplete' (শূন্য করা বা নিঃশেষ করা)-এর সমার্থক 'Exhaust'। Fill, Add এবং Restore মানে পূর্ণ করা বা ফিরিয়ে আনা।"
+  },
+  {
+    "id": 263,
+    "question": "Choose the correct synonym for: DEPLORE",
+    "options": ["Regret", "Rejoice", "Celebrate", "Delight"],
+    "answer": "Regret",
+    "explanation": "'Deplore' (দুঃখ প্রকাশ করা বা তীব্র নিন্দা করা)-এর সমার্থক 'Regret'। Rejoice, Celebrate এবং Delight মানে আনন্দ করা।"
+  },
+  {
+    "id": 264,
+    "question": "What is the synonym of 'DERELICT'?",
+    "options": ["Maintained", "Abandoned", "Cared", "Kept"],
+    "answer": "Abandoned",
+    "explanation": "'Derelict' (পরিত্যক্ত বা অবহেলিত)-এর সমার্থক শব্দ 'Abandoned'। Maintained, Cared এবং Kept মানে রক্ষণাবেক্ষণ করা।"
+  },
+  {
+    "id": 265,
+    "question": "Select the synonym of: DERISION",
+    "options": ["Respect", "Admiration", "Ridicule", "Praise"],
+    "answer": "Ridicule",
+    "explanation": "'Derision' (উপহাস বা বিদ্রূপ)-এর সমার্থক 'Ridicule'। Respect, Admiration এবং Praise মানে সম্মান বা প্রশংসা।"
+  },
+  {
+    "id": 266,
+    "question": "Find the synonym of the given word: DESPONDENT",
+    "options": ["Hopeful", "Joyful", "Cheerful", "Depressed"],
+    "answer": "Depressed",
+    "explanation": "'Despondent' (হতাশ বা বিষণ্ণ)-এর সমার্থক 'Depressed'। Hopeful, Joyful এবং Cheerful মানে আশাবাদী বা আনন্দিত।"
+  },
+  {
+    "id": 267,
+    "question": "Choose the correct synonym for: DESULTORY",
+    "options": ["Aimless", "Systematic", "Organized", "Planned"],
+    "answer": "Aimless",
+    "explanation": "'Desultory' (এলোমেলো বা উদ্দেশ্যহীন)-এর সমার্থক 'Aimless'। Systematic, Organized এবং Planned মানে সুশৃঙ্খল বা পরিকল্পিত।"
+  },
+  {
+    "id": 268,
+    "question": "What is the synonym of 'DETER'?",
+    "options": ["Encourage", "Discourage", "Persuade", "Urge"],
+    "answer": "Discourage",
+    "explanation": "'Deter' (নিরুৎসাহিত করা বা বাধা দেওয়া)-এর সমার্থক শব্দ 'Discourage'। Encourage, Persuade এবং Urge মানে উৎসাহিত করা বা রাজি করানো।"
+  },
+  {
+    "id": 269,
+    "question": "Select the correct synonym for: DETRIMENT",
+    "options": ["Benefit", "Advantage", "Harm", "Profit"],
+    "answer": "Harm",
+    "explanation": "'Detriment' (ক্ষতি বা অপকার)-এর সমার্থক 'Harm'। Benefit, Advantage এবং Profit মানে সুবিধা বা লাভ।"
+  },
+  {
+    "id": 270,
+    "question": "Find the synonym of the given word: DEVIATE",
+    "options": ["Stay", "Continue", "Follow", "Stray"],
+    "answer": "Stray",
+    "explanation": "'Deviate' (বিচ্যুত হওয়া বা পথভ্রষ্ট হওয়া)-এর সমার্থক 'Stray'। Stay, Continue এবং Follow মানে থাকা বা অনুসরণ করা।"
+  },
+  {
+    "id": 271,
+    "question": "Choose the correct synonym for: DEVIOUS",
+    "options": ["Sneaky", "Direct", "Honest", "Straightforward"],
+    "answer": "Sneaky",
+    "explanation": "'Devious' (আঁকাবাঁকা বা ছলনাময়)-এর সমার্থক 'Sneaky'। Direct, Honest এবং Straightforward মানে সোজা বা সৎ।"
+  },
+  {
+    "id": 272,
+    "question": "What is the synonym of 'DIATRIBE'?",
+    "options": ["Praise", "Tirade", "Compliment", "Tribute"],
+    "answer": "Tirade",
+    "explanation": "'Diatribe' (তীব্র সমালোচনা বা বাক্যবাণ)-এর সমার্থক শব্দ 'Tirade'। Praise, Compliment এবং Tribute মানে প্রশংসা বা সম্মান।"
+  },
+  {
+    "id": 273,
+    "question": "Select the synonym of: DIFFIDENT",
+    "options": ["Confident", "Bold", "Shy", "Brave"],
+    "answer": "Shy",
+    "explanation": "'Diffident' (লাজুক বা আত্মবিশ্বাসহীন)-এর সমার্থক শব্দ 'Shy'। Confident, Bold এবং Brave মানে আত্মবিশ্বাসী বা সাহসী।"
+  },
+  {
+    "id": 274,
+    "question": "Find the synonym of the given word: DIGRESS",
+    "options": ["Stay", "Focus", "Concentrate", "Wander"],
+    "answer": "Wander",
+    "explanation": "'Digress' (মূল বিষয় থেকে সরে যাওয়া)-এর সমার্থক 'Wander'। Stay, Focus এবং Concentrate মানে মনোযোগ ধরে রাখা।"
+  },
+  {
+    "id": 275,
+    "question": "Choose the correct synonym for: DILAPIDATED",
+    "options": ["Ruined", "Renovated", "Intact", "Maintained"],
+    "answer": "Ruined",
+    "explanation": "'Dilapidated' (জীর্ণ বা ধ্বংসপ্রাপ্ত)-এর সমার্থক 'Ruined'। Renovated, Intact এবং Maintained মানে সংস্কার করা বা অক্ষত।"
+  },
+  {
+    "id": 276,
+    "question": "What is the synonym of 'DILATORY'?",
+    "options": ["Prompt", "Delaying", "Fast", "Quick"],
+    "answer": "Delaying",
+    "explanation": "'Dilatory' (দীর্ঘসূত্রী বা বিলম্বকারী)-এর সমার্থক 'Delaying'। Prompt, Fast এবং Quick মানে দ্রুত বা চটপটে।"
+  },
+  {
+    "id": 277,
+    "question": "Select the correct synonym for: DISCERN",
+    "options": ["Overlook", "Ignore", "Perceive", "Miss"],
+    "answer": "Perceive",
+    "explanation": "'Discern' (উপলব্ধি করা বা বুঝতে পারা)-এর সমার্থক 'Perceive'। Overlook, Ignore এবং Miss মানে এড়িয়ে যাওয়া বা খেয়াল না করা।"
+  },
+  {
+    "id": 278,
+    "question": "Find the synonym of the given word: DISCORDANT",
+    "options": ["Harmonious", "Agreeing", "Concordant", "Inharmonious"],
+    "answer": "Inharmonious",
+    "explanation": "'Discordant' (বেসুরো বা অমিল)-এর সমার্থক 'Inharmonious'। Harmonious, Agreeing এবং Concordant মানে সুমধুর বা একমত।"
+  },
+  {
+    "id": 279,
+    "question": "Choose the correct synonym for: DISCREPANCY",
+    "options": ["Difference", "Similarity", "Likeness", "Agreement"],
+    "answer": "Difference",
+    "explanation": "'Discrepancy' (অসঙ্গতি বা অমিল)-এর সমার্থক 'Difference'। Similarity, Likeness এবং Agreement মানে মিল বা চুক্তি।"
+  },
+  {
+    "id": 280,
+    "question": "What is the synonym of 'DISDAIN'?",
+    "options": ["Respect", "Contempt", "Admiration", "Regard"],
+    "answer": "Contempt",
+    "explanation": "'Disdain' (অবজ্ঞা বা ঘৃণা)-এর সমার্থক শব্দ 'Contempt'। Respect, Admiration এবং Regard মানে সম্মান বা প্রশংসা।"
+  },
+  {
+    "id": 281,
+    "question": "Select the synonym of: DISPARAGE",
+    "options": ["Praise", "Exalt", "Belittle", "Flatter"],
+    "answer": "Belittle",
+    "explanation": "'Disparage' (তাচ্ছিল্য করা বা অবমূল্যায়ন করা)-এর সমার্থক 'Belittle'। Praise, Exalt এবং Flatter মানে প্রশংসা করা বা তোষামোদ করা।"
+  },
+  {
+    "id": 282,
+    "question": "Find the synonym of the given word: DISPARATE",
+    "options": ["Similar", "Alike", "Identical", "Different"],
+    "answer": "Different",
+    "explanation": "'Disparate' (ভিন্ন বা বিসদৃশ)-এর সমার্থক 'Different'। Similar, Alike এবং Identical মানে একই রকম বা সাদৃশ্যপূর্ণ।"
+  },
+  {
+    "id": 283,
+    "question": "Choose the correct synonym for: DISPEL",
+    "options": ["Scatter", "Gather", "Collect", "Accumulate"],
+    "answer": "Scatter",
+    "explanation": "'Dispel' (দূর করা বা ছত্রভঙ্গ করা)-এর সমার্থক 'Scatter'। Gather, Collect এবং Accumulate মানে জড়ো করা বা সংগ্রহ করা।"
+  },
+  {
+    "id": 284,
+    "question": "What is the synonym of 'DISSEMINATE'?",
+    "options": ["Hide", "Spread", "Conceal", "Suppress"],
+    "answer": "Spread",
+    "explanation": "'Disseminate' (প্রচার করা বা ছড়িয়ে দেওয়া)-এর সমার্থক শব্দ 'Spread'। Hide, Conceal এবং Suppress মানে লুকানো বা গোপন করা।"
+  },
+  {
+    "id": 285,
+    "question": "Select the correct synonym for: DISSENT",
+    "options": ["Agree", "Assent", "Disagree", "Concur"],
+    "answer": "Disagree",
+    "explanation": "'Dissent' (ভিন্নমত পোষণ করা)-এর সমার্থক 'Disagree'। Agree, Assent এবং Concur মানে একমত হওয়া।"
+  },
+  {
+    "id": 286,
+    "question": "Find the synonym of the given word: DISSIPATE",
+    "options": ["Save", "Hoard", "Conserve", "Squander"],
+    "answer": "Squander",
+    "explanation": "'Dissipate' (অপব্যয় করা বা ছড়িয়ে পড়া)-এর সমার্থক 'Squander'। Save, Hoard এবং Conserve মানে জমানো বা সংরক্ষণ করা।"
+  },
+  {
+    "id": 287,
+    "question": "Choose the correct synonym for: DOCILE",
+    "options": ["Compliant", "Stubborn", "Obstinate", "Defiant"],
+    "answer": "Compliant",
+    "explanation": "'Docile' (বাধ্য বা সহজে বশ মানে এমন)-এর সমার্থক 'Compliant'। Stubborn, Obstinate এবং Defiant মানে অবাধ্য বা একগুঁয়ে।"
+  },
+  {
+    "id": 288,
+    "question": "What is the synonym of 'DOGMATIC'?",
+    "options": ["Flexible", "Rigid", "Open-minded", "Yielding"],
+    "answer": "Rigid",
+    "explanation": "'Dogmatic' (গোঁড়া বা নিজ মতে অটল)-এর সমার্থক শব্দ 'Rigid'। Flexible, Open-minded এবং Yielding মানে নমনীয় বা মুক্তমনা।"
+  },
+  {
+    "id": 289,
+    "question": "Select the synonym of: DORMANT",
+    "options": ["Active", "Lively", "Inactive", "Awake"],
+    "answer": "Inactive",
+    "explanation": "'Dormant' (সুপ্ত বা নিষ্ক্রিয়)-এর সমার্থক শব্দ 'Inactive'। Active, Lively এবং Awake মানে সক্রিয় বা জাগ্রত।"
+  },
+  {
+    "id": 290,
+    "question": "Find the synonym of the given word: DUBIOUS",
+    "options": ["Certain", "Sure", "Reliable", "Doubtful"],
+    "answer": "Doubtful",
+    "explanation": "'Dubious' (সন্দেহজনক বা অনিশ্চিত)-এর সমার্থক 'Doubtful'। Certain, Sure এবং Reliable মানে নিশ্চিত বা নির্ভরযোগ্য।"
+  },
+  {
+    "id": 291,
+    "question": "Choose the correct synonym for: DUPLICITY",
+    "options": ["Deceit", "Honesty", "Truthfulness", "Sincerity"],
+    "answer": "Deceit",
+    "explanation": "'Duplicity' (কপটতা বা দ্বিমুখী আচরণ)-এর সমার্থক 'Deceit'। Honesty, Truthfulness এবং Sincerity মানে সততা বা আন্তরিকতা।"
+  },
+  {
+    "id": 292,
+    "question": "What is the synonym of 'EBULLIENT'?",
+    "options": ["Depressed", "Enthusiastic", "Apathetic", "Sad"],
+    "answer": "Enthusiastic",
+    "explanation": "'Ebullient' (অত্যুৎসাহী বা উচ্ছ্বসিত)-এর সমার্থক শব্দ 'Enthusiastic'। Depressed, Apathetic এবং Sad মানে বিষণ্ণ বা অনীহা।"
+  },
+  {
+    "id": 293,
+    "question": "Select the correct synonym for: ECLECTIC",
+    "options": ["Uniform", "Narrow", "Diverse", "Similar"],
+    "answer": "Diverse",
+    "explanation": "'Eclectic' (বিভিন্ন উৎস থেকে সংগৃহীত বা বিচিত্র)-এর সমার্থক 'Diverse'। Uniform, Narrow এবং Similar মানে একই রকম বা সংকীর্ণ।"
+  },
+  {
+    "id": 294,
+    "question": "Find the synonym of the given word: EFFICACY",
+    "options": ["Inefficiency", "Inability", "Failure", "Effectiveness"],
+    "answer": "Effectiveness",
+    "explanation": "'Efficacy' (কার্যকারিতা বা ফলপ্রসূতা)-এর সমার্থক 'Effectiveness'। Inefficiency, Inability এবং Failure মানে অদক্ষতা বা ব্যর্থতা।"
+  },
+  {
+    "id": 295,
+    "question": "Choose the correct synonym for: EFFRONTERY",
+    "options": ["Impudence", "Modesty", "Politeness", "Respect"],
+    "answer": "Impudence",
+    "explanation": "'Effrontery' (নির্লজ্জতা বা ধৃষ্টতা)-এর সমার্থক 'Impudence'। Modesty, Politeness এবং Respect মানে বিনীত বা ভদ্রতা।"
+  },
+  {
+    "id": 296,
+    "question": "What is the synonym of 'EGREGIOUS'?",
+    "options": ["Marvelous", "Atrocious", "Excellent", "Superb"],
+    "answer": "Atrocious",
+    "explanation": "'Egregious' (ভয়ংকর খারাপ বা জঘন্য)-এর সমার্থক শব্দ 'Atrocious'। Marvelous, Excellent এবং Superb মানে চমৎকার বা অসাধারণ।"
+  },
+  {
+    "id": 297,
+    "question": "Select the synonym of: ELICIT",
+    "options": ["Hide", "Suppress", "Extract", "Cover"],
+    "answer": "Extract",
+    "explanation": "'Elicit' (বের করে আনা বা প্রকাশ করা)-এর সমার্থক শব্দ 'Extract'। Hide, Suppress এবং Cover মানে লুকিয়ে রাখা বা গোপন করা।"
+  },
+  {
+    "id": 298,
+    "question": "Find the synonym of the given word: ELUCIDATE",
+    "options": ["Confuse", "Obscure", "Complicate", "Clarify"],
+    "answer": "Clarify",
+    "explanation": "'Elucidate' (স্পষ্ট করা বা ব্যাখ্যা করা)-এর সমার্থক 'Clarify'। Confuse, Obscure এবং Complicate মানে বিভ্রান্তিকর বা জটিল করা।"
+  },
+  {
+    "id": 299,
+    "question": "Choose the correct synonym for: ELUSIVE",
+    "options": ["Evasive", "Tangible", "Understandable", "Definite"],
+    "answer": "Evasive",
+    "explanation": "'Elusive' (অধরা বা সহজে ধরা যায় না এমন)-এর সমার্থক 'Evasive'। Tangible, Understandable এবং Definite মানে স্পষ্ট বা বোধগম্য।"
+  },
+  {
+    "id": 300,
+    "question": "What is the synonym of 'EMACIATED'?",
+    "options": ["Fat", "Thin", "Plump", "Chubby"],
+    "answer": "Thin",
+    "explanation": "'Emaciated' (ক্ষীণকায় বা অত্যন্ত রোগা)-এর সমার্থক শব্দ 'Thin'। Fat, Plump এবং Chubby মানে মোটা বা স্বাস্থ্যবান।"
+  },
+  {
+    "id": 301,
+    "question": "Choose the correct synonym for the word: EMBEZZLE",
+    "options": ["Misappropriate", "Donate", "Reimburse", "Compensate"],
+    "answer": "Misappropriate",
+    "explanation": "'Embezzle' (তহবিল তছরুপ করা বা আত্মসাৎ করা)-এর সমার্থক শব্দ হলো 'Misappropriate'। Donate, Reimburse এবং Compensate মানে দান করা বা ক্ষতিপূরণ দেওয়া।"
+  },
+  {
+    "id": 302,
+    "question": "What is the synonym of 'EMINENT'?",
+    "options": ["Unknown", "Distinguished", "Obscure", "Ordinary"],
+    "answer": "Distinguished",
+    "explanation": "'Eminent' (বিখ্যাত বা বিশিষ্ট)-এর সমার্থক শব্দ 'Distinguished'। Unknown, Obscure এবং Ordinary মানে অপরিচিত বা সাধারণ।"
+  },
+  {
+    "id": 303,
+    "question": "Select the correct synonym for: EMPATHY",
+    "options": ["Apathy", "Hatred", "Compassion", "Indifference"],
+    "answer": "Compassion",
+    "explanation": "'Empathy' (সহানুভূতি বা অন্যের অনুভূতি বুঝতে পারা)-এর সমার্থক 'Compassion'। Apathy, Hatred এবং Indifference মানে অনীহা বা ঘৃণা।"
+  },
+  {
+    "id": 304,
+    "question": "Find the synonym of the given word: EMPIRICAL",
+    "options": ["Theoretical", "Hypothetical", "Speculative", "Experimental"],
+    "answer": "Experimental",
+    "explanation": "'Empirical' (বাস্তব অভিজ্ঞতা বা পরীক্ষামূলক)-এর সমার্থক 'Experimental'। Theoretical, Hypothetical এবং Speculative মানে তাত্ত্বিক বা অনুমাননির্ভর।"
+  },
+  {
+    "id": 305,
+    "question": "Choose the correct synonym for: EMULATE",
+    "options": ["Imitate", "Neglect", "Reject", "Ignore"],
+    "answer": "Imitate",
+    "explanation": "'Emulate' (অনুকরণ করা বা সমকক্ষ হওয়ার চেষ্টা করা)-এর সমার্থক 'Imitate'। Neglect, Reject এবং Ignore মানে অবহেলা বা প্রত্যাখ্যান করা।"
+  },
+  {
+    "id": 306,
+    "question": "What is the synonym of 'ENERVATE'?",
+    "options": ["Energize", "Weaken", "Invigorate", "Strengthen"],
+    "answer": "Weaken",
+    "explanation": "'Enervate' (দুর্বল করা বা শক্তিহীন করা)-এর সমার্থক শব্দ 'Weaken'। Energize, Invigorate এবং Strengthen মানে শক্তি জোগানো বা সবল করা।"
+  },
+  {
+    "id": 307,
+    "question": "Select the synonym of: ENGENDER",
+    "options": ["Destroy", "Halt", "Produce", "Prevent"],
+    "answer": "Produce",
+    "explanation": "'Engender' (উৎপাদন করা বা জন্ম দেওয়া)-এর সমার্থক শব্দ 'Produce'। Destroy, Halt এবং Prevent মানে ধ্বংস করা বা থামানো।"
+  },
+  {
+    "id": 308,
+    "question": "Find the synonym of the given word: ENMITY",
+    "options": ["Friendship", "Amity", "Love", "Hostility"],
+    "answer": "Hostility",
+    "explanation": "'Enmity' (শত্রুতা বা বিদ্বেষ)-এর সমার্থক 'Hostility'। Friendship, Amity এবং Love মানে বন্ধুত্ব বা ভালোবাসা।"
+  },
+  {
+    "id": 309,
+    "question": "Choose the correct synonym for: ENNUI",
+    "options": ["Boredom", "Excitement", "Energy", "Enthusiasm"],
+    "answer": "Boredom",
+    "explanation": "'Ennui' (একঘেয়েমি বা ক্লান্তি)-এর সমার্থক 'Boredom'। Excitement, Energy এবং Enthusiasm মানে উত্তেজনা বা প্রবল উদ্দীপনা।"
+  },
+  {
+    "id": 310,
+    "question": "What is the synonym of 'ENTHRALL'?",
+    "options": ["Bore", "Captivate", "Disgust", "Repel"],
+    "answer": "Captivate",
+    "explanation": "'Enthrall' (মুগ্ধ করা বা বশীভূত করা)-এর সমার্থক শব্দ 'Captivate'। Bore, Disgust এবং Repel মানে বিরক্ত বা বিকর্ষণ করা।"
+  },
+  {
+    "id": 311,
+    "question": "Select the correct synonym for: EPITOME",
+    "options": ["Expansion", "Addition", "Embodiment", "Enlargement"],
+    "answer": "Embodiment",
+    "explanation": "'Epitome' (মূর্ত প্রতীক বা নিখুঁত উদাহরণ)-এর সমার্থক 'Embodiment'। Expansion, Addition এবং Enlargement মানে সম্প্রসারণ বা সংযোজন।"
+  },
+  {
+    "id": 312,
+    "question": "Find the synonym of the given word: EQUANIMITY",
+    "options": ["Agitation", "Anxiety", "Panic", "Composure"],
+    "answer": "Composure",
+    "explanation": "'Equanimity' (মানসিক স্থিরতা বা প্রশান্তি)-এর সমার্থক 'Composure'। Agitation, Anxiety এবং Panic মানে উদ্বেগ বা আতঙ্ক।"
+  },
+  {
+    "id": 313,
+    "question": "Choose the correct synonym for: EQUIVOCAL",
+    "options": ["Ambiguous", "Clear", "Certain", "Definite"],
+    "answer": "Ambiguous",
+    "explanation": "'Equivocal' (দ্ব্যর্থবোধক বা অস্পষ্ট)-এর সমার্থক 'Ambiguous'। Clear, Certain এবং Definite মানে স্পষ্ট বা নিশ্চিত।"
+  },
+  {
+    "id": 314,
+    "question": "What is the synonym of 'ERADICATE'?",
+    "options": ["Plant", "Eliminate", "Establish", "Build"],
+    "answer": "Eliminate",
+    "explanation": "'Eradicate' (সমূলে উৎপাটিত করা বা ধ্বংস করা)-এর সমার্থক শব্দ 'Eliminate'। Plant, Establish এবং Build মানে স্থাপন বা নির্মাণ করা।"
+  },
+  {
+    "id": 315,
+    "question": "Select the synonym of: ERRATIC",
+    "options": ["Consistent", "Stable", "Unpredictable", "Regular"],
+    "answer": "Unpredictable",
+    "explanation": "'Erratic' (অনিয়মিত বা খামখেয়ালি)-এর সমার্থক শব্দ 'Unpredictable'। Consistent, Stable এবং Regular মানে স্থিতিশীল বা নিয়মিত।"
+  },
+  {
+    "id": 316,
+    "question": "Find the synonym of the given word: ERUDITE",
+    "options": ["Ignorant", "Uneducated", "Illiterate", "Learned"],
+    "answer": "Learned",
+    "explanation": "'Erudite' (পণ্ডিত বা বিদ্বান)-এর সমার্থক 'Learned'। Ignorant, Uneducated এবং Illiterate মানে অজ্ঞ বা অশিক্ষিত।"
+  },
+  {
+    "id": 317,
+    "question": "Choose the correct synonym for: ESOTERIC",
+    "options": ["Obscure", "Common", "Familiar", "Obvious"],
+    "answer": "Obscure",
+    "explanation": "'Esoteric' (গূঢ় বা যা কেবল অল্প কয়েকজন বুঝতে পারে)-এর সমার্থক 'Obscure'। Common, Familiar এবং Obvious মানে সাধারণ বা পরিচিত।"
+  },
+  {
+    "id": 318,
+    "question": "What is the synonym of 'EUPHORIA'?",
+    "options": ["Despair", "Elation", "Sorrow", "Misery"],
+    "answer": "Elation",
+    "explanation": "'Euphoria' (প্রবল উচ্ছ্বাস বা আনন্দ)-এর সমার্থক শব্দ 'Elation'। Despair, Sorrow এবং Misery মানে হতাশা বা দুঃখ।"
+  },
+  {
+    "id": 319,
+    "question": "Select the correct synonym for: EVANESCENT",
+    "options": ["Permanent", "Lasting", "Fleeting", "Eternal"],
+    "answer": "Fleeting",
+    "explanation": "'Evanescent' (ক্ষণস্থায়ী বা যা দ্রুত মিলিয়ে যায়)-এর সমার্থক 'Fleeting'। Permanent, Lasting এবং Eternal মানে চিরস্থায়ী।"
+  },
+  {
+    "id": 320,
+    "question": "Find the synonym of the given word: EXACERBATE",
+    "options": ["Improve", "Heal", "Soothe", "Worsen"],
+    "answer": "Worsen",
+    "explanation": "'Exacerbate' (অধিকতর খারাপ করা বা বৃদ্ধি করা)-এর সমার্থক 'Worsen'। Improve, Heal এবং Soothe মানে ভালো করা বা প্রশমিত করা।"
+  },
+  {
+    "id": 321,
+    "question": "Choose the correct synonym for: EXALT",
+    "options": ["Praise", "Condemn", "Criticize", "Humiliate"],
+    "answer": "Praise",
+    "explanation": "'Exalt' (উচ্চ প্রশংসা করা বা মহিমান্বিত করা)-এর সমার্থক 'Praise'। Condemn, Criticize এবং Humiliate মানে নিন্দা বা অপমান করা।"
+  },
+  {
+    "id": 322,
+    "question": "What is the synonym of 'EXASPERATE'?",
+    "options": ["Calm", "Irritate", "Please", "Comfort"],
+    "answer": "Irritate",
+    "explanation": "'Exasperate' (উত্ত্যক্ত করা বা ক্ষুব্ধ করা)-এর সমার্থক শব্দ 'Irritate'। Calm, Please এবং Comfort মানে শান্ত করা বা আনন্দ দেওয়া।"
+  },
+  {
+    "id": 323,
+    "question": "Select the synonym of: EXCULPATE",
+    "options": ["Accuse", "Blame", "Absolve", "Convict"],
+    "answer": "Absolve",
+    "explanation": "'Exculpate' (দোষমুক্ত করা)-এর সমার্থক শব্দ 'Absolve'। Accuse, Blame এবং Convict মানে অভিযুক্ত বা দোষী সাব্যস্ত করা।"
+  },
+  {
+    "id": 324,
+    "question": "Find the synonym of the given word: EXHAUSTIVE",
+    "options": ["Incomplete", "Partial", "Limited", "Comprehensive"],
+    "answer": "Comprehensive",
+    "explanation": "'Exhaustive' (পুঙ্খানুপুঙ্খ বা সম্পূর্ণ)-এর সমার্থক 'Comprehensive'। Incomplete, Partial এবং Limited মানে অসম্পূর্ণ বা সীমিত।"
+  },
+  {
+    "id": 325,
+    "question": "Choose the correct synonym for: EXHILARATING",
+    "options": ["Thrilling", "Boring", "Depressing", "Dull"],
+    "answer": "Thrilling",
+    "explanation": "'Exhilarating' (রোমাঞ্চকর বা আনন্দদায়ক)-এর সমার্থক 'Thrilling'। Boring, Depressing এবং Dull মানে একঘেয়ে বা নিরানন্দ।"
+  },
+  {
+    "id": 326,
+    "question": "What is the synonym of 'EXIGENT'?",
+    "options": ["Ordinary", "Urgent", "Trivial", "Unimportant"],
+    "answer": "Urgent",
+    "explanation": "'Exigent' (অত্যন্ত জরুরি বা অত্যাবশ্যক)-এর সমার্থক শব্দ 'Urgent'। Ordinary, Trivial এবং Unimportant মানে সাধারণ বা তুচ্ছ।"
+  },
+  {
+    "id": 327,
+    "question": "Select the correct synonym for: EXORBITANT",
+    "options": ["Reasonable", "Cheap", "Excessive", "Moderate"],
+    "answer": "Excessive",
+    "explanation": "'Exorbitant' (অত্যাধিক বা মাত্রাতিরিক্ত)-এর সমার্থক 'Excessive'। Reasonable, Cheap এবং Moderate মানে যুক্তিসঙ্গত বা পরিমিত।"
+  },
+  {
+    "id": 328,
+    "question": "Find the synonym of the given word: EXPEDITE",
+    "options": ["Delay", "Hinder", "Retard", "Hasten"],
+    "answer": "Hasten",
+    "explanation": "'Expedite' (ত্বরান্বিত করা বা দ্রুততর করা)-এর সমার্থক 'Hasten'। Delay, Hinder এবং Retard মানে দেরি করা বা বাধা দেওয়া।"
+  },
+  {
+    "id": 329,
+    "question": "Choose the correct synonym for: EXPLICIT",
+    "options": ["Clear", "Vague", "Ambiguous", "Implicit"],
+    "answer": "Clear",
+    "explanation": "'Explicit' (স্পষ্ট বা দ্ব্যর্থহীন)-এর সমার্থক 'Clear'। Vague, Ambiguous এবং Implicit মানে অস্পষ্ট বা উহ্য।"
+  },
+  {
+    "id": 330,
+    "question": "What is the synonym of 'EXTANT'?",
+    "options": ["Destroyed", "Existing", "Lost", "Dead"],
+    "answer": "Existing",
+    "explanation": "'Extant' (এখনও বিদ্যমান আছে এমন)-এর সমার্থক শব্দ 'Existing'। Destroyed, Lost এবং Dead মানে ধ্বংসপ্রাপ্ত বা লুপ্ত।"
+  },
+  {
+    "id": 331,
+    "question": "Select the synonym of: EXTOL",
+    "options": ["Criticize", "Blame", "Praise", "Scold"],
+    "answer": "Praise",
+    "explanation": "'Extol' (উচ্চ প্রশংসা করা)-এর সমার্থক শব্দ 'Praise'। Criticize, Blame এবং Scold মানে সমালোচনা করা বা বকা দেওয়া।"
+  },
+  {
+    "id": 332,
+    "question": "Find the synonym of the given word: EXTRANEOUS",
+    "options": ["Essential", "Crucial", "Important", "Irrelevant"],
+    "answer": "Irrelevant",
+    "explanation": "'Extraneous' (অপ্রাসঙ্গিক বা বাইরের)-এর সমার্থক 'Irrelevant'। Essential, Crucial এবং Important মানে অপরিহার্য বা গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 333,
+    "question": "Choose the correct synonym for: EXTRICATE",
+    "options": ["Free", "Entangle", "Involve", "Trap"],
+    "answer": "Free",
+    "explanation": "'Extricate' (বিপদ বা জট থেকে মুক্ত করা)-এর সমার্থক 'Free'। Entangle, Involve এবং Trap মানে জড়ানো বা ফাঁদে ফেলা।"
+  },
+  {
+    "id": 334,
+    "question": "What is the synonym of 'EXUBERANT'?",
+    "options": ["Sad", "Cheerful", "Depressed", "Gloomy"],
+    "answer": "Cheerful",
+    "explanation": "'Exuberant' (প্রচুর প্রাণবন্ত বা উচ্ছ্বসিত)-এর সমার্থক শব্দ 'Cheerful'। Sad, Depressed এবং Gloomy মানে বিষণ্ণ বা দুঃখিত।"
+  },
+  {
+    "id": 335,
+    "question": "Select the correct synonym for: FACETIOUS",
+    "options": ["Serious", "Grave", "Humorous", "Solemn"],
+    "answer": "Humorous",
+    "explanation": "'Facetious' (রসিক বা হাস্যকর)-এর সমার্থক 'Humorous'। Serious, Grave এবং Solemn মানে গুরুগম্ভীর।"
+  },
+  {
+    "id": 336,
+    "question": "Find the synonym of the given word: FACILE",
+    "options": ["Difficult", "Hard", "Complex", "Easy"],
+    "answer": "Easy",
+    "explanation": "'Facile' (সহজ বা সাবলীল)-এর সমার্থক 'Easy'। Difficult, Hard এবং Complex মানে কঠিন বা জটিল।"
+  },
+  {
+    "id": 337,
+    "question": "Choose the correct synonym for: FALLACIOUS",
+    "options": ["False", "True", "Correct", "Accurate"],
+    "answer": "False",
+    "explanation": "'Fallacious' (ভ্রান্ত বা ভুল)-এর সমার্থক 'False'। True, Correct এবং Accurate মানে সত্য বা সঠিক।"
+  },
+  {
+    "id": 338,
+    "question": "What is the synonym of 'FASTIDIOUS'?",
+    "options": ["Careless", "Fussy", "Easygoing", "Sloppy"],
+    "answer": "Fussy",
+    "explanation": "'Fastidious' (খুঁতখুঁতে)-এর সমার্থক শব্দ 'Fussy'। Careless, Easygoing এবং Sloppy মানে অসতর্ক বা ঢিলেঢালা স্বভাবের।"
+  },
+  {
+    "id": 339,
+    "question": "Select the synonym of: FATUOUS",
+    "options": ["Sensible", "Smart", "Silly", "Intelligent"],
+    "answer": "Silly",
+    "explanation": "'Fatuous' (বোকা বা অর্থহীন)-এর সমার্থক শব্দ 'Silly'। Sensible, Smart এবং Intelligent মানে বুদ্ধিমান বা যুক্তিসঙ্গত।"
+  },
+  {
+    "id": 340,
+    "question": "Find the synonym of the given word: FECUND",
+    "options": ["Barren", "Sterile", "Infertile", "Fertile"],
+    "answer": "Fertile",
+    "explanation": "'Fecund' (উর্বর বা ফলপ্রসূ)-এর সমার্থক 'Fertile'। Barren, Sterile এবং Infertile মানে অনুর্বর বা নিষ্ফলা।"
+  },
+  {
+    "id": 341,
+    "question": "Choose the correct synonym for: FELICITY",
+    "options": ["Happiness", "Sorrow", "Misery", "Sadness"],
+    "answer": "Happiness",
+    "explanation": "'Felicity' (পরম সুখ বা আনন্দ)-এর সমার্থক 'Happiness'। Sorrow, Misery এবং Sadness মানে দুঃখ বা দুর্দশা।"
+  },
+  {
+    "id": 342,
+    "question": "What is the synonym of 'FERVENT'?",
+    "options": ["Apathetic", "Passionate", "Cold", "Indifferent"],
+    "answer": "Passionate",
+    "explanation": "'Fervent' (উত্তপ্ত বা প্রবল আবেগময়)-এর সমার্থক শব্দ 'Passionate'। Apathetic, Cold এবং Indifferent মানে আবেগহীন বা উদাসীন।"
+  },
+  {
+    "id": 343,
+    "question": "Select the correct synonym for: FICKLE",
+    "options": ["Steady", "Constant", "Changeable", "Stable"],
+    "answer": "Changeable",
+    "explanation": "'FickLE' (চপল বা পরিবর্তনশীল)-এর সমার্থক 'Changeable'। Steady, Constant এবং Stable মানে স্থির বা অপরিবর্তনশীল।"
+  },
+  {
+    "id": 344,
+    "question": "Find the synonym of the given word: FIDELITY",
+    "options": ["Treachery", "Disloyalty", "Betrayal", "Loyalty"],
+    "answer": "Loyalty",
+    "explanation": "'Fidelity' (বিশ্বস্ততা বা আনুগত্য)-এর সমার্থক 'Loyalty'। Treachery, Disloyalty এবং Betrayal মানে বিশ্বাসঘাতকতা।"
+  },
+  {
+    "id": 345,
+    "question": "Choose the correct synonym for: FIGURATIVE",
+    "options": ["Metaphorical", "Literal", "Exact", "Factual"],
+    "answer": "Metaphorical",
+    "explanation": "'Figurative' (রূপক বা আলংকারিক)-এর সমার্থক 'Metaphorical'। Literal, Exact এবং Factual মানে আক্ষরিক বা বাস্তব।"
+  },
+  {
+    "id": 346,
+    "question": "What is the synonym of 'FLAGRANT'?",
+    "options": ["Hidden", "Glaring", "Concealed", "Secret"],
+    "answer": "Glaring",
+    "explanation": "'Flagrant' (নির্লজ্জ বা অতি স্পষ্ট)-এর সমার্থক শব্দ 'Glaring'। Hidden, Concealed এবং Secret মানে লুকানো বা গোপন।"
+  },
+  {
+    "id": 347,
+    "question": "Select the synonym of: FLAMBOYANT",
+    "options": ["Modest", "Plain", "Showy", "Quiet"],
+    "answer": "Showy",
+    "explanation": "'Flamboyant' (জমকালো বা জাঁকালো)-এর সমার্থক শব্দ 'Showy'। Modest, Plain এবং Quiet মানে সাধারণ বা শান্ত।"
+  },
+  {
+    "id": 348,
+    "question": "Find the synonym of the given word: FLAUNT",
+    "options": ["Hide", "Conceal", "Cover", "Display"],
+    "answer": "Display",
+    "explanation": "'Flaunt' (গর্বভরে প্রদর্শন করা বা লোক দেখানো)-এর সমার্থক 'Display'। Hide, Conceal এবং Cover মানে লুকিয়ে রাখা।"
+  },
+  {
+    "id": 349,
+    "question": "Choose the correct synonym for: FLEETING",
+    "options": ["Transient", "Permanent", "Lasting", "Eternal"],
+    "answer": "Transient",
+    "explanation": "'Fleeting' (ক্ষণস্থায়ী)-এর সমার্থক 'Transient'। Permanent, Lasting এবং Eternal মানে চিরস্থায়ী বা দীর্ঘস্থায়ী।"
+  },
+  {
+    "id": 350,
+    "question": "What is the synonym of 'FLIPPANT'?",
+    "options": ["Serious", "Disrespectful", "Earnest", "Respectful"],
+    "answer": "Disrespectful",
+    "explanation": "'Flippant' (অসম্মানজনক বা লঘুচিত্ত)-এর সমার্থক শব্দ 'Disrespectful'। Serious, Earnest এবং Respectful মানে আন্তরিক বা সম্মানজনক।"
+  },
+  {
+    "id": 351,
+    "question": "Choose the correct synonym for the word: FLOUT",
+    "options": ["Defy", "Obey", "Respect", "Honor"],
+    "answer": "Defy",
+    "explanation": "'Flout' (অমান্য করা বা অবজ্ঞা করা)-এর সমার্থক শব্দ হলো 'Defy'। Obey, Respect এবং Honor মানে মান্য করা বা সম্মান করা।"
+  },
+  {
+    "id": 352,
+    "question": "What is the synonym of 'FLUCTUATE'?",
+    "options": ["Stabilize", "Vary", "Remain", "Persist"],
+    "answer": "Vary",
+    "explanation": "'Fluctuate' (ওঠানামা করা বা পরিবর্তিত হওয়া)-এর সমার্থক 'Vary'। Stabilize, Remain এবং Persist মানে স্থির থাকা।"
+  },
+  {
+    "id": 353,
+    "question": "Select the correct synonym for: FOMENT",
+    "options": ["Calm", "Soothe", "Instigate", "Quell"],
+    "answer": "Instigate",
+    "explanation": "'Foment' (উসকানি দেওয়া বা প্ররোচিত করা)-এর সমার্থক শব্দ 'Instigate'। Calm, Soothe এবং Quell মানে শান্ত করা বা দমন করা।"
+  },
+  {
+    "id": 354,
+    "question": "Find the synonym of the given word: FORBEARANCE",
+    "options": ["Impatience", "Anger", "Intolerance", "Patience"],
+    "answer": "Patience",
+    "explanation": "'Forbearance' (ধৈর্য বা সহনশীলতা)-এর সমার্থক 'Patience'। Impatience, Anger এবং Intolerance মানে অধৈর্য বা রাগ।"
+  },
+  {
+    "id": 355,
+    "question": "Choose the correct synonym for: FORESTALL",
+    "options": ["Prevent", "Allow", "Permit", "Assist"],
+    "answer": "Prevent",
+    "explanation": "'Forestall' (আগে থেকেই বাধা দেওয়া বা প্রতিরোধ করা)-এর সমার্থক 'Prevent'। Allow, Permit এবং Assist মানে অনুমতি বা সাহায্য করা।"
+  },
+  {
+    "id": 356,
+    "question": "What is the synonym of 'FORGO'?",
+    "options": ["Keep", "Relinquish", "Claim", "Retain"],
+    "answer": "Relinquish",
+    "explanation": "'Forgo' (ত্যাগ করা বা বর্জন করা)-এর সমার্থক শব্দ 'Relinquish'। Keep, Claim এবং Retain মানে ধরে রাখা বা দাবি করা।"
+  },
+  {
+    "id": 357,
+    "question": "Select the synonym of: FORTITUDE",
+    "options": ["Cowardice", "Weakness", "Courage", "Fear"],
+    "answer": "Courage",
+    "explanation": "'Fortitude' (মানসিক দৃঢ়তা বা সাহস)-এর সমার্থক শব্দ 'Courage'। Cowardice, Weakness এবং Fear মানে কাপুরুষতা বা দুর্বলতা।"
+  },
+  {
+    "id": 358,
+    "question": "Find the synonym of the given word: FORTUITOUS",
+    "options": ["Planned", "Intentional", "Calculated", "Accidental"],
+    "answer": "Accidental",
+    "explanation": "'Fortuitous' (আকস্মিক বা দৈবক্রমে ঘটা)-এর সমার্থক 'Accidental'। Planned, Intentional এবং Calculated মানে পরিকল্পিত বা ইচ্ছাকৃত।"
+  },
+  {
+    "id": 359,
+    "question": "Choose the correct synonym for: FRACTIOUS",
+    "options": ["Irritable", "Calm", "Peaceful", "Happy"],
+    "answer": "Irritable",
+    "explanation": "'Fractious' (খিটখিটে বা বদমেজাজি)-এর সমার্থক 'Irritable'। Calm, Peaceful এবং Happy মানে শান্ত বা খুশি।"
+  },
+  {
+    "id": 360,
+    "question": "What is the synonym of 'FRIVOLITY'?",
+    "options": ["Seriousness", "Levity", "Gravity", "Importance"],
+    "answer": "Levity",
+    "explanation": "'Frivolity' (ছ্যাবলামো বা গুরুত্বহীনতা)-এর সমার্থক শব্দ 'Levity'। Seriousness, Gravity এবং Importance মানে গাম্ভীর্য বা গুরুত্ব।"
+  },
+  {
+    "id": 361,
+    "question": "Select the correct synonym for: FULSOME",
+    "options": ["Sincere", "Genuine", "Excessive", "Moderate"],
+    "answer": "Excessive",
+    "explanation": "'Fulsome' (মাত্রাতিরিক্ত বা অতিরঞ্জিত)-এর সমার্থক শব্দ 'Excessive'। Sincere, Genuine এবং Moderate মানে আন্তরিক বা পরিমিত।"
+  },
+  {
+    "id": 362,
+    "question": "Find the synonym of the given word: FUTILE",
+    "options": ["Useful", "Effective", "Fruitful", "Useless"],
+    "answer": "Useless",
+    "explanation": "'Futile' (বৃথা বা নিষ্ফল)-এর সমার্থক 'Useless'। Useful, Effective এবং Fruitful মানে উপকারী বা ফলপ্রসূ।"
+  },
+  {
+    "id": 363,
+    "question": "Choose the correct synonym for: GALVANIZE",
+    "options": ["Stimulate", "Deter", "Discourage", "Bore"],
+    "answer": "Stimulate",
+    "explanation": "'Galvanize' (উদ্দীপ্ত করা বা কর্মতৎপর করা)-এর সমার্থক 'Stimulate'। Deter, Discourage এবং Bore মানে নিরুৎসাহিত বা বিরক্ত করা।"
+  },
+  {
+    "id": 364,
+    "question": "What is the synonym of 'GARBLE'?",
+    "options": ["Clarify", "Confuse", "Explain", "Clear"],
+    "answer": "Confuse",
+    "explanation": "'Garble' (বিকৃত করা বা তালগোল পাকানো)-এর সমার্থক শব্দ 'Confuse'। Clarify, Explain এবং Clear মানে স্পষ্ট করা বা বোঝানো।"
+  },
+  {
+    "id": 365,
+    "question": "Select the synonym of: GARGANTUAN",
+    "options": ["Tiny", "Small", "Huge", "Miniature"],
+    "answer": "Huge",
+    "explanation": "'Gargantuan' (বিশাল বা প্রকাণ্ড)-এর সমার্থক শব্দ 'Huge'। Tiny, Small এবং Miniature মানে অত্যন্ত ক্ষুদ্র।"
+  },
+  {
+    "id": 366,
+    "question": "Find the synonym of the given word: GARNER",
+    "options": ["Scatter", "Disperse", "Distribute", "Collect"],
+    "answer": "Collect",
+    "explanation": "'Garner' (সংগ্রহ করা বা সঞ্চয় করা)-এর সমার্থক 'Collect'। Scatter, Disperse এবং Distribute মানে ছড়িয়ে দেওয়া বা বিতরণ করা।"
+  },
+  {
+    "id": 367,
+    "question": "Choose the correct synonym for: GAUCHE",
+    "options": ["Awkward", "Graceful", "Elegant", "Tactful"],
+    "answer": "Awkward",
+    "explanation": "'Gauche' (আনাড়ি বা অমার্জিত)-এর সমার্থক 'Awkward'। Graceful, Elegant এবং Tactful মানে মার্জিত বা সুকৌশলী।"
+  },
+  {
+    "id": 368,
+    "question": "What is the synonym of 'GAUDY'?",
+    "options": ["Tasteful", "Flashy", "Refined", "Simple"],
+    "answer": "Flashy",
+    "explanation": "'Gaudy' (জাঁকালো কিন্তু রুচিহীন)-এর সমার্থক শব্দ 'Flashy'। Tasteful, Refined এবং Simple মানে রুচিশীল বা সাধারণ।"
+  },
+  {
+    "id": 369,
+    "question": "Select the correct synonym for: GENIAL",
+    "options": ["Hostile", "Rude", "Friendly", "Unkind"],
+    "answer": "Friendly",
+    "explanation": "'Genial' (অমায়িক বা সদয়)-এর সমার্থক শব্দ 'Friendly'। Hostile, Rude এবং Unkind মানে শত্রুভাবাপন্ন বা অভদ্র।"
+  },
+  {
+    "id": 370,
+    "question": "Find the synonym of the given word: GERMANE",
+    "options": ["Irrelevant", "Unrelated", "Inappropriate", "Relevant"],
+    "answer": "Relevant",
+    "explanation": "'Germane' (প্রাসঙ্গিক)-এর সমার্থক 'Relevant'। Irrelevant, Unrelated এবং Inappropriate মানে অপ্রাসঙ্গিক।"
+  },
+  {
+    "id": 371,
+    "question": "Choose the correct synonym for: GLACIAL",
+    "options": ["Freezing", "Hot", "Warm", "Boiling"],
+    "answer": "Freezing",
+    "explanation": "'Glacial' (বরফের মতো ঠান্ডা বা অতি ধীর)-এর সমার্থক 'Freezing'। Hot, Warm এবং Boiling মানে উষ্ণ বা ফুটন্ত।"
+  },
+  {
+    "id": 372,
+    "question": "What is the synonym of 'GLIB'?",
+    "options": ["Hesitant", "Fluent", "Stuttering", "Quiet"],
+    "answer": "Fluent",
+    "explanation": "'Glib' (অনর্গল কথা বলতে পটু কিন্তু অগভীর)-এর সমার্থক শব্দ 'Fluent'। Hesitant, Stuttering এবং Quiet মানে ইতস্তত বা চুপচাপ।"
+  },
+  {
+    "id": 373,
+    "question": "Select the synonym of: GLUTTON",
+    "options": ["Dieter", "Faster", "Overeater", "Ascetic"],
+    "answer": "Overeater",
+    "explanation": "'Glutton' (পেটুক বা অতিভোজী)-এর সমার্থক শব্দ 'Overeater'। Dieter, Faster এবং Ascetic মানে সংযমী বা উপবাসী।"
+  },
+  {
+    "id": 374,
+    "question": "Find the synonym of the given word: GOAD",
+    "options": ["Restrain", "Hold", "Deter", "Provoke"],
+    "answer": "Provoke",
+    "explanation": "'Goad' (প্ররোচিত করা বা খেঁচানো)-এর সমার্থক 'Provoke'। Restrain, Hold এবং Deter মানে আটকে রাখা বা নিরুৎসাহিত করা।"
+  },
+  {
+    "id": 375,
+    "question": "Choose the correct synonym for: GOSSAMER",
+    "options": ["Delicate", "Thick", "Heavy", "Sturdy"],
+    "answer": "Delicate",
+    "explanation": "'Gossamer' (অতিশয় পাতলা বা সূক্ষ্ম)-এর সমার্থক 'Delicate'। Thick, Heavy এবং Sturdy মানে পুরু, ভারী বা শক্ত।"
+  },
+  {
+    "id": 376,
+    "question": "What is the synonym of 'GRANDIOSE'?",
+    "options": ["Humble", "Magnificent", "Modest", "Simple"],
+    "answer": "Magnificent",
+    "explanation": "'Grandiose' (জাঁকালো বা সুবৃহৎ)-এর সমার্থক শব্দ 'Magnificent'। Humble, Modest এবং Simple মানে বিনীত বা সাধারণ।"
+  },
+  {
+    "id": 377,
+    "question": "Select the correct synonym for: GRIEVOUS",
+    "options": ["Mild", "Slight", "Severe", "Trivial"],
+    "answer": "Severe",
+    "explanation": "'Grievous' (গুরুতর বা মর্মান্তিক)-এর সমার্থক শব্দ 'Severe'। Mild, Slight এবং Trivial মানে হালকা বা তুচ্ছ।"
+  },
+  {
+    "id": 378,
+    "question": "Find the synonym of the given word: HACKNEYED",
+    "options": ["Fresh", "New", "Original", "Overused"],
+    "answer": "Overused",
+    "explanation": "'Hackneyed' (গতানুগতিক বা বহুল ব্যবহৃত)-এর সমার্থক 'Overused'। Fresh, New এবং Original মানে সতেজ বা অভিনব।"
+  },
+  {
+    "id": 379,
+    "question": "Choose the correct synonym for: HALCYON",
+    "options": ["Peaceful", "Stormy", "Turbulent", "Chaotic"],
+    "answer": "Peaceful",
+    "explanation": "'Halcyon' (শান্ত ও সুখের)-এর সমার্থক 'Peaceful'। Stormy, Turbulent এবং Chaotic মানে ঝঞ্ঝাবিক্ষুব্ধ বা বিশৃঙ্খল।"
+  },
+  {
+    "id": 380,
+    "question": "What is the synonym of 'HARANGUE'?",
+    "options": ["Tribute", "Tirade", "Praise", "Compliment"],
+    "answer": "Tirade",
+    "explanation": "'Harangue' (দীর্ঘ ও উগ্র ভাষণ)-এর সমার্থক শব্দ 'Tirade'। Tribute, Praise এবং Compliment মানে সম্মান বা প্রশংসা।"
+  },
+  {
+    "id": 381,
+    "question": "Select the synonym of: HARBINGER",
+    "options": ["Follower", "Successor", "Forerunner", "Descendant"],
+    "answer": "Forerunner",
+    "explanation": "'Harbinger' (অগ্রদূত বা পূর্বলক্ষণ)-এর সমার্থক শব্দ 'Forerunner'। Follower, Successor এবং Descendant মানে অনুগামী বা বংশধর।"
+  },
+  {
+    "id": 382,
+    "question": "Find the synonym of the given word: HEDONIST",
+    "options": ["Puritan", "Ascetic", "Monk", "Pleasure-seeker"],
+    "answer": "Pleasure-seeker",
+    "explanation": "'Hedonist' (ভোগবাদী বা যে আনন্দকেই জীবনের লক্ষ্য ভাবে)-এর সমার্থক 'Pleasure-seeker'। Puritan, Ascetic এবং Monk মানে সংযমী বা সন্ন্যাসী।"
+  },
+  {
+    "id": 383,
+    "question": "Choose the correct synonym for: HEGEMONY",
+    "options": ["Dominance", "Submission", "Weakness", "Surrender"],
+    "answer": "Dominance",
+    "explanation": "'Hegemony' (আধিপত্য বা কর্তৃত্ব)-এর সমার্থক 'Dominance'। Submission, Weakness এবং Surrender মানে বশ্যতা বা দুর্বলতা।"
+  },
+  {
+    "id": 384,
+    "question": "What is the synonym of 'HERESY'?",
+    "options": ["Orthodoxy", "Unorthodoxy", "Belief", "Conformity"],
+    "answer": "Unorthodoxy",
+    "explanation": "'HeresY' (প্রচলিত মতের বিরোধিতা)-এর সমার্থক শব্দ 'Unorthodoxy'। Orthodoxy, Belief এবং Conformity মানে প্রচলিত মত বা বিশ্বাস।"
+  },
+  {
+    "id": 385,
+    "question": "Select the correct synonym for: HERMETIC",
+    "options": ["Open", "Porous", "Airtight", "Leaky"],
+    "answer": "Airtight",
+    "explanation": "'Hermetic' (বায়ুরুদ্ধ বা নিশ্ছিদ্র)-এর সমার্থক শব্দ 'Airtight'। Open, Porous এবং Leaky মানে উন্মুক্ত বা ছিদ্রযুক্ত।"
+  },
+  {
+    "id": 386,
+    "question": "Find the synonym of the given word: HEYDAY",
+    "options": ["Decline", "Downfall", "Nadir", "Peak"],
+    "answer": "Peak",
+    "explanation": "'Heyday' (স্বর্ণযুগ বা চূড়ান্ত সাফল্যের সময়)-এর সমার্থক 'Peak'। Decline, Downfall এবং Nadir মানে পতন বা সর্বনিম্ন অবস্থা।"
+  },
+  {
+    "id": 387,
+    "question": "Choose the correct synonym for: HIATUS",
+    "options": ["Pause", "Continuation", "Flow", "Progress"],
+    "answer": "Pause",
+    "explanation": "'Hiatus' (ছেদ বা বিরতি)-এর সমার্থক 'Pause'। Continuation, Flow এবং Progress মানে চলমান অবস্থা বা অগ্রগতি।"
+  },
+  {
+    "id": 388,
+    "question": "What is the synonym of 'HIERARCHY'?",
+    "options": ["Equality", "Ranking", "Anarchy", "Disorder"],
+    "answer": "Ranking",
+    "explanation": "'Hierarchy' (পদমর্যাদার ক্রম)-এর সমার্থক শব্দ 'Ranking'। Equality, Anarchy এবং Disorder মানে সমতা বা বিশৃঙ্খলা।"
+  },
+  {
+    "id": 389,
+    "question": "Select the synonym of: HIRSUTE",
+    "options": ["Bald", "Hairless", "Hairy", "Smooth"],
+    "answer": "Hairy",
+    "explanation": "'Hirsute' (লোমশ বা কেশবহুল)-এর সমার্থক শব্দ 'Hairy'। Bald, Hairless এবং Smooth মানে কেশহীন বা মসৃণ।"
+  },
+  {
+    "id": 390,
+    "question": "Find the synonym of the given word: HISTRIONIC",
+    "options": ["Calm", "Subdued", "Restrained", "Theatrical"],
+    "answer": "Theatrical",
+    "explanation": "'Histrionic' (অতিরিক্ত নাটকীয়)-এর সমার্থক 'Theatrical'। Calm, Subdued এবং Restrained মানে শান্ত বা সংযত।"
+  },
+  {
+    "id": 391,
+    "question": "Choose the correct synonym for: HOARD",
+    "options": ["Store", "Squander", "Waste", "Spend"],
+    "answer": "Store",
+    "explanation": "'Hoard' (মজুত করা বা সঞ্চয় করা)-এর সমার্থক 'Store'। Squander, Waste এবং Spend মানে অপব্যয় বা খরচ করা।"
+  },
+  {
+    "id": 392,
+    "question": "What is the synonym of 'HOAX'?",
+    "options": ["Truth", "Trick", "Fact", "Reality"],
+    "answer": "Trick",
+    "explanation": "'Hoax' (ধাপ্পাবাজি বা প্রতারণা)-এর সমার্থক শব্দ 'Trick'। Truth, Fact এবং Reality মানে সত্য বা বাস্তব।"
+  },
+  {
+    "id": 393,
+    "question": "Select the correct synonym for: HOMOGENEOUS",
+    "options": ["Diverse", "Different", "Uniform", "Heterogeneous"],
+    "answer": "Uniform",
+    "explanation": "'Homogeneous' (সমসত্ত্ব বা সমজাতীয়)-এর সমার্থক শব্দ 'Uniform'। Diverse, Different এবং Heterogeneous মানে বিচিত্র বা ভিন্নধর্মী।"
+  },
+  {
+    "id": 394,
+    "question": "Find the synonym of the given word: HUBRIS",
+    "options": ["Humility", "Modesty", "Meekness", "Arrogance"],
+    "answer": "Arrogance",
+    "explanation": "'Hubris' (অহংকার বা ঔদ্ধত্য)-এর সমার্থক 'Arrogance'। Humility, Modesty এবং Meekness মানে নম্রতা বা বিনীতভাব।"
+  },
+  {
+    "id": 395,
+    "question": "Choose the correct synonym for: HUSBANDRY",
+    "options": ["Farming", "Industry", "Commerce", "Trade"],
+    "answer": "Farming",
+    "explanation": "'Husbandry' (কৃষিকাজ বা পশুপালন)-এর সমার্থক 'Farming'। Industry, Commerce এবং Trade মানে শিল্প বা বাণিজ্য।"
+  },
+  {
+    "id": 396,
+    "question": "What is the synonym of 'HYPERBOLE'?",
+    "options": ["Understatement", "Exaggeration", "Truth", "Fact"],
+    "answer": "Exaggeration",
+    "explanation": "'Hyperbole' (অতিরঞ্জন বা অত্যুক্তি)-এর সমার্থক শব্দ 'Exaggeration'। Understatement, Truth এবং Fact মানে অবমূল্যায়ন বা সত্য।"
+  },
+  {
+    "id": 397,
+    "question": "Select the synonym of: HYPOCRITICAL",
+    "options": ["Genuine", "Sincere", "Deceitful", "Honest"],
+    "answer": "Deceitful",
+    "explanation": "'Hypocritical' (ভণ্ড বা কপট)-এর সমার্থক শব্দ 'Deceitful'। Genuine, Sincere এবং Honest মানে অকৃত্রিম বা সৎ।"
+  },
+  {
+    "id": 398,
+    "question": "Find the synonym of the given word: ICONOCLAST",
+    "options": ["Conformist", "Believer", "Supporter", "Rebel"],
+    "answer": "Rebel",
+    "explanation": "'Iconoclast' (প্রথাভঙ্গকারী বা প্রচলিত বিশ্বাসের বিরোধী)-এর সমার্থক 'Rebel'। Conformist, Believer এবং Supporter মানে সমর্থক বা বিশ্বাসী।"
+  },
+  {
+    "id": 399,
+    "question": "Choose the correct synonym for: IDIOSYNCRASY",
+    "options": ["Peculiarity", "Normality", "Standard", "Sameness"],
+    "answer": "Peculiarity",
+    "explanation": "'Idiosyncrasy' (নিজস্ব স্বভাব বা অদ্ভুত বৈশিষ্ট্য)-এর সমার্থক 'Peculiarity'। Normality, Standard এবং Sameness মানে স্বাভাবিকতা বা একরূপতা।"
+  },
+  {
+    "id": 400,
+    "question": "What is the synonym of 'IDYLLIC'?",
+    "options": ["Flawed", "Peaceful", "Chaotic", "Terrible"],
+    "answer": "Peaceful",
+    "explanation": "'Idyllic' (মনোরম ও শান্ত)-এর সমার্থক শব্দ 'Peaceful'। Flawed, Chaotic এবং Terrible মানে ত্রুটিপূর্ণ বা বিশৃঙ্খল।"
+  },
+  {
+    "id": 401,
+    "question": "Choose the correct synonym for the word: IGNOMINIOUS",
+    "options": ["Disgraceful", "Honorable", "Respectable", "Glorious"],
+    "answer": "Disgraceful",
+    "explanation": "'Ignominious' (লজ্জাজনক বা অপমানজনক)-এর সমার্থক শব্দ হলো 'Disgraceful'। Honorable, Respectable এবং Glorious মানে সম্মানজনক বা গৌরবময়।"
+  },
+  {
+    "id": 402,
+    "question": "What is the synonym of 'ILLICIT'?",
+    "options": ["Legal", "Illegal", "Allowed", "Lawful"],
+    "answer": "Illegal",
+    "explanation": "'Illicit' (অবৈধ বা বেআইনি)-এর সমার্থক 'Illegal'। Legal, Allowed এবং Lawful মানে বৈধ বা আইনসম্মত।"
+  },
+  {
+    "id": 403,
+    "question": "Select the correct synonym for: IMMACULATE",
+    "options": ["Dirty", "Filthy", "Spotless", "Stained"],
+    "answer": "Spotless",
+    "explanation": "'Immaculate' (নিখুঁত বা দাগহীন)-এর সমার্থক শব্দ 'Spotless'। Dirty, Filthy এবং Stained মানে নোংরা বা দাগযুক্ত।"
+  },
+  {
+    "id": 404,
+    "question": "Find the synonym of the given word: IMMERSE",
+    "options": ["Surface", "Emerge", "Float", "Submerge"],
+    "answer": "Submerge",
+    "explanation": "'Immerse' (নিমজ্জিত করা বা ডুবানো)-এর সমার্থক 'Submerge'। Surface, Emerge এবং Float মানে ভেসে ওঠা বা আবির্ভূত হওয়া।"
+  },
+  {
+    "id": 405,
+    "question": "Choose the correct synonym for: IMMUNE",
+    "options": ["Exempt", "Susceptible", "Vulnerable", "Prone"],
+    "answer": "Exempt",
+    "explanation": "'Immune' (রোগমুক্ত বা অব্যাহতিপ্রাপ্ত)-এর সমার্থক 'Exempt'। Susceptible, Vulnerable এবং Prone মানে সংবেদনশীল বা সহজেই আক্রান্ত হতে পারে এমন।"
+  },
+  {
+    "id": 406,
+    "question": "What is the synonym of 'IMPAIR'?",
+    "options": ["Improve", "Damage", "Enhance", "Repair"],
+    "answer": "Damage",
+    "explanation": "'Impair' (ক্ষতিগ্রস্ত করা বা দুর্বল করা)-এর সমার্থক শব্দ 'Damage'। Improve, Enhance এবং Repair মানে উন্নতি করা বা মেরামত করা।"
+  },
+  {
+    "id": 407,
+    "question": "Select the synonym of: IMPARTIAL",
+    "options": ["Biased", "Prejudiced", "Unbiased", "Unfair"],
+    "answer": "Unbiased",
+    "explanation": "'Impartial' (নিরপেক্ষ বা পক্ষপাতহীন)-এর সমার্থক শব্দ 'Unbiased'। Biased, Prejudiced এবং Unfair মানে পক্ষপাতদুষ্ট।"
+  },
+  {
+    "id": 408,
+    "question": "Find the synonym of the given word: IMPASSE",
+    "options": ["Solution", "Breakthrough", "Agreement", "Deadlock"],
+    "answer": "Deadlock",
+    "explanation": "'Impasse' (অচলাবস্থা বা কোণঠাসা অবস্থা)-এর সমার্থক 'Deadlock'। Solution, Breakthrough এবং Agreement মানে সমাধান বা চুক্তি।"
+  },
+  {
+    "id": 409,
+    "question": "Choose the correct synonym for: IMPEACH",
+    "options": ["Accuse", "Acquit", "Absolve", "Pardon"],
+    "answer": "Accuse",
+    "explanation": "'Impeach' (অভিযুক্ত করা বা সন্দেহ করা)-এর সমার্থক 'Accuse'। Acquit, Absolve এবং Pardon মানে দোষমুক্ত করা বা ক্ষমা করা।"
+  },
+  {
+    "id": 410,
+    "question": "What is the synonym of 'IMPEDIMENT'?",
+    "options": ["Assistance", "Obstacle", "Help", "Advantage"],
+    "answer": "Obstacle",
+    "explanation": "'Impediment' (বাধা বা বিঘ্ন)-এর সমার্থক শব্দ 'Obstacle'। Assistance, Help এবং Advantage মানে সাহায্য বা সুবিধা।"
+  },
+  {
+    "id": 411,
+    "question": "Select the correct synonym for: IMPERIOUS",
+    "options": ["Humble", "Meek", "Dictatorial", "Submissive"],
+    "answer": "Dictatorial",
+    "explanation": "'Imperious' (কর্তৃত্বব্যঞ্জক বা দাম্ভিক)-এর সমার্থক শব্দ 'Dictatorial'। Humble, Meek এবং Submissive মানে বিনীত বা আজ্ঞাবহ।"
+  },
+  {
+    "id": 412,
+    "question": "Find the synonym of the given word: IMPERTINENT",
+    "options": ["Polite", "Respectful", "Courteous", "Insolent"],
+    "answer": "Insolent",
+    "explanation": "'Impertinent' (অপ্রাসঙ্গিক বা বেয়াদব)-এর সমার্থক 'Insolent'। Polite, Respectful এবং Courteous মানে ভদ্র বা সম্মানজনক।"
+  },
+  {
+    "id": 413,
+    "question": "Choose the correct synonym for: IMPETUOUS",
+    "options": ["Hasty", "Cautious", "Careful", "Deliberate"],
+    "answer": "Hasty",
+    "explanation": "'Impetuous' (হঠকারী বা প্রবল বেগবান)-এর সমার্থক 'Hasty'। Cautious, Careful এবং Deliberate মানে সতর্ক বা সুচিন্তিত।"
+  },
+  {
+    "id": 414,
+    "question": "What is the synonym of 'IMPLACABLE'?",
+    "options": ["Yielding", "Unappeasable", "Flexible", "Forgiving"],
+    "answer": "Unappeasable",
+    "explanation": "'Implacable' (যাকে শান্ত বা সন্তুষ্ট করা যায় না)-এর সমার্থক শব্দ 'Unappeasable'। Yielding, Flexible এবং Forgiving মানে নমনীয় বা ক্ষমাশীল।"
+  },
+  {
+    "id": 415,
+    "question": "Select the synonym of: IMPLICIT",
+    "options": ["Explicit", "Stated", "Implied", "Spoken"],
+    "answer": "Implied",
+    "explanation": "'Implicit' (অন্তর্নিহিত বা উহ্য)-এর সমার্থক শব্দ 'Implied'। Explicit, Stated এবং Spoken মানে সুনির্দিষ্টভাবে বলা।"
+  },
+  {
+    "id": 416,
+    "question": "Find the synonym of the given word: IMPUDENT",
+    "options": ["Polite", "Modest", "Shy", "Brazen"],
+    "answer": "Brazen",
+    "explanation": "'Impudent' (নির্লজ্জ বা ধৃষ্ট)-এর সমার্থক 'Brazen'। Polite, Modest এবং Shy মানে ভদ্র, বিনীত বা লাজুক।"
+  },
+  {
+    "id": 417,
+    "question": "Choose the correct synonym for: INADVERTENT",
+    "options": ["Unintentional", "Deliberate", "Intentional", "Planned"],
+    "answer": "Unintentional",
+    "explanation": "'Inadvertent' (অনিচ্ছাকৃত বা অসতর্ক)-এর সমার্থক 'Unintentional'। Deliberate, Intentional এবং Planned মানে ইচ্ছাকৃত বা পরিকল্পিত।"
+  },
+  {
+    "id": 418,
+    "question": "What is the synonym of 'INANE'?",
+    "options": ["Intelligent", "Silly", "Sensible", "Smart"],
+    "answer": "Silly",
+    "explanation": "'Inane' (অর্থহীন বা বোকা)-এর সমার্থক শব্দ 'Silly'। Intelligent, Sensible এবং Smart মানে বুদ্ধিমান বা যুক্তিসঙ্গত।"
+  },
+  {
+    "id": 419,
+    "question": "Select the correct synonym for: INAUGURATE",
+    "options": ["Finish", "Conclude", "Commence", "Terminate"],
+    "answer": "Commence",
+    "explanation": "'Inaugurate' (উদ্বোধন করা বা শুরু করা)-এর সমার্থক শব্দ 'Commence'। Finish, Conclude এবং Terminate মানে শেষ করা।"
+  },
+  {
+    "id": 420,
+    "question": "Find the synonym of the given word: INCESSANT",
+    "options": ["Occasional", "Intermittent", "Sporadic", "Continuous"],
+    "answer": "Continuous",
+    "explanation": "'Incessant' (নিরবচ্ছিন্ন বা একটানা)-এর সমার্থক 'Continuous'। Occasional, Intermittent এবং Sporadic মানে মাঝে মাঝে ঘটা বা বিক্ষিপ্ত।"
+  },
+  {
+    "id": 421,
+    "question": "Choose the correct synonym for: INCISIVE",
+    "options": ["Piercing", "Dull", "Vague", "Rambling"],
+    "answer": "Piercing",
+    "explanation": "'Incisive' (তীক্ষ্ণ বা মর্মভেদী)-এর সমার্থক 'Piercing'। Dull, Vague এবং Rambling মানে ভোঁতা বা অস্পষ্ট।"
+  },
+  {
+    "id": 422,
+    "question": "What is the synonym of 'INCOGNITO'?",
+    "options": ["Open", "Disguised", "Known", "Revealed"],
+    "answer": "Disguised",
+    "explanation": "'Incognito' (ছদ্মবেশে)-এর সমার্থক শব্দ 'Disguised'। Open, Known এবং Revealed মানে প্রকাশ্য বা পরিচিত।"
+  },
+  {
+    "id": 423,
+    "question": "Select the synonym of: INCOMPATIBLE",
+    "options": ["Harmonious", "Fitting", "Conflicting", "Suitable"],
+    "answer": "Conflicting",
+    "explanation": "'Incompatible' (বেমানান বা অসঙ্গত)-এর সমার্থক শব্দ 'Conflicting'। Harmonious, Fitting এবং Suitable মানে মানানসই বা উপযুক্ত।"
+  },
+  {
+    "id": 424,
+    "question": "Find the synonym of the given word: INCONGRUOUS",
+    "options": ["Appropriate", "Consistent", "Compatible", "Absurd"],
+    "answer": "Absurd",
+    "explanation": "'Incongruous' (বেমানান বা অযৌক্তিক)-এর সমার্থক 'Absurd'। Appropriate, Consistent এবং Compatible মানে মানানসই বা সঙ্গতিপূর্ণ।"
+  },
+  {
+    "id": 425,
+    "question": "Choose the correct synonym for: INCORRIGIBLE",
+    "options": ["Unalterable", "Manageable", "Compliant", "Obedient"],
+    "answer": "Unalterable",
+    "explanation": "'Incorrigible' (অসংশোধনীয়)-এর সমার্থক 'Unalterable'। Manageable, Compliant এবং Obedient মানে নিয়ন্ত্রণযোগ্য বা বাধ্য।"
+  },
+  {
+    "id": 426,
+    "question": "What is the synonym of 'INDELIBLE'?",
+    "options": ["Erasable", "Inerasable", "Temporary", "Washable"],
+    "answer": "Inerasable",
+    "explanation": "'Indelible' (যা মোছা যায় না বা স্থায়ী)-এর সমার্থক শব্দ 'Inerasable'। Erasable, Temporary এবং Washable মানে অস্থায়ী বা মোছা যায় এমন।"
+  },
+  {
+    "id": 427,
+    "question": "Select the correct synonym for: INDICT",
+    "options": ["Acquit", "Exonerate", "Accuse", "Absolve"],
+    "answer": "Accuse",
+    "explanation": "'Indict' (অভিযুক্ত করা)-এর সমার্থক শব্দ 'Accuse'। Acquit, Exonerate এবং Absolve মানে দোষমুক্ত করা বা খালাস দেওয়া।"
+  },
+  {
+    "id": 428,
+    "question": "Find the synonym of the given word: INDIGENOUS",
+    "options": ["Alien", "Foreign", "Exotic", "Native"],
+    "answer": "Native",
+    "explanation": "'Indigenous' (দেশজ বা আদিম)-এর সমার্থক 'Native'। Alien, Foreign এবং Exotic মানে বিদেশী বা বহিরাগত।"
+  },
+  {
+    "id": 429,
+    "question": "Choose the correct synonym for: INDIGENT",
+    "options": ["Poor", "Wealthy", "Affluent", "Rich"],
+    "answer": "Poor",
+    "explanation": "'Indigent' (দরিদ্র বা অভাবগ্রস্ত)-এর সমার্থক 'Poor'। Wealthy, Affluent এবং Rich মানে ধনী বা সমৃদ্ধশালী।"
+  },
+  {
+    "id": 430,
+    "question": "What is the synonym of 'INDOLENT'?",
+    "options": ["Active", "Lazy", "Energetic", "Industrious"],
+    "answer": "Lazy",
+    "explanation": "'Indolent' (অলস বা কুঁড়ে)-এর সমার্থক শব্দ 'Lazy'। Active, Energetic এবং Industrious মানে কর্মঠ বা পরিশ্রমী।"
+  },
+  {
+    "id": 431,
+    "question": "Select the synonym of: INDOMITABLE",
+    "options": ["Weak", "Yielding", "Invincible", "Submissive"],
+    "answer": "Invincible",
+    "explanation": "'Indomitable' (অদম্য বা যাকে দমন করা যায় না)-এর সমার্থক শব্দ 'Invincible'। Weak, Yielding এবং Submissive মানে দুর্বল বা বশ্যতা স্বীকারকারী।"
+  },
+  {
+    "id": 432,
+    "question": "Find the synonym of the given word: INDUCE",
+    "options": ["Prevent", "Hinder", "Stop", "Persuade"],
+    "answer": "Persuade",
+    "explanation": "'Induce' (প্ররোচিত করা বা প্রলুব্ধ করা)-এর সমার্থক 'Persuade'। Prevent, Hinder এবং Stop মানে বাধা দেওয়া বা থামানো।"
+  },
+  {
+    "id": 433,
+    "question": "Choose the correct synonym for: INEPT",
+    "options": ["Clumsy", "Skillful", "Adept", "Expert"],
+    "answer": "Clumsy",
+    "explanation": "'Inept' (অযোগ্য বা আনাড়ি)-এর সমার্থক 'Clumsy'। Skillful, Adept এবং Expert মানে দক্ষ বা বিশেষজ্ঞ।"
+  },
+  {
+    "id": 434,
+    "question": "What is the synonym of 'INEVITABLE'?",
+    "options": ["Avoidable", "Unavoidable", "Uncertain", "Doubtful"],
+    "answer": "Unavoidable",
+    "explanation": "'Inevitable' (অনিবার্য বা যা এড়ানো যায় না)-এর সমার্থক শব্দ 'Unavoidable'। Avoidable, Uncertain এবং Doubtful মানে এড়ানো যায় এমন বা অনিশ্চিত।"
+  },
+  {
+    "id": 435,
+    "question": "Select the correct synonym for: INFALLIBLE",
+    "options": ["Flawed", "Imperfect", "Unerring", "Faulty"],
+    "answer": "Unerring",
+    "explanation": "'Infallible' (অভ্রান্ত বা যার ভুল হয় না)-এর সমার্থক শব্দ 'Unerring'। Flawed, Imperfect এবং Faulty মানে ত্রুটিযুক্ত।"
+  },
+  {
+    "id": 436,
+    "question": "Find the synonym of the given word: INFER",
+    "options": ["Guess", "Misunderstand", "Ignore", "Deduce"],
+    "answer": "Deduce",
+    "explanation": "'Infer' (অনুমান করা বা সিদ্ধান্ত টানা)-এর সমার্থক 'Deduce'। Misunderstand এবং Ignore মানে ভুল বোঝা বা এড়িয়ে যাওয়া।"
+  },
+  {
+    "id": 437,
+    "question": "Choose the correct synonym for: INFINITE",
+    "options": ["Endless", "Limited", "Finite", "Bounded"],
+    "answer": "Endless",
+    "explanation": "'Infinite' (অসীম বা অন্তহীন)-এর সমার্থক 'Endless'। Limited, Finite এবং Bounded মানে সসীম বা সীমাবদ্ধ।"
+  },
+  {
+    "id": 438,
+    "question": "What is the synonym of 'INFIRM'?",
+    "options": ["Strong", "Weak", "Sturdy", "Robust"],
+    "answer": "Weak",
+    "explanation": "'Infirm' (দুর্বল বা রুগ্ন)-এর সমার্থক শব্দ 'Weak'। Strong, Sturdy এবং Robust মানে শক্তিশালী বা সুঠাম।"
+  },
+  {
+    "id": 439,
+    "question": "Select the synonym of: INGENUOUS",
+    "options": ["Deceitful", "Cunning", "Candid", "Artful"],
+    "answer": "Candid",
+    "explanation": "'Ingenuous' (অকপট বা সরল)-এর সমার্থক শব্দ 'Candid'। Deceitful, Cunning এবং Artful মানে ধূর্ত বা প্রতারণাপূর্ণ।"
+  },
+  {
+    "id": 440,
+    "question": "Find the synonym of the given word: INHERENT",
+    "options": ["Acquired", "External", "Learned", "Innate"],
+    "answer": "Innate",
+    "explanation": "'Inherent' (সহজাত বা অন্তর্নিহিত)-এর সমার্থক 'Innate'। Acquired, External এবং Learned মানে অর্জিত বা বাইরের।"
+  },
+  {
+    "id": 441,
+    "question": "Choose the correct synonym for: INHIBIT",
+    "options": ["Restrain", "Encourage", "Allow", "Permit"],
+    "answer": "Restrain",
+    "explanation": "'Inhibit' (বাধা দেওয়া বা সংযত করা)-এর সমার্থক 'Restrain'। Encourage, Allow এবং Permit মানে উৎসাহ দেওয়া বা অনুমতি দেওয়া।"
+  },
+  {
+    "id": 442,
+    "question": "What is the synonym of 'INIMICAL'?",
+    "options": ["Friendly", "Hostile", "Kind", "Amiable"],
+    "answer": "Hostile",
+    "explanation": "'Inimical' (শত্রুভাবাপন্ন বা ক্ষতিকর)-এর সমার্থক শব্দ 'Hostile'। Friendly, Kind এবং Amiable মানে বন্ধুত্বপূর্ণ বা দয়ালু।"
+  },
+  {
+    "id": 443,
+    "question": "Select the correct synonym for: INITIATE",
+    "options": ["Finish", "End", "Begin", "Conclude"],
+    "answer": "Begin",
+    "explanation": "'Initiate' (শুরু করা বা প্রবর্তন করা)-এর সমার্থক শব্দ 'Begin'। Finish, End এবং Conclude মানে সমাপ্ত করা।"
+  },
+  {
+    "id": 444,
+    "question": "Find the synonym of the given word: INNATE",
+    "options": ["Learned", "Acquired", "Extrinsic", "Inborn"],
+    "answer": "Inborn",
+    "explanation": "'Innate' (জন্মগত বা স্বভাবজাত)-এর সমার্থক 'Inborn'। Learned, Acquired এবং Extrinsic মানে অর্জিত বা বাহ্যিক।"
+  },
+  {
+    "id": 445,
+    "question": "Choose the correct synonym for: INORDINATE",
+    "options": ["Excessive", "Moderate", "Reasonable", "Sensible"],
+    "answer": "Excessive",
+    "explanation": "'Inordinate' (অত্যাধিক বা মাত্রাতিরিক্ত)-এর সমার্থক 'Excessive'। Moderate, Reasonable এবং Sensible মানে পরিমিত বা যুক্তিসঙ্গত।"
+  },
+  {
+    "id": 446,
+    "question": "What is the synonym of 'INQUISITIVE'?",
+    "options": ["Uninterested", "Curious", "Indifferent", "Bored"],
+    "answer": "Curious",
+    "explanation": "'Inquisitive' (কৌতূহলী বা সন্ধিৎসু)-এর সমার্থক শব্দ 'Curious'। Uninterested, Indifferent এবং Bored মানে আগ্রহী নয় এমন।"
+  },
+  {
+    "id": 447,
+    "question": "Select the synonym of: INSIDIOUS",
+    "options": ["Straightforward", "Honest", "Deceitful", "Frank"],
+    "answer": "Deceitful",
+    "explanation": "'Insidious' (গোপনে ক্ষতিকর বা প্রতারণাপূর্ণ)-এর সমার্থক শব্দ 'Deceitful'। Straightforward, Honest এবং Frank মানে সোজা বা সৎ।"
+  },
+  {
+    "id": 448,
+    "question": "Find the synonym of the given word: INSIPID",
+    "options": ["Tasty", "Delicious", "Flavorful", "Tasteless"],
+    "answer": "Tasteless",
+    "explanation": "'Insipid' (স্বাদহীন বা নীরস)-এর সমার্থক 'Tasteless'। Tasty, Delicious এবং Flavorful মানে সুস্বাদু বা স্বাদযুক্ত।"
+  },
+  {
+    "id": 449,
+    "question": "Choose the correct synonym for: INSTIGATE",
+    "options": ["Incite", "Calm", "Discourage", "Halt"],
+    "answer": "Incite",
+    "explanation": "'Instigate' (প্ররোচিত করা বা উসকানি দেওয়া)-এর সমার্থক 'Incite'। Calm, Discourage এবং Halt মানে শান্ত করা বা থামানো।"
+  },
+  {
+    "id": 450,
+    "question": "What is the synonym of 'INTREPID'?",
+    "options": ["Cowardly", "Fearful", "Timid", "Fearless"],
+    "answer": "Fearless",
+    "explanation": "'Intrepid' (নির্ভীক বা অকুতোভয়)-এর সমার্থক শব্দ 'Fearless'। Cowardly, Fearful এবং Timid মানে ভীতু বা কাপুরুষ।"
+  },
+  {
+    "id": 451,
+    "question": "Choose the correct synonym for the word: INVINCIBLE",
+    "options": ["Vulnerable", "Unbeatable", "Weak", "Fragile"],
+    "answer": "Unbeatable",
+    "explanation": "'Invincible' (অজেয় বা যাকে হারানো যায় না)-এর সমার্থক শব্দ হলো 'Unbeatable'। Vulnerable, Weak এবং Fragile মানে দুর্বল বা সহজে আঘাতপ্রাপ্ত হয় এমন।"
+  },
+  {
+    "id": 452,
+    "question": "What is the synonym of 'IRASCIBLE'?",
+    "options": ["Cheerful", "Calm", "Irritable", "Happy"],
+    "answer": "Irritable",
+    "explanation": "'Irascible' (রাগী বা বদমেজাজি)-এর সমার্থক 'Irritable'। Cheerful, Calm এবং Happy মানে প্রফুল্ল বা শান্ত।"
+  },
+  {
+    "id": 453,
+    "question": "Select the correct synonym for: ITINERANT",
+    "options": ["Settled", "Fixed", "Stationary", "Traveling"],
+    "answer": "Traveling",
+    "explanation": "'Itinerant' (ভ্রমণশীল বা ঘুরে ঘুরে কাজ করে এমন)-এর সমার্থক শব্দ 'Traveling'। Settled, Fixed এবং Stationary মানে স্থির বা স্থায়ী।"
+  },
+  {
+    "id": 454,
+    "question": "Find the synonym of the given word: JEOPARDY",
+    "options": ["Danger", "Safety", "Security", "Protection"],
+    "answer": "Danger",
+    "explanation": "'Jeopardy' (বিপদ বা ঝুঁকি)-এর সমার্থক 'Danger'। Safety, Security এবং Protection মানে নিরাপত্তা বা সুরক্ষা।"
+  },
+  {
+    "id": 455,
+    "question": "Choose the correct synonym for: JUXTAPOSE",
+    "options": ["Separate", "Compare", "Disconnect", "Isolate"],
+    "answer": "Compare",
+    "explanation": "'Juxtapose' (পাশাপাশি রেখে তুলনা করা)-এর সমার্থক 'Compare'। Separate, Disconnect এবং Isolate মানে বিচ্ছিন্ন বা আলাদা করা।"
+  },
+  {
+    "id": 456,
+    "question": "What is the synonym of 'KNOTTY'?",
+    "options": ["Complicated", "Simple", "Easy", "Clear"],
+    "answer": "Complicated",
+    "explanation": "'Knotty' (জটিল বা সমস্যাসঙ্কুল)-এর সমার্থক শব্দ 'Complicated'। Simple, Easy এবং Clear মানে সহজ বা স্পষ্ট।"
+  },
+  {
+    "id": 457,
+    "question": "Select the synonym of: LABYRINTH",
+    "options": ["Path", "Road", "Maze", "Highway"],
+    "answer": "Maze",
+    "explanation": "'Labyrinth' (গোলকধাঁধা)-এর সমার্থক শব্দ 'Maze'। Path, Road এবং Highway মানে সাধারণ রাস্তা বা পথ।"
+  },
+  {
+    "id": 458,
+    "question": "Find the synonym of the given word: LUDICROUS",
+    "options": ["Logical", "Reasonable", "Sensible", "Absurd"],
+    "answer": "Absurd",
+    "explanation": "'Ludicrous' (হাস্যকর বা উদ্ভট)-এর সমার্থক 'Absurd'। Logical, Reasonable এবং Sensible মানে যুক্তিসঙ্গত বা অর্থবহ।"
+  },
+  {
+    "id": 459,
+    "question": "Choose the correct synonym for: LUMINARY",
+    "options": ["Nobody", "Amateur", "Expert", "Beginner"],
+    "answer": "Expert",
+    "explanation": "'Luminary' (কোনো ক্ষেত্রের প্রখ্যাত ব্যক্তি বা বিশেষজ্ঞ)-এর সমার্থক 'Expert'। Nobody, Amateur এবং Beginner মানে অনভিজ্ঞ বা সাধারণ কেউ।"
+  },
+  {
+    "id": 460,
+    "question": "What is the synonym of 'MALADY'?",
+    "options": ["Illness", "Health", "Vigor", "Strength"],
+    "answer": "Illness",
+    "explanation": "'Malady' (রোগ বা ব্যাধি)-এর সমার্থক শব্দ 'Illness'। Health, Vigor এবং Strength মানে স্বাস্থ্য বা শক্তি।"
+  },
+  {
+    "id": 461,
+    "question": "Select the correct synonym for: MALIGN",
+    "options": ["Praise", "Honor", "Commend", "Slander"],
+    "answer": "Slander",
+    "explanation": "'Malign' (কারও নামে কুৎসা রটানো বা মানহানি করা)-এর সমার্থক শব্দ 'Slander'। Praise, Honor এবং Commend মানে প্রশংসা বা সম্মান করা।"
+  },
+  {
+    "id": 462,
+    "question": "Find the synonym of the given word: MEANDERING",
+    "options": ["Straight", "Winding", "Direct", "Unbending"],
+    "answer": "Winding",
+    "explanation": "'Meandering' (আঁকাবাঁকা বা সর্পিল)-এর সমার্থক 'Winding'। Straight, Direct এবং Unbending মানে সোজা বা অবিকৃত।"
+  },
+  {
+    "id": 463,
+    "question": "Choose the correct synonym for: MELANCHOLY",
+    "options": ["Joy", "Happiness", "Sadness", "Delight"],
+    "answer": "Sadness",
+    "explanation": "'Melancholy' (গভীর বিষাদ বা দুঃখ)-এর সমার্থক 'Sadness'। Joy, Happiness এবং Delight মানে আনন্দ বা উল্লাস।"
+  },
+  {
+    "id": 464,
+    "question": "What is the synonym of 'MOLLIFY'?",
+    "options": ["Enrage", "Provoke", "Agitate", "Pacify"],
+    "answer": "Pacify",
+    "explanation": "'Mollify' (শান্ত করা বা মেটানো)-এর সমার্থক শব্দ 'Pacify'। Enrage, Provoke এবং Agitate মানে রাগান্বিত বা উত্তেজিত করা।"
+  },
+  {
+    "id": 465,
+    "question": "Select the synonym of: MUNDANE",
+    "options": ["Extraordinary", "Ordinary", "Special", "Unique"],
+    "answer": "Ordinary",
+    "explanation": "'Mundane' (পার্থিব, সাধারণ বা একঘেয়ে)-এর সমার্থক শব্দ 'Ordinary'। Extraordinary, Special এবং Unique মানে অসাধারণ বা অনন্য।"
+  },
+  {
+    "id": 466,
+    "question": "Find the synonym of the given word: MYRIAD",
+    "options": ["Few", "Limited", "Rare", "Countless"],
+    "answer": "Countless",
+    "explanation": "'Myriad' (অগণিত বা অসংখ্য)-এর সমার্থক 'Countless'। Few, Limited এবং Rare মানে অল্প বা সীমিত।"
+  },
+  {
+    "id": 467,
+    "question": "Choose the correct synonym for: OBDURATE",
+    "options": ["Yielding", "Stubborn", "Flexible", "Compliant"],
+    "answer": "Stubborn",
+    "explanation": "'Obdurate' (একগুঁয়ে বা অনমনীয়)-এর সমার্থক 'Stubborn'। Yielding, Flexible এবং Compliant মানে নমনীয় বা বাধ্য।"
+  },
+  {
+    "id": 468,
+    "question": "What is the synonym of 'OBFUSCATE'?",
+    "options": ["Confuse", "Clarify", "Explain", "Enlighten"],
+    "answer": "Confuse",
+    "explanation": "'Obfuscate' (অস্পষ্ট করা বা বিভ্রান্ত করা)-এর সমার্থক শব্দ 'Confuse'। Clarify, Explain এবং Enlighten মানে স্পষ্ট বা ব্যাখ্যা করা।"
+  },
+  {
+    "id": 469,
+    "question": "Select the correct synonym for: OBLIVIOUS",
+    "options": ["Aware", "Conscious", "Unaware", "Mindful"],
+    "answer": "Unaware",
+    "explanation": "'Oblivious' (বেখেয়াল বা অসচেতন)-এর সমার্থক শব্দ 'Unaware'। Aware, Conscious এবং Mindful মানে সচেতন বা মনোযোগী।"
+  },
+  {
+    "id": 470,
+    "question": "Find the synonym of the given word: OPULENT",
+    "options": ["Wealthy", "Poor", "Penniless", "Destitute"],
+    "answer": "Wealthy",
+    "explanation": "'Opulent' (প্রচুর ধনী বা বিলাসবহুল)-এর সমার্থক 'Wealthy'। Poor, Penniless এবং Destitute মানে অত্যন্ত গরিব।"
+  },
+  {
+    "id": 471,
+    "question": "Choose the correct synonym for: OSTENTATIOUS",
+    "options": ["Modest", "Plain", "Showy", "Simple"],
+    "answer": "Showy",
+    "explanation": "'Ostentatious' (জাঁকালো বা লোক-দেখানো)-এর সমার্থক 'Showy'। Modest, Plain এবং Simple মানে সাদামাটা বা বিনীত।"
+  },
+  {
+    "id": 472,
+    "question": "What is the synonym of 'PARADIGM'?",
+    "options": ["Exception", "Anomaly", "Flaw", "Model"],
+    "answer": "Model",
+    "explanation": "'Paradigm' (দৃষ্টান্ত বা আদর্শ মডেল)-এর সমার্থক শব্দ 'Model'। Exception, Anomaly এবং Flaw মানে ব্যতিক্রম বা ত্রুটি।"
+  },
+  {
+    "id": 473,
+    "question": "Select the synonym of: PARSIMONIOUS",
+    "options": ["Generous", "Stingy", "Extravagant", "Lavish"],
+    "answer": "Stingy",
+    "explanation": "'Parsimonious' (কৃপণ বা অত্যন্ত হিসেবি)-এর সমার্থক শব্দ 'Stingy'। Generous, Extravagant এবং Lavish মানে উদার বা অপব্যয়ী।"
+  },
+  {
+    "id": 474,
+    "question": "Find the synonym of the given word: PAUCITY",
+    "options": ["Scarcity", "Abundance", "Plenty", "Surplus"],
+    "answer": "Scarcity",
+    "explanation": "'Paucity' (স্বল্পতা বা অভাব)-এর সমার্থক 'Scarcity'। Abundance, Plenty এবং Surplus মানে প্রচুর বা উদ্বৃত্ত।"
+  },
+  {
+    "id": 475,
+    "question": "Choose the correct synonym for: PEDANTIC",
+    "options": ["Practical", "Simple", "Bookish", "Informal"],
+    "answer": "Bookish",
+    "explanation": "'Pedantic' (পাণ্ডিত্যপূর্ণ বা পুঁথিগত বিদ্যার বড়াই করে এমন)-এর সমার্থক 'Bookish'। Practical, Simple এবং Informal মানে প্রায়োগিক বা সাধারণ।"
+  },
+  {
+    "id": 476,
+    "question": "What is the synonym of 'PERNICIOUS'?",
+    "options": ["Beneficial", "Helpful", "Safe", "Harmful"],
+    "answer": "Harmful",
+    "explanation": "'Pernicious' (মারাত্মক ক্ষতিকর)-এর সমার্থক শব্দ 'Harmful'। Beneficial, Helpful এবং Safe মানে উপকারী বা নিরাপদ।"
+  },
+  {
+    "id": 477,
+    "question": "Select the correct synonym for: PERSEVERE",
+    "options": ["Give up", "Quit", "Persist", "Stop"],
+    "answer": "Persist",
+    "explanation": "'Persevere' (অধ্যবসায়ের সাথে লেগে থাকা)-এর সমার্থক শব্দ 'Persist'। Give up, Quit এবং Stop মানে ছেড়ে দেওয়া বা থামা।"
+  },
+  {
+    "id": 478,
+    "question": "Find the synonym of the given word: PLETHORA",
+    "options": ["Scarcity", "Lack", "Shortage", "Excess"],
+    "answer": "Excess",
+    "explanation": "'Plethora' (আধিক্য বা প্রচুর পরিমাণ)-এর সমার্থক 'Excess'। Scarcity, Lack এবং Shortage মানে অভাব বা ঘাটতি।"
+  },
+  {
+    "id": 479,
+    "question": "Choose the correct synonym for: PRECARIOUS",
+    "options": ["Safe", "Secure", "Stable", "Risky"],
+    "answer": "Risky",
+    "explanation": "'Precarious' (বিপজ্জনক বা অনিশ্চিত)-এর সমার্থক 'Risky'। Safe, Secure এবং Stable মানে নিরাপদ বা স্থিতিশীল।"
+  },
+  {
+    "id": 480,
+    "question": "What is the synonym of 'PRECOCIOUS'?",
+    "options": ["Advanced", "Backward", "Slow", "Retarded"],
+    "answer": "Advanced",
+    "explanation": "'Precocious' (অকালপক্ব বা বয়সের তুলনায় বেশি বুদ্ধিমান)-এর সমার্থক শব্দ 'Advanced'। Backward, Slow এবং Retarded মানে পিছিয়ে পড়া বা ধীর।"
+  },
+  {
+    "id": 481,
+    "question": "Select the synonym of: PROLIFIC",
+    "options": ["Barren", "Productive", "Unproductive", "Sterile"],
+    "answer": "Productive",
+    "explanation": "'Prolific' (প্রচুর উৎপাদনশীল)-এর সমার্থক শব্দ 'Productive'। Barren, Unproductive এবং Sterile মানে অনুর্বর বা উৎপাদনহীন।"
+  },
+  {
+    "id": 482,
+    "question": "Find the synonym of the given word: PRUDENT",
+    "options": ["Foolish", "Careless", "Wise", "Reckless"],
+    "answer": "Wise",
+    "explanation": "'Prudent' (বিচক্ষণ বা দূরদর্শী)-এর সমার্থক 'Wise'। Foolish, Careless এবং Reckless মানে বোকা বা বেপরোয়া।"
+  },
+  {
+    "id": 483,
+    "question": "Choose the correct synonym for: PUGNACIOUS",
+    "options": ["Peaceful", "Friendly", "Calm", "Quarrelsome"],
+    "answer": "Quarrelsome",
+    "explanation": "'Pugnacious' (কলহপ্রিয় বা লড়াকু)-এর সমার্থক 'Quarrelsome'। Peaceful, Friendly এবং Calm মানে শান্ত বা বন্ধুত্বপূর্ণ।"
+  },
+  {
+    "id": 484,
+    "question": "What is the synonym of 'QUALM'?",
+    "options": ["Certainty", "Doubt", "Confidence", "Sureness"],
+    "answer": "Doubt",
+    "explanation": "'Qualm' (সংশয় বা বিবেকের দংশন)-এর সমার্থক শব্দ 'Doubt'। Certainty, Confidence এবং Sureness মানে নিশ্চিত বা আত্মবিশ্বাস।"
+  },
+  {
+    "id": 485,
+    "question": "Select the correct synonym for: QUELL",
+    "options": ["Encourage", "Provoke", "Incite", "Suppress"],
+    "answer": "Suppress",
+    "explanation": "'Quell' (দমন করা বা শান্ত করা)-এর সমার্থক শব্দ 'Suppress'। Encourage, Provoke এবং Incite মানে উসকানি বা উৎসাহ দেওয়া।"
+  },
+  {
+    "id": 486,
+    "question": "Find the synonym of the given word: QUOTIDIAN",
+    "options": ["Rare", "Unusual", "Extraordinary", "Ordinary"],
+    "answer": "Ordinary",
+    "explanation": "'Quotidian' (দৈনন্দিন বা প্রাত্যহিক)-এর সমার্থক 'Ordinary' বা Daily। Rare, Unusual এবং Extraordinary মানে বিরল বা অসাধারণ।"
+  },
+  {
+    "id": 487,
+    "question": "Choose the correct synonym for: RAMIFICATION",
+    "options": ["Consequence", "Cause", "Origin", "Source"],
+    "answer": "Consequence",
+    "explanation": "'Ramification' (পরিণাম বা ফলাফল)-এর সমার্থক 'Consequence'। Cause, Origin এবং Source মানে কারণ বা উৎস।"
+  },
+  {
+    "id": 488,
+    "question": "What is the synonym of 'RANCOR'?",
+    "options": ["Love", "Affection", "Friendship", "Bitterness"],
+    "answer": "Bitterness",
+    "explanation": "'Rancor' (তীব্র বিদ্বেষ বা আক্রোশ)-এর সমার্থক শব্দ 'Bitterness'। Love, Affection এবং Friendship মানে ভালোবাসা বা বন্ধুত্ব।"
+  },
+  {
+    "id": 489,
+    "question": "Select the synonym of: RECALCITRANT",
+    "options": ["Obedient", "Disobedient", "Compliant", "Submissive"],
+    "answer": "Disobedient",
+    "explanation": "'Recalcitrant' (অবাধ্য বা একগুঁয়ে)-এর সমার্থক শব্দ 'Disobedient'। Obedient, Compliant এবং Submissive মানে বাধ্য বা অনুগত।"
+  },
+  {
+    "id": 490,
+    "question": "Find the synonym of the given word: RECLUSE",
+    "options": ["Socialite", "Extrovert", "Companion", "Hermit"],
+    "answer": "Hermit",
+    "explanation": "'Recluse' (নির্জনবাসী বা সন্ন্যাসী)-এর সমার্থক 'Hermit'। Socialite, Extrovert এবং Companion মানে মিশুকে বা সঙ্গী।"
+  },
+  {
+    "id": 491,
+    "question": "Choose the correct synonym for: REDUNDANT",
+    "options": ["Essential", "Unnecessary", "Crucial", "Needed"],
+    "answer": "Unnecessary",
+    "explanation": "'Redundant' (অতিরিক্ত বা অপ্রয়োজনীয়)-এর সমার্থক 'Unnecessary'। Essential, Crucial এবং Needed মানে অত্যন্ত প্রয়োজনীয়।"
+  },
+  {
+    "id": 492,
+    "question": "What is the synonym of 'REFUTE'?",
+    "options": ["Prove", "Support", "Disprove", "Confirm"],
+    "answer": "Disprove",
+    "explanation": "'Refute' (ভুল প্রমাণ করা বা খণ্ডন করা)-এর সমার্থক শব্দ 'Disprove'। Prove, Support এবং Confirm মানে প্রমাণ করা বা সমর্থন করা।"
+  },
+  {
+    "id": 493,
+    "question": "Select the correct synonym for: RELEGATE",
+    "options": ["Promote", "Upgrade", "Elevate", "Demote"],
+    "answer": "Demote",
+    "explanation": "'Relegate' (নিম্নপদে নামিয়ে দেওয়া বা নির্বাসিত করা)-এর সমার্থক শব্দ 'Demote'। Promote, Upgrade এবং Elevate মানে পদোন্নতি করা।"
+  },
+  {
+    "id": 494,
+    "question": "Find the synonym of the given word: REMORSE",
+    "options": ["Joy", "Happiness", "Regret", "Satisfaction"],
+    "answer": "Regret",
+    "explanation": "'Remorse' (গভীর অনুশোচনা বা আক্ষেপ)-এর সমার্থক 'Regret'। Joy, Happiness এবং Satisfaction মানে আনন্দ বা সন্তুষ্টি।"
+  },
+  {
+    "id": 495,
+    "question": "Choose the correct synonym for: RENEGADE",
+    "options": ["Loyalist", "Follower", "Traitor", "Patriot"],
+    "answer": "Traitor",
+    "explanation": "'Renegade' (বিশ্বাসঘাতক বা স্বধর্মত্যাগী)-এর সমার্থক 'Traitor'। Loyalist, Follower এবং Patriot মানে অনুগত বা দেশপ্রেমিক।"
+  },
+  {
+    "id": 496,
+    "question": "What is the synonym of 'REPLETE'?",
+    "options": ["Full", "Empty", "Lacking", "Depleted"],
+    "answer": "Full",
+    "explanation": "'Replete' (পরিপূর্ণ বা ভরপুর)-এর সমার্থক শব্দ 'Full'। Empty, Lacking এবং Depleted মানে শূন্য বা অভাবগ্রস্ত।"
+  },
+  {
+    "id": 497,
+    "question": "Select the synonym of: REPREHENSIBLE",
+    "options": ["Praiseworthy", "Excellent", "Good", "Blameworthy"],
+    "answer": "Blameworthy",
+    "explanation": "'Reprehensible' (নিন্দনীয় বা দোষারোপযোগ্য)-এর সমার্থক শব্দ 'Blameworthy'। Praiseworthy, Excellent এবং Good মানে প্রশংসনীয় বা চমৎকার।"
+  },
+  {
+    "id": 498,
+    "question": "Find the synonym of the given word: RETALIATE",
+    "options": ["Forgive", "Avenge", "Pardon", "Sympathize"],
+    "answer": "Avenge",
+    "explanation": "'Retaliate' (প্রতিশোধ নেওয়া বা পাল্টা আঘাত করা)-এর সমার্থক 'Avenge'। Forgive, Pardon এবং Sympathize মানে ক্ষমা করা বা সহানুভূতি দেখানো।"
+  },
+  {
+    "id": 499,
+    "question": "Choose the correct synonym for: RETROSPECT",
+    "options": ["Foresight", "Review", "Prophecy", "Future"],
+    "answer": "Review",
+    "explanation": "'Retrospect' (অতীতের দিকে ফিরে তাকানো বা পর্যালোচনা)-এর সমার্থক 'Review'। Foresight, Prophecy এবং Future মানে ভবিষ্যৎ দৃষ্টি বা ভবিষ্যদ্বাণী।"
+  },
+  {
+    "id": 500,
+    "question": "What is the synonym of 'REVERE'?",
+    "options": ["Despise", "Mock", "Respect", "Hate"],
+    "answer": "Respect",
+    "explanation": "'Revere' (গভীর শ্রদ্ধা করা)-এর সমার্থক শব্দ 'Respect'। Despise, Mock এবং Hate মানে ঘৃণা বা উপহাস করা।"
+  },
+  {
+    "id": 501,
+    "question": "Choose the correct synonym for the word: ROBUST",
+    "options": ["Strong", "Weak", "Fragile", "Feeble"],
+    "answer": "Strong",
+    "explanation": "'Robust' (বলিষ্ঠ বা স্বাস্থ্যবান)-এর সমার্থক শব্দ হলো 'Strong'। Weak, Fragile এবং Feeble মানে দুর্বল বা ভঙ্গুর।"
+  },
+  {
+    "id": 502,
+    "question": "What is the synonym of 'RUTHLESS'?",
+    "options": ["Kind", "Cruel", "Merciful", "Gentle"],
+    "answer": "Cruel",
+    "explanation": "'Ruthless' (নির্মম বা দয়ামায়াহীন)-এর সমার্থক 'Cruel'। Kind, Merciful এবং Gentle মানে দয়ালু বা নম্র।"
+  },
+  {
+    "id": 503,
+    "question": "Select the correct synonym for: SACCHARINE",
+    "options": ["Bitter", "Sour", "Sweet", "Spicy"],
+    "answer": "Sweet",
+    "explanation": "'Saccharine' (অত্যধিক মিষ্টি বা শর্করাযুক্ত)-এর সমার্থক শব্দ 'Sweet'। Bitter, Sour এবং Spicy মানে তেতো, টক বা ঝাল।"
+  },
+  {
+    "id": 504,
+    "question": "Find the synonym of the given word: SACROSANCT",
+    "options": ["Unholy", "Profane", "Cursed", "Sacred"],
+    "answer": "Sacred",
+    "explanation": "'SacrosanCT' (পরম পবিত্র বা অলঙ্ঘনীয়)-এর সমার্থক 'Sacred'। Unholy, Profane এবং Cursed মানে অপবিত্র বা অভিশপ্ত।"
+  },
+  {
+    "id": 505,
+    "question": "Choose the correct synonym for: SALIENT",
+    "options": ["Prominent", "Hidden", "Obscure", "Invisible"],
+    "answer": "Prominent",
+    "explanation": "'Salient' (প্রধান বা লক্ষণীয়)-এর সমার্থক 'Prominent'। Hidden, Obscure এবং Invisible মানে লুক্কায়িত বা অস্পষ্ট।"
+  },
+  {
+    "id": 506,
+    "question": "What is the synonym of 'SALUTARY'?",
+    "options": ["Harmful", "Beneficial", "Damaging", "Lethal"],
+    "answer": "Beneficial",
+    "explanation": "'Salutary' (উপকারী বা স্বাস্থ্যকর)-এর সমার্থক শব্দ 'Beneficial'। Harmful, Damaging এবং Lethal মানে ক্ষতিকর বা প্রাণঘাতী।"
+  },
+  {
+    "id": 507,
+    "question": "Select the synonym of: SANCTIMONIOUS",
+    "options": ["Humble", "Sincere", "Hypocritical", "Honest"],
+    "answer": "Hypocritical",
+    "explanation": "'Sanctimonious' (ভণ্ড ধার্মিক বা বকধার্মিক)-এর সমার্থক শব্দ 'Hypocritical'। Humble, Sincere এবং Honest মানে বিনীত, আন্তরিক বা সৎ।"
+  },
+  {
+    "id": 508,
+    "question": "Find the synonym of the given word: SARDONIC",
+    "options": ["Polite", "Respectful", "Kind", "Mocking"],
+    "answer": "Mocking",
+    "explanation": "'Sardonic' (বিদ্রূপাত্মক বা অবজ্ঞাপূর্ণ)-এর সমার্থক 'Mocking'। Polite, Respectful এবং Kind মানে ভদ্র বা সম্মানজনক।"
+  },
+  {
+    "id": 509,
+    "question": "Choose the correct synonym for: SCINTILLATING",
+    "options": ["Sparkling", "Dull", "Boring", "Dreary"],
+    "answer": "Sparkling",
+    "explanation": "'Scintillating' (চকচকে বা অত্যন্ত চিত্তাকর্ষক)-এর সমার্থক 'Sparkling'। Dull, Boring এবং Dreary মানে একঘেয়ে বা নিরানন্দ।"
+  },
+  {
+    "id": 510,
+    "question": "What is the synonym of 'SCRUPULOUS'?",
+    "options": ["Careless", "Careful", "Negligent", "Reckless"],
+    "answer": "Careful",
+    "explanation": "'Scrupulous' (অত্যন্ত সতর্ক বা বিবেকবান)-এর সমার্থক শব্দ 'Careful'। Careless, Negligent এবং Reckless মানে অসতর্ক বা বেপরোয়া।"
+  },
+  {
+    "id": 511,
+    "question": "Select the correct synonym for: SECULAR",
+    "options": ["Religious", "Spiritual", "Worldly", "Divine"],
+    "answer": "Worldly",
+    "explanation": "'Secular' (ধর্মনিপেক্ষ বা জাগতিক)-এর সমার্থক শব্দ 'Worldly'। Religious, Spiritual এবং Divine মানে ধর্মীয় বা আধ্যাত্মিক।"
+  },
+  {
+    "id": 512,
+    "question": "Find the synonym of the given word: SEDENTARY",
+    "options": ["Active", "Moving", "Energetic", "Inactive"],
+    "answer": "Inactive",
+    "explanation": "'Sedentary' (বসে বসে কাজ করতে হয় এমন বা নিষ্ক্রিয়)-এর সমার্থক 'Inactive'। Active, Moving এবং Energetic মানে সক্রিয় বা কর্মঠ।"
+  },
+  {
+    "id": 513,
+    "question": "Choose the correct synonym for: SOLICITOUS",
+    "options": ["Concerned", "Indifferent", "Uncaring", "Apathetic"],
+    "answer": "Concerned",
+    "explanation": "'Solicitous' (উদ্বিগ্ন বা যত্নশীল)-এর সমার্থক 'Concerned'। Indifferent, Uncaring এবং Apathetic মানে উদাসীন বা অনুভূতিহীন।"
+  },
+  {
+    "id": 514,
+    "question": "What is the synonym of 'SOMBER'?",
+    "options": ["Cheerful", "Gloomy", "Happy", "Joyful"],
+    "answer": "Gloomy",
+    "explanation": "'Somber' (অন্ধকারাচ্ছন্ন বা বিষণ্ণ)-এর সমার্থক শব্দ 'Gloomy'। Cheerful, Happy এবং Joyful মানে প্রফুল্ল বা আনন্দিত।"
+  },
+  {
+    "id": 515,
+    "question": "Select the synonym of: SOPORIFIC",
+    "options": ["Exciting", "Stimulating", "Sleep-inducing", "Invigorating"],
+    "answer": "Sleep-inducing",
+    "explanation": "'Soporific' (ঘুমপাড়ানি বা নিদালু)-এর সমার্থক শব্দ 'Sleep-inducing'। Exciting, Stimulating এবং Invigorating মানে উত্তেজক বা সতেজকারী।"
+  },
+  {
+    "id": 516,
+    "question": "Find the synonym of the given word: SPARTAN",
+    "options": ["Luxurious", "Lavish", "Opulent", "Austere"],
+    "answer": "Austere",
+    "explanation": "'Spartan' (কঠোর অনাড়ম্বর বা সংযমী)-এর সমার্থক 'Austere'। Luxurious, Lavish এবং Opulent মানে বিলাসবহুল বা জাঁকালো।"
+  },
+  {
+    "id": 517,
+    "question": "Choose the correct synonym for: SQUALID",
+    "options": ["Filthy", "Clean", "Pure", "Spotless"],
+    "answer": "Filthy",
+    "explanation": "'Squalid' (অত্যন্ত নোংরা বা ঘিনঘিনে)-এর সমার্থক 'Filthy'। Clean, Pure এবং Spotless মানে পরিষ্কার বা দাগহীন।"
+  },
+  {
+    "id": 518,
+    "question": "What is the synonym of 'SQUANDER'?",
+    "options": ["Save", "Waste", "Hoard", "Preserve"],
+    "answer": "Waste",
+    "explanation": "'Squander' (অপচয় করা বা উড়িয়ে দেওয়া)-এর সমার্থক শব্দ 'Waste'। Save, Hoard এবং Preserve মানে সঞ্চয় করা বা সংরক্ষণ করা।"
+  },
+  {
+    "id": 519,
+    "question": "Select the correct synonym for: STAGNANT",
+    "options": ["Flowing", "Moving", "Motionless", "Running"],
+    "answer": "Motionless",
+    "explanation": "'Stagnant' (বদ্ধ বা স্থবির)-এর সমার্থক শব্দ 'Motionless'। Flowing, Moving এবং Running মানে প্রবহমান বা গতিশীল।"
+  },
+  {
+    "id": 520,
+    "question": "Find the synonym of the given word: STALWART",
+    "options": ["Cowardly", "Traitorous", "Faithless", "Loyal"],
+    "answer": "Loyal",
+    "explanation": "'Stalwart' (দৃঢ় সমর্থক বা বিশ্বস্ত)-এর সমার্থক 'Loyal'। Cowardly, Traitorous এবং Faithless মানে ভীতু বা বিশ্বাসঘাতক।"
+  },
+  {
+    "id": 521,
+    "question": "Choose the correct synonym for: STOIC",
+    "options": ["Indifferent", "Emotional", "Sensitive", "Caring"],
+    "answer": "Indifferent",
+    "explanation": "'Stoic' (সুখ-দুঃখে নির্বিকার বা উদাসীন)-এর সমার্থক 'Indifferent'। Emotional, Sensitive এবং Caring মানে আবেগপ্রবণ বা সংবেদনশীল।"
+  },
+  {
+    "id": 522,
+    "question": "What is the synonym of 'STRINGENT'?",
+    "options": ["Flexible", "Strict", "Lenient", "Lax"],
+    "answer": "Strict",
+    "explanation": "'Stringent' (কঠোর বা বাঁধাধরা)-এর সমার্থক শব্দ 'Strict'। Flexible, Lenient এবং Lax মানে নমনীয় বা শিথিল।"
+  },
+  {
+    "id": 523,
+    "question": "Select the synonym of: STYMIE",
+    "options": ["Assist", "Help", "Thwart", "Support"],
+    "answer": "Thwart",
+    "explanation": "'Stymie' (বাধা দেওয়া বা প্রতিরোধ করা)-এর সমার্থক শব্দ 'Thwart'। Assist, Help এবং Support মানে সাহায্য বা সমর্থন করা।"
+  },
+  {
+    "id": 524,
+    "question": "Find the synonym of the given word: SUBJUGATE",
+    "options": ["Liberate", "Free", "Release", "Conquer"],
+    "answer": "Conquer",
+    "explanation": "'Subjugate' (পরাধীন করা বা জয় করা)-এর সমার্থক 'Conquer'। Liberate, Free এবং Release মানে স্বাধীন করা বা মুক্তি দেওয়া।"
+  },
+  {
+    "id": 525,
+    "question": "Choose the correct synonym for: SUBLIME",
+    "options": ["Majestic", "Ordinary", "Inferior", "Lowly"],
+    "answer": "Majestic",
+    "explanation": "'Sublime' (মহৎ বা পরম সুন্দর)-এর সমার্থক 'Majestic'। Ordinary, Inferior এবং Lowly মানে সাধারণ বা নিকৃষ্ট।"
+  },
+  {
+    "id": 526,
+    "question": "What is the synonym of 'SUBMISSIVE'?",
+    "options": ["Rebellious", "Yielding", "Defiant", "Stubborn"],
+    "answer": "Yielding",
+    "explanation": "'Submissive' (বশ্যতা স্বীকার করে এমন)-এর সমার্থক শব্দ 'Yielding'। Rebellious, Defiant এবং Stubborn মানে বিদ্রোহী বা একগুঁয়ে।"
+  },
+  {
+    "id": 527,
+    "question": "Select the correct synonym for: SUBSIDIARY",
+    "options": ["Primary", "Chief", "Secondary", "Main"],
+    "answer": "Secondary",
+    "explanation": "'Subsidiary' (অধীনস্থ বা গৌণ)-এর সমার্থক শব্দ 'Secondary'। Primary, Chief এবং Main মানে প্রধান বা প্রাথমিক।"
+  },
+  {
+    "id": 528,
+    "question": "Find the synonym of the given word: SUBSTANTIATE",
+    "options": ["Disprove", "Refute", "Deny", "Verify"],
+    "answer": "Verify",
+    "explanation": "'Substantiate' (প্রমাণ দিয়ে নিশ্চিত করা)-এর সমার্থক 'Verify'। Disprove, Refute এবং Deny মানে ভুল প্রমাণ করা বা অস্বীকার করা।"
+  },
+  {
+    "id": 529,
+    "question": "Choose the correct synonym for: SUBTLE",
+    "options": ["Fine", "Obvious", "Blatant", "Harsh"],
+    "answer": "Fine",
+    "explanation": "'Subtle' (সূক্ষ্ম বা সহজে বোঝা যায় না এমন)-এর সমার্থক 'Fine'। Obvious, Blatant এবং Harsh মানে অত্যন্ত স্পষ্ট বা কর্কশ।"
+  },
+  {
+    "id": 530,
+    "question": "What is the synonym of 'SUCCINCT'?",
+    "options": ["Wordy", "Concise", "Lengthy", "Verbose"],
+    "answer": "Concise",
+    "explanation": "'Succinct' (সংক্ষিপ্ত ও স্পষ্ট)-এর সমার্থক শব্দ 'Concise'। Wordy, Lengthy এবং Verbose মানে শব্দবহুল বা দীর্ঘ।"
+  },
+  {
+    "id": 531,
+    "question": "Select the synonym of: SULLEN",
+    "options": ["Cheerful", "Joyful", "Sulky", "Happy"],
+    "answer": "Sulky",
+    "explanation": "'Sullen' (গোমড়ামুখো বা অভিমানী)-এর সমার্থক শব্দ 'Sulky'। Cheerful, Joyful এবং Happy মানে প্রফুল্ল বা আনন্দিত।"
+  },
+  {
+    "id": 532,
+    "question": "Find the synonym of the given word: SUPERFICIAL",
+    "options": ["Deep", "Profound", "Thorough", "Shallow"],
+    "answer": "Shallow",
+    "explanation": "'Superficial' (ভাসা-ভাসা বা অগভীর)-এর সমার্থক 'Shallow'। Deep, Profound এবং Thorough মানে গভীর বা পুঙ্খানুপুঙ্খ।"
+  },
+  {
+    "id": 533,
+    "question": "Choose the correct synonym for: SUPERFLUOUS",
+    "options": ["Extra", "Necessary", "Essential", "Vital"],
+    "answer": "Extra",
+    "explanation": "'Superfluous' (অপ্রয়োজনীয় বা অতিরিক্ত)-এর সমার্থক 'Extra'। Necessary, Essential এবং Vital মানে অত্যাবশ্যক বা প্রয়োজনীয়।"
+  },
+  {
+    "id": 534,
+    "question": "What is the synonym of 'SURFEIT'?",
+    "options": ["Lack", "Excess", "Shortage", "Deficiency"],
+    "answer": "Excess",
+    "explanation": "'Surfeit' (আধিক্য বা অতিরিক্ত পরিমাণ)-এর সমার্থক শব্দ 'Excess'। Lack, Shortage এবং Deficiency মানে ঘাটতি বা অভাব।"
+  },
+  {
+    "id": 535,
+    "question": "Select the correct synonym for: SURREPTITIOUS",
+    "options": ["Open", "Public", "Secret", "Overt"],
+    "answer": "Secret",
+    "explanation": "'Surreptitious' (গোপন বা চুপিচুপি কৃত)-এর সমার্থক শব্দ 'Secret'। Open, Public এবং Overt মানে প্রকাশ্য বা সর্বজনবিদিত।"
+  },
+  {
+    "id": 536,
+    "question": "Find the synonym of the given word: TANTAMOUNT",
+    "options": ["Different", "Opposite", "Unequal", "Equivalent"],
+    "answer": "Equivalent",
+    "explanation": "'Tantamount' (সমতুল্য বা সমান)-এর সমার্থক 'Equivalent'। Different, Opposite এবং Unequal মানে ভিন্ন বা অসমান।"
+  },
+  {
+    "id": 537,
+    "question": "Choose the correct synonym for: TEMERITY",
+    "options": ["Audacity", "Caution", "Cowardice", "Fear"],
+    "answer": "Audacity",
+    "explanation": "'Temerity' (অবিমৃষ্যকারিতা বা দুঃসাহস)-এর সমার্থক 'Audacity'। Caution, Cowardice এবং Fear মানে সতর্কতা বা ভীরুতা।"
+  },
+  {
+    "id": 538,
+    "question": "What is the synonym of 'TENABLE'?",
+    "options": ["Unjustifiable", "Defensible", "Illogical", "Unsound"],
+    "answer": "Defensible",
+    "explanation": "'Tenable' (যুক্তিসঙ্গত বা যা সমর্থন করা যায়)-এর সমার্থক শব্দ 'Defensible'। Unjustifiable, Illogical এবং Unsound মানে অযৌক্তিক বা অসমর্থনযোগ্য।"
+  },
+  {
+    "id": 539,
+    "question": "Select the synonym of: TENTATIVE",
+    "options": ["Definite", "Certain", "Uncertain", "Final"],
+    "answer": "Uncertain",
+    "explanation": "'Tentative' (অনিশ্চিত বা পরীক্ষামূলক)-এর সমার্থক শব্দ 'Uncertain'। Definite, Certain এবং Final মানে নির্দিষ্ট বা চূড়ান্ত।"
+  },
+  {
+    "id": 540,
+    "question": "Find the synonym of the given word: TENUOUS",
+    "options": ["Strong", "Thick", "Solid", "Flimsy"],
+    "answer": "Flimsy",
+    "explanation": "'Tenuous' (ভঙ্গুর, পাতলা বা দুর্বল)-এর সমার্থক 'Flimsy'। Strong, Thick এবং Solid মানে শক্তিশালী বা মজবুত।"
+  },
+  {
+    "id": 541,
+    "question": "Choose the correct synonym for: TERSE",
+    "options": ["Brief", "Rambling", "Wordy", "Prolix"],
+    "answer": "Brief",
+    "explanation": "'Terse' (সংক্ষিপ্ত বা পরিমিত বাক্যের)-এর সমার্থক 'Brief'। Rambling, Wordy এবং Prolix মানে শব্দবহুল বা দীর্ঘ।"
+  },
+  {
+    "id": 542,
+    "question": "What is the synonym of 'THWART'?",
+    "options": ["Encourage", "Hinder", "Assist", "Aid"],
+    "answer": "Hinder",
+    "explanation": "'Thwart' (ব্যর্থ করা বা বাধা দেওয়া)-এর সমার্থক শব্দ 'Hinder'। Encourage, Assist এবং Aid মানে উৎসাহ বা সাহায্য করা।"
+  },
+  {
+    "id": 543,
+    "question": "Select the correct synonym for: TIMOROUS",
+    "options": ["Bold", "Brave", "Fearful", "Courageous"],
+    "answer": "Fearful",
+    "explanation": "'Timorous' (ভীতু বা শঙ্কাগ্রস্ত)-এর সমার্থক শব্দ 'Fearful'। Bold, Brave এবং Courageous মানে সাহসী বা নির্ভীক।"
+  },
+  {
+    "id": 544,
+    "question": "Find the synonym of the given word: TORPID",
+    "options": ["Active", "Energetic", "Lively", "Sluggish"],
+    "answer": "Sluggish",
+    "explanation": "'Torpid' (নিস্তেজ বা অলস)-এর সমার্থক 'Sluggish'। Active, Energetic এবং Lively মানে সক্রিয় বা চটপটে।"
+  },
+  {
+    "id": 545,
+    "question": "Choose the correct synonym for: TRACTABLE",
+    "options": ["Docile", "Stubborn", "Obstinate", "Unruly"],
+    "answer": "Docile",
+    "explanation": "'Tractable' (বাধ্য বা সহজে পরিচালনা করা যায় এমন)-এর সমার্থক 'Docile'। Stubborn, Obstinate এবং Unruly মানে একগুঁয়ে বা অবাধ্য।"
+  },
+  {
+    "id": 546,
+    "question": "What is the synonym of 'TRANSITORY'?",
+    "options": ["Permanent", "Temporary", "Lasting", "Eternal"],
+    "answer": "Temporary",
+    "explanation": "'Transitory' (ক্ষণস্থায়ী বা অস্থায়ী)-এর সমার্থক শব্দ 'Temporary'। Permanent, Lasting এবং Eternal মানে চিরস্থায়ী।"
+  },
+  {
+    "id": 547,
+    "question": "Select the synonym of: TREACHEROUS",
+    "options": ["Loyal", "Faithful", "Deceitful", "Reliable"],
+    "answer": "Deceitful",
+    "explanation": "'Treacherous' (বিশ্বাসঘাতক বা ছলনাময়)-এর সমার্থক শব্দ 'Deceitful'। Loyal, Faithful এবং Reliable মানে বিশ্বস্ত বা নির্ভরযোগ্য।"
+  },
+  {
+    "id": 548,
+    "question": "Find the synonym of the given word: TRENCHANT",
+    "options": ["Dull", "Blunt", "Mild", "Sharp"],
+    "answer": "Sharp",
+    "explanation": "'Trenchant' (তীক্ষ্ণ, মর্মভেদী বা জোরালো)-এর সমার্থক 'Sharp'। Dull, Blunt এবং Mild মানে ভোঁতা বা মৃদু।"
+  },
+  {
+    "id": 549,
+    "question": "Choose the correct synonym for: TRUCULENT",
+    "options": ["Aggressive", "Peaceful", "Gentle", "Mild"],
+    "answer": "Aggressive",
+    "explanation": "'Truculent' (লড়াকু বা আক্রমণাত্মক)-এর সমার্থক 'Aggressive'। Peaceful, Gentle এবং Mild মানে শান্ত বা নম্র।"
+  },
+  {
+    "id": 550,
+    "question": "What is the synonym of 'TURBULENCE'?",
+    "options": ["Peace", "Commotion", "Calm", "Stillness"],
+    "answer": "Commotion",
+    "explanation": "'Turbulence' (অশান্তি বা প্রবল বিশৃঙ্খলা)-এর সমার্থক শব্দ 'Commotion'। Peace, Calm এবং Stillness মানে শান্তি বা স্থিরতা।"
+  },
+  {
+    "id": 551,
+    "question": "Choose the correct synonym for the word: ULTERIOR",
+    "options": ["Hidden", "Obvious", "Known", "Public"],
+    "answer": "Hidden",
+    "explanation": "'Ulterior' (গুপ্ত বা অপ্রকাশিত উদ্দেশ্য)-এর সমার্থক শব্দ হলো 'Hidden'। Obvious, Known এবং Public মানে প্রকাশ্য বা সবার জানা।"
+  },
+  {
+    "id": 552,
+    "question": "What is the synonym of 'UMBRAGE'?",
+    "options": ["Pleasure", "Offense", "Delight", "Joy"],
+    "answer": "Offense",
+    "explanation": "'Umbrage' (অপমানবোধ বা ক্ষোভ)-এর সমার্থক 'Offense'। Pleasure, Delight এবং Joy মানে আনন্দ বা তৃপ্তি।"
+  },
+  {
+    "id": 553,
+    "question": "Select the correct synonym for: UNABASHED",
+    "options": ["Ashamed", "Timid", "Shameless", "Shy"],
+    "answer": "Shameless",
+    "explanation": "'Unabashed' (নির্লজ্জ বা অপ্রস্তুত নয় এমন)-এর সমার্থক শব্দ 'Shameless'। Ashamed, Timid এবং Shy মানে লজ্জিত বা লাজুক।"
+  },
+  {
+    "id": 554,
+    "question": "Find the synonym of the given word: UNASSUMING",
+    "options": ["Arrogant", "Proud", "Boastful", "Modest"],
+    "answer": "Modest",
+    "explanation": "'Unassuming' (বিনয়ী বা অহংকারহীন)-এর সমার্থক 'Modest'। Arrogant, Proud এবং Boastful মানে অহংকারী বা গর্বিত।"
+  },
+  {
+    "id": 555,
+    "question": "Choose the correct synonym for: UNBRIDLED",
+    "options": ["Unrestrained", "Checked", "Controlled", "Limited"],
+    "answer": "Unrestrained",
+    "explanation": "'Unbridled' (অনিয়ন্ত্রিত বা বাঁধনহারা)-এর সমার্থক 'Unrestrained'। Checked, Controlled এবং Limited মানে নিয়ন্ত্রিত বা সীমাবদ্ধ।"
+  },
+  {
+    "id": 556,
+    "question": "What is the synonym of 'UNFLINCHING'?",
+    "options": ["Yielding", "Resolute", "Weak", "Afraid"],
+    "answer": "Resolute",
+    "explanation": "'Unflinching' (অটল বা নির্ভীক)-এর সমার্থক শব্দ 'Resolute'। Yielding, Weak এবং Afraid মানে বশ্যতা স্বীকারকারী বা দুর্বল।"
+  },
+  {
+    "id": 557,
+    "question": "Select the synonym of: UNKEMPT",
+    "options": ["Neat", "Tidy", "Messy", "Ordered"],
+    "answer": "Messy",
+    "explanation": "'Unkempt' (অগোছালো বা অপরিষ্কার)-এর সমার্থক শব্দ 'Messy'। Neat, Tidy এবং Ordered মানে পরিপাটি বা গোছানো।"
+  },
+  {
+    "id": 558,
+    "question": "Find the synonym of the given word: UNMITIGATED",
+    "options": ["Partial", "Mixed", "Qualified", "Absolute"],
+    "answer": "Absolute",
+    "explanation": "'Unmitigated' (চরম বা সম্পূর্ণ)-এর সমার্থক 'Absolute'। Partial, Mixed এবং Qualified মানে আংশিক বা শর্তযুক্ত।"
+  },
+  {
+    "id": 559,
+    "question": "Choose the correct synonym for: UNOBTRUSIVE",
+    "options": ["Inconspicuous", "Prominent", "Bold", "Obvious"],
+    "answer": "Inconspicuous",
+    "explanation": "'Unobtrusive' (সহজে চোখে পড়ে না এমন বা বিনয়ী)-এর সমার্থক 'Inconspicuous'। Prominent, Bold এবং Obvious মানে সুস্পষ্ট বা প্রধান।"
+  },
+  {
+    "id": 560,
+    "question": "What is the synonym of 'UNTENABLE'?",
+    "options": ["Defensible", "Indefensible", "Reasonable", "Sound"],
+    "answer": "Indefensible",
+    "explanation": "'Untenable' (অসমর্থনযোগ্য বা যা টিকিয়ে রাখা যায় না)-এর সমার্থক শব্দ 'Indefensible'। Defensible, Reasonable এবং Sound মানে সমর্থনযোগ্য বা যৌক্তিক।"
+  },
+  {
+    "id": 561,
+    "question": "Select the correct synonym for: UNWIELDY",
+    "options": ["Light", "Easy", "Clumsy", "Handy"],
+    "answer": "Clumsy",
+    "explanation": "'Unwieldy' (ভারী ও বেঢপ)-এর সমার্থক শব্দ 'Clumsy' বা Awkward। Light, Easy এবং Handy মানে হালকা বা সহজে ব্যবহারযোগ্য।"
+  },
+  {
+    "id": 562,
+    "question": "Find the synonym of the given word: UPBRAID",
+    "options": ["Praise", "Compliment", "Commend", "Scold"],
+    "answer": "Scold",
+    "explanation": "'Upbraid' (তিরস্কার করা বা বকা)-এর সমার্থক 'Scold'। Praise, Compliment এবং Commend মানে প্রশংসা করা।"
+  },
+  {
+    "id": 563,
+    "question": "Choose the correct synonym for: UPROARIOUS",
+    "options": ["Hilarious", "Solemn", "Quiet", "Sad"],
+    "answer": "Hilarious",
+    "explanation": "'Uproarious' (অত্যন্ত হাস্যাস্পদ বা কোলাহলপূর্ণ)-এর সমার্থক 'Hilarious'। Solemn, Quiet এবং Sad মানে গম্ভীর বা শান্ত।"
+  },
+  {
+    "id": 564,
+    "question": "What is the synonym of 'UPSHOT'?",
+    "options": ["Beginning", "Result", "Cause", "Origin"],
+    "answer": "Result",
+    "explanation": "'Upshot' (চূড়ান্ত ফলাফল বা উপসংহার)-এর সমার্থক শব্দ 'Result'। Beginning, Cause এবং Origin মানে শুরু বা কারণ।"
+  },
+  {
+    "id": 565,
+    "question": "Select the synonym of: USURY",
+    "options": ["Charity", "Donation", "Exploitation", "Gift"],
+    "answer": "Exploitation",
+    "explanation": "'Usury' (চড়া সুদে টাকা ধার দেওয়া বা শোষণ)-এর সমার্থক শব্দ 'Exploitation'। Charity, Donation এবং Gift মানে দান বা উপহার।"
+  },
+  {
+    "id": 566,
+    "question": "Find the synonym of the given word: UTTER",
+    "options": ["Partial", "Incomplete", "Limited", "Complete"],
+    "answer": "Complete",
+    "explanation": "'Utter' (সম্পূর্ণ বা চরম)-এর সমার্থক 'Complete'। Partial, Incomplete এবং Limited মানে আংশিক বা অসম্পূর্ণ।"
+  },
+  {
+    "id": 567,
+    "question": "Choose the correct synonym for: VAGABOND",
+    "options": ["Wanderer", "Resident", "Citizen", "Settler"],
+    "answer": "Wanderer",
+    "explanation": "'Vagabond' (ভবঘুরে বা যাযাবর)-এর সমার্থক 'Wanderer'। Resident, Citizen এবং Settler মানে স্থায়ী বাসিন্দা বা নাগরিক।"
+  },
+  {
+    "id": 568,
+    "question": "What is the synonym of 'VALEDICTORY'?",
+    "options": ["Welcome", "Farewell", "Greeting", "Opening"],
+    "answer": "Farewell",
+    "explanation": "'Valedictory' (বিদায়ী)-এর সমার্থক শব্দ 'Farewell'। Welcome, Greeting এবং Opening মানে স্বাগত জানানো বা শুরু।"
+  },
+  {
+    "id": 569,
+    "question": "Select the correct synonym for: VANGUARD",
+    "options": ["Rear", "Back", "Forefront", "Follower"],
+    "answer": "Forefront",
+    "explanation": "'Vanguard' (অগ্রগামী বা সম্মুখভাগ)-এর সমার্থক শব্দ 'Forefront'। Rear, Back এবং Follower মানে পিছনের দিক বা অনুগামী।"
+  },
+  {
+    "id": 570,
+    "question": "Find the synonym of the given word: VANTAGE",
+    "options": ["Disadvantage", "Drawback", "Harm", "Advantage"],
+    "answer": "Advantage",
+    "explanation": "'Vantage' (সুবিধা বা অনুকূল অবস্থা)-এর সমার্থক 'Advantage'। Disadvantage, Drawback এবং Harm মানে অসুবিধা বা ক্ষতি।"
+  },
+  {
+    "id": 571,
+    "question": "Choose the correct synonym for: VARIANCE",
+    "options": ["Discrepancy", "Agreement", "Harmony", "Similarity"],
+    "answer": "Discrepancy",
+    "explanation": "'Variance' (পার্থক্য বা অমিল)-এর সমার্থক 'Discrepancy'। Agreement, Harmony এবং Similarity মানে চুক্তি বা মিল।"
+  },
+  {
+    "id": 572,
+    "question": "What is the synonym of 'VEER'?",
+    "options": ["Straighten", "Swerve", "Maintain", "Stay"],
+    "answer": "Swerve",
+    "explanation": "'Veer' (হঠাৎ দিক পরিবর্তন করা)-এর সমার্থক শব্দ 'Swerve'। Straighten, Maintain এবং Stay মানে সোজা করা বা স্থির থাকা।"
+  },
+  {
+    "id": 573,
+    "question": "Select the synonym of: VENAL",
+    "options": ["Honest", "Pure", "Corrupt", "Honorable"],
+    "answer": "Corrupt",
+    "explanation": "'Venal' (দুর্নীতিপরায়ণ বা ঘুষখোর)-এর সমার্থক শব্দ 'Corrupt'। Honest, Pure এবং Honorable মানে সৎ বা সম্মানজনক।"
+  },
+  {
+    "id": 574,
+    "question": "Find the synonym of the given word: VENEER",
+    "options": ["Core", "Inside", "Reality", "Coating"],
+    "answer": "Coating",
+    "explanation": "'Veneer' (বাহ্যিক আবরণ বা প্রলেপ)-এর সমার্থক 'Coating'। Core, Inside এবং Reality মানে ভেতরের অংশ বা বাস্তবতা।"
+  },
+  {
+    "id": 575,
+    "question": "Choose the correct synonym for: VENERATION",
+    "options": ["Reverence", "Disrespect", "Contempt", "Scorn"],
+    "answer": "Reverence",
+    "explanation": "'Veneration' (গভীর শ্রদ্ধা বা ভক্তি)-এর সমার্থক 'Reverence'। Disrespect, Contempt এবং Scorn মানে অবজ্ঞা বা ঘৃণা।"
+  },
+  {
+    "id": 576,
+    "question": "What is the synonym of 'VERBATIM'?",
+    "options": ["Summarized", "Exactly", "Paraphrased", "Modified"],
+    "answer": "Exactly",
+    "explanation": "'Verbatim' (আক্ষরিক বা হুবহু)-এর সমার্থক শব্দ 'Exactly' বা Word-for-word। Summarized এবং Paraphrased মানে সংক্ষেপিত।"
+  },
+  {
+    "id": 577,
+    "question": "Select the correct synonym for: VERISIMILITUDE",
+    "options": ["Falsehood", "Fiction", "Authenticity", "Lie"],
+    "answer": "Authenticity",
+    "explanation": "'Verisimilitude' (সত্যের মতো মনে হওয়া বা সত্যতা)-এর সমার্থক শব্দ 'Authenticity'। Falsehood, Fiction এবং Lie মানে মিথ্যা বা কল্পনা।"
+  },
+  {
+    "id": 578,
+    "question": "Find the synonym of the given word: VERNACULAR",
+    "options": ["Formal", "Standard", "Official", "Colloquial"],
+    "answer": "Colloquial",
+    "explanation": "'Vernacular' (স্থানীয় ভাষা বা চলিত ভাষা)-এর সমার্থক 'Colloquial'। Formal, Standard এবং Official মানে আনুষ্ঠানিক বা মান্য ভাষা।"
+  },
+  {
+    "id": 579,
+    "question": "Choose the correct synonym for: VERTIGO",
+    "options": ["Dizziness", "Stability", "Balance", "Steadiness"],
+    "answer": "Dizziness",
+    "explanation": "'Vertigo' (মাথা ঘোরা বা ঘূর্ণিরোগ)-এর সমার্থক 'Dizziness'। Stability, Balance এবং Steadiness মানে স্থিতিশীলতা বা ভারসাম্য।"
+  },
+  {
+    "id": 580,
+    "question": "What is the synonym of 'VESTIGE'?",
+    "options": ["Whole", "Remnant", "Entirety", "Total"],
+    "answer": "Remnant",
+    "explanation": "'Vestige' (ধ্বংসাবশেষ বা অতীত চিহ্ন)-এর সমার্থক শব্দ 'Remnant'। Whole, Entirety এবং Total মানে সম্পূর্ণ অংশ।"
+  },
+  {
+    "id": 581,
+    "question": "Select the synonym of: VETO",
+    "options": ["Approve", "Allow", "Reject", "Sanction"],
+    "answer": "Reject",
+    "explanation": "'Veto' (নাকচ করা বা প্রত্যাখ্যান করা)-এর সমার্থক শব্দ 'Reject'। Approve, Allow এবং Sanction মানে অনুমোদন বা অনুমতি দেওয়া।"
+  },
+  {
+    "id": 582,
+    "question": "Find the synonym of the given word: VEXATION",
+    "options": ["Joy", "Pleasure", "Delight", "Annoyance"],
+    "answer": "Annoyance",
+    "explanation": "'Vexation' (বিরক্তি বা জ্বালাতন)-এর সমার্থক 'Annoyance'। Joy, Pleasure এবং Delight মানে আনন্দ বা তৃপ্তি।"
+  },
+  {
+    "id": 583,
+    "question": "Choose the correct synonym for: VICINITY",
+    "options": ["Neighborhood", "Distance", "Faraway", "Beyond"],
+    "answer": "Neighborhood",
+    "explanation": "'Vicinity' (আশেপাশের এলাকা বা সান্নিধ্য)-এর সমার্থক 'Neighborhood'। Distance, Faraway এবং Beyond মানে দূরত্ব বা বহুদূরে।"
+  },
+  {
+    "id": 584,
+    "question": "What is the synonym of 'VICIOUS'?",
+    "options": ["Gentle", "Cruel", "Kind", "Nice"],
+    "answer": "Cruel",
+    "explanation": "'Vicious' (নিষ্ঠুর বা ভয়ংকর)-এর সমার্থক শব্দ 'Cruel'। Gentle, Kind এবং Nice মানে নম্র, দয়ালু বা ভালো।"
+  },
+  {
+    "id": 585,
+    "question": "Select the correct synonym for: VICISSITUDE",
+    "options": ["Stability", "Constancy", "Fluctuation", "Predictability"],
+    "answer": "Fluctuation",
+    "explanation": "'Vicissitude' (ভাগ্যের উত্থান-পতন বা পরিবর্তন)-এর সমার্থক শব্দ 'Fluctuation'। Stability, Constancy এবং Predictability মানে স্থিতিশীলতা বা অপরিবর্তনীয় অবস্থা।"
+  },
+  {
+    "id": 586,
+    "question": "Find the synonym of the given word: VIGILANCE",
+    "options": ["Negligence", "Carelessness", "Inattention", "Watchfulness"],
+    "answer": "Watchfulness",
+    "explanation": "'Vigilance' (সতর্কতা বা প্রহরা)-এর সমার্থক 'Watchfulness'। Negligence, Carelessness এবং Inattention মানে অবহেলা বা অসতর্কতা।"
+  },
+  {
+    "id": 587,
+    "question": "Choose the correct synonym for: VIGNETTE",
+    "options": ["Sketch", "Novel", "Epic", "Tome"],
+    "answer": "Sketch",
+    "explanation": "'Vignette' (সংক্ষিপ্ত চিত্র বা বিবরণ)-এর সমার্থক 'Sketch'। Novel, Epic এবং Tome মানে উপন্যাস, মহাকাব্য বা বিশাল গ্রন্থ।"
+  },
+  {
+    "id": 588,
+    "question": "What is the synonym of 'VIGOR'?",
+    "options": ["Lethargy", "Energy", "Weakness", "Apathy"],
+    "answer": "Energy",
+    "explanation": "'Vigor' (তেজ বা জীবনীশক্তি)-এর সমার্থক শব্দ 'Energy'। Lethargy, Weakness এবং Apathy মানে অলসতা বা দুর্বলতা।"
+  },
+  {
+    "id": 589,
+    "question": "Select the synonym of: VILE",
+    "options": ["Good", "Pure", "Foul", "Noble"],
+    "answer": "Foul",
+    "explanation": "'Vile' (জঘন্য বা অত্যন্ত খারাপ)-এর সমার্থক শব্দ 'Foul'। Good, Pure এবং Noble মানে ভালো, খাঁটি বা মহৎ।"
+  },
+  {
+    "id": 590,
+    "question": "Find the synonym of the given word: VINTAGE",
+    "options": ["Modern", "New", "Current", "Classic"],
+    "answer": "Classic",
+    "explanation": "'Vintage' (পুরোনো অথচ উৎকৃষ্ট বা ধ্রুপদী)-এর সমার্থক 'Classic'। Modern, New এবং Current মানে আধুনিক বা বর্তমান।"
+  },
+  {
+    "id": 591,
+    "question": "Choose the correct synonym for: VISAGE",
+    "options": ["Face", "Back", "Body", "Limb"],
+    "answer": "Face",
+    "explanation": "'Visage' (চেহারা বা মুখমণ্ডল)-এর সমার্থক 'Face'। Back, Body এবং Limb মানে পিঠ, শরীর বা অঙ্গ।"
+  },
+  {
+    "id": 592,
+    "question": "What is the synonym of 'VITIATE'?",
+    "options": ["Purify", "Spoil", "Clean", "Improve"],
+    "answer": "Spoil",
+    "explanation": "'Vitiate' (দূষিত করা বা নষ্ট করা)-এর সমার্থক শব্দ 'Spoil'। Purify, Clean এবং Improve মানে বিশুদ্ধ করা বা উন্নতি করা।"
+  },
+  {
+    "id": 593,
+    "question": "Select the correct synonym for: VITUPERATE",
+    "options": ["Praise", "Commend", "Berate", "Extol"],
+    "answer": "Berate",
+    "explanation": "'Vituperate' (গালিগালাজ করা বা তীব্র নিন্দা করা)-এর সমার্থক শব্দ 'Berate'। Praise, Commend এবং Extol মানে উচ্চ প্রশংসা করা।"
+  },
+  {
+    "id": 594,
+    "question": "Find the synonym of the given word: VOGUE",
+    "options": ["Outdated", "Old-fashioned", "Obsolete", "Fashion"],
+    "answer": "Fashion",
+    "explanation": "'Vogue' (চল বা ফ্যাশন)-এর সমার্থক 'Fashion'। Outdated, Old-fashioned এবং Obsolete মানে সেকেলে বা অপ্রচলিত।"
+  },
+  {
+    "id": 595,
+    "question": "Choose the correct synonym for: VOLITION",
+    "options": ["Choice", "Force", "Coercion", "Compulsion"],
+    "answer": "Choice",
+    "explanation": "'Volition' (নিজস্ব ইচ্ছা বা পছন্দ)-এর সমার্থক 'Choice'। Force, Coercion এবং Compulsion মানে জোর খাটানো বা বাধ্য করা।"
+  },
+  {
+    "id": 596,
+    "question": "What is the synonym of 'WADDLE'?",
+    "options": ["Run", "Toddle", "Sprint", "Dash"],
+    "answer": "Toddle",
+    "explanation": "'Waddle' (হাঁসের মতো দুলতে দুলতে হাঁটা)-এর সমার্থক শব্দ 'Toddle'। Run, Sprint এবং Dash মানে দ্রুত দৌড়ানো।"
+  },
+  {
+    "id": 597,
+    "question": "Select the synonym of: WAFT",
+    "options": ["Sink", "Plunge", "Float", "Dive"],
+    "answer": "Float",
+    "explanation": "'Waft' (হাওয়ায় ভেসে আসা বা ভেসে চলা)-এর সমার্থক শব্দ 'Float'। Sink, Plunge এবং Dive মানে ডুবে যাওয়া বা ঝাঁপ দেওয়া।"
+  },
+  {
+    "id": 598,
+    "question": "Find the synonym of the given word: WAGGISH",
+    "options": ["Serious", "Grave", "Solemn", "Playful"],
+    "answer": "Playful",
+    "explanation": "'Waggish' (রসিক বা মজাদার)-এর সমার্থক 'Playful'। Serious, Grave এবং Solemn মানে গুরুগম্ভীর বা রাশভারী।"
+  },
+  {
+    "id": 599,
+    "question": "Choose the correct synonym for: WHET",
+    "options": ["Sharpen", "Dull", "Blunt", "Soften"],
+    "answer": "Sharpen",
+    "explanation": "'Whet' (শান দেওয়া বা তীক্ষ্ণ করা)-এর সমার্থক 'Sharpen'। Dull, Blunt এবং Soften মানে ভোঁতা করা বা নরম করা।"
+  },
+  {
+    "id": 600,
+    "question": "What is the synonym of 'WANDERLUST'?",
+    "options": ["Apathy", "Craving for travel", "Laziness", "Idleness"],
+    "answer": "Craving for travel",
+    "explanation": "'Wanderlust' (ভ্রমণের তীব্র আকাঙ্ক্ষা)-এর সমার্থক শব্দ 'Craving for travel'। Apathy, Laziness এবং Idleness মানে উদাসীনতা বা অলসতা।"
+  }
+]

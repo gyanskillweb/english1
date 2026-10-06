@@ -1,0 +1,3152 @@
+[
+  {
+    "id": 1,
+    "question": "The boss __ the meeting due to heavy rain.",
+    "options": ["called up", "called off", "called in", "called for"],
+    "answer": "called off",
+    "explanation": "'Call off' মানে বাতিল করা (cancel)। বৃষ্টির কারণে মিটিং বাতিল করা হয়েছে।"
+  },
+  {
+    "id": 2,
+    "question": "Please __ the light when you leave.",
+    "options": ["put off", "put on", "put up", "put out"],
+    "answer": "put out",
+    "explanation": "'Put out' মানে নেভানো (extinguish)। ঘর থেকে বের হওয়ার সময় আলো নেভানোর কথা বলা হয়েছে।"
+  },
+  {
+    "id": 3,
+    "question": "The police are __ the matter.",
+    "options": ["looking for", "looking after", "looking at", "looking into"],
+    "answer": "looking into",
+    "explanation": "'Look into' মানে তদন্ত করা (investigate)। পুলিশ বিষয়টি তদন্ত করছে।"
+  },
+  {
+    "id": 4,
+    "question": "He cannot __ such an insult.",
+    "options": ["put down", "put off", "put out", "put up with"],
+    "answer": "put up with",
+    "explanation": "'Put up with' মানে সহ্য করা (tolerate)। সে এমন অপমান সহ্য করতে পারে না।"
+  },
+  {
+    "id": 5,
+    "question": "The girl __ her mother.",
+    "options": ["takes after", "takes to", "takes down", "takes off"],
+    "answer": "takes after",
+    "explanation": "'Take after' মানে সদৃশ হওয়া বা একই রকম দেখতে হওয়া (resemble)। মেয়েটি তার মায়ের মতো দেখতে।"
+  },
+  {
+    "id": 6,
+    "question": "Cholera has __ in the village.",
+    "options": ["broken down", "broken out", "broken into", "broken up"],
+    "answer": "broken out",
+    "explanation": "'Break out' মানে প্রাদুর্ভাব হওয়া বা হঠাৎ ছড়িয়ে পড়া (spread suddenly)। গ্রামে কলেরার প্রাদুর্ভাব হয়েছে।"
+  },
+  {
+    "id": 7,
+    "question": "He __ his bad habit of smoking.",
+    "options": ["gave in", "gave away", "gave up", "gave out"],
+    "answer": "gave up",
+    "explanation": "'Give up' মানে ত্যাগ করা (abandon)। সে তার ধূমপানের খারাপ অভ্যাস ত্যাগ করেছে।"
+  },
+  {
+    "id": 8,
+    "question": "The old man could not __ past events.",
+    "options": ["call off", "call up", "call in", "call for"],
+    "answer": "call up",
+    "explanation": "'Call up' মানে স্মরণ করা (remember)। বৃদ্ধ লোকটি অতীতের ঘটনা মনে করতে পারছিলেন না।"
+  },
+  {
+    "id": 9,
+    "question": "The publication company will __ a new book soon.",
+    "options": ["bring up", "bring out", "bring about", "bring down"],
+    "answer": "bring out",
+    "explanation": "'Bring out' মানে প্রকাশ করা (publish)। প্রকাশনা সংস্থাটি শীঘ্রই একটি নতুন বই প্রকাশ করবে।"
+  },
+  {
+    "id": 10,
+    "question": "We should not __ the poor.",
+    "options": ["look down upon", "look up to", "look after", "look into"],
+    "answer": "look down upon",
+    "explanation": "'Look down upon' মানে ঘৃণা করা বা অবজ্ঞার চোখে দেখা (despise/hate)। আমাদের গরিবদের অবজ্ঞা করা উচিত নয়।"
+  },
+  {
+    "id": 11,
+    "question": "The rebels were forced to __.",
+    "options": ["give up", "give away", "give out", "give in"],
+    "answer": "give in",
+    "explanation": "'Give in' মানে বশ্যতা স্বীকার করা (surrender)। বিদ্রোহীরা বশ্যতা স্বীকার করতে বাধ্য হয়েছিল।"
+  },
+  {
+    "id": 12,
+    "question": "He could not __ what the teacher was saying.",
+    "options": ["make up", "make out", "make off", "make for"],
+    "answer": "make out",
+    "explanation": "'Make out' মানে বুঝতে পারা (understand)। শিক্ষক কী বলছিলেন তা সে বুঝতে পারেনি।"
+  },
+  {
+    "id": 13,
+    "question": "The chief guest __ the prizes.",
+    "options": ["gave away", "gave in", "gave up", "gave over"],
+    "answer": "gave away",
+    "explanation": "'Give away' মানে বিতরণ করা (distribute)। প্রধান অতিথি পুরস্কার বিতরণ করলেন।"
+  },
+  {
+    "id": 14,
+    "question": "I __ my old friend in the market.",
+    "options": ["came by", "came of", "came round", "came across"],
+    "answer": "came across",
+    "explanation": "'Come across' মানে হঠাৎ দেখা পাওয়া (meet by chance)। বাজারে আমার পুরনো বন্ধুর সাথে হঠাৎ দেখা হলো।"
+  },
+  {
+    "id": 15,
+    "question": "The patient will __ soon.",
+    "options": ["come about", "come off", "come across", "come round"],
+    "answer": "come round",
+    "explanation": "'Come round' মানে আরোগ্য লাভ করা (recover)। রোগীটি শীঘ্রই সুস্থ হয়ে উঠবে।"
+  },
+  {
+    "id": 16,
+    "question": "The thief __ the house at night.",
+    "options": ["broke down", "broke out", "broke into", "broke up"],
+    "answer": "broke into",
+    "explanation": "'Break into' মানে জোরপূর্বক প্রবেশ করা (enter by force)। চোরটি রাতে জোর করে বাড়িতে ঢুকেছিল।"
+  },
+  {
+    "id": 17,
+    "question": "He was __ by his aunt.",
+    "options": ["brought out", "brought down", "brought up", "brought about"],
+    "answer": "brought up",
+    "explanation": "'Bring up' মানে লালন-পালন করা (rear/raise)। সে তার কাকিমার দ্বারা লালিত-পালিত হয়েছিল।"
+  },
+  {
+    "id": 18,
+    "question": "Our school __ at 4 p.m.",
+    "options": ["breaks up", "breaks down", "breaks out", "breaks into"],
+    "answer": "breaks up",
+    "explanation": "'Break up' মানে ছুটি হওয়া বা শেষ হওয়া (close/end)। আমাদের স্কুল বিকেল ৪টায় ছুটি হয়।"
+  },
+  {
+    "id": 19,
+    "question": "The rainy season has __.",
+    "options": ["set out", "set up", "set off", "set in"],
+    "answer": "set in",
+    "explanation": "'Set in' মানে শুরু হওয়া (begin), সাধারণত ঋতু বা আবহাওয়ার ক্ষেত্রে ব্যবহৃত হয়। বর্ষাকাল শুরু হয়েছে।"
+  },
+  {
+    "id": 20,
+    "question": "They __ for Delhi early in the morning.",
+    "options": ["set out", "set up", "set in", "set on"],
+    "answer": "set out",
+    "explanation": "'Set out' বা 'Set off' মানে যাত্রা শুরু করা (start a journey)। তারা সকালে দিল্লির উদ্দেশ্যে যাত্রা শুরু করল।"
+  },
+  {
+    "id": 21,
+    "question": "A committee was __ to investigate the matter.",
+    "options": ["set out", "set in", "set off", "set up"],
+    "answer": "set up",
+    "explanation": "'Set up' মানে স্থাপন করা বা গঠন করা (establish)। বিষয়টি তদন্ত করার জন্য একটি কমিটি গঠন করা হয়েছিল।"
+  },
+  {
+    "id": 22,
+    "question": "I cannot __ what you say.",
+    "options": ["bear out", "bear away", "bear with", "bear down"],
+    "answer": "bear with",
+    "explanation": "'Bear with' মানে সহ্য করা (tolerate/put up with)। তুমি যা বলছ তা আমি সহ্য করতে পারছি না।"
+  },
+  {
+    "id": 23,
+    "question": "His evidence does not __ the charge.",
+    "options": ["bear away", "bear out", "bear with", "bear down"],
+    "answer": "bear out",
+    "explanation": "'Bear out' মানে সমর্থন করা বা প্রমাণ করা (corroborate/support)। তার প্রমাণ অভিযোগটিকে সমর্থন করে না।"
+  },
+  {
+    "id": 24,
+    "question": "The student __ the first prize.",
+    "options": ["bore away", "bore out", "bore with", "bore up"],
+    "answer": "bore away",
+    "explanation": "'Bear away' বা 'Bear off' মানে জয়লাভ করা (win)। ছাত্রটি প্রথম পুরস্কার জিতেছিল।"
+  },
+  {
+    "id": 25,
+    "question": "You must __ my instructions.",
+    "options": ["carry on", "carry out", "carry away", "carry off"],
+    "answer": "carry out",
+    "explanation": "'Carry out' মানে পালন করা (execute/obey)। তোমাকে অবশ্যই আমার নির্দেশ পালন করতে হবে।"
+  },
+  {
+    "id": 26,
+    "question": "Please __ your work.",
+    "options": ["carry out", "carry away", "carry on", "carry off"],
+    "answer": "carry on",
+    "explanation": "'Carry on' মানে চালিয়ে যাওয়া (continue)। দয়া করে তোমার কাজ চালিয়ে যাও।"
+  },
+  {
+    "id": 27,
+    "question": "His proposal was __ by the committee.",
+    "options": ["turned down", "turned out", "turned up", "turned off"],
+    "answer": "turned down",
+    "explanation": "'Turn down' মানে প্রত্যাখ্যান করা (reject)। তার প্রস্তাবটি কমিটি কর্তৃক প্রত্যাখ্যাত হয়েছিল।"
+  },
+  {
+    "id": 28,
+    "question": "He did not __ at the meeting.",
+    "options": ["turn up", "turn out", "turn down", "turn off"],
+    "answer": "turn up",
+    "explanation": "'Turn up' মানে উপস্থিত হওয়া (arrive/appear)। সে মিটিংয়ে উপস্থিত হয়নি।"
+  },
+  {
+    "id": 29,
+    "question": "The document __ to be forged.",
+    "options": ["turned up", "turned down", "turned out", "turned off"],
+    "answer": "turned out",
+    "explanation": "'Turn out' মানে প্রমাণিত হওয়া (prove to be)। নথিটি জাল বলে প্রমাণিত হয়েছিল।"
+  },
+  {
+    "id": 30,
+    "question": "Let us not __ over trifles.",
+    "options": ["fall through", "fall back", "fall out", "fall flat"],
+    "answer": "fall out",
+    "explanation": "'Fall out' মানে ঝগড়া করা (quarrel)। তুচ্ছ বিষয় নিয়ে আমাদের ঝগড়া করা উচিত নয়।"
+  },
+  {
+    "id": 31,
+    "question": "The plan __ for want of funds.",
+    "options": ["fell out", "fell back", "fell through", "fell upon"],
+    "answer": "fell through",
+    "explanation": "'Fall through' মানে ব্যর্থ হওয়া (fail)। অর্থের অভাবে পরিকল্পনাটি ব্যর্থ হয়েছিল।"
+  },
+  {
+    "id": 32,
+    "question": "The dictionary is used to __ the meaning of words.",
+    "options": ["look up", "look into", "look for", "look after"],
+    "answer": "look up",
+    "explanation": "'Look up' মানে বই বা ডিকশনারিতে শব্দ বা তথ্য খোঁজা। শব্দের অর্থ খুঁজতে ডিকশনারি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 33,
+    "question": "The prices of essential commodities have __.",
+    "options": ["gone up", "gone down", "gone off", "gone through"],
+    "answer": "gone up",
+    "explanation": "'Go up' মানে বৃদ্ধি পাওয়া (increase)। নিত্যপ্রয়োজনীয় জিনিসপত্রের দাম বেড়েছে।"
+  },
+  {
+    "id": 34,
+    "question": "He is __ a good job.",
+    "options": ["looking for", "looking after", "looking into", "looking up"],
+    "answer": "looking for",
+    "explanation": "'Look for' মানে খোঁজা (search)। সে একটি ভালো চাকরি খুঁজছে।"
+  },
+  {
+    "id": 35,
+    "question": "The match was __ due to rain.",
+    "options": ["put out", "put off", "put up", "put down"],
+    "answer": "put off",
+    "explanation": "'Put off' মানে স্থগিত রাখা (postpone)। বৃষ্টির কারণে ম্যাচটি স্থগিত করা হয়েছিল।"
+  },
+  {
+    "id": 36,
+    "question": "Please __ your shoes before entering the room.",
+    "options": ["take down", "take off", "take up", "take out"],
+    "answer": "take off",
+    "explanation": "'Take off' মানে খুলে ফেলা (remove)। ঘরে ঢোকার আগে দয়া করে জুতো খুলে ফেলুন।"
+  },
+  {
+    "id": 37,
+    "question": "The plane will __ at 10 a.m.",
+    "options": ["take out", "take up", "take over", "take off"],
+    "answer": "take off",
+    "explanation": "'Take off' মানে মাটি থেকে ওড়া বা উড্ডয়ন করা (leave the ground)। বিমানটি সকাল ১০টায় উড়বে।"
+  },
+  {
+    "id": 38,
+    "question": "Please __ the notes carefully.",
+    "options": ["take off", "take up", "take down", "take after"],
+    "answer": "take down",
+    "explanation": "'Take down' মানে লিখে রাখা (write down)। দয়া করে নোটগুলো মনোযোগ সহকারে লিখে রাখুন।"
+  },
+  {
+    "id": 39,
+    "question": "A new manager will __ the company next week.",
+    "options": ["take up", "take off", "take out", "take over"],
+    "answer": "take over",
+    "explanation": "'Take over' মানে দায়িত্ব গ্রহণ করা (assume charge)। নতুন ম্যানেজার আগামী সপ্তাহে কোম্পানির দায়িত্ব নেবেন।"
+  },
+  {
+    "id": 40,
+    "question": "The girl __ suddenly in the middle of her speech.",
+    "options": ["broke out", "broke down", "broke into", "broke up"],
+    "answer": "broke down",
+    "explanation": "'Break down' মানে কান্নায় ভেঙে পড়া বা আবেগ ধরে রাখতে না পারা (lose control of emotions)। মেয়েটি তার বক্তৃতার মাঝখানে হঠাৎ কান্নায় ভেঙে পড়ল।"
+  },
+  {
+    "id": 41,
+    "question": "What __ this sudden change in him?",
+    "options": ["brought out", "brought about", "brought up", "brought down"],
+    "answer": "brought about",
+    "explanation": "'Bring about' মানে ঘটানো (cause to happen)। তার মধ্যে এই হঠাৎ পরিবর্তনটি কী কারণে ঘটল?"
+  },
+  {
+    "id": 42,
+    "question": "The government is trying to __ prices.",
+    "options": ["bring up", "bring out", "bring down", "bring about"],
+    "answer": "bring down",
+    "explanation": "'Bring down' মানে কমানো বা হ্রাস করা (reduce)। সরকার দাম কমানোর চেষ্টা করছে।"
+  },
+  {
+    "id": 43,
+    "question": "Please __ a doctor immediately.",
+    "options": ["call for", "call up", "call in", "call off"],
+    "answer": "call in",
+    "explanation": "'Call in' মানে ডেকে পাঠানো (summon/send for)। দয়া করে অবিলম্বে একজন ডাক্তারকে ডেকে পাঠান।"
+  },
+  {
+    "id": 44,
+    "question": "The situation __ strict action.",
+    "options": ["calls for", "calls in", "calls up", "calls off"],
+    "answer": "calls for",
+    "explanation": "'Call for' মানে দাবি করা বা প্রয়োজন হওয়া (demand/require)। পরিস্থিতি কঠোর ব্যবস্থা নেওয়ার দাবি রাখে।"
+  },
+  {
+    "id": 45,
+    "question": "He comes __ a noble family.",
+    "options": ["off", "from", "of", "by"],
+    "answer": "of",
+    "explanation": "'Come of' মানে জন্মগ্রহণ করা (born of)। সে একটি সম্ভ্রান্ত পরিবারে জন্মগ্রহণ করেছে।"
+  },
+  {
+    "id": 46,
+    "question": "How did this accident __?",
+    "options": ["come off", "come across", "come by", "come about"],
+    "answer": "come about",
+    "explanation": "'Come about' মানে ঘটা (happen)। এই দুর্ঘটনাটি কীভাবে ঘটল?"
+  },
+  {
+    "id": 47,
+    "question": "Good jobs are hard to __ nowadays.",
+    "options": ["come about", "come by", "come off", "come across"],
+    "answer": "come by",
+    "explanation": "'Come by' মানে পাওয়া (get/obtain)। আজকাল ভালো চাকরি পাওয়া কঠিন।"
+  },
+  {
+    "id": 48,
+    "question": "The marriage will _____ next month.",
+    "options": ["come about", "come off", "come round", "come by"],
+    "answer": "come off",
+    "explanation": "'Come off' মানে অনুষ্ঠিত হওয়া (take place)। আগামী মাসে বিয়েটি অনুষ্ঠিত হবে।"
+  },
+  {
+    "id": 49,
+    "question": "The thief __ with the stolen goods.",
+    "options": ["made out", "made up", "made for", "made off"],
+    "answer": "made off",
+    "explanation": "'Make off' মানে পালিয়ে যাওয়া (escape/run away)। চোরটি চুরি করা জিনিসপত্র নিয়ে পালিয়ে গেল।"
+  },
+  {
+    "id": 50,
+    "question": "You must __ for the loss.",
+    "options": ["make up", "make out", "make off", "make over"],
+    "answer": "make up",
+    "explanation": "'Make up' মানে ক্ষতিপূরণ দেওয়া (compensate)। তোমাকে অবশ্যই ক্ষতির জন্য ক্ষতিপূরণ দিতে হবে।"
+  },
+  {
+    "id": 51,
+    "question": "The thief managed to __ with the stolen goods.",
+    "options": ["get away", "get over", "get on", "get through"],
+    "answer": "get away",
+    "explanation": "'Get away' মানে পালিয়ে যাওয়া (escape)। চোরটি চুরি করা জিনিসপত্র নিয়ে পালাতে সক্ষম হয়েছিল।"
+  },
+  {
+    "id": 52,
+    "question": "He will soon __ his illness.",
+    "options": ["get away", "get over", "get on", "get up"],
+    "answer": "get over",
+    "explanation": "'Get over' মানে আরোগ্য লাভ করা বা কাটিয়ে ওঠা (recover/overcome)। সে শীঘ্রই তার অসুস্থতা কাটিয়ে উঠবে।"
+  },
+  {
+    "id": 53,
+    "question": "How are you __ with your studies?",
+    "options": ["getting over", "getting at", "getting on", "getting by"],
+    "answer": "getting on",
+    "explanation": "'Get on' মানে উন্নতি করা বা এগিয়ে যাওয়া (progress)। তোমার পড়াশোনা কেমন চলছে?"
+  },
+  {
+    "id": 54,
+    "question": "She worked hard to __ the examination.",
+    "options": ["get out", "get in", "get away", "get through"],
+    "answer": "get through",
+    "explanation": "'Get through' মানে পরীক্ষায় পাস করা বা সফল হওয়া (pass/succeed)। পরীক্ষায় পাস করার জন্য সে কঠোর পরিশ্রম করেছিল।"
+  },
+  {
+    "id": 55,
+    "question": "He tried to __ the truth from the police.",
+    "options": ["hold back", "hold on", "hold up", "hold out"],
+    "answer": "hold back",
+    "explanation": "'Hold back' মানে গোপন করা (conceal)। সে পুলিশের কাছ থেকে সত্য গোপন করার চেষ্টা করেছিল।"
+  },
+  {
+    "id": 56,
+    "question": "Please __ for a minute while I check my diary.",
+    "options": ["hold up", "hold on", "hold out", "hold back"],
+    "answer": "hold on",
+    "explanation": "'Hold on' মানে অপেক্ষা করা (wait)। ডায়েরি চেক করা পর্যন্ত দয়া করে একটু অপেক্ষা করুন।"
+  },
+  {
+    "id": 57,
+    "question": "The traffic was __ by a terrible accident.",
+    "options": ["held on", "held back", "held up", "held out"],
+    "answer": "held up",
+    "explanation": "'Hold up' মানে দেরি করানো বা বাধা দেওয়া (delay/stop)। একটি মারাত্মক দুর্ঘটনার কারণে যানজট সৃষ্টি হয়েছিল।"
+  },
+  {
+    "id": 58,
+    "question": "He __ walking despite the heavy rain.",
+    "options": ["kept up", "kept away", "kept back", "kept on"],
+    "answer": "kept on",
+    "explanation": "'Keep on' মানে চালিয়ে যাওয়া (continue)। প্রবল বৃষ্টি সত্ত্বেও সে হাঁটা চালিয়ে গেল।"
+  },
+  {
+    "id": 59,
+    "question": "They are trying hard to __ their family reputation.",
+    "options": ["keep up", "keep on", "keep away", "keep off"],
+    "answer": "keep up",
+    "explanation": "'Keep up' মানে বজায় রাখা (maintain)। তারা তাদের পরিবারের সুনাম বজায় রাখতে কঠোর চেষ্টা করছে।"
+  },
+  {
+    "id": 60,
+    "question": "You should __ from bad company.",
+    "options": ["keep on", "keep away", "keep up", "keep out"],
+    "answer": "keep away",
+    "explanation": "'Keep away' মানে দূরে থাকা (stay away)। তোমার খারাপ সঙ্গ থেকে দূরে থাকা উচিত।"
+  },
+  {
+    "id": 61,
+    "question": "A wise man always __ some money for the future.",
+    "options": ["lays out", "lays down", "lays by", "lays off"],
+    "answer": "lays by",
+    "explanation": "'Lay by' বা 'Lay aside' মানে ভবিষ্যতের জন্য সঞ্চয় করা (save for future)। একজন জ্ঞানী মানুষ সর্বদা ভবিষ্যতের জন্য কিছু টাকা সঞ্চয় করেন।"
+  },
+  {
+    "id": 62,
+    "question": "The soldiers __ their arms.",
+    "options": ["laid by", "laid off", "laid out", "laid down"],
+    "answer": "laid down",
+    "explanation": "'Lay down' মানে আত্মসমর্পণ করা বা অস্ত্র সমর্পণ করা (surrender)। সৈন্যরা তাদের অস্ত্র সমর্পণ করেছিল।"
+  },
+  {
+    "id": 63,
+    "question": "I trusted him, but he __ me __.",
+    "options": ["let ... down", "let ... off", "let ... out", "let ... in"],
+    "answer": "let ... down",
+    "explanation": "'Let down' মানে হতাশ করা (disappoint)। আমি তাকে বিশ্বাস করেছিলাম, কিন্তু সে আমাকে হতাশ করেছে।"
+  },
+  {
+    "id": 64,
+    "question": "The judge __ him __ with a warning.",
+    "options": ["let ... down", "let ... off", "let ... out", "let ... in"],
+    "answer": "let ... off",
+    "explanation": "'Let off' মানে শাস্তি থেকে রেহাই দেওয়া (excuse/pardon)। বিচারক তাকে সতর্ক করে ছেড়ে দিয়েছেন।"
+  },
+  {
+    "id": 65,
+    "question": "His grandfather __ last night.",
+    "options": ["passed out", "passed by", "passed away", "passed on"],
+    "answer": "passed away",
+    "explanation": "'Pass away' মানে মারা যাওয়া (die)। তার ঠাকুরদা গত রাতে মারা গেছেন।"
+  },
+  {
+    "id": 66,
+    "question": "Seeing the blood, the girl __.",
+    "options": ["passed away", "passed by", "passed off", "passed out"],
+    "answer": "passed out",
+    "explanation": "'Pass out' মানে অজ্ঞান হয়ে যাওয়া (faint)। রক্ত দেখে মেয়েটি অজ্ঞান হয়ে গেল।"
+  },
+  {
+    "id": 67,
+    "question": "The old building will be __ soon.",
+    "options": ["pulled down", "pulled up", "pulled through", "pulled out"],
+    "answer": "pulled down",
+    "explanation": "'Pull down' মানে ভেঙে ফেলা (demolish)। পুরনো ভবনটি শীঘ্রই ভেঙে ফেলা হবে।"
+  },
+  {
+    "id": 68,
+    "question": "The patient is serious, but he will __.",
+    "options": ["pull down", "pull through", "pull up", "pull over"],
+    "answer": "pull through",
+    "explanation": "'Pull through' মানে গুরুতর অসুস্থতা থেকে সেরে ওঠা (recover)। রোগীটির অবস্থা আশঙ্কাজনক হলেও সে সেরে উঠবে।"
+  },
+  {
+    "id": 69,
+    "question": "He has __ a good sum of money for his old age.",
+    "options": ["put down", "put on", "put by", "put up"],
+    "answer": "put by",
+    "explanation": "'Put by' বা 'Put aside' মানে সঞ্চয় করা (save)। সে তার বার্ধক্যের জন্য বেশ কিছু টাকা সঞ্চয় করেছে।"
+  },
+  {
+    "id": 70,
+    "question": "The plan was __ by the committee.",
+    "options": ["put off", "put out", "put up with", "put forward"],
+    "answer": "put forward",
+    "explanation": "'Put forward' মানে প্রস্তাব পেশ করা (propose)। কমিটির দ্বারা পরিকল্পনাটি পেশ করা হয়েছিল।"
+  },
+  {
+    "id": 71,
+    "question": "Where do you __ in this city?",
+    "options": ["put up", "put on", "put off", "put down"],
+    "answer": "put up",
+    "explanation": "'Put up' মানে কোথাও থাকা বা অবস্থান করা (stay)। এই শহরে তুমি কোথায় থাকো?"
+  },
+  {
+    "id": 72,
+    "question": "The dog is __ the cat.",
+    "options": ["running down", "running after", "running over", "running out"],
+    "answer": "running after",
+    "explanation": "'Run after' মানে তাড়া করা (chase)। কুকুরটি বিড়ালটিকে তাড়া করছে।"
+  },
+  {
+    "id": 73,
+    "question": "He has been __ by hard work.",
+    "options": ["run out", "run over", "run down", "run into"],
+    "answer": "run down",
+    "explanation": "'Run down' মানে দুর্বল হয়ে পড়া (become weak/exhausted)। কঠোর পরিশ্রমের ফলে সে দুর্বল হয়ে পড়েছে।"
+  },
+  {
+    "id": 74,
+    "question": "We have __ of our provisions.",
+    "options": ["run down", "run over", "run into", "run out"],
+    "answer": "run out",
+    "explanation": "'Run out' মানে ফুরিয়ে যাওয়া বা নিঃশেষ হওয়া (exhausted)। আমাদের রসদ ফুরিয়ে গেছে।"
+  },
+  {
+    "id": 75,
+    "question": "The child was __ by a speeding car.",
+    "options": ["run over", "run down", "run into", "run out"],
+    "answer": "run over",
+    "explanation": "'Run over' মানে গাড়ি চাপা পড়া (crushed under a vehicle)। শিশুটি একটি দ্রুতগামী গাড়ির নিচে চাপা পড়েছিল।"
+  },
+  {
+    "id": 76,
+    "question": "I went to the station to __ my friend __.",
+    "options": ["see ... through", "see ... off", "see ... out", "see ... to"],
+    "answer": "see ... off",
+    "explanation": "'See off' মানে বিদায় জানানো (bid farewell)। আমি আমার বন্ধুকে বিদায় জানাতে স্টেশনে গিয়েছিলাম।"
+  },
+  {
+    "id": 77,
+    "question": "I can easily __ your trick.",
+    "options": ["see off", "see to", "see through", "see out"],
+    "answer": "see through",
+    "explanation": "'See through' মানে উদ্দেশ্য বা ছলনা বুঝতে পারা (understand the trick)। আমি সহজেই তোমার ছলনা বুঝতে পারি।"
+  },
+  {
+    "id": 78,
+    "question": "A true friend will always __ you in times of need.",
+    "options": ["stand for", "stand out", "stand up", "stand by"],
+    "answer": "stand by",
+    "explanation": "'Stand by' মানে পাশে থাকা বা সমর্থন করা (support/help)। একজন সত্যিকারের বন্ধু বিপদের সময় সবসময় তোমার পাশে থাকবে।"
+  },
+  {
+    "id": 79,
+    "question": "What does MP __?",
+    "options": ["stand for", "stand by", "stand out", "stand up"],
+    "answer": "stand for",
+    "explanation": "'Stand for' মানে প্রতিনিধিত্ব করা বা অর্থ বোঝানো (represent/mean)। MP বলতে কী বোঝায়?"
+  },
+  {
+    "id": 80,
+    "question": "Her beauty makes her __ in the crowd.",
+    "options": ["stand by", "stand out", "stand for", "stand up"],
+    "answer": "stand out",
+    "explanation": "'Stand out' মানে অন্যদের থেকে আলাদা বা বিশিষ্ট হওয়া (be prominent)। তার সৌন্দর্য তাকে ভিড়ের মধ্যে আলাদা করে তোলে।"
+  },
+  {
+    "id": 81,
+    "question": "His own friends __ him.",
+    "options": ["turned out", "turned down", "turned against", "turned away"],
+    "answer": "turned against",
+    "explanation": "'Turn against' মানে শত্রুভাবাপন্ন হওয়া (become hostile)। তার নিজের বন্ধুরাই তার বিরুদ্ধে চলে গেছে।"
+  },
+  {
+    "id": 82,
+    "question": "Please __ the tap.",
+    "options": ["turn up", "turn off", "turn out", "turn on"],
+    "answer": "turn on",
+    "explanation": "'Turn on' মানে চালু করা (start the flow/switch on)। দয়া করে জলের কলটা চালু করো।"
+  },
+  {
+    "id": 83,
+    "question": "I cannot __ this math problem.",
+    "options": ["work out", "work on", "work up", "work upon"],
+    "answer": "work out",
+    "explanation": "'Work out' মানে সমাধান করা (solve)। আমি এই অংকের সমস্যাটি সমাধান করতে পারছি না।"
+  },
+  {
+    "id": 84,
+    "question": "The speech __ the minds of the audience.",
+    "options": ["worked out", "worked upon", "worked up", "worked in"],
+    "answer": "worked upon",
+    "explanation": "'Work upon' মানে প্রভাবিত করা (influence)। বক্তৃতাটি দর্শকদের মনকে প্রভাবিত করেছিল।"
+  },
+  {
+    "id": 85,
+    "question": "He __ of his promise at the last moment.",
+    "options": ["backed up", "backed down", "backed out", "backed off"],
+    "answer": "backed out",
+    "explanation": "'Back out' মানে প্রতিশ্রুতি ভঙ্গ করা বা পিছিয়ে আসা (withdraw from promise)। সে শেষ মুহূর্তে তার কথা থেকে পিছিয়ে গেল।"
+  },
+  {
+    "id": 86,
+    "question": "I will __ you __ in your plan.",
+    "options": ["back ... out", "back ... down", "back ... off", "back ... up"],
+    "answer": "back ... up",
+    "explanation": "'Back up' মানে সমর্থন বা সাহায্য করা (support)। আমি তোমার পরিকল্পনায় তোমাকে সমর্থন করব।"
+  },
+  {
+    "id": 87,
+    "question": "The candle was __ by the wind.",
+    "options": ["blown out", "blown up", "blown away", "blown off"],
+    "answer": "blown out",
+    "explanation": "'Blow out' মানে ফুঁ দিয়ে নেভানো বা বাতাসে নিভে যাওয়া (extinguish)। বাতাসে মোমবাতিটি নিভে গেল।"
+  },
+  {
+    "id": 88,
+    "question": "The bridge was __ by the terrorists.",
+    "options": ["blown out", "blown up", "blown away", "blown off"],
+    "answer": "blown up",
+    "explanation": "'Blow up' মানে বিস্ফোরণে উড়িয়ে দেওয়া (destroy by explosion)। সন্ত্রাসীরা সেতুটি উড়িয়ে দিয়েছিল।"
+  },
+  {
+    "id": 89,
+    "question": "You must __ your daily expenses.",
+    "options": ["cut off", "cut out", "cut down", "cut up"],
+    "answer": "cut down",
+    "explanation": "'Cut down' মানে কমানো বা হ্রাস করা (reduce/curtail)। তোমাকে অবশ্যই দৈনন্দিন খরচ কমাতে হবে।"
+  },
+  {
+    "id": 90,
+    "question": "The village is __ from the rest of the country.",
+    "options": ["cut down", "cut out", "cut up", "cut off"],
+    "answer": "cut off",
+    "explanation": "'Cut off' মানে বিচ্ছিন্ন করা (isolate/disconnect)। গ্রামটি দেশের বাকি অংশ থেকে বিচ্ছিন্ন।"
+  },
+  {
+    "id": 91,
+    "question": "He is not __ for this job.",
+    "options": ["cut out", "cut down", "cut off", "cut up"],
+    "answer": "cut out",
+    "explanation": "'Cut out for' মানে উপযুক্ত হওয়া (suitable for)। সে এই চাকরির জন্য উপযুক্ত নয়।"
+  },
+  {
+    "id": 92,
+    "question": "My uncle __ in rice.",
+    "options": ["deals with", "deals in", "deals out", "deals by"],
+    "answer": "deals in",
+    "explanation": "'Deal in' মানে ব্যবসা করা (trade in)। আমার কাকা চালের ব্যবসা করেন।"
+  },
+  {
+    "id": 93,
+    "question": "He does not know how to __ with customers.",
+    "options": ["deal in", "deal out", "deal with", "deal by"],
+    "answer": "deal with",
+    "explanation": "'Deal with' মানে ব্যবহার বা আচরণ করা, বা সামলানো (behave/handle)। সে জানে না কীভাবে গ্রাহকদের সাথে আচরণ করতে হয়।"
+  },
+  {
+    "id": 94,
+    "question": "You can __ your savings in old age.",
+    "options": ["fall behind", "fall out", "fall through", "fall back on"],
+    "answer": "fall back on",
+    "explanation": "'Fall back on' মানে শেষ উপায় হিসেবে নির্ভর করা (depend on as last resort)। বার্ধক্যে তুমি তোমার সঞ্চয়ের ওপর নির্ভর করতে পারো।"
+  },
+  {
+    "id": 95,
+    "question": "He is __ in his studies due to illness.",
+    "options": ["falling behind", "falling back", "falling out", "falling through"],
+    "answer": "falling behind",
+    "explanation": "'Fall behind' মানে পিছিয়ে পড়া (lag behind)। অসুস্থতার কারণে সে পড়াশোনায় পিছিয়ে পড়ছে।"
+  },
+  {
+    "id": 96,
+    "question": "I could not __ what he wanted to say.",
+    "options": ["get on", "get at", "get over", "get by"],
+    "answer": "get at",
+    "explanation": "'Get at' মানে পৌঁছানো বা বুঝতে পারা (understand/reach)। সে কী বলতে চেয়েছিল তা আমি বুঝতে পারিনি।"
+  },
+  {
+    "id": 97,
+    "question": "You must __ the instructions carefully.",
+    "options": ["go on", "go off", "go through", "go down"],
+    "answer": "go through",
+    "explanation": "'Go through' মানে পুঙ্খানুপুঙ্খভাবে পড়া (read carefully)। তোমাকে অবশ্যই নির্দেশিকাগুলো মনোযোগ দিয়ে পড়তে হবে।"
+  },
+  {
+    "id": 98,
+    "question": "The meeting will __ till 5 p.m.",
+    "options": ["go through", "go off", "go down", "go on"],
+    "answer": "go on",
+    "explanation": "'Go on' মানে চলতে থাকা (continue)। মিটিংটি বিকেল ৫টা পর্যন্ত চলবে।"
+  },
+  {
+    "id": 99,
+    "question": "We are __ to your visit.",
+    "options": ["looking forward", "looking into", "looking up", "looking out"],
+    "answer": "looking forward",
+    "explanation": "'Look forward to' মানে আনন্দ বা আগ্রহের সাথে অপেক্ষা করা (expect with pleasure)। আমরা আপনার আগমনের জন্য আগ্রহের সাথে অপেক্ষা করছি।"
+  },
+  {
+    "id": 100,
+    "question": "She always __ excuses for being late.",
+    "options": ["makes out", "makes up", "makes off", "makes for"],
+    "answer": "makes up",
+    "explanation": "'Make up' মানে গল্প বা অজুহাত বানানো (invent/fabricate)। সে সবসময় দেরিতে আসার জন্য অজুহাত বানায়।"
+  },
+  {
+    "id": 101,
+    "question": "He was advised to _________ the doctor's instructions.",
+    "options": ["act for", "act out", "act up", "act upon"],
+    "answer": "act upon",
+    "explanation": "'Act upon' মানে কাজ করা বা নির্দেশ পালন করা (follow/obey)। তাকে ডাক্তারের নির্দেশ অনুযায়ী কাজ করার পরামর্শ দেওয়া হয়েছিল।"
+  },
+  {
+    "id": 102,
+    "question": "The workers are _________ higher wages.",
+    "options": ["asking after", "asking in", "asking for", "asking out"],
+    "answer": "asking for",
+    "explanation": "'Ask for' মানে দাবি করা বা চাওয়া (demand)। শ্রমিকরা বেশি মজুরি দাবি করছে।"
+  },
+  {
+    "id": 103,
+    "question": "Don't worry, this crisis will soon _________.",
+    "options": ["blow out", "blow up", "blow off", "blow over"],
+    "answer": "blow over",
+    "explanation": "'Blow over' মানে কেটে যাওয়া বা প্রশমিত হওয়া (pass away/subside)। চিন্তা কোরো না, এই সংকট শীঘ্রই কেটে যাবে।"
+  },
+  {
+    "id": 104,
+    "question": "The burglars _________ the house at midnight.",
+    "options": ["broke out", "broke down", "broke in", "broke up"],
+    "answer": "broke in",
+    "explanation": "'Break in' বা 'Break into' মানে জোর করে প্রবেশ করা (enter by force)। ডাকাতরা মাঝরাতে জোর করে বাড়িতে ঢুকেছিল।"
+  },
+  {
+    "id": 105,
+    "question": "His new business _________ a good profit.",
+    "options": ["brings out", "brings in", "brings up", "brings about"],
+    "answer": "brings in",
+    "explanation": "'Bring in' মানে উপার্জন করা বা লাভ নিয়ে আসা (yield/earn)। তার নতুন ব্যবসা ভালো লাভ আনছে।"
+  },
+  {
+    "id": 106,
+    "question": "I shall _________ your house tomorrow morning.",
+    "options": ["call on", "call in", "call for", "call at"],
+    "answer": "call at",
+    "explanation": "'Call at' মানে কোনো স্থানে গিয়ে দেখা করা (visit a place)। আমি আগামীকাল সকালে তোমার বাড়িতে যাব।"
+  },
+  {
+    "id": 107,
+    "question": "The Prime Minister will _________ the President today.",
+    "options": ["call on", "call at", "call up", "call out"],
+    "answer": "call on",
+    "explanation": "'Call on' মানে কোনো ব্যক্তির সাথে দেখা করা (visit a person)। প্রধানমন্ত্রী আজ রাষ্ট্রপতির সাথে দেখা করবেন।"
+  },
+  {
+    "id": 108,
+    "question": "He ran fast to _________ his friends.",
+    "options": ["catch on", "catch up with", "catch out", "catch at"],
+    "answer": "catch up with",
+    "explanation": "'Catch up with' মানে নাগাল ধরা বা সমকক্ষ হওয়া (make up for lost distance)। সে তার বন্ধুদের নাগাল ধরতে জোরে ছুটেছিল।"
+  },
+  {
+    "id": 109,
+    "question": "The weather is bad now, but it will _________ soon.",
+    "options": ["clear up", "clear out", "clear off", "clear away"],
+    "answer": "clear up",
+    "explanation": "'Clear up' মানে আবহাওয়া পরিষ্কার হওয়া (become bright/fine)। আবহাওয়া এখন খারাপ, কিন্তু শীঘ্রই পরিষ্কার হয়ে যাবে।"
+  },
+  {
+    "id": 110,
+    "question": "The hidden truth has finally _________.",
+    "options": ["come off", "come out", "come about", "come by"],
+    "answer": "come out",
+    "explanation": "'Come out' মানে প্রকাশিত হওয়া বা জানা যাওয়া (be revealed)। লুকানো সত্য অবশেষে প্রকাশিত হয়েছে।"
+  },
+  {
+    "id": 111,
+    "question": "We should not _________ our rivals publicly.",
+    "options": ["cry out", "cry down", "cry for", "cry off"],
+    "answer": "cry down",
+    "explanation": "'Cry down' মানে নিন্দা করা বা ছোট করে দেখানো (depreciate/criticize)। জনসমক্ষে আমাদের প্রতিদ্বন্দ্বীদের নিন্দা করা উচিত নয়।"
+  },
+  {
+    "id": 112,
+    "question": "The new law will _________ child labor.",
+    "options": ["do without", "do away with", "do up", "do for"],
+    "answer": "do away with",
+    "explanation": "'Do away with' মানে বিলোপ করা বা বাতিল করা (abolish)। নতুন আইন শিশুশ্রম বিলুপ্ত করবে।"
+  },
+  {
+    "id": 113,
+    "question": "Some old friends _________ unexpectedly last night.",
+    "options": ["dropped in", "dropped out", "dropped off", "dropped by"],
+    "answer": "dropped in",
+    "explanation": "'Drop in' মানে হঠাৎ বা বিনা নোটিশে বেড়াতে আসা (visit casually)। গত রাতে কয়েকজন পুরনো বন্ধু হঠাৎ বেড়াতে এসেছিল।"
+  },
+  {
+    "id": 114,
+    "question": "The quality of their products has _________ recently.",
+    "options": ["fallen off", "fallen out", "fallen through", "fallen flat"],
+    "answer": "fallen off",
+    "explanation": "'Fall off' মানে হ্রাস পাওয়া বা কমে যাওয়া (decline/decrease)। সম্প্রতি তাদের পণ্যের মান কমে গেছে।"
+  },
+  {
+    "id": 115,
+    "question": "The hungry tiger _________ the deer.",
+    "options": ["fell out", "fell back", "fell upon", "fell through"],
+    "answer": "fell upon",
+    "explanation": "'Fall upon' মানে আক্রমণ করা (attack)। ক্ষুধার্ত বাঘটি হরিণটিকে আক্রমণ করেছিল।"
+  },
+  {
+    "id": 116,
+    "question": "He _________ from the train at the next station.",
+    "options": ["got up", "got down", "got over", "got through"],
+    "answer": "got down",
+    "explanation": "'Get down' মানে নামা বা অবতীর্ণ হওয়া (descend/alight)। সে পরের স্টেশনে ট্রেন থেকে নামল।"
+  },
+  {
+    "id": 117,
+    "question": "The flowers _________ a sweet smell.",
+    "options": ["give away", "give off", "give in", "give up"],
+    "answer": "give off",
+    "explanation": "'Give off' মানে নির্গত করা বা ছড়ানো (emit)। ফুলগুলো মিষ্টি গন্ধ ছড়াচ্ছে।"
+  },
+  {
+    "id": 118,
+    "question": "He is not a man to _________ his promise.",
+    "options": ["go back on", "go off", "go through", "go down"],
+    "answer": "go back on",
+    "explanation": "'Go back on' মানে কথা দিয়ে কথা না রাখা বা প্রতিশ্রুতি ভঙ্গ করা (withdraw promise)। সে প্রতিশ্রুতি ভঙ্গ করার মতো মানুষ নয়।"
+  },
+  {
+    "id": 119,
+    "question": "The soldiers _________ bravely to the last.",
+    "options": ["held on", "held out", "held back", "held up"],
+    "answer": "held out",
+    "explanation": "'Hold out' মানে প্রতিরোধ করা বা টিকে থাকা (resist)। সৈন্যরা শেষ পর্যন্ত সাহসের সাথে প্রতিরোধ করেছিল।"
+  },
+  {
+    "id": 120,
+    "question": "The old man was _________ by a speeding truck.",
+    "options": ["knocked out", "knocked off", "knocked up", "knocked down"],
+    "answer": "knocked down",
+    "explanation": "'Knock down' মানে ধাক্কা দিয়ে ফেলে দেওয়া বা চাপা দেওয়া (crush/hit)। বৃদ্ধ লোকটিকে একটি দ্রুতগামী ট্রাক ধাক্কা দিয়ে ফেলে দিয়েছিল।"
+  },
+  {
+    "id": 121,
+    "question": "Open the window and _________ some fresh air.",
+    "options": ["let out", "let off", "let down", "let in"],
+    "answer": "let in",
+    "explanation": "'Let in' মানে ভেতরে আসতে দেওয়া (allow to enter)। জানালা খুলে দাও এবং কিছু তাজা বাতাস ভেতরে আসতে দাও।"
+  },
+  {
+    "id": 122,
+    "question": "The examiner will _________ your answer papers.",
+    "options": ["look over", "look into", "look up", "look through"],
+    "answer": "look over",
+    "explanation": "'Look over' মানে পরীক্ষা করে দেখা বা চোখ বুলিয়ে নেওয়া (examine/inspect)। পরীক্ষক তোমার উত্তরপত্র পরীক্ষা করে দেখবেন।"
+  },
+  {
+    "id": 123,
+    "question": "The cashier _________ the bank's money.",
+    "options": ["made out", "made away with", "made up", "made for"],
+    "answer": "made away with",
+    "explanation": "'Make away with' মানে চুরি করে পালানো (steal and run away)। ক্যাশিয়ার ব্যাংকের টাকা চুরি করে পালিয়েছে।"
+  },
+  {
+    "id": 124,
+    "question": "He speaks Bengali so well that he can _________ a native.",
+    "options": ["pass out", "pass for", "pass away", "pass off"],
+    "answer": "pass for",
+    "explanation": "'Pass for' মানে হিসেবে গণ্য হওয়া বা পরিচিত হওয়া (be regarded as)। সে এত ভালো বাংলা বলে যে তাকে স্থানীয় বলে মনে হতে পারে।"
+  },
+  {
+    "id": 125,
+    "question": "He finally _________ all his old debts.",
+    "options": ["paid out", "paid back", "paid off", "paid up"],
+    "answer": "paid off",
+    "explanation": "'Pay off' মানে সমস্ত ঋণ শোধ করে দেওয়া (clear debt)। সে অবশেষে তার সমস্ত পুরনো ঋণ শোধ করেছে।"
+  },
+  {
+    "id": 126,
+    "question": "The driver _________ the car near the gate.",
+    "options": ["pulled down", "pulled up", "pulled through", "pulled off"],
+    "answer": "pulled up",
+    "explanation": "'Pull up' মানে গাড়ি থামানো (stop a vehicle)। চালক গেটের কাছে গাড়িটি থামাল।"
+  },
+  {
+    "id": 127,
+    "question": "He has _________ a claim for compensation.",
+    "options": ["put in", "put up", "put off", "put out"],
+    "answer": "put in",
+    "explanation": "'Put in' মানে পেশ করা বা জমা দেওয়া (submit/claim)। সে ক্ষতিপূরণের জন্য একটি দাবি পেশ করেছে।"
+  },
+  {
+    "id": 128,
+    "question": "I _________ an old friend on my way to work.",
+    "options": ["ran out", "ran over", "ran into", "ran down"],
+    "answer": "ran into",
+    "explanation": "'Run into' মানে হঠাৎ দেখা হওয়া (meet by chance)। কাজে যাওয়ার পথে আমার এক পুরনো বন্ধুর সাথে হঠাৎ দেখা হলো।"
+  },
+  {
+    "id": 129,
+    "question": "I am busy now; I shall _________ the matter later.",
+    "options": ["see about", "see through", "see off", "see to"],
+    "answer": "see about",
+    "explanation": "'See about' মানে বিবেচনা করা বা ব্যবস্থা নেওয়া (attend to/consider)। আমি এখন ব্যস্ত; আমি বিষয়টি পরে দেখব।"
+  },
+  {
+    "id": 130,
+    "question": "Some funds have been _________ for the new project.",
+    "options": ["set out", "set up", "set apart", "set off"],
+    "answer": "set apart",
+    "explanation": "'Set apart' মানে আলাদা করে রাখা বা সংরক্ষিত রাখা (reserve)। নতুন প্রকল্পের জন্য কিছু তহবিল সংরক্ষিত রাখা হয়েছে।"
+  },
+  {
+    "id": 131,
+    "question": "The traveler _________ on his journey early in the morning.",
+    "options": ["set in", "set up", "set down", "set forth"],
+    "answer": "set forth",
+    "explanation": "'Set forth' বা 'Set out' মানে যাত্রা শুরু করা (start a journey)। তীর্থযাত্রী খুব ভোরে যাত্রা শুরু করলেন।"
+  },
+  {
+    "id": 132,
+    "question": "The violent dog was _________ the thief.",
+    "options": ["set off", "set up", "set on", "set out"],
+    "answer": "set on",
+    "explanation": "'Set on' মানে লেলিয়ে দেওয়া বা আক্রমণ করতে প্ররোচিত করা (instigate to attack)। হিংস্র কুকুরটিকে চোরের দিকে লেলিয়ে দেওয়া হয়েছিল।"
+  },
+  {
+    "id": 133,
+    "question": "We must _________ injustice and corruption.",
+    "options": ["stand by", "stand out", "stand for", "stand against"],
+    "answer": "stand against",
+    "explanation": "'Stand against' মানে রুখে দাঁড়ানো বা বিরোধিতা করা (oppose)। আমাদের অবশ্যই অবিচার ও দুর্নীতির বিরুদ্ধে রুখে দাঁড়াতে হবে।"
+  },
+  {
+    "id": 134,
+    "question": "His name was _________ from the register.",
+    "options": ["struck off", "struck out", "struck down", "struck up"],
+    "answer": "struck off",
+    "explanation": "'Strike off' মানে বাদ দেওয়া বা কেটে দেওয়া (remove/erase)। তার নাম খাতা থেকে বাদ দেওয়া হয়েছিল।"
+  },
+  {
+    "id": 135,
+    "question": "He has _________ drinking alcohol recently.",
+    "options": ["taken off", "taken down", "taken to", "taken up"],
+    "answer": "taken to",
+    "explanation": "'Take to' মানে কোনো কিছুর প্রতি আসক্ত হওয়া বা অভ্যাস গড়ে তোলা (form a habit/addicted)। সে সম্প্রতি মদ্যপানে আসক্ত হয়েছে।"
+  },
+  {
+    "id": 136,
+    "question": "Overwork will ultimately _________ your health.",
+    "options": ["tell off", "tell against", "tell out", "tell upon"],
+    "answer": "tell upon",
+    "explanation": "'Tell upon' বা 'Tell on' মানে স্বাস্থ্যের ওপর খারাপ প্রভাব ফেলা (affect adversely)। অতিরিক্ত কাজ শেষ পর্যন্ত তোমার স্বাস্থ্যের ক্ষতি করবে।"
+  },
+  {
+    "id": 137,
+    "question": "The factory _________ 1000 cars a month.",
+    "options": ["turns down", "turns up", "turns out", "turns off"],
+    "answer": "turns out",
+    "explanation": "'Turn out' মানে উৎপাদন করা (produce)। কারখানাটি মাসে ১০০০ গাড়ি উৎপাদন করে।"
+  },
+  {
+    "id": 138,
+    "question": "In times of trouble, you can always _________ me.",
+    "options": ["turn to", "turn down", "turn out", "turn up"],
+    "answer": "turn to",
+    "explanation": "'Turn to' মানে সাহায্যের জন্য কারও কাছে যাওয়া (go for help)। বিপদের সময় তুমি সবসময় আমার কাছে সাহায্য চাইতে পারো।"
+  },
+  {
+    "id": 139,
+    "question": "I met him and _________ his father's health.",
+    "options": ["asked for", "asked about", "asked out", "asked after"],
+    "answer": "asked after",
+    "explanation": "'Ask after' মানে কারও স্বাস্থ্যের খবর নেওয়া (inquire about health)। আমি তার সাথে দেখা করে তার বাবার স্বাস্থ্যের খবর নিলাম।"
+  },
+  {
+    "id": 140,
+    "question": "She _________ nothing from her mother.",
+    "options": ["kept away", "kept on", "kept up", "kept back"],
+    "answer": "kept back",
+    "explanation": "'Keep back' মানে গোপন রাখা (conceal)। সে তার মায়ের কাছে কিছুই গোপন রাখেনি।"
+  },
+  {
+    "id": 141,
+    "question": "Good trees _________ good fruit.",
+    "options": ["bring up", "bring down", "bring out", "bring forth"],
+    "answer": "bring forth",
+    "explanation": "'Bring forth' মানে উৎপন্ন করা বা ফল দেওয়া (produce)। ভালো গাছ ভালো ফল দেয়।"
+  },
+  {
+    "id": 142,
+    "question": "The cruel ruler _________ the rebellion.",
+    "options": ["bore away", "bore out", "bore down", "bore with"],
+    "answer": "bore down",
+    "explanation": "'Bear down' মানে কঠোরভাবে দমন করা (crush by force)। নিষ্ঠুর শাসক বিদ্রোহটি দমন করেছিলেন।"
+  },
+  {
+    "id": 143,
+    "question": "This new fashion will soon _________ among the youth.",
+    "options": ["catch up", "catch out", "catch on", "catch at"],
+    "answer": "catch on",
+    "explanation": "'Catch on' মানে জনপ্রিয় হওয়া (become popular)। এই নতুন ফ্যাশন শীঘ্রই তরুণদের মধ্যে জনপ্রিয় হবে।"
+  },
+  {
+    "id": 144,
+    "question": "You must work extra hours to _________ the lost time.",
+    "options": ["make out", "make up for", "make off with", "make up"],
+    "answer": "make up for",
+    "explanation": "'Make up for' মানে ক্ষতিপূরণ দেওয়া বা পুষিয়ে নেওয়া (compensate)। হারানো সময় পুষিয়ে নিতে তোমাকে অতিরিক্ত কাজ করতে হবে।"
+  },
+  {
+    "id": 145,
+    "question": "The facts of his story just don't _________.",
+    "options": ["add on", "add up", "add in", "add to"],
+    "answer": "add up",
+    "explanation": "'Add up' মানে অর্থপূর্ণ হওয়া বা সামঞ্জস্যপূর্ণ হওয়া (make sense/seem reasonable)। তার গল্পের তথ্যগুলো সামঞ্জস্যপূর্ণ মনে হচ্ছে না।"
+  },
+  {
+    "id": 146,
+    "question": "I will not _________ such nonsense behavior.",
+    "options": ["stand for", "stand out", "stand by", "stand up"],
+    "answer": "stand for",
+    "explanation": "'Stand for' মানে সহ্য করা বা বরদাস্ত করা (tolerate)। আমি এই ধরনের বাজে আচরণ সহ্য করব না।"
+  },
+  {
+    "id": 147,
+    "question": "The secret was _________ by his closest friend.",
+    "options": ["given in", "given up", "given off", "given away"],
+    "answer": "given away",
+    "explanation": "'Give away' মানে ফাঁস করে দেওয়া বা বিশ্বাসঘাতকতা করা (betray a secret)। তার ঘনিষ্ঠ বন্ধুই রহস্যটি ফাঁস করে দিয়েছিল।"
+  },
+  {
+    "id": 148,
+    "question": "He bought a new car just to _________ to his neighbors.",
+    "options": ["show off", "show up", "show out", "show around"],
+    "answer": "show off",
+    "explanation": "'Show off' মানে অহংকার করে প্রদর্শন করা বা জাহির করা (display boastfully)। প্রতিবেশীদের কাছে জাহির করার জন্যই সে নতুন গাড়ি কিনেছে।"
+  },
+  {
+    "id": 149,
+    "question": "Please _________ the radio, it's too loud.",
+    "options": ["turn down", "turn off", "turn out", "turn away"],
+    "answer": "turn down",
+    "explanation": "'Turn down' মানে ভলিউম বা আওয়াজ কমানো (reduce volume)। রেডিওর আওয়াজটা কমাও, বড্ড জোড়ে বাজছে।"
+  },
+  {
+    "id": 150,
+    "question": "She _________ in the middle of her song.",
+    "options": ["broke down", "broke out", "broke off", "broke up"],
+    "answer": "broke off",
+    "explanation": "'Break off' মানে হঠাৎ থেমে যাওয়া (stop suddenly)। সে গান গাইতে গাইতে হঠাৎ থেমে গেল।"
+  },
+  {
+    "id": 151,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The firemen quickly <u>extinguished</u> the fire.",
+    "options": ["put out", "put off", "put down", "put up"],
+    "answer": "put out",
+    "explanation": "'Put out' মানে নেভানো (extinguish)।"
+  },
+  {
+    "id": 152,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The meeting was <u>postponed</u> due to bad weather.",
+    "options": ["put out", "put off", "put up", "put away"],
+    "answer": "put off",
+    "explanation": "'Put off' মানে স্থগিত করা (postpone)।"
+  },
+  {
+    "id": 153,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>tolerate</u> his bad behavior anymore.",
+    "options": ["put down", "put off", "put up with", "put out"],
+    "answer": "put up with",
+    "explanation": "'Put up with' মানে সহ্য করা (tolerate)।"
+  },
+  {
+    "id": 154,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>wear</u> your new dress for the party.",
+    "options": ["put off", "put up", "put in", "put on"],
+    "answer": "put on",
+    "explanation": "'Put on' মানে পরিধান করা (wear)।"
+  },
+  {
+    "id": 155,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The girl <u>resembles</u> her grandmother.",
+    "options": ["takes after", "takes off", "takes up", "takes down"],
+    "answer": "takes after",
+    "explanation": "'Take after' মানে সদৃশ হওয়া বা একই রকম দেখতে হওয়া (resemble)।"
+  },
+  {
+    "id": 156,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>remove</u> your shoes before entering the temple.",
+    "options": ["take out", "take off", "take down", "take away"],
+    "answer": "take off",
+    "explanation": "'Take off' মানে খুলে ফেলা (remove)।"
+  },
+  {
+    "id": 157,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>write</u> the notes carefully.",
+    "options": ["take off", "take up", "take down", "take out"],
+    "answer": "take down",
+    "explanation": "'Take down' মানে লিখে রাখা (write down)।"
+  },
+  {
+    "id": 158,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The new principal <u>assumed charge</u> yesterday.",
+    "options": ["took up", "took off", "took down", "took over"],
+    "answer": "took over",
+    "explanation": "'Take over' মানে দায়িত্ব গ্রহণ করা (assume charge)।"
+  },
+  {
+    "id": 159,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The manager <u>rejected</u> my leave application.",
+    "options": ["turned down", "turned out", "turned up", "turned off"],
+    "answer": "turned down",
+    "explanation": "'Turn down' মানে প্রত্যাখ্যান করা (reject)।"
+  },
+  {
+    "id": 160,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>None of the guests <u>arrived</u> on time.",
+    "options": ["turned out", "turned up", "turned off", "turned down"],
+    "answer": "turned up",
+    "explanation": "'Turn up' মানে উপস্থিত হওয়া বা পৌঁছানো (arrive/appear)।"
+  },
+  {
+    "id": 161,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The factory <u>produces</u> 500 cars daily.",
+    "options": ["turns down", "turns up", "turns out", "turns off"],
+    "answer": "turns out",
+    "explanation": "'Turn out' মানে উৎপাদন করা (produce)।"
+  },
+  {
+    "id": 162,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>solve</u> this math problem.",
+    "options": ["work up", "work upon", "work in", "work out"],
+    "answer": "work out",
+    "explanation": "'Work out' মানে সমাধান করা (solve/calculate)।"
+  },
+  {
+    "id": 163,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>reduce</u> your daily expenses.",
+    "options": ["cut down", "cut off", "cut out", "cut up"],
+    "answer": "cut down",
+    "explanation": "'Cut down' মানে কমানো বা হ্রাস করা (reduce/curtail)।"
+  },
+  {
+    "id": 164,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The great leader <u>died</u> last night.",
+    "options": ["passed out", "passed away", "passed by", "passed off"],
+    "answer": "passed away",
+    "explanation": "'Pass away' মানে মারা যাওয়া (die)।"
+  },
+  {
+    "id": 165,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>They will <u>publish</u> a new magazine next month.",
+    "options": ["bring up", "bring about", "bring out", "bring down"],
+    "answer": "bring out",
+    "explanation": "'Bring out' মানে প্রকাশ করা (publish)।"
+  },
+  {
+    "id": 166,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The orphan was <u>reared</u> by his uncle.",
+    "options": ["brought out", "brought down", "brought about", "brought up"],
+    "answer": "brought up",
+    "explanation": "'Bring up' মানে লালন-পালন করা (rear/educate)।"
+  },
+  {
+    "id": 167,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The principal <u>distributed</u> the prizes among the students.",
+    "options": ["gave away", "gave in", "gave up", "gave out"],
+    "answer": "gave away",
+    "explanation": "'Give away' মানে বিতরণ করা (distribute)।"
+  },
+  {
+    "id": 168,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>abandoned</u> his bad habits.",
+    "options": ["gave in", "gave up", "gave away", "gave out"],
+    "answer": "gave up",
+    "explanation": "'Give up' মানে ত্যাগ করা (abandon/leave)।"
+  },
+  {
+    "id": 169,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The enemy finally <u>surrendered</u>.",
+    "options": ["gave up", "gave out", "gave in", "gave away"],
+    "answer": "gave in",
+    "explanation": "'Give in' মানে বশ্যতা স্বীকার করা (surrender)।"
+  },
+  {
+    "id": 170,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The rotten fish <u>emitted</u> a foul smell.",
+    "options": ["gave out", "gave up", "gave in", "gave off"],
+    "answer": "gave off",
+    "explanation": "'Give off' মানে নির্গত করা (emit)।"
+  },
+  {
+    "id": 171,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The villagers <u>established</u> a primary school.",
+    "options": ["set up", "set out", "set in", "set off"],
+    "answer": "set up",
+    "explanation": "'Set up' মানে স্থাপন করা (establish)।"
+  },
+  {
+    "id": 172,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>They <u>started</u> their journey at dawn.",
+    "options": ["set in", "set out", "set up", "set down"],
+    "answer": "set out",
+    "explanation": "'Set out' বা 'Set off' মানে যাত্রা শুরু করা (start a journey)।"
+  },
+  {
+    "id": 173,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The winter has <u>begun</u> early this year.",
+    "options": ["set out", "set up", "set in", "set off"],
+    "answer": "set in",
+    "explanation": "'Set in' মানে শুরু হওয়া (begin - ঋতু বা আবহাওয়ার ক্ষেত্রে)।"
+  },
+  {
+    "id": 174,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His statement <u>supports</u> your story.",
+    "options": ["bears with", "bears away", "bears down", "bears out"],
+    "answer": "bears out",
+    "explanation": "'Bear out' মানে সমর্থন করা (support/corroborate)।"
+  },
+  {
+    "id": 175,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Our team <u>won</u> the first prize.",
+    "options": ["bore away", "bore out", "bore with", "bore up"],
+    "answer": "bore away",
+    "explanation": "'Bear away' বা 'Bear off' মানে জয়লাভ করা (win)।"
+  },
+  {
+    "id": 176,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>execute</u> the orders of the captain.",
+    "options": ["carry on", "carry out", "carry away", "carry off"],
+    "answer": "carry out",
+    "explanation": "'Carry out' মানে পালন করা (execute/obey)।"
+  },
+  {
+    "id": 177,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>continue</u> your reading.",
+    "options": ["carry out", "carry away", "carry on", "carry off"],
+    "answer": "carry on",
+    "explanation": "'Carry on' মানে চালিয়ে যাওয়া (continue)।"
+  },
+  {
+    "id": 178,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>How did this accident <u>happen</u>?",
+    "options": ["come off", "come across", "come by", "come about"],
+    "answer": "come about",
+    "explanation": "'Come about' মানে ঘটা (happen)।"
+  },
+  {
+    "id": 179,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The patient will <u>recover</u> very soon.",
+    "options": ["come round", "come about", "come off", "come across"],
+    "answer": "come round",
+    "explanation": "'Come round' মানে আরোগ্য লাভ করা (recover)।"
+  },
+  {
+    "id": 180,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I <u>met</u> my old friend by chance.",
+    "options": ["came by", "came across", "came of", "came round"],
+    "answer": "came across",
+    "explanation": "'Come across' মানে হঠাৎ দেখা পাওয়া (meet by chance)।"
+  },
+  {
+    "id": 181,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was <u>born</u> of a rich family.",
+    "options": ["comes off", "comes from", "comes of", "comes by"],
+    "answer": "comes of",
+    "explanation": "'Come of' মানে জন্মগ্রহণ করা (born of)।"
+  },
+  {
+    "id": 182,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We must <u>abolish</u> social evils.",
+    "options": ["do without", "do up", "do for", "do away with"],
+    "answer": "do away with",
+    "explanation": "'Do away with' মানে বিলোপ করা বা তুলে দেওয়া (abolish)।"
+  },
+  {
+    "id": 183,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>understand</u> his handwriting.",
+    "options": ["make out", "make up", "make off", "make for"],
+    "answer": "make out",
+    "explanation": "'Make out' মানে বুঝতে পারা (understand)।"
+  },
+  {
+    "id": 184,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>compensate</u> for the loss.",
+    "options": ["make out", "make up", "make off", "make over"],
+    "answer": "make up",
+    "explanation": "'Make up' মানে ক্ষতিপূরণ দেওয়া (compensate)।"
+  },
+  {
+    "id": 185,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The dog is <u>chasing</u> the rabbit.",
+    "options": ["running down", "running over", "running after", "running out"],
+    "answer": "running after",
+    "explanation": "'Run after' মানে তাড়া করা (chase)।"
+  },
+  {
+    "id": 186,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old man was <u>crushed</u> by a bus.",
+    "options": ["run down", "run into", "run out", "run over"],
+    "answer": "run over",
+    "explanation": "'Run over' মানে চাপা পড়া (crush under vehicle)।"
+  },
+  {
+    "id": 187,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>A true friend will <u>support</u> you in danger.",
+    "options": ["stand by", "stand out", "stand for", "stand up"],
+    "answer": "stand by",
+    "explanation": "'Stand by' মানে পাশে থাকা বা সমর্থন করা (support)।"
+  },
+  {
+    "id": 188,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The dove <u>represents</u> peace.",
+    "options": ["stands by", "stands for", "stands out", "stands up"],
+    "answer": "stands for",
+    "explanation": "'Stand for' মানে প্রতীক হওয়া বা প্রতিনিধিত্ব করা (represent)।"
+  },
+  {
+    "id": 189,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We should not <u>despise</u> the poor.",
+    "options": ["look up to", "look after", "look down upon", "look into"],
+    "answer": "look down upon",
+    "explanation": "'Look down upon' মানে ঘৃণা করা (despise)।"
+  },
+  {
+    "id": 190,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He is <u>searching</u> for a job.",
+    "options": ["looking after", "looking into", "looking up", "looking for"],
+    "answer": "looking for",
+    "explanation": "'Look for' মানে খোঁজা (search)।"
+  },
+  {
+    "id": 191,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The examiner will <u>examine</u> the papers.",
+    "options": ["look over", "look into", "look through", "look up"],
+    "answer": "look over",
+    "explanation": "'Look over' মানে পরীক্ষা করে দেখা (examine)।"
+  },
+  {
+    "id": 192,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The strike was <u>canceled</u>.",
+    "options": ["called up", "called off", "called in", "called for"],
+    "answer": "called off",
+    "explanation": "'Call off' মানে বাতিল করা (cancel)।"
+  },
+  {
+    "id": 193,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>remember</u> his name.",
+    "options": ["call off", "call in", "call up", "call for"],
+    "answer": "call up",
+    "explanation": "'Call up' মানে স্মরণ করা (remember)।"
+  },
+  {
+    "id": 194,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>summon</u> a doctor.",
+    "options": ["call for", "call up", "call off", "call in"],
+    "answer": "call in",
+    "explanation": "'Call in' মানে ডেকে পাঠানো (summon)।"
+  },
+  {
+    "id": 195,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>This problem <u>demands</u> immediate attention.",
+    "options": ["calls for", "calls in", "calls up", "calls off"],
+    "answer": "calls for",
+    "explanation": "'Call for' মানে দাবি করা (demand)।"
+  },
+  {
+    "id": 196,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The thief <u>escaped</u> from the prison.",
+    "options": ["got over", "got away", "got on", "got through"],
+    "answer": "got away",
+    "explanation": "'Get away' মানে পালিয়ে যাওয়া (escape)।"
+  },
+  {
+    "id": 197,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>passed</u> the final examination.",
+    "options": ["got away", "got over", "got through", "got on"],
+    "answer": "got through",
+    "explanation": "'Get through' মানে পাস করা বা সফল হওয়া (pass/succeed)।"
+  },
+  {
+    "id": 198,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>recovered</u> from his illness.",
+    "options": ["got up", "got on", "got down", "got over"],
+    "answer": "got over",
+    "explanation": "'Get over' মানে আরোগ্য লাভ করা বা কাটিয়ে ওঠা (recover)।"
+  },
+  {
+    "id": 199,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Their plan <u>failed</u>.",
+    "options": ["fell through", "fell out", "fell back", "fell upon"],
+    "answer": "fell through",
+    "explanation": "'Fall through' মানে ব্যর্থ হওয়া (fail)।"
+  },
+  {
+    "id": 200,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The two brothers <u>quarreled</u> over a piece of land.",
+    "options": ["fell through", "fell out", "fell back", "fell flat"],
+    "answer": "fell out",
+    "explanation": "'Fall out' মানে ঝগড়া করা (quarrel)।"
+  },
+  {
+    "id": 201,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He decided to <u>continue</u> his studies despite financial problems.",
+    "options": ["carry out", "carry off", "carry on", "carry away"],
+    "answer": "carry on",
+    "explanation": "'Carry on' মানে চালিয়ে যাওয়া (continue)। আর্থিক সমস্যা থাকা সত্ত্বেও সে তার পড়াশোনা চালিয়ে যাওয়ার সিদ্ধান্ত নিয়েছিল।"
+  },
+  {
+    "id": 202,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The students must <u>obey</u> the rules of the school.",
+    "options": ["carry on", "carry out", "carry away", "carry off"],
+    "answer": "carry out",
+    "explanation": "'Carry out' মানে পালন করা বা মেনে চলা (obey/execute)। ছাত্রদের অবশ্যই স্কুলের নিয়মকানুন মেনে চলতে হবে।"
+  },
+  {
+    "id": 203,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I could not <u>understand</u> what the speaker was saying.",
+    "options": ["make up", "make for", "make off", "make out"],
+    "answer": "make out",
+    "explanation": "'Make out' মানে বুঝতে পারা (understand)। বক্তা কী বলছিলেন তা আমি বুঝতে পারিনি।"
+  },
+  {
+    "id": 204,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He worked extra hours to <u>compensate</u> for the lost time.",
+    "options": ["make up for", "make out", "make up", "make off with"],
+    "answer": "make up for",
+    "explanation": "'Make up for' মানে ক্ষতিপূরণ দেওয়া বা পুষিয়ে নেওয়া (compensate)। হারানো সময় পুষিয়ে নিতে সে অতিরিক্ত সময় কাজ করেছিল।"
+  },
+  {
+    "id": 205,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The CID is <u>investigating</u> the murder case.",
+    "options": ["looking for", "looking up", "looking into", "looking after"],
+    "answer": "looking into",
+    "explanation": "'Look into' মানে তদন্ত করা (investigate)। সিআইডি (CID) খুনের মামলাটির তদন্ত করছে।"
+  },
+  {
+    "id": 206,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>read carefully</u> the document before signing.",
+    "options": ["go over", "go through", "go into", "go down"],
+    "answer": "go through",
+    "explanation": "'Go through' মানে পুঙ্খানুপুঙ্খভাবে পড়া বা ভালো করে দেখা (read carefully)। সই করার আগে দয়া করে নথিপত্রগুলো ভালো করে পড়ে নিন।"
+  },
+  {
+    "id": 207,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The price of gold has <u>decreased</u> significantly.",
+    "options": ["gone up", "gone off", "gone through", "gone down"],
+    "answer": "gone down",
+    "explanation": "'Go down' মানে কমে যাওয়া বা হ্রাস পাওয়া (decrease)। সোনার দাম উল্লেখযোগ্যভাবে কমে গেছে।"
+  },
+  {
+    "id": 208,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The cost of living has <u>increased</u> in the city.",
+    "options": ["gone down", "gone off", "gone up", "gone out"],
+    "answer": "gone up",
+    "explanation": "'Go up' মানে বৃদ্ধি পাওয়া বা বেড়ে যাওয়া (increase)। শহরে জীবনযাত্রার ব্যয় বেড়ে গেছে।"
+  },
+  {
+    "id": 209,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The President <u>distributed</u> the awards to the winners.",
+    "options": ["gave in", "gave up", "gave out", "gave away"],
+    "answer": "gave away",
+    "explanation": "'Give away' মানে বিতরণ করা (distribute)। রাষ্ট্রপতি বিজয়ীদের মধ্যে পুরস্কার বিতরণ করলেন।"
+  },
+  {
+    "id": 210,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The factory chimney <u>emits</u> black smoke.",
+    "options": ["gives away", "gives off", "gives in", "gives up"],
+    "answer": "gives off",
+    "explanation": "'Give off' মানে নির্গত করা বা ছড়ানো (emit)। কারখানার চিমনি থেকে কালো ধোঁয়া নির্গত হয়।"
+  },
+  {
+    "id": 211,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The doctor told him to <u>abandon</u> smoking.",
+    "options": ["give up", "give in", "give out", "give away"],
+    "answer": "give up",
+    "explanation": "'Give up' মানে ত্যাগ করা বা ছেড়ে দেওয়া (abandon/leave)। ডাক্তার তাকে ধূমপান ছেড়ে দিতে বলেছেন।"
+  },
+  {
+    "id": 212,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The terrorists were forced to <u>surrender</u> to the army.",
+    "options": ["give up", "give in", "give out", "give away"],
+    "answer": "give in",
+    "explanation": "'Give in' মানে বশ্যতা স্বীকার করা বা আত্মসমর্পণ করা (surrender/yield)। সন্ত্রাসীরা সেনাবাহিনীর কাছে আত্মসমর্পণ করতে বাধ্য হয়েছিল।"
+  },
+  {
+    "id": 213,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She was <u>reared</u> by her grandparents after her parents died.",
+    "options": ["brought out", "brought up", "brought down", "brought about"],
+    "answer": "brought up",
+    "explanation": "'Bring up' মানে লালন-পালন করা (rear)। বাবা-মা মারা যাওয়ার পর সে তার ঠাকুরদা-ঠাকুমার কাছে লালিত-পালিত হয়েছিল।"
+  },
+  {
+    "id": 214,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The publisher will <u>publish</u> the new novel next week.",
+    "options": ["bring up", "bring out", "bring down", "bring about"],
+    "answer": "bring out",
+    "explanation": "'Bring out' মানে প্রকাশ করা (publish)। প্রকাশক আগামী সপ্তাহে নতুন উপন্যাসটি প্রকাশ করবেন।"
+  },
+  {
+    "id": 215,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His foolishness <u>caused to happen</u> his ruin.",
+    "options": ["brought about", "brought out", "brought up", "brought down"],
+    "answer": "brought about",
+    "explanation": "'Bring about' মানে ঘটানো (cause to happen)। তার বোকামিই তার ধ্বংস ডেকে এনেছিল।"
+  },
+  {
+    "id": 216,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The new policy will <u>reduce</u> inflation.",
+    "options": ["bring up", "bring down", "bring out", "bring about"],
+    "answer": "bring down",
+    "explanation": "'Bring down' মানে কমানো বা হ্রাস করা (reduce/lower)। নতুন নীতি মুদ্রাস্ফীতি কমাবে।"
+  },
+  {
+    "id": 217,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>extinguish</u> the candle before going to bed.",
+    "options": ["put off", "put down", "put out", "put up"],
+    "answer": "put out",
+    "explanation": "'Put out' মানে নেভানো (extinguish)। ঘুমাতে যাওয়ার আগে দয়া করে মোমবাতিটি নিভিয়ে দিও।"
+  },
+  {
+    "id": 218,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Never <u>postpone</u> until tomorrow what you can do today.",
+    "options": ["put out", "put up", "put off", "put away"],
+    "answer": "put off",
+    "explanation": "'Put off' মানে স্থগিত করা বা ফেলে রাখা (postpone)। আজকের কাজ কালকের জন্য ফেলে রেখো না।"
+  },
+  {
+    "id": 219,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Nobody can <u>tolerate</u> such an offensive remark.",
+    "options": ["put down", "put off", "put out", "put up with"],
+    "answer": "put up with",
+    "explanation": "'Put up with' মানে সহ্য করা (tolerate)। কেউ এই ধরনের অপমানজনক মন্তব্য সহ্য করতে পারে কাশী।"
+  },
+  {
+    "id": 220,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>wore</u> a beautiful saree for the wedding.",
+    "options": ["put off", "put in", "put on", "put up"],
+    "answer": "put on",
+    "explanation": "'Put on' মানে পরিধান করা (wear)। বিয়ের অনুষ্ঠানের জন্য সে একটি সুন্দর শাড়ি পরেছিল।"
+  },
+  {
+    "id": 221,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Where will you <u>stay</u> during your visit to Kolkata?",
+    "options": ["put on", "put up", "put off", "put down"],
+    "answer": "put up",
+    "explanation": "'Put up' মানে অস্থায়ীভাবে কোথাও থাকা বা অবস্থান করা (stay)। কলকাতা সফরের সময় তুমি কোথায় থাকবে?"
+  },
+  {
+    "id": 222,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The boy closely <u>resembles</u> his father.",
+    "options": ["takes after", "takes off", "takes up", "takes down"],
+    "answer": "takes after",
+    "explanation": "'Take after' মানে সদৃশ হওয়া বা দেখতে একই রকম হওয়া (resemble)। ছেলেটি দেখতে অবিকল তার বাবার মতো।"
+  },
+  {
+    "id": 223,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>removed</u> his hat out of respect.",
+    "options": ["took off", "took out", "took down", "took away"],
+    "answer": "took off",
+    "explanation": "'Take off' মানে খুলে ফেলা (remove)। সম্মানের খাতিরে সে তার টুপি খুলে ফেলল।"
+  },
+  {
+    "id": 224,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The reporter <u>wrote down</u> every word of the speech.",
+    "options": ["took off", "took down", "took up", "took out"],
+    "answer": "took down",
+    "explanation": "'Take down' মানে লিখে রাখা (write down/record)। সাংবাদিক বক্তৃতার প্রতিটি শব্দ লিখে নিয়েছিলেন।"
+  },
+  {
+    "id": 225,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The new principal will <u>assume charge</u> tomorrow.",
+    "options": ["take up", "take off", "take down", "take over"],
+    "answer": "take over",
+    "explanation": "'Take over' মানে দায়িত্ব গ্রহণ করা (assume charge)। নতুন অধ্যক্ষ আগামীকাল দায়িত্ব গ্রহণ করবেন।"
+  },
+  {
+    "id": 226,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The bank <u>rejected</u> his loan application.",
+    "options": ["turned out", "turned up", "turned off", "turned down"],
+    "answer": "turned down",
+    "explanation": "'Turn down' মানে প্রত্যাখ্যান করা বা বাতিল করা (reject)। ব্যাংক তার ঋণের আবেদনটি প্রত্যাখ্যান করেছে।"
+  },
+  {
+    "id": 227,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We waited for an hour, but he did not <u>arrive</u>.",
+    "options": ["turn out", "turn off", "turn up", "turn down"],
+    "answer": "turn up",
+    "explanation": "'Turn up' মানে উপস্থিত হওয়া বা পৌঁছানো (arrive/appear)। আমরা এক ঘণ্টা অপেক্ষা করেছিলাম, কিন্তু সে উপস্থিত হয়নি।"
+  },
+  {
+    "id": 228,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>This institution <u>produces</u> brilliant students every year.",
+    "options": ["turns out", "turns down", "turns up", "turns off"],
+    "answer": "turns out",
+    "explanation": "'Turn out' মানে উৎপাদন করা বা তৈরি করা (produce)। এই প্রতিষ্ঠান প্রতি বছর মেধাবী ছাত্র তৈরি করে।"
+  },
+  {
+    "id": 229,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>stop</u> the fan, it is quite cold here.",
+    "options": ["turn on", "turn out", "turn off", "turn up"],
+    "answer": "turn off",
+    "explanation": "'Turn off' মানে বন্ধ করা (stop the flow/switch off)। দয়া করে ফ্যানটি বন্ধ করো, এখানে বেশ ঠান্ডা।"
+  },
+  {
+    "id": 230,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The workers decided to <u>cancel</u> the strike.",
+    "options": ["call off", "call up", "call in", "call for"],
+    "answer": "call off",
+    "explanation": "'Call off' মানে প্রত্যাহার করা বা বাতিল করা (cancel/withdraw)। শ্রমিকরা ধর্মঘট বাতিল করার সিদ্ধান্ত নিয়েছে।"
+  },
+  {
+    "id": 231,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I tried to <u>remember</u> my childhood days.",
+    "options": ["call off", "call in", "call for", "call up"],
+    "answer": "call up",
+    "explanation": "'Call up' মানে স্মরণ করা (remember/recollect)। আমি আমার শৈশবের দিনগুলো মনে করার চেষ্টা করছিলাম।"
+  },
+  {
+    "id": 232,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We must <u>summon</u> a doctor immediately.",
+    "options": ["call for", "call up", "call in", "call off"],
+    "answer": "call in",
+    "explanation": "'Call in' মানে ডেকে পাঠানো (summon/send for)। আমাদের অবিলম্বে একজন ডাক্তারকে ডেকে পাঠাতে হবে।"
+  },
+  {
+    "id": 233,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>This serious matter <u>demands</u> an explanation.",
+    "options": ["calls in", "calls up", "calls for", "calls off"],
+    "answer": "calls for",
+    "explanation": "'Call for' মানে দাবি করা বা প্রয়োজন হওয়া (demand/require)। এই গুরুতর বিষয়টির জন্য একটি ব্যাখ্যার প্রয়োজন।"
+  },
+  {
+    "id": 234,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The prisoner managed to <u>escape</u> from the jail.",
+    "options": ["get away", "get over", "get on", "get through"],
+    "answer": "get away",
+    "explanation": "'Get away' মানে পালিয়ে যাওয়া (escape)। বন্দিটি জেল থেকে পালাতে সক্ষম হয়েছিল।"
+  },
+  {
+    "id": 235,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>It took her a long time to <u>recover</u> from the shock.",
+    "options": ["get away", "get on", "get up", "get over"],
+    "answer": "get over",
+    "explanation": "'Get over' মানে কাটিয়ে ওঠা বা সামলে ওঠা (recover/overcome)। ধাক্কাটা কাটিয়ে উঠতে তার অনেক সময় লেগেছিল।"
+  },
+  {
+    "id": 236,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I hope you will <u>succeed</u> in the final examination.",
+    "options": ["get away", "get through", "get out", "get in"],
+    "answer": "get through",
+    "explanation": "'Get through' মানে পরীক্ষায় পাস করা বা সফল হওয়া (pass/succeed)। আমি আশা করি তুমি চূড়ান্ত পরীক্ষায় সফল হবে।"
+  },
+  {
+    "id": 237,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The proposed plan <u>failed</u> due to lack of support.",
+    "options": ["fell through", "fell out", "fell back", "fell upon"],
+    "answer": "fell through",
+    "explanation": "'Fall through' মানে ব্যর্থ হওয়া (fail)। সমর্থনের অভাবে প্রস্তাবিত পরিকল্পনাটি ব্যর্থ হয়েছিল।"
+  },
+  {
+    "id": 238,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The two friends <u>quarreled</u> over a trivial issue.",
+    "options": ["fell out", "fell through", "fell back", "fell flat"],
+    "answer": "fell out",
+    "explanation": "'Fall out' মানে ঝগড়া করা (quarrel)। দুই বন্ধু একটি তুচ্ছ বিষয় নিয়ে ঝগড়া করেছিল।"
+  },
+  {
+    "id": 239,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The wild animal <u>attacked</u> the traveler in the forest.",
+    "options": ["fell out", "fell upon", "fell back", "fell through"],
+    "answer": "fell upon",
+    "explanation": "'Fall upon' মানে আক্রমণ করা (attack)। বন্য প্রাণীটি জঙ্গলে যাত্রীর ওপর আক্রমণ করেছিল।"
+  },
+  {
+    "id": 240,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The police are <u>chasing</u> the notorious criminal.",
+    "options": ["running down", "running over", "running out", "running after"],
+    "answer": "running after",
+    "explanation": "'Run after' মানে তাড়া করা বা পিছু নেওয়া (chase)। পুলিশ কুখ্যাত অপরাধীটিকে তাড়া করছে।"
+  },
+  {
+    "id": 241,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The stray dog was <u>crushed</u> by a speeding truck.",
+    "options": ["run down", "run into", "run over", "run out"],
+    "answer": "run over",
+    "explanation": "'Run over' মানে গাড়ি চাপা পড়া (crush under a vehicle)। পথকুকুরটি একটি দ্রুতগামী ট্রাকের নিচে চাপা পড়েছিল।"
+  },
+  {
+    "id": 242,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Our stock of drinking water has <u>exhausted</u>.",
+    "options": ["run down", "run over", "run out", "run into"],
+    "answer": "run out",
+    "explanation": "'Run out' মানে ফুরিয়ে যাওয়া বা নিঃশেষ হওয়া (exhausted)। আমাদের পানীয় জলের মজুত ফুরিয়ে গেছে।"
+  },
+  {
+    "id": 243,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>A true leader will always <u>support</u> his followers.",
+    "options": ["stand out", "stand for", "stand up", "stand by"],
+    "answer": "stand by",
+    "explanation": "'Stand by' মানে পাশে থাকা বা সমর্থন করা (support)। একজন প্রকৃত নেতা সর্বদা তার অনুগামীদের সমর্থন করবেন।"
+  },
+  {
+    "id": 244,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The white flag <u>represents</u> peace and surrender.",
+    "options": ["stands for", "stands by", "stands out", "stands up"],
+    "answer": "stands for",
+    "explanation": "'Stand for' মানে প্রতীক হওয়া বা প্রতিনিধিত্ব করা (represent/symbolize)। সাদা পতাকা শান্তি ও আত্মসমর্পণের প্রতীক।"
+  },
+  {
+    "id": 245,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The famous poet <u>died</u> early in the morning.",
+    "options": ["passed away", "passed out", "passed by", "passed off"],
+    "answer": "passed away",
+    "explanation": "'Pass away' মানে মারা যাওয়া (die)। বিখ্যাত কবি খুব ভোরে মারা গেছেন।"
+  },
+  {
+    "id": 246,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Because of the extreme heat, the player <u>fainted</u> on the field.",
+    "options": ["passed away", "passed by", "passed off", "passed out"],
+    "answer": "passed out",
+    "explanation": "'Pass out' মানে অজ্ঞান হয়ে যাওয়া (faint)। প্রচণ্ড গরমের কারণে খেলোয়াড়টি মাঠে অজ্ঞান হয়ে গিয়েছিল।"
+  },
+  {
+    "id": 247,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The municipality is going to <u>demolish</u> the illegal building.",
+    "options": ["pull down", "pull up", "pull through", "pull out"],
+    "answer": "pull down",
+    "explanation": "'Pull down' মানে ভেঙে ফেলা (demolish/destroy)। পৌরসভা অবৈধ ভবনটি ভেঙে ফেলতে যাচ্ছে।"
+  },
+  {
+    "id": 248,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He tried to <u>conceal</u> the actual truth from everyone.",
+    "options": ["hold on", "hold back", "hold up", "hold out"],
+    "answer": "hold back",
+    "explanation": "'Hold back' মানে গোপন করা বা চেপে রাখা (conceal/hide)। সে সবার কাছ থেকে আসল সত্যটি গোপন করার চেষ্টা করেছিল।"
+  },
+  {
+    "id": 249,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The Rajdhani Express was <u>delayed</u> by a dense fog.",
+    "options": ["held on", "held back", "held out", "held up"],
+    "answer": "held up",
+    "explanation": "'Hold up' মানে দেরি করানো বা বাধাগ্রস্ত হওয়া (delay)। ঘন কুয়াশার কারণে রাজধানী এক্সপ্রেসের দেরি হয়েছিল।"
+  },
+  {
+    "id": 250,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The brilliant student <u>solved</u> the difficult puzzle in five minutes.",
+    "options": ["worked upon", "worked out", "worked in", "worked up"],
+    "answer": "worked out",
+    "explanation": "'Work out' মানে সমাধান করা বা হিসাব করে বের করা (solve)। মেধাবী ছাত্রটি পাঁচ মিনিটে কঠিন ধাঁধাটি সমাধান করেছিল।"
+  },
+  {
+    "id": 251,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The nurse <u>cares for</u> the patient.",
+    "options": ["looks after", "looks into", "looks for", "looks up"],
+    "answer": "looks after",
+    "explanation": "'Look after' মানে যত্ন নেওয়া বা দেখাশোনা করা (care for)। নার্স রোগীর দেখাশোনা করেন।"
+  },
+  {
+    "id": 252,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>invented</u> a false excuse for his absence.",
+    "options": ["made up", "made out", "made off", "made for"],
+    "answer": "made up",
+    "explanation": "'Make up' মানে মনগড়া গল্প বা অজুহাত বানানো (invent/fabricate)। সে তার অনুপস্থিতির জন্য একটি মিথ্যা অজুহাত বানিয়েছিল।"
+  },
+  {
+    "id": 253,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Do not <u>omit</u> any important detail from the report.",
+    "options": ["leave off", "leave behind", "leave alone", "leave out"],
+    "answer": "leave out",
+    "explanation": "'Leave out' মানে বাদ দেওয়া (omit)। প্রতিবেদন থেকে কোনো গুরুত্বপূর্ণ তথ্য বাদ দিও না।"
+  },
+  {
+    "id": 254,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I will <u>visit</u> him at his residence tonight.",
+    "options": ["call at", "call on", "call in", "call up"],
+    "answer": "call on",
+    "explanation": "'Call on' মানে কোনো ব্যক্তির সাথে দেখা করতে যাওয়া (visit a person)। আমি আজ রাতে তার বাসভবনে তার সাথে দেখা করব।"
+  },
+  {
+    "id": 255,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The teacher will <u>examine</u> the answer scripts carefully.",
+    "options": ["look over", "look into", "look through", "look up"],
+    "answer": "look over",
+    "explanation": "'Look over' বা 'Look through' মানে পরীক্ষা করা বা চোখ বুলিয়ে নেওয়া (examine)। শিক্ষক মনোযোগ সহকারে উত্তরপত্রগুলো পরীক্ষা করবেন।"
+  },
+  {
+    "id": 256,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>They <u>abolished</u> the old tax system last year.",
+    "options": ["did without", "did up", "did for", "did away with"],
+    "answer": "did away with",
+    "explanation": "'Do away with' মানে বিলুপ্ত করা বা বাতিল করা (abolish)। তারা গত বছর পুরোনো কর ব্যবস্থা বাতিল করেছিল।"
+  },
+  {
+    "id": 257,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>withdrew</u> from his promise at the last minute.",
+    "options": ["backed out", "backed up", "backed down", "backed off"],
+    "answer": "backed out",
+    "explanation": "'Back out' মানে কথা দিয়ে পিছিয়ে যাওয়া বা প্রতিশ্রুতি ভঙ্গ করা (withdraw from promise)। সে শেষ মুহূর্তে তার কথা থেকে পিছিয়ে গেল।"
+  },
+  {
+    "id": 258,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The candle was <u>extinguished</u> by a sudden gust of wind.",
+    "options": ["blown out", "blown up", "blown away", "blown off"],
+    "answer": "blown out",
+    "explanation": "'Blow out' মানে ফুঁ দিয়ে বা বাতাসে নিভে যাওয়া (extinguish)। হঠাৎ দমকা হাওয়ায় মোমবাতিটি নিভে গেল।"
+  },
+  {
+    "id": 259,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The terrorists <u>destroyed</u> the bridge by explosion.",
+    "options": ["blew out", "blew off", "blew up", "blew away"],
+    "answer": "blew up",
+    "explanation": "'Blow up' মানে বিস্ফোরণে উড়িয়ে দেওয়া (destroy by explosion)। সন্ত্রাসীরা বিস্ফোরণ ঘটিয়ে সেতুটি ধ্বংস করেছিল।"
+  },
+  {
+    "id": 260,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>My elder brother <u>trades</u> in garments.",
+    "options": ["deals with", "deals out", "deals in", "deals by"],
+    "answer": "deals in",
+    "explanation": "'Deal in' মানে ব্যবসা করা (trade in)। আমার বড় ভাই পোশাকের ব্যবসা করেন।"
+  },
+  {
+    "id": 261,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I do not know how to <u>manage</u> this unruly crowd.",
+    "options": ["deal in", "deal out", "deal by", "deal with"],
+    "answer": "deal with",
+    "explanation": "'Deal with' মানে সামলানো, ব্যবহার করা বা আচরণ করা (manage/behave)। আমি জানি না কীভাবে এই বিশৃঙ্খল জনতাকে সামলাতে হবে।"
+  },
+  {
+    "id": 262,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He is <u>lagging</u> in his studies due to prolonged absence.",
+    "options": ["falling out", "falling behind", "falling through", "falling back"],
+    "answer": "falling behind",
+    "explanation": "'Fall behind' মানে পিছিয়ে পড়া (lag behind)। দীর্ঘ অনুপস্থিতির কারণে সে পড়াশোনায় পিছিয়ে পড়ছে।"
+  },
+  {
+    "id": 263,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He had to <u>depend</u> on his savings during the crisis.",
+    "options": ["fall out", "fall back on", "fall through", "fall flat"],
+    "answer": "fall back on",
+    "explanation": "'Fall back on' মানে শেষ উপায় হিসেবে নির্ভর করা (depend on)। সংকটের সময় তাকে তার সঞ্চয়ের ওপর নির্ভর করতে হয়েছিল।"
+  },
+  {
+    "id": 264,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Some guests <u>visited casually</u> yesterday evening.",
+    "options": ["dropped out", "dropped off", "dropped in", "dropped by"],
+    "answer": "dropped in",
+    "explanation": "'Drop in' মানে হঠাৎ বা বিনা নোটিশে বেড়াতে আসা (visit casually)। গতকাল সন্ধ্যায় কিছু অতিথি হঠাৎ বেড়াতে এসেছিলেন।"
+  },
+  {
+    "id": 265,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He ran fast to <u>come level with</u> his older brother.",
+    "options": ["catch on", "catch out", "catch up with", "catch at"],
+    "answer": "catch up with",
+    "explanation": "'Catch up with' মানে নাগাল ধরা বা সমকক্ষ হওয়া (make up for lost distance)। সে তার বড় ভাইয়ের নাগাল ধরতে জোরে দৌড়েছিল।"
+  },
+  {
+    "id": 266,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The gloomy sky will <u>brighten</u> soon.",
+    "options": ["clear out", "clear off", "clear away", "clear up"],
+    "answer": "clear up",
+    "explanation": "'Clear up' মানে আবহাওয়া পরিষ্কার হওয়া বা রোদ ওঠা (become fine)। মেঘলা আকাশ শীঘ্রই পরিষ্কার হয়ে যাবে।"
+  },
+  {
+    "id": 267,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old man was <u>struck to the ground</u> by a speeding car.",
+    "options": ["knocked down", "knocked out", "knocked off", "knocked up"],
+    "answer": "knocked down",
+    "explanation": "'Knock down' মানে ধাক্কা দিয়ে ফেলে দেওয়া (strike to the ground)। একটি দ্রুতগামী গাড়ি বৃদ্ধ লোকটিকে ধাক্কা দিয়ে ফেলে দিয়েছিল।"
+  },
+  {
+    "id": 268,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Open the window to <u>allow</u> the fresh air <u>to enter</u>.",
+    "options": ["let in", "let out", "let off", "let down"],
+    "answer": "let in",
+    "explanation": "'Let in' মানে ভেতরে আসতে দেওয়া (allow to enter)। তাজা বাতাস ভেতরে আসার জন্য জানালা খুলে দাও।"
+  },
+  {
+    "id": 269,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He finally <u>discharged</u> all his old debts.",
+    "options": ["paid off", "paid back", "paid out", "paid up"],
+    "answer": "paid off",
+    "explanation": "'Pay off' মানে সমস্ত ঋণ শোধ করে দেওয়া (discharge debt)। সে অবশেষে তার সমস্ত পুরনো ঋণ শোধ করেছে।"
+  },
+  {
+    "id": 270,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>fainted</u> after hearing the tragic news.",
+    "options": ["passed away", "passed out", "passed by", "passed off"],
+    "answer": "passed out",
+    "explanation": "'Pass out' মানে অজ্ঞান হয়ে যাওয়া (faint)। মর্মান্তিক খবর শুনে সে অজ্ঞান হয়ে গিয়েছিল।"
+  },
+  {
+    "id": 271,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The patient will <u>survive</u> the critical operation.",
+    "options": ["pull down", "pull up", "pull out", "pull through"],
+    "answer": "pull through",
+    "explanation": "'Pull through' মানে সংকট বা গুরুতর অসুস্থতা কাটিয়ে ওঠা (survive/recover)। রোগীটি এই জটিল অস্ত্রোপচারের পর বেঁচে যাবে।"
+  },
+  {
+    "id": 272,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>understand</u> his hidden motive.",
+    "options": ["make up", "make for", "make off", "make out"],
+    "answer": "make out",
+    "explanation": "'Make out' মানে বুঝতে পারা (understand)। আমি তার গোপন উদ্দেশ্য বুঝতে পারছি না।"
+  },
+  {
+    "id": 273,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The local leader <u>distributed</u> blankets among the poor.",
+    "options": ["gave in", "gave away", "gave up", "gave out"],
+    "answer": "gave away",
+    "explanation": "'Give away' মানে বিতরণ করা (distribute)। স্থানীয় নেতা গরিবদের মধ্যে কম্বল বিতরণ করলেন।"
+  },
+  {
+    "id": 274,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>A massive fire suddenly <u>started</u> in the market.",
+    "options": ["broke out", "broke down", "broke into", "broke up"],
+    "answer": "broke out",
+    "explanation": "'Break out' মানে হঠাৎ প্রাদুর্ভাব হওয়া বা ছড়িয়ে পড়া (start suddenly)। বাজারে হঠাৎ এক ভয়াবহ আগুন ছড়িয়ে পড়েছিল।"
+  },
+  {
+    "id": 275,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>burst into tears</u> when she heard the news.",
+    "options": ["broke out", "broke into", "broke off", "broke down"],
+    "answer": "broke down",
+    "explanation": "'Break down' মানে কান্নায় ভেঙে পড়া বা আবেগ ধরে রাখতে না পারা (collapse emotionally)। খবরটি শুনে সে কান্নায় ভেঙে পড়েছিল।"
+  },
+  {
+    "id": 276,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The burglars <u>entered by force</u> into the jewelry shop.",
+    "options": ["broke out", "broke down", "broke up", "broke into"],
+    "answer": "broke into",
+    "explanation": "'Break into' মানে জোরপূর্বক প্রবেশ করা (enter by force)। ডাকাতরা জোর করে গয়নার দোকানে ঢুকেছিল।"
+  },
+  {
+    "id": 277,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Our college <u>closes</u> for summer vacation tomorrow.",
+    "options": ["breaks down", "breaks up", "breaks out", "breaks into"],
+    "answer": "breaks up",
+    "explanation": "'Break up' মানে ছুটি হওয়া বা শেষ হওয়া (close/end)। আমাদের কলেজ আগামীকাল গ্রীষ্মের ছুটির জন্য বন্ধ হবে।"
+  },
+  {
+    "id": 278,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>reduce</u> your sugar intake immediately.",
+    "options": ["cut off", "cut out", "cut down", "cut up"],
+    "answer": "cut down",
+    "explanation": "'Cut down' মানে কমানো বা হ্রাস করা (reduce)। তোমাকে অবিলম্বে চিনি খাওয়া কমাতে হবে।"
+  },
+  {
+    "id": 279,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The village was completely <u>isolated</u> by the sudden flood.",
+    "options": ["cut down", "cut out", "cut up", "cut off"],
+    "answer": "cut off",
+    "explanation": "'Cut off' মানে বিচ্ছিন্ন করা (isolate)। হঠাৎ বন্যায় গ্রামটি সম্পূর্ণ বিচ্ছিন্ন হয়ে পড়েছিল।"
+  },
+  {
+    "id": 280,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The assistant manager will <u>assume charge</u> of the new branch.",
+    "options": ["take up", "take over", "take off", "take down"],
+    "answer": "take over",
+    "explanation": "'Take over' মানে দায়িত্ব গ্রহণ করা (assume charge)। সহকারী ব্যবস্থাপক নতুন শাখার দায়িত্ব নেবেন।"
+  },
+  {
+    "id": 281,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I asked him to <u>record</u> my new address.",
+    "options": ["take off", "take up", "take out", "take down"],
+    "answer": "take down",
+    "explanation": "'Take down' মানে লিখে রাখা (write down/record)। আমি তাকে আমার নতুন ঠিকানা লিখে রাখতে বলেছিলাম।"
+  },
+  {
+    "id": 282,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The morning flight will <u>depart</u> at 6 AM.",
+    "options": ["take out", "take up", "take off", "take down"],
+    "answer": "take off",
+    "explanation": "'Take off' মানে উড্ডয়ন করা বা মাটি থেকে ওড়া (depart/leave ground)। সকালের ফ্লাইট ভোর ৬টায় উড়বে।"
+  },
+  {
+    "id": 283,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>resembles</u> her maternal aunt very much.",
+    "options": ["takes off", "takes after", "takes up", "takes down"],
+    "answer": "takes after",
+    "explanation": "'Take after' মানে দেখতে একই রকম হওয়া (resemble)। সে দেখতে অনেকটা তার মাসির মতো।"
+  },
+  {
+    "id": 284,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Who will <u>solve</u> this complex mathematical riddle?",
+    "options": ["work on", "work up", "work upon", "work out"],
+    "answer": "work out",
+    "explanation": "'Work out' মানে সমাধান করা (solve)। এই জটিল গাণিতিক ধাঁধাটি কে সমাধান করবে?"
+  },
+  {
+    "id": 285,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Continuous overwork will <u>affect</u> his health negatively.",
+    "options": ["tell off", "tell against", "tell upon", "tell out"],
+    "answer": "tell upon",
+    "explanation": "'Tell upon' বা 'Tell on' মানে স্বাস্থ্যের ওপর খারাপ প্রভাব ফেলা (affect adversely)। একটানা অতিরিক্ত কাজ তার স্বাস্থ্যের ক্ষতি করবে।"
+  },
+  {
+    "id": 286,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The cricket match was <u>canceled</u> due to the riot.",
+    "options": ["called up", "called in", "called off", "called for"],
+    "answer": "called off",
+    "explanation": "'Call off' মানে বাতিল করা (cancel)। দাঙ্গার কারণে ক্রিকেট ম্যাচটি বাতিল করা হয়েছিল।"
+  },
+  {
+    "id": 287,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I could not <u>remember</u> my old friend's phone number.",
+    "options": ["call off", "call up", "call in", "call for"],
+    "answer": "call up",
+    "explanation": "'Call up' মানে স্মরণ করা (remember)। আমি আমার পুরোনো বন্ধুর ফোন নম্বর মনে করতে পারছিলাম না।"
+  },
+  {
+    "id": 288,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We must <u>summon</u> the fire brigade without delay.",
+    "options": ["call in", "call for", "call up", "call off"],
+    "answer": "call in",
+    "explanation": "'Call in' মানে ডেকে পাঠানো (summon)। আমাদের দেরি না করে দমকল বাহিনীকে ডাকতে হবে।"
+  },
+  {
+    "id": 289,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>This critical occasion <u>requires</u> a grand celebration.",
+    "options": ["calls in", "calls up", "calls for", "calls off"],
+    "answer": "calls for",
+    "explanation": "'Call for' মানে দাবি করা বা প্রয়োজন হওয়া (require/demand)। এই বিশেষ উপলক্ষটি একটি জাঁকজমকপূর্ণ উদ্‌যাপনের দাবি রাখে।"
+  },
+  {
+    "id": 290,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He has <u>saved</u> some money for his daughter's marriage.",
+    "options": ["put up", "put by", "put off", "put out"],
+    "answer": "put by",
+    "explanation": "'Put by' বা 'Lay by' মানে ভবিষ্যতের জন্য সঞ্চয় করা (save)। সে তার মেয়ের বিয়ের জন্য কিছু টাকা জমিয়েছে।"
+  },
+  {
+    "id": 291,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The exhausted rebels finally <u>surrendered</u> to the armed forces.",
+    "options": ["gave up", "gave in", "gave out", "gave away"],
+    "answer": "gave in",
+    "explanation": "'Give in' মানে বশ্যতা স্বীকার করা (surrender)। ক্লান্ত বিদ্রোহীরা অবশেষে সশস্ত্র বাহিনীর কাছে আত্মসমর্পণ করে।"
+  },
+  {
+    "id": 292,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The rotten egg <u>emitted</u> a foul smell in the room.",
+    "options": ["gave away", "gave out", "gave off", "gave up"],
+    "answer": "gave off",
+    "explanation": "'Give off' মানে নির্গত করা (emit)। পচা ডিমটি ঘরে দুর্গন্ধ ছড়াচ্ছিল।"
+  },
+  {
+    "id": 293,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The victorious king <u>established</u> a vast new empire.",
+    "options": ["set up", "set out", "set in", "set off"],
+    "answer": "set up",
+    "explanation": "'Set up' মানে স্থাপন করা বা প্রতিষ্ঠা করা (establish)। বিজয়ী রাজা একটি বিশাল নতুন সাম্রাজ্য প্রতিষ্ঠা করেছিলেন।"
+  },
+  {
+    "id": 294,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We will <u>start</u> for the hills tomorrow morning.",
+    "options": ["set in", "set out", "set up", "set down"],
+    "answer": "set out",
+    "explanation": "'Set out' বা 'Set off' মানে যাত্রা শুরু করা (start a journey)। আমরা আগামীকাল সকালে পাহাড়ের উদ্দেশ্যে যাত্রা শুরু করব।"
+  },
+  {
+    "id": 295,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The heavy monsoon has already <u>begun</u> in Kerala.",
+    "options": ["set out", "set up", "set in", "set off"],
+    "answer": "set in",
+    "explanation": "'Set in' মানে শুরু হওয়া (begin - বিশেষত ঋতু বা আবহাওয়া)। কেরালায় ইতিমধ্যে প্রবল বর্ষা শুরু হয়ে গেছে।"
+  },
+  {
+    "id": 296,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I will always <u>support</u> you in your future endeavors.",
+    "options": ["stand out", "stand for", "stand up", "stand by"],
+    "answer": "stand by",
+    "explanation": "'Stand by' মানে পাশে থাকা বা সমর্থন করা (support)। তোমার ভবিষ্যতের প্রচেষ্টায় আমি সবসময় তোমার পাশে থাকব।"
+  },
+  {
+    "id": 297,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The white dove <u>represents</u> innocence and eternal peace.",
+    "options": ["stands for", "stands by", "stands out", "stands up"],
+    "answer": "stands for",
+    "explanation": "'Stand for' মানে প্রতীক হওয়া বা অর্থ বোঝানো (represent)। সাদা ঘুঘু পবিত্রতা ও চিরন্তন শান্তির প্রতীক।"
+  },
+  {
+    "id": 298,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old dilapidated building was <u>demolished</u> last week.",
+    "options": ["pulled up", "pulled through", "pulled down", "pulled out"],
+    "answer": "pulled down",
+    "explanation": "'Pull down' মানে ভেঙে ফেলা বা ধ্বংস করা (demolish)। পুরোনো জরাজীর্ণ ভবনটি গত সপ্তাহে ভেঙে ফেলা হয়েছে।"
+  },
+  {
+    "id": 299,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please do not <u>conceal</u> anything important from the doctor.",
+    "options": ["hold on", "hold back", "hold up", "hold out"],
+    "answer": "hold back",
+    "explanation": "'Hold back' মানে গোপন করা বা লুকিয়ে রাখা (conceal)। দয়া করে ডাক্তারের কাছে কোনো গুরুত্বপূর্ণ বিষয় গোপন করবেন না।"
+  },
+  {
+    "id": 300,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The express train was <u>delayed</u> by a sudden accident.",
+    "options": ["held up", "held on", "held back", "held out"],
+    "answer": "held up",
+    "explanation": "'Hold up' মানে দেরি করানো বা বাধাগ্রস্ত হওয়া (delay)। আকস্মিক দুর্ঘটনার কারণে এক্সপ্রেস ট্রেনটির দেরি হয়েছিল।"
+  },
+  {
+    "id": 301,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The sound of the music slowly <u>faded</u>.",
+    "options": ["died away", "died out", "died down", "died off"],
+    "answer": "died away",
+    "explanation": "'Die away' মানে শব্দ বা আওয়াজ ধীরে ধীরে মিলিয়ে যাওয়া (fade/become weaker)।"
+  },
+  {
+    "id": 302,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Many ancient customs have <u>become extinct</u>.",
+    "options": ["died away", "died down", "died out", "died off"],
+    "answer": "died out",
+    "explanation": "'Die out' মানে বিলুপ্ত হওয়া বা অস্তিত্বহীন হয়ে যাওয়া (become extinct)।"
+  },
+  {
+    "id": 303,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The storm has finally <u>subsided</u>.",
+    "options": ["died out", "died away", "died off", "died down"],
+    "answer": "died down",
+    "explanation": "'Die down' মানে শান্ত হওয়া বা প্রশমিত হওয়া (subside/decrease in intensity)।"
+  },
+  {
+    "id": 304,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The lawyer <u>drafted</u> a new agreement.",
+    "options": ["drew back", "drew out", "drew up", "drew in"],
+    "answer": "drew up",
+    "explanation": "'Draw up' মানে খসড়া তৈরি করা (draft/write a legal document)।"
+  },
+  {
+    "id": 305,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>withdrew</u> from the competition at the last moment.",
+    "options": ["drew up", "drew out", "drew back", "drew in"],
+    "answer": "drew back",
+    "explanation": "'Draw back' মানে পিছিয়ে আসা বা নাম প্রত্যাহার করা (withdraw/retreat)।"
+  },
+  {
+    "id": 306,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She had to <u>leave</u> college due to financial issues.",
+    "options": ["drop in", "drop by", "drop off", "drop out of"],
+    "answer": "drop out of",
+    "explanation": "'Drop out' বা 'Drop out of' মানে কোনো কিছু (যেমন পড়াশোনা) মাঝপথে ছেড়ে দেওয়া (leave/withdraw)।"
+  },
+  {
+    "id": 307,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old bridge <u>collapsed</u> under the heavy weight.",
+    "options": ["gave in", "gave out", "gave off", "gave way"],
+    "answer": "gave way",
+    "explanation": "'Give way' মানে ভেঙে পড়া বা ধসে পড়া (collapse)।"
+  },
+  {
+    "id": 308,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Poor people often have to <u>manage without</u> basic needs.",
+    "options": ["go off", "go through", "go without", "go by"],
+    "answer": "go without",
+    "explanation": "'Go without' মানে কোনো কিছু ছাড়াই চালানো বা বঞ্চিত থাকা (manage without/endure lack of)।"
+  },
+  {
+    "id": 309,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>transfer</u> your charge to the new manager.",
+    "options": ["hand out", "hand over", "hand in", "hand down"],
+    "answer": "hand over",
+    "explanation": "'Hand over' মানে দায়িত্ব বা জিনিসপত্র হস্তান্তর করা (transfer/give control)।"
+  },
+  {
+    "id": 310,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The volunteers <u>distributed</u> food among the victims.",
+    "options": ["handed out", "handed over", "handed in", "handed down"],
+    "answer": "handed out",
+    "explanation": "'Hand out' মানে বিতরণ করা (distribute)।"
+  },
+  {
+    "id": 311,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Do not <u>loiter</u> near the school gate.",
+    "options": ["hang up", "hang out", "hang around", "hang on"],
+    "answer": "hang around",
+    "explanation": "'Hang around' মানে উদ্দেশ্যহীনভাবে ঘোরাঘুরি করা (loiter/wait around)।"
+  },
+  {
+    "id": 312,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She suddenly <u>disconnected</u> the phone during the call.",
+    "options": ["hung around", "hung on", "hung up", "hung out"],
+    "answer": "hung up",
+    "explanation": "'Hang up' মানে হঠাৎ ফোন কেটে দেওয়া (disconnect a phone call)।"
+  },
+  {
+    "id": 313,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The matter was <u>postponed</u> till the next meeting.",
+    "options": ["held out", "held up", "held back", "held over"],
+    "answer": "held over",
+    "explanation": "'Hold over' মানে স্থগিত রাখা (postpone/defer)।"
+  },
+  {
+    "id": 314,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>keep pace with</u> your fast progress.",
+    "options": ["keep on", "keep back", "keep up with", "keep out"],
+    "answer": "keep up with",
+    "explanation": "'Keep up with' মানে সমান তালে চলা বা তাল মিলিয়ে চলা (keep pace with)।"
+  },
+  {
+    "id": 315,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>invested</u> a large sum of money in the project.",
+    "options": ["laid by", "laid out", "laid down", "laid off"],
+    "answer": "laid out",
+    "explanation": "'Lay out' মানে বিনিয়োগ করা বা অর্থ ব্যয় করা (invest/spend money)।"
+  },
+  {
+    "id": 316,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The thief quickly <u>moved towards</u> the dark alley.",
+    "options": ["made out", "made up", "made off", "made for"],
+    "answer": "made for",
+    "explanation": "'Make for' মানে কোনো দিকে অগ্রসর হওয়া (move towards)।"
+  },
+  {
+    "id": 317,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The innocent man was <u>deceived</u> by the clever fraud.",
+    "options": ["taken back", "taken in", "taken off", "taken down"],
+    "answer": "taken in",
+    "explanation": "'Take in' মানে প্রতারিত হওয়া বা বোকা বানানো (deceive/cheat)।"
+  },
+  {
+    "id": 318,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>withdraw</u> your offensive remarks immediately.",
+    "options": ["take in", "take back", "take down", "take off"],
+    "answer": "take back",
+    "explanation": "'Take back' মানে ফিরিয়ে নেওয়া বা প্রত্যাহার করা (withdraw a statement)।"
+  },
+  {
+    "id": 319,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The flood <u>destroyed</u> several houses in the village.",
+    "options": ["wiped out", "worn out", "washed away", "worked out"],
+    "answer": "washed away",
+    "explanation": "'Wash away' মানে জলের তোড়ে ভাসিয়ে নিয়ে যাওয়া বা ধ্বংস করা (destroy by water)।"
+  },
+  {
+    "id": 320,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The epidemic <u>destroyed completely</u> the entire population.",
+    "options": ["washed away", "wiped out", "worn out", "worked up"],
+    "answer": "wiped out",
+    "explanation": "'Wipe out' মানে সম্পূর্ণ ধ্বংস করা বা নিশ্চিহ্ন করা (destroy completely)।"
+  },
+  {
+    "id": 321,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Years of hard work have completely <u>exhausted</u> him.",
+    "options": ["wiped out", "worked out", "washed away", "worn out"],
+    "answer": "worn out",
+    "explanation": "'Wear out' মানে অত্যধিক পরিশ্রমে ক্লান্ত বা জরাজীর্ণ হওয়া (exhaust/tire greatly)।"
+  },
+  {
+    "id": 322,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We must <u>finish</u> the discussion by 5 PM.",
+    "options": ["wind up", "work out", "work up", "wipe out"],
+    "answer": "wind up",
+    "explanation": "'Wind up' মানে শেষ করা বা গুটিয়ে নেওয়া (finish/bring to an end)।"
+  },
+  {
+    "id": 323,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He finally <u>persuaded</u> his father to buy him a bike.",
+    "options": ["brought up", "brought out", "brought down", "brought round"],
+    "answer": "brought round",
+    "explanation": "'Bring round' মানে বুঝিয়ে রাজি করানো (persuade/convince)।"
+  },
+  {
+    "id": 324,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Cholera <u>killed</u> many people in the village last year.",
+    "options": ["carried off", "carried out", "carried on", "carried away"],
+    "answer": "carried off",
+    "explanation": "'Carry off' মানে কেড়ে নেওয়া বা মৃত্যুর কারণ হওয়া (kill/cause death)।"
+  },
+  {
+    "id": 325,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The sailors were <u>thrown away</u> on a lonely island.",
+    "options": ["cast aside", "cast away", "cast down", "cast off"],
+    "answer": "cast away",
+    "explanation": "'Cast away' মানে ছুড়ে ফেলা বা পরিত্যক্ত হওয়া (throw away/abandon)।"
+  },
+  {
+    "id": 326,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>rejected</u> the proposal without any second thought.",
+    "options": ["cast away", "cast aside", "cast down", "cast out"],
+    "answer": "cast aside",
+    "explanation": "'Cast aside' মানে বাতিল করা বা প্রত্যাখ্যান করা (reject/discard)।"
+  },
+  {
+    "id": 327,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was deeply <u>depressed</u> by his unexpected failure.",
+    "options": ["cast down", "cast away", "cast aside", "cast off"],
+    "answer": "cast down",
+    "explanation": "'Cast down' মানে হতাশ বা বিষণ্ণ হওয়া (depressed/discouraged)।"
+  },
+  {
+    "id": 328,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>A drowning man <u>grasps eagerly</u> at a straw.",
+    "options": ["catches up", "catches on", "catches at", "catches out"],
+    "answer": "catches at",
+    "explanation": "'Catch at' মানে সাগ্রহে আঁকড়ে ধরা বা চেষ্টা করা (grasp eagerly)।"
+  },
+  {
+    "id": 329,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His total expenses <u>amount to</u> five thousand rupees.",
+    "options": ["come to", "come of", "come across", "come about"],
+    "answer": "come to",
+    "explanation": "'Come to' মানে মোট পরিমাণ হওয়া (amount to)।"
+  },
+  {
+    "id": 330,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old house needs to be <u>renovated</u> before the festival.",
+    "options": ["done away with", "done for", "done up", "done without"],
+    "answer": "done up",
+    "explanation": "'Do up' মানে মেরামত বা সাজানো (renovate/repair)।"
+  },
+  {
+    "id": 331,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The attendance in the class has <u>decreased</u> recently.",
+    "options": ["fallen off", "fallen out", "fallen through", "fallen back"],
+    "answer": "fallen off",
+    "explanation": "'Fall off' মানে কমে যাওয়া বা হ্রাস পাওয়া (decrease/decline)।"
+  },
+  {
+    "id": 332,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She knows how to <u>be friendly</u> with her new neighbors.",
+    "options": ["get over", "get along", "get through", "get away"],
+    "answer": "get along",
+    "explanation": "'Get along' মানে মিলেমিশে থাকা বা মানিয়ে নেওয়া (manage/be friendly)।"
+  },
+  {
+    "id": 333,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You should <u>save</u> a portion of your income for emergencies.",
+    "options": ["set aside", "set out", "set in", "set off"],
+    "answer": "set aside",
+    "explanation": "'Set aside' মানে ভবিষ্যতের জন্য সরিয়ে রাখা (save/reserve)।"
+  },
+  {
+    "id": 334,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The scientist <u>proposed</u> a new theory in the conference.",
+    "options": ["put off", "put forward", "put up with", "put out"],
+    "answer": "put forward",
+    "explanation": "'Put forward' মানে প্রস্তাব পেশ করা (propose/suggest)।"
+  },
+  {
+    "id": 335,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We are <u>experiencing</u> a very critical situation right now.",
+    "options": ["passing away", "passing out", "passing off", "passing through"],
+    "answer": "passing through",
+    "explanation": "'Pass through' মানে কোনো পরিস্থিতির মধ্য দিয়ে যাওয়া বা অভিজ্ঞতা লাভ করা (experience/undergo)।"
+  },
+  {
+    "id": 336,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He has <u>ended relationship</u> with his old business partner.",
+    "options": ["broken down", "broken with", "broken out", "broken into"],
+    "answer": "broken with",
+    "explanation": "'Break with' মানে সম্পর্ক ছিন্ন করা বা ঝগড়া করা (end relationship/quarrel)।"
+  },
+  {
+    "id": 337,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His brave action will <u>elicit</u> high praise from everyone.",
+    "options": ["call upon", "call forth", "call out", "call in"],
+    "answer": "call forth",
+    "explanation": "'Call forth' মানে উদ্দীপ্ত করা বা বের করে আনা (elicit/provoke)।"
+  },
+  {
+    "id": 338,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I was <u>invited</u> to deliver the welcome address.",
+    "options": ["called forth", "called out", "called in", "called upon"],
+    "answer": "called upon",
+    "explanation": "'Call upon' মানে আমন্ত্রণ জানানো বা অনুরোধ করা (invite/ask to speak)।"
+  },
+  {
+    "id": 339,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The company decided to <u>reduce</u> its annual budget.",
+    "options": ["cut back", "cut off", "cut out", "cut up"],
+    "answer": "cut back",
+    "explanation": "'Cut back' মানে ব্যয় বা পরিমাণ কমানো (reduce/decrease)।"
+  },
+  {
+    "id": 340,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He smartly <u>persuaded</u> the boss to grant him a long leave.",
+    "options": ["got over", "got round", "got away", "got through"],
+    "answer": "got round",
+    "explanation": "'Get round' মানে বুঝিয়ে রাজি করানো (persuade/coax)।"
+  },
+  {
+    "id": 341,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The patient <u>regained consciousness</u> after a few hours.",
+    "options": ["came to", "came round", "came off", "came across"],
+    "answer": "came to",
+    "explanation": "'Come to' বা 'Come round' মানে জ্ঞান ফিরে পাওয়া (regain consciousness)।"
+  },
+  {
+    "id": 342,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We are <u>lacking</u> in our supply of fresh drinking water.",
+    "options": ["running out", "running down", "running over", "running short of"],
+    "answer": "running short of",
+    "explanation": "'Run short of' মানে ফুরিয়ে যাওয়া বা ঘাটতি দেখা দেওয়া (exhaust/lack)।"
+  },
+  {
+    "id": 343,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The speaker <u>excited</u> the crowd to uncontrollable violence.",
+    "options": ["worked out", "worked upon", "worked up", "worked in"],
+    "answer": "worked up",
+    "explanation": "'Work up' মানে উত্তেজিত করা (excite/arouse)।"
+  },
+  {
+    "id": 344,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Old people often <u>reflect on</u> their childhood memories.",
+    "options": ["look forward to", "look up to", "look back on", "look down upon"],
+    "answer": "look back on",
+    "explanation": "'Look back on' মানে অতীতের কথা স্মরণ করা (reflect on/remember the past)।"
+  },
+  {
+    "id": 345,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The angry dog suddenly <u>attacked</u> the stranger.",
+    "options": ["flew at", "fell upon", "ran after", "came across"],
+    "answer": "flew at",
+    "explanation": "'Fly at' মানে হঠাৎ তীব্রভাবে আক্রমণ করা (attack fiercely)।"
+  },
+  {
+    "id": 346,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The baby was <u>named after</u> his great-grandfather.",
+    "options": ["called upon", "called forth", "called in", "called after"],
+    "answer": "called after",
+    "explanation": "'Call after' মানে কারও নামে নাম রাখা (name after)।"
+  },
+  {
+    "id": 347,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>understand</u> the meaning of this complex poem.",
+    "options": ["make out", "figure out", "work out", "look out"],
+    "answer": "figure out",
+    "explanation": "'Figure out' বা 'Make out' মানে বুঝতে পারা বা হিসাব করা (understand/calculate)।"
+  },
+  {
+    "id": 348,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The notorious criminal <u>escaped</u> from the high-security prison.",
+    "options": ["broke out of", "broke into", "broke down", "broke up"],
+    "answer": "broke out of",
+    "explanation": "'Break out of' মানে জোরপূর্বক বা গুপ্তভাবে পালিয়ে যাওয়া (escape from confinement)।"
+  },
+  {
+    "id": 349,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br><u>Beware</u>, there is a speeding car coming towards us!",
+    "options": ["Look out", "Look up", "Look over", "Look around"],
+    "answer": "Look out",
+    "explanation": "'Look out' মানে সতর্ক হওয়া বা সাবধান হওয়া (beware/be careful)।"
+  },
+  {
+    "id": 350,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The talented student <u>won</u> three medals in the sports meet.",
+    "options": ["bore out", "bore with", "bore down", "bore away"],
+    "answer": "bore away",
+    "explanation": "'Bear away' বা 'Bear off' মানে জয়লাভ করা বা অর্জন করা (win/carry off)।"
+  },
+  {
+    "id": 351,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The man <u>relied on</u> his brother's help.",
+    "options": ["backed up", "called on", "fell upon", "banked on"],
+    "answer": "banked on",
+    "explanation": "'Bank on' বা 'Count on' মানে নির্ভর করা (rely on/depend on)।"
+  },
+  {
+    "id": 352,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please do not <u>interrupt</u> our conversation.",
+    "options": ["break out", "break into", "break in on", "break away"],
+    "answer": "break in on",
+    "explanation": "'Break in on' মানে কথোপকথনে বাধা দেওয়া (interrupt)।"
+  },
+  {
+    "id": 353,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He boldly <u>ignored</u> all my suggestions.",
+    "options": ["brought about", "brushed aside", "backed out", "blew over"],
+    "answer": "brushed aside",
+    "explanation": "'Brush aside' মানে উপেক্ষা করা বা গ্রাহ্য না করা (ignore/disregard)।"
+  },
+  {
+    "id": 354,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The actual truth finally <u>became clear to</u> her.",
+    "options": ["dawned upon", "drew up", "dealt with", "dropped in"],
+    "answer": "dawned upon",
+    "explanation": "'Dawn upon' বা 'Dawn on' মানে পরিষ্কার হওয়া বা বুঝতে পারা (become clear/realize)।"
+  },
+  {
+    "id": 355,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>discovered</u> a new plan to solve the issue.",
+    "options": ["held over", "hit upon", "hung up", "handed out"],
+    "answer": "hit upon",
+    "explanation": "'Hit upon' মানে হঠাৎ কোনো উপায় বা পরিকল্পনা খুঁজে পাওয়া (discover/find)।"
+  },
+  {
+    "id": 356,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>accepted eagerly</u> the new job offer.",
+    "options": ["kept up", "jumped at", "laid out", "looked over"],
+    "answer": "jumped at",
+    "explanation": "'Jump at' মানে সাগ্রহে বা সানন্দে গ্রহণ করা (accept eagerly)।"
+  },
+  {
+    "id": 357,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Cows <u>feed on</u> grass.",
+    "options": ["look for", "live on", "let in", "lay by"],
+    "answer": "live on",
+    "explanation": "'Live on' মানে খেয়ে বেঁচে থাকা (feed on)।"
+  },
+  {
+    "id": 358,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Let us <u>discuss</u> the matter seriously.",
+    "options": ["take after", "turn down", "talk over", "tell upon"],
+    "answer": "talk over",
+    "explanation": "'Talk over' মানে কোনো বিষয় নিয়ে আলোচনা করা (discuss)।"
+  },
+  {
+    "id": 359,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He needs some money to <u>overcome</u> this crisis.",
+    "options": ["turn out", "take over", "throw away", "tide over"],
+    "answer": "tide over",
+    "explanation": "'Tide over' মানে বিপদ বা সংকট কাটিয়ে ওঠা (overcome difficulties)।"
+  },
+  {
+    "id": 360,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The speaker <u>mentioned briefly</u> the issue of global warming.",
+    "options": ["turned up", "touched upon", "took down", "talked over"],
+    "answer": "touched upon",
+    "explanation": "'Touch upon' মানে সংক্ষেপে উল্লেখ করা (mention briefly)।"
+  },
+  {
+    "id": 361,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The chairman decided to <u>resign</u> due to ill health.",
+    "options": ["stand out", "set off", "step down", "strike off"],
+    "answer": "step down",
+    "explanation": "'Step down' মানে পদত্যাগ করা (resign)।"
+  },
+  {
+    "id": 362,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You should <u>adhere to</u> your principles.",
+    "options": ["stick to", "stand by", "set up", "see through"],
+    "answer": "stick to",
+    "explanation": "'Stick to' মানে অটল থাকা বা লেগে থাকা (adhere to)।"
+  },
+  {
+    "id": 363,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The police did not <u>exclude</u> the possibility of murder.",
+    "options": ["run down", "rule out", "run out", "run over"],
+    "answer": "rule out",
+    "explanation": "'Rule out' মানে বাতিল করা বা বাদ দেওয়া (exclude/eliminate)।"
+  },
+  {
+    "id": 364,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The effect of the medicine will <u>diminish</u> soon.",
+    "options": ["wear off", "wipe out", "work out", "wash away"],
+    "answer": "wear off",
+    "explanation": "'Wear off' মানে প্রভাব ধীরে ধীরে কমে যাওয়া (fade/diminish)।"
+  },
+  {
+    "id": 365,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Let's <u>finish</u> the meeting now.",
+    "options": ["wind up", "work up", "wear out", "wipe out"],
+    "answer": "wind up",
+    "explanation": "'Wind up' মানে শেষ করা বা গুটিয়ে নেওয়া (conclude/finish)।"
+  },
+  {
+    "id": 366,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>summon</u> a doctor immediately.",
+    "options": ["set forth", "stand for", "see off", "send for"],
+    "answer": "send for",
+    "explanation": "'Send for' মানে ডেকে পাঠানো (summon/call in)।"
+  },
+  {
+    "id": 367,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>started doing</u> his work immediately.",
+    "options": ["set out", "set up", "set in", "set about"],
+    "answer": "set about",
+    "explanation": "'Set about' মানে কোনো কাজ শুরু করা (begin/start doing)।"
+  },
+  {
+    "id": 368,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>saved</u> some money for his old age.",
+    "options": ["laid by", "laid out", "laid off", "laid down"],
+    "answer": "laid by",
+    "explanation": "'Lay by' মানে ভবিষ্যতের জন্য সঞ্চয় করা (save money)।"
+  },
+  {
+    "id": 369,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The rebels <u>surrendered</u> their arms.",
+    "options": ["laid out", "laid by", "laid down", "laid off"],
+    "answer": "laid down",
+    "explanation": "'Lay down' (arms) মানে অস্ত্র সমর্পণ করা বা আত্মসমর্পণ করা (surrender)।"
+  },
+  {
+    "id": 370,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The company will <u>dismiss</u> many workers.",
+    "options": ["lay out", "lay off", "lay down", "lay by"],
+    "answer": "lay off",
+    "explanation": "'Lay off' মানে ছাঁটাই করা বা বরখাস্ত করা (dismiss/terminate)।"
+  },
+  {
+    "id": 371,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His friends will <u>support</u> him in the election.",
+    "options": ["back out", "bear away", "bear down", "back up"],
+    "answer": "back up",
+    "explanation": "'Back up' মানে সমর্থন করা (support)।"
+  },
+  {
+    "id": 372,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The judge <u>pardoned</u> him with a warning.",
+    "options": ["let out", "let down", "let in", "let off"],
+    "answer": "let off",
+    "explanation": "'Let off' মানে শাস্তি থেকে রেহাই দেওয়া বা ক্ষমা করা (excuse/pardon)।"
+  },
+  {
+    "id": 373,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Do not <u>reveal</u> the secret to anyone.",
+    "options": ["let down", "let off", "let out", "let in"],
+    "answer": "let out",
+    "explanation": "'Let out' মানে ফাঁস করা বা প্রকাশ করা (reveal)।"
+  },
+  {
+    "id": 374,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>We should <u>respect</u> our teachers.",
+    "options": ["look down upon", "look forward to", "look up to", "look out"],
+    "answer": "look up to",
+    "explanation": "'Look up to' মানে সম্মান করা (respect)।"
+  },
+  {
+    "id": 375,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Do not <u>hate</u> the poor.",
+    "options": ["look up to", "look after", "look into", "look down upon"],
+    "answer": "look down upon",
+    "explanation": "'Look down upon' মানে অবজ্ঞা করা বা ঘৃণা করা (hate/despise)।"
+  },
+  {
+    "id": 376,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The ship <u>moved towards</u> the harbor.",
+    "options": ["made out", "made off", "made for", "made up"],
+    "answer": "made for",
+    "explanation": "'Make for' মানে কোনো কিছুর দিকে অগ্রসর হওয়া (move towards)।"
+  },
+  {
+    "id": 377,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>is regarded as</u> a learned man in the village.",
+    "options": ["passes for", "passes away", "passes out", "passes off"],
+    "answer": "passes for",
+    "explanation": "'Pass for' মানে হিসেবে গণ্য হওয়া বা পরিচিত হওয়া (be regarded as)।"
+  },
+  {
+    "id": 378,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The driver <u>stopped</u> the car suddenly.",
+    "options": ["pulled down", "pulled through", "pulled out", "pulled up"],
+    "answer": "pulled up",
+    "explanation": "'Pull up' মানে গাড়ি থামানো (stop a vehicle)।"
+  },
+  {
+    "id": 379,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The rebellion was <u>suppressed</u> by the army.",
+    "options": ["put out", "put off", "put down", "put up"],
+    "answer": "put down",
+    "explanation": "'Put down' মানে কঠোর হাতে দমন করা (suppress/crush)।"
+  },
+  {
+    "id": 380,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>saved</u> a large amount of money.",
+    "options": ["put by", "put down", "put off", "put up"],
+    "answer": "put by",
+    "explanation": "'Put by' মানে সঞ্চয় করা (save for future)।"
+  },
+  {
+    "id": 381,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Do not <u>criticize</u> your friends publicly.",
+    "options": ["run over", "run down", "run into", "run out"],
+    "answer": "run down",
+    "explanation": "'Run down' মানে সমালোচনা বা নিন্দা করা (criticize/depreciate)।"
+  },
+  {
+    "id": 382,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>attend to</u> this matter immediately.",
+    "options": ["see off", "see to", "see through", "see about"],
+    "answer": "see to",
+    "explanation": "'See to' বা 'Attend to' মানে মনোযোগ দেওয়া বা ব্যবস্থা নেওয়া (attend to/take care of)।"
+  },
+  {
+    "id": 383,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The monsoon has <u>begun</u>.",
+    "options": ["set out", "set in", "set up", "set off"],
+    "answer": "set in",
+    "explanation": "'Set in' মানে শুরু হওয়া (begin)।"
+  },
+  {
+    "id": 384,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>They <u>started</u> for Delhi early in the morning.",
+    "options": ["set in", "set up", "set forth", "set down"],
+    "answer": "set forth",
+    "explanation": "'Set forth' বা 'Set out' মানে যাত্রা শুরু করা (start a journey)।"
+  },
+  {
+    "id": 385,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>This fund is <u>reserved</u> for the poor.",
+    "options": ["set out", "set up", "set off", "set apart"],
+    "answer": "set apart",
+    "explanation": "'Set apart' মানে আলাদা করে বা সংরক্ষিত রাখা (reserve)।"
+  },
+  {
+    "id": 386,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Her brilliant performance made her <u>prominent</u>.",
+    "options": ["stand up", "stand by", "stand out", "stand for"],
+    "answer": "stand out",
+    "explanation": "'Stand out' মানে বিশিষ্ট হওয়া বা আলাদাভাবে চোখে পড়া (be prominent)।"
+  },
+  {
+    "id": 387,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He has <u>formed a habit of</u> drinking wine.",
+    "options": ["taken up", "taken to", "taken off", "taken down"],
+    "answer": "taken to",
+    "explanation": "'Take to' মানে কোনো কিছুর প্রতি আসক্ত হওয়া (form a habit of)।"
+  },
+  {
+    "id": 388,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I <u>mistook</u> him <u>for</u> a thief.",
+    "options": ["took ... in", "took ... after", "took ... for", "took ... down"],
+    "answer": "took ... for",
+    "explanation": "'Take for' মানে ভুল করে কাউকে অন্য কিছু ভাবা (mistake for)।"
+  },
+  {
+    "id": 389,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His own supporters <u>became hostile to</u> him.",
+    "options": ["turned down", "turned out", "turned away", "turned against"],
+    "answer": "turned against",
+    "explanation": "'Turn against' মানে বিরুদ্ধে যাওয়া বা শত্রুভাবাপন্ন হওয়া (become hostile)।"
+  },
+  {
+    "id": 390,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was <u>evicted</u> from the house.",
+    "options": ["turned down", "turned off", "turned up", "turned out"],
+    "answer": "turned out",
+    "explanation": "'Turn out' মানে বের করে দেওয়া বা বিতাড়িত করা (evict/expel)।"
+  },
+  {
+    "id": 391,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>kept up courage</u> in the face of danger.",
+    "options": ["bore down", "bore out", "bore up", "bore away"],
+    "answer": "bore up",
+    "explanation": "'Bear up' মানে মনের জোর বজায় রাখা (keep up courage/endure)।"
+  },
+  {
+    "id": 392,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The crisis will <u>pass away</u> soon.",
+    "options": ["blow over", "blow out", "blow up", "blow off"],
+    "answer": "blow over",
+    "explanation": "'Blow over' মানে বিপদ বা সংকট কেটে যাওয়া (pass away/subside)।"
+  },
+  {
+    "id": 393,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>What <u>caused</u> his sudden ruin?",
+    "options": ["brought out", "brought about", "brought up", "brought down"],
+    "answer": "brought about",
+    "explanation": "'Bring about' মানে ঘটানো (cause to happen)।"
+  },
+  {
+    "id": 394,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>His speech <u>elicited</u> much admiration.",
+    "options": ["called forth", "called upon", "called out", "called in"],
+    "answer": "called forth",
+    "explanation": "'Call forth' মানে বের করে আনা বা উদ্দীপ্ত করা (elicit/produce)।"
+  },
+  {
+    "id": 395,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>How did you <u>get</u> this rare book?",
+    "options": ["come across", "come round", "come of", "come by"],
+    "answer": "come by",
+    "explanation": "'Come by' মানে পাওয়া (get/obtain)।"
+  },
+  {
+    "id": 396,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The principal <u>distributed</u> the prizes.",
+    "options": ["dealt out", "dealt in", "dealt with", "dealt by"],
+    "answer": "dealt out",
+    "explanation": "'Deal out' মানে বিতরণ করা (distribute)।"
+  },
+  {
+    "id": 397,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The enemy troops had to <u>retreat</u>.",
+    "options": ["fall out", "fall back", "fall through", "fall flat"],
+    "answer": "fall back",
+    "explanation": "'Fall back' মানে পিছু হটা (retreat)।"
+  },
+  {
+    "id": 398,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I could not <u>reach</u> the truth.",
+    "options": ["get at", "get on", "get over", "get through"],
+    "answer": "get at",
+    "explanation": "'Get at' মানে পৌঁছানো বা সত্য উদ্ঘাটন করা (reach/discover)।"
+  },
+  {
+    "id": 399,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>concealed</u> nothing from me.",
+    "options": ["held back", "held on", "held up", "held out"],
+    "answer": "held back",
+    "explanation": "'Hold back' মানে গোপন করা বা চেপে রাখা (conceal)।"
+  },
+  {
+    "id": 400,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He could not <u>maintain</u> his high reputation.",
+    "options": ["keep up", "keep on", "keep away", "keep back"],
+    "answer": "keep up",
+    "explanation": "'Keep up' মানে বজায় রাখা (maintain)।"
+  },
+  {
+    "id": 401,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>How do you <u>explain</u> this sudden disappearance?",
+    "options": ["allow for", "answer for", "ask for", "account for"],
+    "answer": "account for",
+    "explanation": "'Account for' মানে ব্যাখ্যা দেওয়া বা কারণ দর্শানো (explain)। তুমি এই হঠাৎ নিখোঁজ হওয়ার কী ব্যাখ্যা দেবে?"
+  },
+  {
+    "id": 402,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I cannot <u>agree with</u> your strange proposal.",
+    "options": ["fall out", "fall through", "fall back", "fall in with"],
+    "answer": "fall in with",
+    "explanation": "'Fall in with' মানে একমত হওয়া বা রাজি হওয়া (agree with)। আমি তোমার এই অদ্ভুত প্রস্তাবের সাথে একমত হতে পারছি না।"
+  },
+  {
+    "id": 403,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He thought he could cheat and <u>escape without punishment</u>.",
+    "options": ["get on with", "get through", "get away with", "get over"],
+    "answer": "get away with",
+    "explanation": "'Get away with' মানে কোনো খারাপ কাজ করেও শাস্তি এড়িয়ে যাওয়া (escape without punishment)।"
+  },
+  {
+    "id": 404,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She decided to <u>participate</u> in the debate competition.",
+    "options": ["go over", "go through", "go off", "go in for"],
+    "answer": "go in for",
+    "explanation": "'Go in for' মানে অংশগ্রহণ করা বা কোনো প্রতিযোগিতায় নামা (participate/enter for a competition)।"
+  },
+  {
+    "id": 405,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>This tradition was <u>passed to the next generation</u>.",
+    "options": ["handed down", "handed out", "handed in", "handed over"],
+    "answer": "handed down",
+    "explanation": "'Hand down' মানে উত্তরাধিকার সূত্রে বা পরবর্তী প্রজন্মের কাছে হস্তান্তর করা (pass to the next generation)।"
+  },
+  {
+    "id": 406,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old rule does not <u>remain valid</u> anymore.",
+    "options": ["hold good", "hold out", "hold on", "hold back"],
+    "answer": "hold good",
+    "explanation": "'Hold good' মানে কার্যকর থাকা বা বৈধ থাকা (remain valid/apply)। পুরোনো নিয়মটি আর কার্যকর নেই।"
+  },
+  {
+    "id": 407,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was <u>allowed to know</u> the secret plan.",
+    "options": ["let out", "let off", "let into", "let down"],
+    "answer": "let into",
+    "explanation": "'Let into' মানে কোনো গোপন বিষয় জানতে দেওয়া (allow to know a secret)।"
+  },
+  {
+    "id": 408,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The teacher failed to <u>communicate</u> his ideas to the students.",
+    "options": ["put out", "put off", "put up", "put across"],
+    "answer": "put across",
+    "explanation": "'Put across' মানে নিজের বক্তব্য বা ধারণা অন্যের কাছে স্পষ্টভাবে তুলে ধরা (communicate effectively)।"
+  },
+  {
+    "id": 409,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The fraud <u>exploited</u> the emotions of the old lady.",
+    "options": ["passed off", "pulled down", "put down", "played on"],
+    "answer": "played on",
+    "explanation": "'Play on' বা 'Play upon' মানে কারও আবেগের সুযোগ নেওয়া বা দুর্বলতা কাজে লাগানো (exploit)।"
+  },
+  {
+    "id": 410,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>incurred</u> a heavy debt for his business.",
+    "options": ["ran out", "ran down", "ran over", "ran into"],
+    "answer": "ran into",
+    "explanation": "'Run into' মানে ঋণে জড়ানো বা হঠাৎ কোনো কিছুর সম্মুখীন হওয়া (incur debt/meet by chance)।"
+  },
+  {
+    "id": 411,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The event <u>took place</u> without any trouble.",
+    "options": ["passed out", "passed away", "passed by", "passed off"],
+    "answer": "passed off",
+    "explanation": "'Pass off' মানে কোনো ঘটনা নির্বিঘ্নে সম্পন্ন হওয়া বা অনুষ্ঠিত হওয়া (take place smoothly)।"
+  },
+  {
+    "id": 412,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please <u>speak loudly</u> so that everyone can hear.",
+    "options": ["speak up", "stand out", "show off", "set forth"],
+    "answer": "speak up",
+    "explanation": "'Speak up' মানে জোরে বা স্পষ্টভাবে কথা বলা (speak loudly)।"
+  },
+  {
+    "id": 413,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The new fashion <u>became popular</u> very quickly.",
+    "options": ["caught on", "caught up", "caught at", "caught out"],
+    "answer": "caught on",
+    "explanation": "'Catch on' মানে জনপ্রিয় হওয়া (become popular)। নতুন ফ্যাশনটি খুব দ্রুত জনপ্রিয় হয়েছিল।"
+  },
+  {
+    "id": 414,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She <u>fell ill</u> with a severe fever.",
+    "options": ["came across", "came round", "came down with", "came of"],
+    "answer": "came down with",
+    "explanation": "'Come down with' মানে কোনো রোগে আক্রান্ত হওয়া (fall ill with)।"
+  },
+  {
+    "id": 415,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He <u>thought of</u> a brilliant idea.",
+    "options": ["caught up with", "kept up with", "came up with", "put up with"],
+    "answer": "came up with",
+    "explanation": "'Come up with' মানে নতুন কোনো ধারণা বা পরিকল্পনা নিয়ে আসা (think of/produce an idea)।"
+  },
+  {
+    "id": 416,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Please do not <u>disappoint</u> me this time.",
+    "options": ["let off", "let out", "let down", "let in"],
+    "answer": "let down",
+    "explanation": "'Let down' মানে কাউকে হতাশ করা (disappoint)। দয়া করে এবার আমাকে হতাশ করো না।"
+  },
+  {
+    "id": 417,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I had to <u>read quickly</u> the entire report.",
+    "options": ["glance through", "go through", "get through", "pull through"],
+    "answer": "glance through",
+    "explanation": "'Glance through' মানে চোখ বুলিয়ে নেওয়া বা দ্রুত পড়া (read quickly)।"
+  },
+  {
+    "id": 418,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Can you <u>calculate</u> the total cost?",
+    "options": ["work up", "figure out", "make for", "look up"],
+    "answer": "figure out",
+    "explanation": "'Figure out' মানে হিসাব করে বের করা বা বুঝতে পারা (calculate/understand)।"
+  },
+  {
+    "id": 419,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Some urgent work <u>happened unexpectedly</u>.",
+    "options": ["turned up", "came about", "cropped up", "broke out"],
+    "answer": "cropped up",
+    "explanation": "'Crop up' মানে হঠাৎ করে কিছু ঘটা বা এসে পড়া (appear/happen unexpectedly)।"
+  },
+  {
+    "id": 420,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You should <u>wear formally</u> for the party.",
+    "options": ["put on", "get on", "dress up", "show off"],
+    "answer": "dress up",
+    "explanation": "'Dress up' মানে কোনো বিশেষ অনুষ্ঠানের জন্য পরিপাটি হয়ে পোশাক পরা (wear formal clothes)।"
+  },
+  {
+    "id": 421,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The mother <u>scolded</u> her son for his mistake.",
+    "options": ["told upon", "told off", "told against", "called off"],
+    "answer": "told off",
+    "explanation": "'Tell off' মানে বকাঝকা করা বা তিরস্কার করা (scold/reprimand)।"
+  },
+  {
+    "id": 422,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>They were <u>confined</u> in the room.",
+    "options": ["shut out", "shut in", "shut down", "shut off"],
+    "answer": "shut in",
+    "explanation": "'Shut in' মানে আবদ্ধ করে রাখা বা আটকে রাখা (confine)।"
+  },
+  {
+    "id": 423,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Why was my name <u>excluded</u> from the list?",
+    "options": ["left out", "left off", "left behind", "laid off"],
+    "answer": "left out",
+    "explanation": "'Leave out' মানে বাদ দেওয়া বা অন্তর্ভুক্ত না করা (exclude/omit)।"
+  },
+  {
+    "id": 424,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He always <u>boasts</u> about his wealth.",
+    "options": ["shows up", "shows around", "stands out", "shows off"],
+    "answer": "shows off",
+    "explanation": "'Show off' মানে অহংকার করে দেখানো বা জাহির করা (boast/display proudly)।"
+  },
+  {
+    "id": 425,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>stay away from</u> the grass.",
+    "options": ["keep out", "keep off", "keep back", "keep up"],
+    "answer": "keep off",
+    "explanation": "'Keep off' মানে কোনো কিছু থেকে দূরে থাকা বা না মাড়ানো (stay away from)।"
+  },
+  {
+    "id": 426,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The dog <u>attacked fiercely</u> the postman.",
+    "options": ["fell upon", "flew at", "ran after", "went for"],
+    "answer": "flew at",
+    "explanation": "'Fly at' মানে হঠাৎ করে ক্ষিপ্ত হয়ে আক্রমণ করা (attack fiercely)।"
+  },
+  {
+    "id": 427,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The judge <u>ordered</u> the criminal to stand.",
+    "options": ["called out", "called upon", "called forth", "called in"],
+    "answer": "called upon",
+    "explanation": "'Call upon' মানে আদেশ করা বা আমন্ত্রণ জানানো (order/invite)।"
+  },
+  {
+    "id": 428,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The disease <u>killed</u> hundreds of people.",
+    "options": ["carried out", "carried on", "carried away", "carried off"],
+    "answer": "carried off",
+    "explanation": "'Carry off' মানে মৃত্যুর কারণ হওয়া (kill/cause death)।"
+  },
+  {
+    "id": 429,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was <u>depressed</u> by the bad news.",
+    "options": ["cast down", "cast away", "cast aside", "cast off"],
+    "answer": "cast down",
+    "explanation": "'Cast down' মানে মনমরা হওয়া বা হতাশ হওয়া (depressed/dejected)।"
+  },
+  {
+    "id": 430,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The total bill <u>amounted to</u> fifty dollars.",
+    "options": ["came to", "came round", "came across", "came of"],
+    "answer": "came to",
+    "explanation": "'Come to' মানে মোট পরিমাণ হওয়া (amount to)।"
+  },
+  {
+    "id": 431,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The old system was <u>abolished</u> completely.",
+    "options": ["done away with", "done for", "done up", "done without"],
+    "answer": "done away with",
+    "explanation": "'Do away with' মানে বিলুপ্ত করা বা তুলে দেওয়া (abolish)।"
+  },
+  {
+    "id": 432,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The meeting was <u>concluded</u> with a vote of thanks.",
+    "options": ["wound up", "worked out", "wiped out", "worn out"],
+    "answer": "wound up",
+    "explanation": "'Wind up' (past: wound up) মানে শেষ করা বা সমাপ্ত করা (conclude/finish)।"
+  },
+  {
+    "id": 433,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Years of hard labor have <u>exhausted</u> him.",
+    "options": ["worked out", "wiped out", "washed away", "worn out"],
+    "answer": "worn out",
+    "explanation": "'Wear out' (past participle: worn out) মানে ক্লান্ত বা জীর্ণ করা (exhaust/tire)।"
+  },
+  {
+    "id": 434,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>A massive tsunami <u>destroyed by water</u> the coastal village.",
+    "options": ["wiped out", "worn out", "worked up", "washed away"],
+    "answer": "washed away",
+    "explanation": "'Wash away' মানে জলের তোড়ে ভাসিয়ে নিয়ে যাওয়া বা ধ্বংস করা (destroy by water)।"
+  },
+  {
+    "id": 435,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>You must <u>withdraw</u> your insulting words.",
+    "options": ["take down", "take off", "take back", "take out"],
+    "answer": "take back",
+    "explanation": "'Take back' মানে ফিরিয়ে নেওয়া বা প্রত্যাহার করা (withdraw/retract)।"
+  },
+  {
+    "id": 436,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was <u>deceived</u> by the smooth-talking salesman.",
+    "options": ["taken back", "taken in", "taken off", "taken down"],
+    "answer": "taken in",
+    "explanation": "'Take in' মানে বোকা বানানো বা প্রতারিত করা (deceive/cheat)।"
+  },
+  {
+    "id": 437,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The thief <u>moved towards</u> the nearest exit.",
+    "options": ["made out", "made up", "made for", "made off"],
+    "answer": "made for",
+    "explanation": "'Make for' মানে কোনো কিছুর দিকে অগ্রসর হওয়া (move towards)।"
+  },
+  {
+    "id": 438,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>She has <u>invested</u> all her money in stocks.",
+    "options": ["laid by", "laid out", "laid down", "laid off"],
+    "answer": "laid out",
+    "explanation": "'Lay out' মানে বিনিয়োগ করা বা অর্থ ব্যয় করা (invest/spend)।"
+  },
+  {
+    "id": 439,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>They failed to <u>keep pace with</u> the changing technology.",
+    "options": ["keep on", "keep back", "keep up with", "keep out"],
+    "answer": "keep up with",
+    "explanation": "'Keep up with' মানে সমান তালে চলা (keep pace with)।"
+  },
+  {
+    "id": 440,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The execution was <u>deferred</u> till the next day.",
+    "options": ["held over", "held out", "held up", "held back"],
+    "answer": "held over",
+    "explanation": "'Hold over' মানে স্থগিত রাখা বা পিছিয়ে দেওয়া (postpone/defer)।"
+  },
+  {
+    "id": 441,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He angrily <u>disconnected</u> the phone.",
+    "options": ["hung up", "hung around", "hung on", "hung out"],
+    "answer": "hung up",
+    "explanation": "'Hang up' মানে হঠাৎ ফোন কেটে দেওয়া (disconnect a call)।"
+  },
+  {
+    "id": 442,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Don't <u>loiter</u> near the restricted area.",
+    "options": ["hang up", "hang around", "hang on", "hang out"],
+    "answer": "hang around",
+    "explanation": "'Hang around' মানে ঘোরাঘুরি করা বা অকারণে দাঁড়িয়ে থাকা (loiter/wait)।"
+  },
+  {
+    "id": 443,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The flood <u>destroyed completely</u> the crops.",
+    "options": ["washed away", "worn out", "wiped out", "worked out"],
+    "answer": "wiped out",
+    "explanation": "'Wipe out' মানে সম্পূর্ণ ধ্বংস বা নিশ্চিহ্ন করা (destroy completely)।"
+  },
+  {
+    "id": 444,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>I will <u>manage without</u> lunch today.",
+    "options": ["go off", "go through", "go without", "go by"],
+    "answer": "go without",
+    "explanation": "'Go without' মানে কোনো কিছু ছাড়াই চালানো (manage without)।"
+  },
+  {
+    "id": 445,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The bridge <u>collapsed</u> under pressure.",
+    "options": ["gave in", "gave out", "gave off", "gave way"],
+    "answer": "gave way",
+    "explanation": "'Give way' মানে ভেঙে পড়া বা ধসে পড়া (collapse)।"
+  },
+  {
+    "id": 446,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>He was forced to <u>leave</u> the tournament.",
+    "options": ["drop in", "drop out of", "drop by", "drop off"],
+    "answer": "drop out of",
+    "explanation": "'Drop out of' মানে মাঝপথে ছেড়ে দেওয়া (leave/withdraw)।"
+  },
+  {
+    "id": 447,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The committee <u>drafted</u> the final resolution.",
+    "options": ["drew back", "drew up", "drew out", "drew in"],
+    "answer": "drew up",
+    "explanation": "'Draw up' মানে খসড়া প্রস্তুত করা (draft/prepare a document)।"
+  },
+  {
+    "id": 448,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The uproar slowly <u>subsided</u>.",
+    "options": ["died down", "died out", "died away", "died off"],
+    "answer": "died down",
+    "explanation": "'Die down' মানে শান্ত হওয়া বা প্রকোপ কমা (subside)।"
+  },
+  {
+    "id": 449,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>The rumor will soon <u>fade</u>.",
+    "options": ["die out", "die away", "die down", "die off"],
+    "answer": "die away",
+    "explanation": "'Die away' মানে মিলিয়ে যাওয়া বা অস্পষ্ট হওয়া (fade/become weaker)।"
+  },
+  {
+    "id": 450,
+    "question": "Replace the underlined verb with the appropriate phrasal verb from those given below:<br>Many species of animals have <u>become extinct</u>.",
+    "options": ["died away", "died out", "died down", "died off"],
+    "answer": "died out",
+    "explanation": "'Die out' মানে বিলুপ্ত হওয়া বা শেষ হয়ে যাওয়া (become extinct)।"
+  }
+]

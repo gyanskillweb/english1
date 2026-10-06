@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "question": "What is the meaning of the idiom: 'A blessing in disguise'?",
+    "options": ["A hidden advantage", "A curse", "An obvious benefit", "A tragic event"],
+    "answer": "A hidden advantage",
+    "explanation": "'A blessing in disguise' এর অর্থ হলো এমন কিছু যা প্রথমে খারাপ বা হতাশাজনক মনে হলেও পরে তা উপকারী বলে প্রমাণিত হয়। অর্থাৎ একটি লুকানো আশীর্বাদ (A hidden advantage)।"
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct meaning of the idiom: 'A piece of cake'",
+    "options": ["A hard task", "A very easy task", "A sweet dessert", "An impossible goal"],
+    "answer": "A very easy task",
+    "explanation": "'A piece of cake' বলতে এমন কোনো কাজকে বোঝায় যা করা খুবই সহজ (A very easy task)।"
+  },
+  {
+    "id": 3,
+    "question": "What does the phrase 'Apple of discord' mean?",
+    "options": ["A delicious fruit", "A peaceful treaty", "Cause of quarrel", "A friendly gesture"],
+    "answer": "Cause of quarrel",
+    "explanation": "'Apple of discord' কথাটির অর্থ হলো বিবাদের কারণ বা ঝগড়ার মূল বিষয় (Cause of quarrel)। যেমন সম্পত্তির ভাগাভাগি ভাইদের মধ্যে 'apple of discord' হতে পারে।"
+  },
+  {
+    "id": 4,
+    "question": "Find the meaning of the idiom: 'At the eleventh hour'",
+    "options": ["At 11 o'clock", "Early in the morning", "Very early", "At the very last moment"],
+    "answer": "At the very last moment",
+    "explanation": "'At the eleventh hour' বলতে একেবারে শেষ মুহূর্তে কোনো কাজ করাকে বোঝায় (At the very last moment), যখন আর সময় প্রায় থাকে না।"
+  },
+  {
+    "id": 5,
+    "question": "What is the meaning of: 'A bed of roses'?",
+    "options": ["A comfortable and easy situation", "A garden of flowers", "A difficult phase", "A painful journey"],
+    "answer": "A comfortable and easy situation",
+    "explanation": "'A bed of roses' মানে হলো একটি অত্যন্ত আরামদায়ক এবং সহজ পরিস্থিতি। সাধারণত এটি নেতিবাচক বাক্যে বেশি ব্যবহৃত হয়, যেমন- Life is not a bed of roses."
+  },
+  {
+    "id": 6,
+    "question": "Choose the exact meaning of: 'A dark horse'",
+    "options": ["A black colored horse", "An unexpected winner", "A bad person", "A nightmare"],
+    "answer": "An unexpected winner",
+    "explanation": "'A dark horse' বলতে এমন ব্যক্তিকে বোঝায় যার ক্ষমতা সম্পর্কে কেউ জানতো না, কিন্তু সে অপ্রত্যাশিতভাবে জয়লাভ করে বা সাফল্য পায় (An unexpected winner)।"
+  },
+  {
+    "id": 7,
+    "question": "What does 'A white elephant' mean?",
+    "options": ["A rare animal", "A very strong person", "Costly and troublesome possession", "A useful thing"],
+    "answer": "Costly and troublesome possession",
+    "explanation": "'A white elephant' বলতে এমন কোনো সম্পত্তি বা জিনিসকে বোঝায় যা রাখা খুবই ব্যয়বহুল কিন্তু তা থেকে কোনো লাভ বা উপকার পাওয়া যায় না।"
+  },
+  {
+    "id": 8,
+    "question": "Select the correct meaning of: 'Add fuel to the fire'",
+    "options": ["To extinguish fire", "To cook food", "To make peace", "To make a bad situation worse"],
+    "answer": "To make a bad situation worse",
+    "explanation": "'Add fuel to the fire' বা আগুনে ঘি ঢালার অর্থ হলো একটি খারাপ বা উত্তপ্ত পরিস্থিতিকে আরও খারাপ বা জটিল করে তোলা।"
+  },
+  {
+    "id": 9,
+    "question": "What is the meaning of the phrase: 'All in all'?",
+    "options": ["Most important", "Everything together", "Nothing at all", "Partially"],
+    "answer": "Most important",
+    "explanation": "'All in all' বলতে সর্বেসর্বা বা সবচেয়ে গুরুত্বপূর্ণ (Most important) ব্যক্তি বা বিষয়কে বোঝায়।"
+  },
+  {
+    "id": 10,
+    "question": "Choose the right meaning of: 'Apple of one's eye'",
+    "options": ["Enemy", "Very dear or precious", "A good visual", "An apple tree"],
+    "answer": "Very dear or precious",
+    "explanation": "'Apple of one's eye' মানে হলো চোখের মণি। অর্থাৎ এমন কেউ যাকে অত্যন্ত বেশি ভালোবাসা হয় বা যে খুব প্রিয় (Very dear or precious)।"
+  },
+  {
+    "id": 11,
+    "question": "What does the idiom 'At arm's length' mean?",
+    "options": ["Very close", "Measuring an arm", "To keep at a distance", "To hug someone"],
+    "answer": "To keep at a distance",
+    "explanation": "'At arm's length' বলতে বোঝায় নিরাপদ দূরত্ব বজায় রাখা বা কাউকে খুব বেশি ঘনিষ্ঠ হতে না দেওয়া (To keep at a distance/avoid intimacy)।"
+  },
+  {
+    "id": 12,
+    "question": "Find the correct meaning: 'At daggers drawn'",
+    "options": ["Playing a game", "Friendly relation", "Fighting with swords", "Bitter enmity"],
+    "answer": "Bitter enmity",
+    "explanation": "'At daggers drawn' বলতে দুই ব্যক্তি বা দলের মধ্যে চরম শত্রুতা বা সাপে-নেউলে সম্পর্ককে বোঝায় (Bitter enmity)।"
+  },
+  {
+    "id": 13,
+    "question": "What does 'At sixes and sevens' signify?",
+    "options": ["In perfect order", "In a state of confusion", "Playing cards", "Counting numbers"],
+    "answer": "In a state of confusion",
+    "explanation": "'At sixes and sevens' মানে হলো এলোমেলো বা বিশৃঙ্খল অবস্থা। যখন সবকিছু অগোছালো বা বিভ্রান্তিকর অবস্থায় থাকে (In a state of confusion/disorder)।"
+  },
+  {
+    "id": 14,
+    "question": "Choose the meaning of: 'Bad blood'",
+    "options": ["Impure blood", "Ill feeling or enmity", "A disease", "Good friendship"],
+    "answer": "Ill feeling or enmity",
+    "explanation": "'Bad blood' কথাটির অর্থ হলো দুই পক্ষের মধ্যে থাকা পুরনো রাগ, শত্রুতা বা বিদ্বেষ (Ill feeling or enmity)।"
+  },
+  {
+    "id": 15,
+    "question": "What is the meaning of 'Bag and baggage'?",
+    "options": ["Empty handed", "Only bags", "With all belongings", "Travelling light"],
+    "answer": "With all belongings",
+    "explanation": "'Bag and baggage' মানে তল্পিতল্পাসহ। অর্থাৎ একজন ব্যক্তির যা কিছু জিনিসপত্র আছে সব সমেত (With all belongings)।"
+  },
+  {
+    "id": 16,
+    "question": "Select the correct meaning: 'Beat about the bush'",
+    "options": ["To cut a tree", "To talk indirectly", "To fight bravely", "To run away"],
+    "answer": "To talk indirectly",
+    "explanation": "'Beat about the bush' মানে হলো আসল কথা না বলে ঘুরিয়ে পেঁচিয়ে অপ্রাসঙ্গিক কথা বলা (To talk indirectly or avoid coming to the point)।"
+  },
+  {
+    "id": 17,
+    "question": "What does the idiom 'Bell the cat' mean?",
+    "options": ["To take the lead in danger", "To feed a cat", "To run from danger", "To catch a thief"],
+    "answer": "To take the lead in danger",
+    "explanation": "'Bell the cat' (বিড়ালের গলায় ঘণ্টা বাঁধা) মানে হলো সবার মঙ্গলের জন্য নিজে এগিয়ে গিয়ে কোনো বিপজ্জনক কাজ করা বা ঝুঁকি নেওয়া।"
+  },
+  {
+    "id": 18,
+    "question": "Choose the meaning of: 'Between the devil and the deep sea'",
+    "options": ["A beautiful place", "In a safe position", "Between two great difficulties", "A swimming challenge"],
+    "answer": "Between two great difficulties",
+    "explanation": "এর অর্থ হলো 'জলে কুমির, ডাঙায় বাঘ' অর্থাৎ দুদিকেই সমান বিপদ বা দুটি চরম কঠিন পরিস্থিতির মধ্যে আটকে পড়া।"
+  },
+  {
+    "id": 19,
+    "question": "What is the meaning of 'Bite the dust'?",
+    "options": ["To clean dirt", "To eat fast food", "To enjoy life", "To suffer a defeat"],
+    "answer": "To suffer a defeat",
+    "explanation": "'Bite the dust' কথাটির অর্থ ধুলোয় লুটিয়ে পড়া, অর্থাৎ যুদ্ধে বা প্রতিযোগিতায় চরমভাবে পরাজিত হওয়া বা মারা যাওয়া।"
+  },
+  {
+    "id": 20,
+    "question": "Find the correct meaning: 'Black sheep'",
+    "options": ["An animal", "A lucky person", "A person with bad reputation", "A hard worker"],
+    "answer": "A person with bad reputation",
+    "explanation": "'Black sheep' বলতে পরিবারের বা দলের এমন এক সদস্যকে বোঝায় যার কুখ্যাতি রয়েছে এবং যে অন্যদের কাছে লজ্জার কারণ (A person with bad reputation/disgrace)।"
+  },
+  {
+    "id": 21,
+    "question": "What does 'Blind alley' signify?",
+    "options": ["A situation with no escape", "A dark road", "A blind person's path", "A straight highway"],
+    "answer": "A situation with no escape",
+    "explanation": "'Blind alley' (কানা গলি) বলতে এমন এক পরিস্থিতি বা কাজকে বোঝায় যার কোনো ভবিষ্যৎ নেই বা যেখান থেকে সামনে এগোনোর কোনো উপায় নেই।"
+  },
+  {
+    "id": 22,
+    "question": "Choose the meaning of: 'Blow one's own trumpet'",
+    "options": ["To play an instrument", "To praise oneself", "To make noise", "To call for help"],
+    "answer": "To praise oneself",
+    "explanation": "'Blow one's own trumpet' মানে নিজের ঢাক নিজে পেটানো, অর্থাৎ নিজের প্রশংসা নিজেই করা (To praise oneself/boast)।"
+  },
+  {
+    "id": 23,
+    "question": "What is the meaning of 'Blue blood'?",
+    "options": ["Alien blood", "Royal or aristocratic descent", "A medical condition", "Cold behavior"],
+    "answer": "Royal or aristocratic descent",
+    "explanation": "'Blue blood' বলতে অভিজাত বা রাজকীয় বংশের রক্তকে বোঝায় (Royal or aristocratic descent)।"
+  },
+  {
+    "id": 24,
+    "question": "Find the correct meaning: 'Bolt from the blue'",
+    "options": ["A thunder strike", "A blue colored bolt", "An unexpected disaster", "A pleasant surprise"],
+    "answer": "An unexpected disaster",
+    "explanation": "'Bolt from the blue' মানে বিনামেঘে বজ্রপাত। অর্থাৎ হঠাৎ করে আসা কোনো বড় বিপদ বা খারাপ খবর (An unexpected and sudden disaster)।"
+  },
+  {
+    "id": 25,
+    "question": "What does 'Bone of contention' mean?",
+    "options": ["A dog's food", "Subject of dispute", "A strong bone", "A mutual agreement"],
+    "answer": "Subject of dispute",
+    "explanation": "'Bone of contention' মানে হলো বিবাদের মূল কারণ বা ঝগড়ার বিষয় (Subject of dispute/cause of quarrel)। এটি 'Apple of discord' এর সমার্থক।"
+  },
+  {
+    "id": 26,
+    "question": "Choose the meaning of: 'Break the ice'",
+    "options": ["To start a conversation", "To break solid ice", "To do a difficult job", "To end a relationship"],
+    "answer": "To start a conversation",
+    "explanation": "'Break the ice' বলতে দীর্ঘ নীরবতা ভেঙে প্রথম কথা শুরু করা বা জড়তা কাটানোকে বোঝায় (To start a conversation or relieve tension)।"
+  },
+  {
+    "id": 27,
+    "question": "What is the meaning of 'Bring to light'?",
+    "options": ["To turn on a lamp", "To hide something", "To reveal or disclose", "To carry a torch"],
+    "answer": "To reveal or disclose",
+    "explanation": "'Bring to light' মানে হলো কোনো লুকানো সত্য বা তথ্যকে প্রকাশ্যে আনা বা সবার সামনে উন্মোচন করা (To reveal)।"
+  },
+  {
+    "id": 28,
+    "question": "Find the correct meaning: 'Broad daylight'",
+    "options": ["A sunny day", "In a dark room", "Morning time", "In full view of the public"],
+    "answer": "In full view of the public",
+    "explanation": "'Broad daylight' মানে দিনদুপুরে, অর্থাৎ সবার চোখের সামনে প্রকাশ্য দিবালোকে (In open or full view of the public)।"
+  },
+  {
+    "id": 29,
+    "question": "What does 'Broken reed' mean?",
+    "options": ["A broken stick", "A weak or unreliable support", "A sad song", "A strong foundation"],
+    "answer": "A weak or unreliable support",
+    "explanation": "'Broken reed' বলতে এমন কোনো ব্যক্তি বা বস্তুকে বোঝায় যার উপর নির্ভর করা যায় না, অর্থাৎ এক দুর্বল ও অবিশ্বাস্য অবলম্বন।"
+  },
+  {
+    "id": 30,
+    "question": "Choose the meaning of: 'Bull in a china shop'",
+    "options": ["A strong animal", "A careful worker", "A clumsy person in a delicate situation", "A ceramic toy"],
+    "answer": "A clumsy person in a delicate situation",
+    "explanation": "'Bull in a china shop' বলতে এমন একজন ব্যক্তিকে বোঝায় যে খুব অসাবধানী এবং যে কারণে সূক্ষ্ম বা স্পর্শকাতর পরিস্থিতিতে সে ক্ষতি করে ফেলে।"
+  },
+  {
+    "id": 31,
+    "question": "What is the meaning of 'Burning question'?",
+    "options": ["A question about fire", "A confusing puzzle", "A hot topic or crucial issue", "An easy question"],
+    "answer": "A hot topic or crucial issue",
+    "explanation": "'Burning question' বলতে বর্তমান সময়ের সবচেয়ে আলোচিত বা গুরুত্বপূর্ণ বিষয়কে বোঝায় (An important/crucial topic of the day)।"
+  },
+  {
+    "id": 32,
+    "question": "Find the correct meaning: 'By and by'",
+    "options": ["Gradually", "Side by side", "Immediately", "Never"],
+    "answer": "Gradually",
+    "explanation": "'By and by' কথাটির অর্থ হলো ধীরে ধীরে বা ক্রমান্বয়ে (Gradually / after a short time)।"
+  },
+  {
+    "id": 33,
+    "question": "What does the phrase 'By fits and starts' mean?",
+    "options": ["To start a machine", "Irregularly", "In perfect rhythm", "Continuously"],
+    "answer": "Irregularly",
+    "explanation": "'By fits and starts' মানে হলো অনিয়মিতভাবে (Irregularly)। কোনো কাজ একটানা না করে থেমে থেমে করলে এটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 34,
+    "question": "Choose the meaning of: 'By hook or by crook'",
+    "options": ["Using a fishing hook", "By making a plan", "By fair or foul means", "By telling the truth"],
+    "answer": "By fair or foul means",
+    "explanation": "'By hook or by crook' বলতে বোঝায় ছলে-বলে-কৌশলে; অর্থাৎ ভালো বা খারাপ যে কোনো উপায়ে কাজ হাসিল করা (By any means possible)।"
+  },
+  {
+    "id": 35,
+    "question": "What is the meaning of 'By leaps and bounds'?",
+    "options": ["Very slowly", "Jumping around", "Without any progress", "Very rapidly"],
+    "answer": "Very rapidly",
+    "explanation": "'By leaps and bounds' মানে হলো অত্যন্ত দ্রুতগতিতে (Very rapidly)। যেমন- দেশের জনসংখ্যা by leaps and bounds বাড়ছে।"
+  },
+  {
+    "id": 36,
+    "question": "Find the correct meaning: 'Call a spade a spade'",
+    "options": ["To speak directly and frankly", "To play cards", "To lie", "To dig a hole"],
+    "answer": "To speak directly and frankly",
+    "explanation": "'Call a spade a spade' মানে অপ্রিয় হলেও সোজা ও স্পষ্ট কথা বলা বা সত্য গোপন না করা (To be frank/outspoken)।"
+  },
+  {
+    "id": 37,
+    "question": "What does 'Capital punishment' mean?",
+    "options": ["Punishment in the capital city", "Death penalty", "A fine of money", "Life imprisonment"],
+    "answer": "Death penalty",
+    "explanation": "'Capital punishment' কথাটির আইনি অর্থ হলো মৃত্যুদণ্ড (Death penalty)।"
+  },
+  {
+    "id": 38,
+    "question": "Choose the meaning of: 'Carry the day'",
+    "options": ["To bear a load", "To waste time", "To win a victory", "To postpone something"],
+    "answer": "To win a victory",
+    "explanation": "'Carry the day' মানে প্রতিযোগিতায় বা কোনো কাজে জয়লাভ করা বা সফল হওয়া (To win a victory or be successful)।"
+  },
+  {
+    "id": 39,
+    "question": "What is the meaning of 'Cast pearls before swine'?",
+    "options": ["To feed pigs", "To throw stones", "To make jewelry", "To offer something valuable to someone who doesn't understand it"],
+    "answer": "To offer something valuable to someone who doesn't understand it",
+    "explanation": "'Cast pearls before swine' মানে উলুবনে মুক্তো ছড়ানো। অর্থাৎ যে ব্যক্তি কোনো মূল্যবান জিনিসের কদর বোঝে না, তাকে সেই জিনিস দেওয়া।"
+  },
+  {
+    "id": 40,
+    "question": "Find the correct meaning: 'Castle in the air'",
+    "options": ["A tall building", "An airplane", "A realistic plan", "Daydream or unrealistic hope"],
+    "answer": "Daydream or unrealistic hope",
+    "explanation": "'Castle in the air' বলতে আকাশকুসুম কল্পনা বা অলীক স্বপ্নকে বোঝায় যার বাস্তবে কোনো ভিত্তি নেই (Daydream/visionary project)।"
+  },
+  {
+    "id": 41,
+    "question": "What does 'Cat and dog life' signify?",
+    "options": ["Life full of quarrels", "Animal lovers", "A peaceful living", "A lonely life"],
+    "answer": "Life full of quarrels",
+    "explanation": "'Cat and dog life' মানে হলো এমন জীবন যেখানে সবসময় ঝগড়া ও বিবাদ লেগেই থাকে (Life full of quarrels), সাধারণত স্বামী-স্ত্রীর ক্ষেত্রে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 42,
+    "question": "Choose the meaning of: 'Catch red-handed'",
+    "options": ["To paint hands red", "To discover someone while they are doing something wrong", "To welcome someone", "To shake hands"],
+    "answer": "To discover someone while they are doing something wrong",
+    "explanation": "'Catch red-handed' মানে হলো হাতে-নাতে ধরা। অর্থাৎ কোনো অপরাধ বা অন্যায় করার সময় হাতেনাতে কাউকে ধরে ফেলা।"
+  },
+  {
+    "id": 43,
+    "question": "What is the meaning of 'Chicken-hearted'?",
+    "options": ["Brave", "Cowardly", "Generous", "Cruel"],
+    "answer": "Cowardly",
+    "explanation": "'Chicken-hearted' বলতে এমন কাউকে বোঝায় যে অত্যন্ত ভীতু বা কাপুরুষ প্রকৃতির (Cowardly / lacking courage)।"
+  },
+  {
+    "id": 44,
+    "question": "Find the correct meaning: 'Child's play'",
+    "options": ["A difficult task", "A kid's toy", "An easy task", "A playground"],
+    "answer": "An easy task",
+    "explanation": "'Child's play' মানে হলো অত্যন্ত সহজ কাজ (Very easy task), যা যে কেউ করতে পারে।"
+  },
+  {
+    "id": 45,
+    "question": "What does 'Close shave' mean?",
+    "options": ["A narrow escape", "To shave hair", "A deep cut", "A close friendship"],
+    "answer": "A narrow escape",
+    "explanation": "'Close shave' কথাটির অর্থ অল্পের জন্য বড় কোনো বিপদ থেকে বেঁচে যাওয়া (A narrow escape)।"
+  },
+  {
+    "id": 46,
+    "question": "Choose the meaning of: 'Cold blood'",
+    "options": ["Feeling cold", "Deliberately and without emotion", "A blood disease", "Warm heart"],
+    "answer": "Deliberately and without emotion",
+    "explanation": "'In cold blood' মানে হলো ঠাণ্ডা মাথায়, বিনা উত্তেজনায় বা নির্মমভাবে কোনো নিষ্ঠুর কাজ (যেমন- খুন) করা (Ruthlessly / without emotion)।"
+  },
+  {
+    "id": 47,
+    "question": "What is the meaning of 'Come to light'?",
+    "options": ["To turn on the switch", "To dawn", "To become known", "To hide something"],
+    "answer": "To become known",
+    "explanation": "'Come to light' মানে কোনো গোপন বিষয় বা তথ্য সবার সামনে প্রকাশিত হওয়া বা জানা যাওয়া (To become known/revealed)।"
+  },
+  {
+    "id": 48,
+    "question": "Find the correct meaning: 'Crocodile tears'",
+    "options": ["Tears of a crocodile", "True sorrow", "Tears of joy", "False show of grief"],
+    "answer": "False show of grief",
+    "explanation": "'Crocodile tears' মানে মায়াকান্না। অর্থাৎ ভেতরে দুঃখ না থাকলেও বাইরে থেকে মিথ্যা দুঃখ বা কান্নার ভান করা (False or insincere sorrow)।"
+  },
+  {
+    "id": 49,
+    "question": "What does 'Cry in the wilderness' mean?",
+    "options": ["To shout loudly", "To cry in a forest", "An unrealistic demand", "An ignored appeal"],
+    "answer": "An ignored appeal",
+    "explanation": "'Cry in the wilderness' (অরণ্যে রোদন) বলতে এমন কোনো আবেদন বা প্রচেষ্টাকে বোঝায় যা কেউ শোনে না বা গ্রাহ্য করে না (An unheeded warning/appeal)।"
+  },
+  {
+    "id": 50,
+    "question": "Choose the meaning of: 'Cry over spilt milk'",
+    "options": ["To complain about a loss from the past", "To drink milk", "To drop a glass", "To cry out of joy"],
+    "answer": "To complain about a loss from the past",
+    "explanation": "'Cry over spilt milk' মানে হলো যে ক্ষতি হয়ে গেছে এবং যা আর ফেরানো সম্ভব নয়, তা নিয়ে অযথা দুঃখ বা অনুশোচনা করা (Regret in vain for what cannot be undone)।"
+  },
+  {
+    "id": 51,
+    "question": "What is the meaning of the idiom: 'Cut a sorry figure'?",
+    "options": ["To make a poor impression", "To cut a shape", "To apologize", "To be sad"],
+    "answer": "To make a poor impression",
+    "explanation": "'Cut a sorry figure' বলতে বোঝায় নিজের দুর্বল পারফরম্যান্সের মাধ্যমে অন্যদের ওপর খারাপ প্রভাব ফেলা বা নিজেকে হাস্যাস্পদ করা (To make a poor impression)।"
+  },
+  {
+    "id": 52,
+    "question": "Choose the correct meaning of: 'Dead letter'",
+    "options": ["A letter with no address", "A law no longer in force", "A death notice", "A torn letter"],
+    "answer": "A law no longer in force",
+    "explanation": "'Dead letter' বলতে এমন কোনো নিয়ম বা আইনকে বোঝায় যা আগে প্রযোজ্য ছিল কিন্তু বর্তমানে আর কার্যকর বা বলবৎ নেই।"
+  },
+  {
+    "id": 53,
+    "question": "What does the phrase 'Dog's life' mean?",
+    "options": ["A loyal life", "A lazy life", "A miserable existence", "A wild life"],
+    "answer": "A miserable existence",
+    "explanation": "'Dog's life' মানে হলো অত্যন্ত দুঃখ-কষ্টের বা দুর্দশাগ্রস্ত জীবন (A miserable existence)।"
+  },
+  {
+    "id": 54,
+    "question": "Find the meaning of the idiom: 'Double dealing'",
+    "options": ["Two businesses", "A good bargain", "Buying twice", "Deceitful behavior"],
+    "answer": "Deceitful behavior",
+    "explanation": "'Double dealing' কথাটির অর্থ হলো প্রতারণাপূর্ণ আচরণ বা দুমুখো নীতি (Deceitful behavior), যেখানে একজনের মুখে এক কথা এবং কাজে অন্য কিছু থাকে।"
+  },
+  {
+    "id": 55,
+    "question": "What is the meaning of: 'End in smoke'?",
+    "options": ["To come to nothing", "To catch fire", "To burn completely", "To smoke heavily"],
+    "answer": "To come to nothing",
+    "explanation": "'End in smoke' মানে হলো কোনো প্রচেষ্টা বা পরিকল্পনার ব্যর্থতায় পর্যবসিত হওয়া বা কোনো ফল না পাওয়া (To yield no result)।"
+  },
+  {
+    "id": 56,
+    "question": "Choose the exact meaning of: 'Every dog has his day'",
+    "options": ["Dogs like days", "Everyone gets a chance of success", "A sunny day", "Animals need care"],
+    "answer": "Everyone gets a chance of success",
+    "explanation": "'Every dog has his day' প্রবাদটির অর্থ হলো প্রত্যেকের জীবনেই একদিন না একদিন সাফল্যের সুযোগ আসে বা সৌভাগ্য উদয় হয়।"
+  },
+  {
+    "id": 57,
+    "question": "What does 'Eye wash' mean?",
+    "options": ["Eye drops", "Washing eyes", "A deception or pretense", "Clear vision"],
+    "answer": "A deception or pretense",
+    "explanation": "'Eye wash' বলতে লোক-দেখানো কাজ বা অন্যকে ধোঁকা দেওয়ার উদ্দেশ্যে করা কোনো কাজকে বোঝায় (A deception)।"
+  },
+  {
+    "id": 58,
+    "question": "Select the correct meaning of: 'Fall flat'",
+    "options": ["To fall on the ground", "To sleep on the floor", "To flatten something", "To fail to produce any effect"],
+    "answer": "To fail to produce any effect",
+    "explanation": "'Fall flat' মানে হলো কোনো প্রভাব বা ছাপ ফেলতে ব্যর্থ হওয়া। যেমন কোনো জোকস যদি কাউকে হাসাতে না পারে, তবে সেটি 'fell flat' হয়।"
+  },
+  {
+    "id": 59,
+    "question": "What is the meaning of the phrase: 'Far and wide'?",
+    "options": ["Over a large area", "Distance between two points", "A broad road", "From a long distance"],
+    "answer": "Over a large area",
+    "explanation": "'Far and wide' বলতে চারদিকে বা বহুদূর পর্যন্ত বিস্তৃত কোনো কিছুকে বোঝায় (Everywhere / Over a large area)।"
+  },
+  {
+    "id": 60,
+    "question": "Choose the right meaning of: 'Feather in one's cap'",
+    "options": ["A bird's feather", "An achievement to be proud of", "Wearing a hat", "A traditional dress"],
+    "answer": "An achievement to be proud of",
+    "explanation": "'Feather in one's cap' মানে হলো মুকুটে নতুন পালক যুক্ত হওয়া। অর্থাৎ এমন কোনো নতুন সাফল্য বা অর্জন যা নিয়ে গর্ব করা যায়।"
+  },
+  {
+    "id": 61,
+    "question": "What does the idiom 'Few and far between' mean?",
+    "options": ["Near", "Distance", "Very rare", "Frequent"],
+    "answer": "Very rare",
+    "explanation": "'Few and far between' বলতে এমন কিছু বোঝায় যা খুব বিরল, কদাচিৎ ঘটে বা যার সংখ্যা অত্যন্ত কম (Very rare)।"
+  },
+  {
+    "id": 62,
+    "question": "Find the correct meaning: 'Fish out of water'",
+    "options": ["A dead fish", "Swimming pool", "A flying fish", "In an uncomfortable or unfamiliar situation"],
+    "answer": "In an uncomfortable or unfamiliar situation",
+    "explanation": "'Fish out of water' (জল ছাড়া মাছ) মানে হলো সম্পূর্ণ অচেনা, বেমানান বা অস্বস্তিকর পরিবেশে থাকা।"
+  },
+  {
+    "id": 63,
+    "question": "What does 'Flesh and blood' signify?",
+    "options": ["Human nature or physical existence", "Meat and drink", "A cruel act", "Red color"],
+    "answer": "Human nature or physical existence",
+    "explanation": "'Flesh and blood' মানে হলো রক্তমাংসের শরীর, মানব স্বভাব বা রক্তের সম্পর্ক।"
+  },
+  {
+    "id": 64,
+    "question": "Choose the meaning of: 'Fool's paradise'",
+    "options": ["A crazy place", "False sense of happiness", "Heaven", "A comedy show"],
+    "answer": "False sense of happiness",
+    "explanation": "'Fool's paradise' মানে বোকার স্বর্গ। বাস্তব পরিস্থিতি সম্পর্কে অজ্ঞ থেকে মিথ্যা বা ভিত্তিহীন সুখের কল্পনায় বিরাজ করা।"
+  },
+  {
+    "id": 65,
+    "question": "What is the meaning of 'For good'?",
+    "options": ["For a good cause", "Well done", "Permanently", "Good luck"],
+    "answer": "Permanently",
+    "explanation": "'For good' কথাটির অর্থ হলো চিরকালের জন্য বা চিরতরে (Permanently / forever)।"
+  },
+  {
+    "id": 66,
+    "question": "Select the correct meaning: 'French leave'",
+    "options": ["To visit France", "A long vacation", "Taking permission", "Absence without permission"],
+    "answer": "Absence without permission",
+    "explanation": "'French leave' বলতে কারো কাছ থেকে আগাম অনুমতি বা নোটিশ না নিয়েই ছুটি নেওয়া বা কর্মস্থল ত্যাগ করাকে বোঝায়।"
+  },
+  {
+    "id": 67,
+    "question": "What does the idiom 'From hand to mouth' mean?",
+    "options": ["To survive with just enough money", "Eating with hands", "Sharing food", "Very poor hygiene"],
+    "answer": "To survive with just enough money",
+    "explanation": "'From hand to mouth' মানে দিন আনা দিন খাওয়া। অর্থাৎ ভবিষ্যতের জন্য কোনো সঞ্চয় না করে অত্যন্ত কষ্টে কেবল বর্তমান চালানোর মতো অর্থ রোজগার করা।"
+  },
+  {
+    "id": 68,
+    "question": "Choose the meaning of: 'Gala day'",
+    "options": ["A sad day", "A day of festivity", "A busy day", "A rainy day"],
+    "answer": "A day of festivity",
+    "explanation": "'Gala day' মানে হলো উৎসব, আনন্দ বা উদযাপনের বিশেষ দিন (A day of celebration or festivity)।"
+  },
+  {
+    "id": 69,
+    "question": "What is the meaning of 'Get rid of'?",
+    "options": ["To ride a horse", "To acquire", "To free oneself from", "To lose one's way"],
+    "answer": "To free oneself from",
+    "explanation": "'Get rid of' মানে হলো কোনো অবাঞ্ছিত ব্যক্তি বা বস্তু থেকে মুক্তি পাওয়া বা পরিত্রাণ লাভ করা।"
+  },
+  {
+    "id": 70,
+    "question": "Find the correct meaning: 'Gift of the gab'",
+    "options": ["A wrapped gift", "Taking a bribe", "A silent person", "Ability to speak well"],
+    "answer": "Ability to speak well",
+    "explanation": "'Gift of the gab' বলতে সুন্দর করে, সাবলীলভাবে বা গুছিয়ে কথা বলার সহজাত ক্ষমতা বা বাগ্মীতাকে বোঝায় (Talent for speaking)।"
+  },
+  {
+    "id": 71,
+    "question": "What does 'Go to the dogs' signify?",
+    "options": ["To be ruined", "To pet dogs", "To race", "To visit a kennel"],
+    "answer": "To be ruined",
+    "explanation": "'Go to the dogs' মানে হলো গোল্লায় যাওয়া বা আর্থিকভাবে/নৈতিকভাবে সম্পূর্ণরূপে ধ্বংস হয়ে যাওয়া (To be ruined)।"
+  },
+  {
+    "id": 72,
+    "question": "Choose the meaning of: 'Golden mean'",
+    "options": ["Expensive metal", "The middle course between extremes", "Meaning of gold", "A rich person"],
+    "answer": "The middle course between extremes",
+    "explanation": "'Golden mean' বলতে দুই চরমপন্থার মধ্যবর্তী আদর্শ পথ বা মধ্যপন্থাকে বোঝায় (The middle path)।"
+  },
+  {
+    "id": 73,
+    "question": "What is the meaning of 'Good Samaritan'?",
+    "options": ["A bad person", "A rich merchant", "A person who helps strangers in need", "An old man"],
+    "answer": "A person who helps strangers in need",
+    "explanation": "'Good Samaritan' বলতে এমন এক সহৃদয় ব্যক্তিকে বোঝায় যে অপরিচিত বা বিপন্ন মানুষকে নিঃস্বার্থভাবে সাহায্য করে।"
+  },
+  {
+    "id": 74,
+    "question": "Find the correct meaning: 'Green horn'",
+    "options": ["A green colored horn", "An animal", "An expert", "An inexperienced person"],
+    "answer": "An inexperienced person",
+    "explanation": "'Green horn' মানে হলো অনভিজ্ঞ ব্যক্তি বা কাঁচা লোক, যার কোনো বিশেষ কাজে পূর্বে কোনো অভিজ্ঞতা নেই (A novice)।"
+  },
+  {
+    "id": 75,
+    "question": "What does 'Hair-breadth escape' mean?",
+    "options": ["A very narrow escape", "Measuring hair", "Losing hair", "A wide escape"],
+    "answer": "A very narrow escape",
+    "explanation": "'Hair-breadth escape' মানে অল্পের জন্য রক্ষা পাওয়া বা চুল পরিমাণ ব্যবধানে বড় কোনো বিপদ থেকে বেঁচে যাওয়া।"
+  },
+  {
+    "id": 76,
+    "question": "Choose the meaning of: 'Hand in glove'",
+    "options": ["Wearing winter clothes", "In close relationship or collusion", "Fighting with gloves", "Working safely"],
+    "answer": "In close relationship or collusion",
+    "explanation": "'Hand in glove' বলতে অত্যন্ত ঘনিষ্ঠ সম্পর্ক বা মিত্রতাকে বোঝায়, যা অনেক সময় কোনো খারাপ কাজের ষড়যন্ত্রে যুক্ত থাকার ক্ষেত্রে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "What is the meaning of 'Hard nut to crack'?",
+    "options": ["Eating nuts", "A strong nut", "A difficult problem to solve", "An easy task"],
+    "answer": "A difficult problem to solve",
+    "explanation": "'Hard nut to crack' মানে হলো খুব কঠিন সমস্যা, জটিল পরিস্থিতি বা সহজে বশ করা যায় না এমন ব্যক্তি।"
+  },
+  {
+    "id": 78,
+    "question": "Find the correct meaning: 'Harp on the same string'",
+    "options": ["Playing a guitar", "Singing a song", "Buying new strings", "To dwell on the same subject"],
+    "answer": "To dwell on the same subject",
+    "explanation": "'Harp on the same string' মানে একই কথা বারবার বলা বা একঘেয়েভাবে একই বিষয় নিয়ে পড়ে থাকা।"
+  },
+  {
+    "id": 79,
+    "question": "What does 'Heart and soul' mean?",
+    "options": ["With all one's energy and passion", "A spiritual journey", "Physical and mental illness", "Loving someone deeply"],
+    "answer": "With all one's energy and passion",
+    "explanation": "'Heart and soul' মানে হলো সর্বান্তকরণে, মন-প্রাণ ঢেলে বা প্রাণপণে কোনো কাজ করা (With full devotion)।"
+  },
+  {
+    "id": 80,
+    "question": "Choose the meaning of: 'Herculean task'",
+    "options": ["A Greek story", "A task requiring great physical or mental effort", "A workout routine", "An impossible dream"],
+    "answer": "A task requiring great physical or mental effort",
+    "explanation": "'Herculean task' বলতে এমন কাজকে বোঝায় যা সম্পন্ন করার জন্য অত্যন্ত কঠিন বা কঠোর পরিশ্রমের প্রয়োজন হয় (A very difficult task)।"
+  },
+  {
+    "id": 81,
+    "question": "What is the meaning of 'High time'?",
+    "options": ["Time to fly", "Afternoon time", "The appropriate or right time", "A time of high tide"],
+    "answer": "The appropriate or right time",
+    "explanation": "'High time' মানে হলো একেবারে উপযুক্ত সময়। অর্থাৎ কোনো কাজ করার এটাই সঠিক সময় এবং আর দেরি করা উচিত নয়।"
+  },
+  {
+    "id": 82,
+    "question": "Find the correct meaning: 'Hit the nail on the head'",
+    "options": ["To hammer a nail", "To hurt someone's head", "To build a house", "To do or say exactly the right thing"],
+    "answer": "To do or say exactly the right thing",
+    "explanation": "'Hit the nail on the head' মানে একেবারে সঠিক কথাটি বলা বা ঠিক সময়ে সঠিক কাজটি করা।"
+  },
+  {
+    "id": 83,
+    "question": "What does the phrase 'Hobson's choice' mean?",
+    "options": ["No real choice at all", "Many options", "A difficult decision", "A choice made by Hobson"],
+    "answer": "No real choice at all",
+    "explanation": "'Hobson's choice' মানে হলো কোনো বিকল্প না থাকা। অর্থাৎ যে একটি মাত্র বিকল্প দেওয়া আছে, সেটিই মেনে নিতে বাধ্য হওয়া অথবা কিছুই না পাওয়া।"
+  },
+  {
+    "id": 84,
+    "question": "Choose the meaning of: 'Hold good'",
+    "options": ["To hold something carefully", "To remain valid or true", "Being a good person", "To stop something"],
+    "answer": "To remain valid or true",
+    "explanation": "'Hold good' বলতে কোনো নিয়ম বা তত্ত্বের বলবৎ থাকা বা কার্যকরী ও সত্য বলে বিবেচিত হওয়াকে বোঝায়।"
+  },
+  {
+    "id": 85,
+    "question": "What is the meaning of 'Hold water'?",
+    "options": ["To carry water", "A leaky bucket", "To be believable or logical", "To stay in water"],
+    "answer": "To be believable or logical",
+    "explanation": "'Hold water' মানে যুক্তিসঙ্গত বা বিশ্বাসযোগ্য হওয়া। (সাধারণত নেতিবাচক বাক্যে 'Does not hold water' বা 'ধোপে টেকে না' অর্থে বেশি ব্যবহৃত হয়)।"
+  },
+  {
+    "id": 86,
+    "question": "Find the correct meaning: 'Hope against hope'",
+    "options": ["No hope at all", "Positive thinking", "False expectation", "To hope when there is no reason to"],
+    "answer": "To hope when there is no reason to",
+    "explanation": "'Hope against hope' মানে হলো যখন কোনো আশা পূর্ণ হওয়ার বাস্তব কোনো সম্ভাবনা নেই, তা সত্ত্বেও মিছে আশা করে থাকা।"
+  },
+  {
+    "id": 87,
+    "question": "What does 'Hue and cry' mean?",
+    "options": ["Loud public outcry", "Crying silently", "A colourful painting", "Weeping bitterly"],
+    "answer": "Loud public outcry",
+    "explanation": "'Hue and cry' কথাটির আইনি ও সাধারণ অর্থ হলো শোরগোল, হট্টগোল বা প্রবল হৈচৈ (A loud clamor or public outcry)।"
+  },
+  {
+    "id": 88,
+    "question": "Choose the meaning of: 'Hush money'",
+    "options": ["Fake currency", "Bribe paid to keep someone silent", "Stolen money", "Money won in lottery"],
+    "answer": "Bribe paid to keep someone silent",
+    "explanation": "'Hush money' বলতে কোনো গোপন ও ক্ষতিকর তথ্য প্রকাশ না করার শর্তে বা মুখ বন্ধ রাখার জন্য কাউকে দেওয়া ঘুষকে বোঝায়।"
+  },
+  {
+    "id": 89,
+    "question": "What is the meaning of 'In a nutshell'?",
+    "options": ["Eating nuts", "Hard outer shell", "Very briefly and clearly", "A small boat"],
+    "answer": "Very briefly and clearly",
+    "explanation": "'In a nutshell' মানে হলো সংক্ষেপে বা এক কথায় (Briefly / concisely) কোনো কিছু প্রকাশ করা।"
+  },
+  {
+    "id": 90,
+    "question": "Find the correct meaning: 'In black and white'",
+    "options": ["Old movies", "A chess board", "Good and evil", "In written form"],
+    "answer": "In written form",
+    "explanation": "'In black and white' কথাটির অর্থ হলো লিখিতভাবে (In writing / in a written form)।"
+  },
+  {
+    "id": 91,
+    "question": "What does 'In full swing' signify?",
+    "options": ["At the peak of activity", "Swinging in a park", "A full circle", "Moving slowly"],
+    "answer": "At the peak of activity",
+    "explanation": "'In full swing' মানে হলো পুরোদমে, পূর্ণ শক্তিতে বা চরম গতিতে কোনো কিছু চলা (At its highest level of activity)।"
+  },
+  {
+    "id": 92,
+    "question": "Choose the meaning of: 'In the good books of'",
+    "options": ["Reading good books", "To be in favor with someone", "A library", "A good diary"],
+    "answer": "To be in favor with someone",
+    "explanation": "'In the good books of' মানে হলো কারো সুনজরে থাকা বা কারও প্রিয়পাত্র হওয়া।"
+  },
+  {
+    "id": 93,
+    "question": "What is the meaning of 'In the long run'?",
+    "options": ["A marathon race", "Running for a long time", "Ultimately or eventually", "A short journey"],
+    "answer": "Ultimately or eventually",
+    "explanation": "'In the long run' বলতে পরিশেষে বা শেষ পর্যন্ত কী ঘটবে তাকে বোঝায় (Ultimately / eventually)।"
+  },
+  {
+    "id": 94,
+    "question": "Find the correct meaning: 'In the teeth of'",
+    "options": ["Dental problems", "Showing teeth", "Chewing food", "In direct opposition to"],
+    "answer": "In direct opposition to",
+    "explanation": "'In the teeth of' মানে হলো সরাসরি বিরোধিতার মুখে পড়েও বা প্রবল বাধার সম্মুখীন হয়েও কোনো কাজ চালিয়ে যাওয়া।"
+  },
+  {
+    "id": 95,
+    "question": "What does 'Iron will' mean?",
+    "options": ["Strong determination", "An iron rod", "A legal document", "A metal box"],
+    "answer": "Strong determination",
+    "explanation": "'Iron will' মানে হলো দৃঢ় সংকল্প বা অদম্য ইচ্ছাশক্তি, যা কোনো বাধাতেই টলে না।"
+  },
+  {
+    "id": 96,
+    "question": "Choose the meaning of: 'Jack of all trades'",
+    "options": ["A playing card", "A person who can do many different types of work", "A carpenter", "A master of one skill"],
+    "answer": "A person who can do many different types of work",
+    "explanation": "'Jack of all trades' মানে হলো সবজান্তা, অর্থাৎ যে ব্যক্তি অনেক রকম কাজ করতে পারে কিন্তু কোনোটিতেই বিশেষজ্ঞ বা পারদর্শী (master) নয়।"
+  },
+  {
+    "id": 97,
+    "question": "What is the meaning of 'Kith and kin'?",
+    "options": ["A type of clothing", "Enemies", "Blood relations and friends", "Neighbours"],
+    "answer": "Blood relations and friends",
+    "explanation": "'Kith and kin' বলতে নিকটাত্মীয় ও বন্ধুবান্ধব বা আত্মীয়স্বজনকে বোঝায় (Relatives and friends)।"
+  },
+  {
+    "id": 98,
+    "question": "Find the correct meaning: 'Lame excuse'",
+    "options": ["A lame person", "A good reason", "A medical condition", "An unconvincing explanation"],
+    "answer": "An unconvincing explanation",
+    "explanation": "'Lame excuse' মানে হলো বাজে অজুহাত বা খুঁতো যুক্তি, যা বিশ্বাসযোগ্য নয় বা সন্তোষজনক নয়।"
+  },
+  {
+    "id": 99,
+    "question": "What does 'Lion's share' mean?",
+    "options": ["The largest part", "A lion's food", "A wildlife park", "A small piece"],
+    "answer": "The largest part",
+    "explanation": "'Lion's share' মানে হলো সিংহভাগ বা কোনো জিনিসের সবচেয়ে বড় অংশ (Major part / the largest portion)।"
+  },
+  {
+    "id": 100,
+    "question": "Choose the meaning of: 'Loaves and fishes'",
+    "options": ["Bakery items", "Material gains or worldly benefits", "Fishing equipment", "A healthy diet"],
+    "answer": "Material gains or worldly benefits",
+    "explanation": "'Loaves and fishes' বলতে ব্যক্তিগত স্বার্থ, বৈষয়িক লাভ বা পার্থিব সুযোগ-সুবিধাকে বোঝায়।"
+  },
+  {
+    "id": 101,
+    "question": "What is the meaning of the idiom: 'Look before you leap'?",
+    "options": ["Think carefully before acting", "To jump high", "To ignore warnings", "To be blind"],
+    "answer": "Think carefully before acting",
+    "explanation": "'Look before you leap' প্রবাদটির অর্থ হলো 'ভাবিয়া করিও কাজ'। অর্থাৎ কোনো কাজ শুরু করার আগে তার পরিণাম সম্পর্কে ভালোভাবে ভেবে দেখা (Think carefully before acting)।"
+  },
+  {
+    "id": 102,
+    "question": "Choose the correct meaning of: 'Make both ends meet'",
+    "options": ["To touch two ends", "To live within one's income", "To create a circle", "To conclude a meeting"],
+    "answer": "To live within one's income",
+    "explanation": "'Make both ends meet' মানে হলো আয় ও ব্যয়ের সমতা রাখা বা কোনোমতে সংসার চালানো (To manage to survive financially)।"
+  },
+  {
+    "id": 103,
+    "question": "What does the phrase 'Maiden speech' mean?",
+    "options": ["A speech by a maid", "A long speech", "First speech", "A boring speech"],
+    "answer": "First speech",
+    "explanation": "'Maiden speech' বলতে বোঝায় কোনো ব্যক্তির জীবনে দেওয়া প্রথম জনসমক্ষে ভাষণ বা বক্তৃতা (First speech)।"
+  },
+  {
+    "id": 104,
+    "question": "Find the meaning of the idiom: 'Man of letters'",
+    "options": ["A postman", "An illiterate person", "A letter writer", "A learned or literary man"],
+    "answer": "A learned or literary man",
+    "explanation": "'Man of letters' কথাটির অর্থ হলো পণ্ডিত ব্যক্তি বা সাহিত্যিক (A learned or literary man)।"
+  },
+  {
+    "id": 105,
+    "question": "What is the meaning of: 'Man of straw'?",
+    "options": ["A weak person without character", "A scarecrow", "A strong farmer", "A straw hat"],
+    "answer": "A weak person without character",
+    "explanation": "'Man of straw' মানে হলো দুর্বল চরিত্রের বা গুরুত্বহীন ব্যক্তি, যার কথার কোনো জোর বা মূল্য নেই (A weak person)।"
+  },
+  {
+    "id": 106,
+    "question": "Choose the exact meaning of: 'Move heaven and earth'",
+    "options": ["To create an earthquake", "To try every possible means", "To pray to God", "To travel to space"],
+    "answer": "To try every possible means",
+    "explanation": "'Move heaven and earth' মানে হলো আকাশ-পাতাল এক করা। অর্থাৎ কোনো কাজ সিদ্ধ করার জন্য সম্ভাব্য সমস্ত উপায় অবলম্বন করা।"
+  },
+  {
+    "id": 107,
+    "question": "What does 'Nip in the bud' mean?",
+    "options": ["To water a plant", "To pick flowers", "To destroy at an early stage", "To start a new project"],
+    "answer": "To destroy at an early stage",
+    "explanation": "'Nip in the bud' বলতে বোঝায় অঙ্কুরে বিনাশ করা, অর্থাৎ প্রাথমিক পর্যায়েই কোনো সমস্যা বা খারাপ কিছু ধ্বংস করে দেওয়া।"
+  },
+  {
+    "id": 108,
+    "question": "Select the correct meaning of: 'Null and void'",
+    "options": ["An empty space", "A dark room", "Clear sky", "Invalid or having no legal force"],
+    "answer": "Invalid or having no legal force",
+    "explanation": "'Null and void' মানে হলো বাতিল বা অকার্যকর, অর্থাৎ এমন কোনো চুক্তি বা নিয়ম যার আইনগত কোনো মূল্য নেই (Invalid)।"
+  },
+  {
+    "id": 109,
+    "question": "What is the meaning of the phrase: 'Once in a blue moon'?",
+    "options": ["Very rarely", "Every night", "On a full moon day", "A blue colored moon"],
+    "answer": "Very rarely",
+    "explanation": "'Once in a blue moon' মানে হলো কদাচিৎ বা অত্যন্ত বিরল ঘটনা (Very rarely/seldom)।"
+  },
+  {
+    "id": 110,
+    "question": "Choose the right meaning of: 'Out of the question'",
+    "options": ["An easy question", "Impossible or unacceptable", "Out of syllabus", "A confusing puzzle"],
+    "answer": "Impossible or unacceptable",
+    "explanation": "'Out of the question' মানে হলো সম্পূর্ণ অসম্ভব বা যা কোনোভাবেই মেনে নেওয়া যায় না (Impossible)।"
+  },
+  {
+    "id": 111,
+    "question": "What does the idiom 'Out of sorts' mean?",
+    "options": ["Missing things", "Sorting clothes", "Slightly unwell or unhappy", "Without any money"],
+    "answer": "Slightly unwell or unhappy",
+    "explanation": "'Out of sorts' বলতে বোঝায় সামান্য অসুস্থ বা শারীরিক ও মানসিকভাবে কিছুটা বেমানান বা খারাপ থাকা।"
+  },
+  {
+    "id": 112,
+    "question": "Find the correct meaning: 'Part and parcel'",
+    "options": ["A courier package", "A broken piece", "A land property", "An essential part"],
+    "answer": "An essential part",
+    "explanation": "'Part and parcel' মানে হলো অবিচ্ছেদ্য অংশ, যা কোনোভাবেই আলাদা বা বাদ দেওয়া যায় না (An integral/essential part)।"
+  },
+  {
+    "id": 113,
+    "question": "What does 'Pros and cons' signify?",
+    "options": ["Advantages and disadvantages", "Professional players", "Criminals and police", "True and false"],
+    "answer": "Advantages and disadvantages",
+    "explanation": "'Pros and cons' মানে হলো খুঁটিনাটি বা কোনো বিষয়ের ভালো-মন্দ উভয় দিক (Advantages and disadvantages)।"
+  },
+  {
+    "id": 114,
+    "question": "Choose the meaning of: 'Red letter day'",
+    "options": ["A dangerous day", "An important and memorable day", "A bloody war", "A holiday"],
+    "answer": "An important and memorable day",
+    "explanation": "'Red letter day' মানে হলো স্মরণীয় বা অতি গুরুত্বপূর্ণ আনন্দদায়ক দিন।"
+  },
+  {
+    "id": 115,
+    "question": "What is the meaning of 'See eye to eye'?",
+    "options": ["To stare at someone", "To fight", "To agree completely", "To check vision"],
+    "answer": "To agree completely",
+    "explanation": "'See eye to eye' কথাটির অর্থ হলো কারো সাথে সম্পূর্ণ একমত হওয়া বা চিন্তাধারায় মিলে যাওয়া (To agree completely)।"
+  },
+  {
+    "id": 116,
+    "question": "Select the correct meaning: 'Smell a rat'",
+    "options": ["To catch a mouse", "A bad odor", "A dirty room", "To suspect that something is wrong"],
+    "answer": "To suspect that something is wrong",
+    "explanation": "'Smell a rat' বলতে বোঝায় মনে সন্দেহ জাগা বা 'ডাল মে কুছ কালা হ্যায়' বলে মনে হওয়া (To suspect foul play)।"
+  },
+  {
+    "id": 117,
+    "question": "What does the idiom 'Snake in the grass' mean?",
+    "options": ["A hidden enemy", "A green snake", "A wild animal", "A safe place"],
+    "answer": "A hidden enemy",
+    "explanation": "'Snake in the grass' (ঘাসের মধ্যে সাপ) মানে হলো গুপ্ত শত্রু, যে আড়ালে থেকে ক্ষতি করে এবং যাকে চেনা যায় না।"
+  },
+  {
+    "id": 118,
+    "question": "Choose the meaning of: 'Split hairs'",
+    "options": ["To go bald", "To argue over petty details", "To cut hair", "To divide property"],
+    "answer": "To argue over petty details",
+    "explanation": "'Split hairs' মানে হলো চুলচেরা বিচার করা বা খুব ছোট ও তুচ্ছ বিষয় নিয়ে অহেতুক তর্ক করা।"
+  },
+  {
+    "id": 119,
+    "question": "What is the meaning of 'Storm in a teacup'?",
+    "options": ["Hot tea", "A natural disaster", "Much fuss over a small matter", "A broken cup"],
+    "answer": "Much fuss over a small matter",
+    "explanation": "'Storm in a teacup' মানে হলো চায়ের কাপে ঝড় তোলা, অর্থাৎ অত্যন্ত সামান্য বা তুচ্ছ বিষয় নিয়ে অনেক বেশি তুলকালাম করা।"
+  },
+  {
+    "id": 120,
+    "question": "Find the correct meaning: 'Take to task'",
+    "options": ["To give a job", "To help someone", "To do homework", "To scold or reprimand"],
+    "answer": "To scold or reprimand",
+    "explanation": "'Take to task' বলতে বোঝায় কাউকে তিরস্কার করা, বকাঝকা করা বা তার কাজের জন্য কৈফিয়ত চাওয়া (To reprimand/punish)।"
+  },
+  {
+    "id": 121,
+    "question": "What does 'Through thick and thin' signify?",
+    "options": ["Under all circumstances", "Fat and thin people", "A dense forest", "Walking through a narrow path"],
+    "answer": "Under all circumstances",
+    "explanation": "'Through thick and thin' মানে হলো সুখে-দুঃখে বা জীবনের সবরকম পরিস্থিতিতে পাশে থাকা (In good times and bad)।"
+  },
+  {
+    "id": 122,
+    "question": "Choose the meaning of: 'Tooth and nail'",
+    "options": ["Using a hammer", "With all one's resources and energy", "Going to a dentist", "Biting nails"],
+    "answer": "With all one's resources and energy",
+    "explanation": "'Tooth and nail' বলতে আপ্রাণ চেষ্টা করা বা সর্বশক্তি প্রয়োগ করে লড়াই করাকে বোঝায়।"
+  },
+  {
+    "id": 123,
+    "question": "What is the meaning of 'Turn a deaf ear'?",
+    "options": ["To cure deafness", "To listen carefully", "To ignore or refuse to listen", "To shout loudly"],
+    "answer": "To ignore or refuse to listen",
+    "explanation": "'Turn a deaf ear' মানে হলো কানে না তোলা বা কারো কথা ইচ্ছাকৃতভাবে উপেক্ষা করা (To ignore)।"
+  },
+  {
+    "id": 124,
+    "question": "Find the correct meaning: 'Turn over a new leaf'",
+    "options": ["To read a book", "To pluck a leaf", "To clean a garden", "To change one's behavior for the better"],
+    "answer": "To change one's behavior for the better",
+    "explanation": "'Turn over a new leaf' মানে হলো পুরোনো অভ্যাস বদলে নতুন জীবন শুরু করা বা স্বভাবের ইতিবাচক পরিবর্তন করা।"
+  },
+  {
+    "id": 125,
+    "question": "What does 'Under a cloud' mean?",
+    "options": ["Under suspicion", "In the rain", "Flying in an airplane", "Feeling cold"],
+    "answer": "Under suspicion",
+    "explanation": "'Under a cloud' কথাটির অর্থ হলো সন্দেহের বশবর্তী থাকা বা কলঙ্কিত অবস্থায় থাকা (To be under suspicion)।"
+  },
+  {
+    "id": 126,
+    "question": "Choose the meaning of: 'Up to the mark'",
+    "options": ["A visible scar", "Up to the required standard", "Above average", "A high score"],
+    "answer": "Up to the required standard",
+    "explanation": "'Up to the mark' বলতে বোঝায় উপযুক্ত মানের হওয়া বা আশানুরূপ মান বজায় রাখা।"
+  },
+  {
+    "id": 127,
+    "question": "What is the meaning of 'Ups and downs'?",
+    "options": ["Riding a lift", "Climbing hills", "Good and bad times", "Jumping"],
+    "answer": "Good and bad times",
+    "explanation": "'Ups and downs' মানে হলো জীবনের উত্থান-পতন বা ভালো-খারাপ সময় (Success and failures)।"
+  },
+  {
+    "id": 128,
+    "question": "Find the correct meaning: 'Wear and tear'",
+    "options": ["To tear clothes", "To cry", "To wear new clothes", "Damage caused by ordinary use"],
+    "answer": "Damage caused by ordinary use",
+    "explanation": "'Wear and tear' মানে হলো সাধারণ বা দৈনন্দিন ব্যবহারের ফলে যে স্বাভাবিক ক্ষয়ক্ষতি হয়।"
+  },
+  {
+    "id": 129,
+    "question": "What does 'Apple-pie order' mean?",
+    "options": ["In perfect order", "A baked pie", "A messy room", "Ordering food"],
+    "answer": "In perfect order",
+    "explanation": "'Apple-pie order' মানে হলো অত্যন্ত পরিপাটি বা একেবারে সাজানো-গোছানো অবস্থা (In perfect/neat order)।"
+  },
+  {
+    "id": 130,
+    "question": "Choose the meaning of: 'At large'",
+    "options": ["Very big", "Free or uncaptured", "A large crowd", "To increase size"],
+    "answer": "Free or uncaptured",
+    "explanation": "'At large' মানে হলো অধরা বা মুক্ত থাকা। সাধারণত পলাতক বা গ্রেপ্তার না হওয়া অপরাধীর ক্ষেত্রে এটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 131,
+    "question": "What is the meaning of 'Bed of thorns'?",
+    "options": ["A beautiful garden", "A comfortable bed", "A situation of extreme difficulty", "A wild plant"],
+    "answer": "A situation of extreme difficulty",
+    "explanation": "'Bed of thorns' মানে হলো কণ্টকশয্যা। অর্থাৎ এমন এক পরিস্থিতি যা চরম কষ্টকর বা যন্ত্রণাদায়ক।"
+  },
+  {
+    "id": 132,
+    "question": "Find the correct meaning: 'Bring to book'",
+    "options": ["To write a book", "To read a novel", "To borrow a book", "To punish or demand an explanation"],
+    "answer": "To punish or demand an explanation",
+    "explanation": "'Bring to book' মানে হলো কাউকে তার দোষের জন্য কৈফিয়ত তলব করা বা শাস্তি দেওয়া।"
+  },
+  {
+    "id": 133,
+    "question": "What does the phrase 'By dint of' mean?",
+    "options": ["By means of", "A loud noise", "By chance", "With great difficulty"],
+    "answer": "By means of",
+    "explanation": "'By dint of' মানে হলো সাহায্যে বা জোরে (যেমন- He passed the exam by dint of hard work)।"
+  },
+  {
+    "id": 134,
+    "question": "Choose the meaning of: 'Call in question'",
+    "options": ["To answer", "To doubt or challenge", "To call someone on phone", "To ask for help"],
+    "answer": "To doubt or challenge",
+    "explanation": "'Call in question' মানে হলো কোনো কিছু নিয়ে সন্দেহ প্রকাশ করা বা তার সত্যতাকে চ্যালেঞ্জ করা (To express doubt)।"
+  },
+  {
+    "id": 135,
+    "question": "What is the meaning of 'Catch a tartar'?",
+    "options": ["To eat fish", "To catch a train", "To deal with someone unexpectedly formidable", "To get cold"],
+    "answer": "To deal with someone unexpectedly formidable",
+    "explanation": "'Catch a tartar' মানে হলো নিজের চেয়েও বেশি শক্তিশালী বা ভয়ঙ্কর প্রতিপক্ষের পাল্লায় পড়া।"
+  },
+  {
+    "id": 136,
+    "question": "Find the correct meaning: 'Come off with flying colours'",
+    "options": ["To paint a picture", "To fly a kite", "To wear bright clothes", "To be highly successful"],
+    "answer": "To be highly successful",
+    "explanation": "'Come off with flying colours' মানে হলো কোনো প্রতিযোগিতায় বা পরীক্ষায় বিরাট সাফল্য লাভ করা বা সসম্মানে উত্তীর্ণ হওয়া।"
+  },
+  {
+    "id": 137,
+    "question": "What does 'Cry for the moon' mean?",
+    "options": ["To ask for the impossible", "To cry at night", "A romantic song", "To stare at the moon"],
+    "answer": "To ask for the impossible",
+    "explanation": "'Cry for the moon' মানে হলো চাঁদ হাতে পাওয়ার চেষ্টা, অর্থাৎ অসম্ভব কিছু চাওয়া বা আশা করা।"
+  },
+  {
+    "id": 138,
+    "question": "Choose the meaning of: 'Curry favour'",
+    "options": ["To cook a dish", "To seek favor by flattery", "A favorite food", "To help someone"],
+    "answer": "To seek favor by flattery",
+    "explanation": "'Curry favour' মানে হলো তোষামোদ বা চাটুকারিতা করে কারো অনুগ্রহ লাভের চেষ্টা করা।"
+  },
+  {
+    "id": 139,
+    "question": "What is the meaning of 'Cut to the quick'?",
+    "options": ["To run fast", "A sharp knife", "To hurt someone's feelings deeply", "To cut a rope quickly"],
+    "answer": "To hurt someone's feelings deeply",
+    "explanation": "'Cut to the quick' মানে হলো কারো মর্মে আঘাত দেওয়া বা মনে দারুণ কষ্ট দেওয়া।"
+  },
+  {
+    "id": 140,
+    "question": "Find the correct meaning: 'Die in harness'",
+    "options": ["To die in an accident", "To die in a hospital", "To ride a horse", "To die while still working"],
+    "answer": "To die while still working",
+    "explanation": "'Die in harness' মানে হলো কর্মরত অবস্থায় মারা যাওয়া, অর্থাৎ অবসর নেওয়ার আগেই মৃত্যু হওয়া।"
+  },
+  {
+    "id": 141,
+    "question": "What does 'Eat humble pie' signify?",
+    "options": ["To apologize and accept humiliation", "To eat a pie", "To be hungry", "To share food"],
+    "answer": "To apologize and accept humiliation",
+    "explanation": "'Eat humble pie' মানে হলো অপমান হজম করা বা নিজের ভুল স্বীকার করে বিনীতভাবে ক্ষমা চাওয়া।"
+  },
+  {
+    "id": 142,
+    "question": "Choose the meaning of: 'Foul play'",
+    "options": ["A dirty ground", "Unfair or treacherous behavior", "A bad game", "To play in mud"],
+    "answer": "Unfair or treacherous behavior",
+    "explanation": "'Foul play' মানে হলো অসদুপায় বা ছলচাতুরি, অনেক সময় এর মাধ্যমে গুরুতর অপরাধমূলক কাজকেও বোঝায়।"
+  },
+  {
+    "id": 143,
+    "question": "What is the meaning of 'Hard and fast'?",
+    "options": ["A racing car", "Running fast", "Strict and unalterable", "A quick decision"],
+    "answer": "Strict and unalterable",
+    "explanation": "'Hard and fast' বলতে এমন ধরাবাঁধা বা কঠোর নিয়ম বোঝায় যা কোনোভাবেই বদলানো যায় না (Strict rules)।"
+  },
+  {
+    "id": 144,
+    "question": "Find the correct meaning: 'In a fix'",
+    "options": ["To repair something", "A fixed price", "A permanent job", "In a difficult situation or dilemma"],
+    "answer": "In a difficult situation or dilemma",
+    "explanation": "'In a fix' মানে হলো উভয়সঙ্কট বা খুব অসুবিধাজনক পরিস্থিতিতে (dilemma) পড়া।"
+  },
+  {
+    "id": 145,
+    "question": "What does 'Ins and outs' mean?",
+    "options": ["Full details or intricacies", "Entering and leaving", "Doors and windows", "Outside the house"],
+    "answer": "Full details or intricacies",
+    "explanation": "'Ins and outs' মানে হলো খুঁটিনাটি সমস্ত বিবরণ বা ভেতরের-বাইরের সব গোপন খবর।"
+  },
+  {
+    "id": 146,
+    "question": "Choose the meaning of: 'Keep body and soul together'",
+    "options": ["To practice yoga", "To manage to stay alive", "To meditate", "To go to a gym"],
+    "answer": "To manage to stay alive",
+    "explanation": "'Keep body and soul together' মানে হলো কোনোমতে টিকে থাকা বা অনাহারে না থেকে বেঁচে থাকার মতো রসদ জোগাড় করা।"
+  },
+  {
+    "id": 147,
+    "question": "What is the meaning of 'Leave no stone unturned'?",
+    "options": ["To throw stones", "To build a wall", "To try every possible course of action", "To look under rocks"],
+    "answer": "To try every possible course of action",
+    "explanation": "'Leave no stone unturned' মানে হলো চেষ্টার কোনো ত্রুটি না রাখা বা সম্ভাব্য সব উপায় অবলম্বন করা।"
+  },
+  {
+    "id": 148,
+    "question": "Find the correct meaning: 'Make a clean breast of'",
+    "options": ["To wash clothes", "To take a bath", "A healthy heart", "To confess completely"],
+    "answer": "To confess completely",
+    "explanation": "'Make a clean breast of' মানে হলো অকপটে সব স্বীকার করা বা গোপন না করে নিজের দোষ বলে দেওয়া।"
+  },
+  {
+    "id": 149,
+    "question": "What does 'Read between the lines' signify?",
+    "options": ["To understand the hidden meaning", "To read carefully", "To write a letter", "To draw straight lines"],
+    "answer": "To understand the hidden meaning",
+    "explanation": "'Read between the lines' মানে হলো শব্দের বাইরের অর্থ না দেখে তার অন্তর্নিহিত বা গোপন অর্থ বোঝার চেষ্টা করা।"
+  },
+  {
+    "id": 150,
+    "question": "Choose the meaning of: 'Rule of thumb'",
+    "options": ["Measuring with thumb", "A broadly accurate guide or principle", "A strict law", "A finger injury"],
+    "answer": "A broadly accurate guide or principle",
+    "explanation": "'Rule of thumb' মানে হলো বাস্তব অভিজ্ঞতালব্ধ সাধারণ নিয়ম বা পদ্ধতি, যা পুরোপুরি বিজ্ঞানসম্মত না হলেও কাজে দেয়।"
+  },
+  {
+    "id": 151,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He <u>got himself into trouble</u> by interfering in his neighbour's affairs.",
+    "options": ["Burnt his fingers", "Broke the ice", "Spilt the beans", "Smelt a rat"],
+    "answer": "Burnt his fingers",
+    "explanation": "'Burn one's fingers' (নিজের আঙুল পোড়ানো) মানে হলো অন্যের ব্যাপারে নাক গলাতে গিয়ে নিজেই বিপদে পড়া বা নিজের ক্ষতি ডেকে আনা।"
+  },
+  {
+    "id": 152,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>All his efforts to start the new business <u>yielded no result</u>.",
+    "options": ["Fell flat", "Ended in smoke", "Bit the dust", "Missed the boat"],
+    "answer": "Ended in smoke",
+    "explanation": "'End in smoke' মানে ধোঁয়ায় পরিণত হওয়া, অর্থাৎ কোনো কাজে সম্পূর্ণ ব্যর্থ হওয়া বা দীর্ঘ প্রচেষ্টার পর কোনো ফল না পাওয়া।"
+  },
+  {
+    "id": 153,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The notorious criminal finally <u>died</u> after a long illness.",
+    "options": ["Turned a new leaf", "Breathed his last", "Kicked the bucket", "Called it a day"],
+    "answer": "Kicked the bucket",
+    "explanation": "'Kick the bucket' একটি অনানুষ্ঠানিক (informal) idiom যার অর্থ হলো মারা যাওয়া (to pass away বা to die)।"
+  },
+  {
+    "id": 154,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The manager <u>ignored</u> the valid complaints of the poor workers.",
+    "options": ["Paid lip service to", "Made light of", "Gave a cold shoulder", "Turned a deaf ear to"],
+    "answer": "Turned a deaf ear to",
+    "explanation": "'Turn a deaf ear to' মানে হলো কানে না তোলা বা ইচ্ছাকৃতভাবে কারো কথা উপেক্ষা করা বা শুনতে অস্বীকার করা।"
+  },
+  {
+    "id": 155,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The thief <u>confessed his crime completely</u> before the police.",
+    "options": ["Made a clean breast of", "Let the cat out of the bag", "Spilt the beans", "Cleared the air"],
+    "answer": "Made a clean breast of",
+    "explanation": "'Make a clean breast of' মানে হলো কোনো কিছু গোপন না করে অকপটে সব দোষ বা সত্য স্বীকার করে নেওয়া।"
+  },
+  {
+    "id": 156,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He visits his native village <u>very rarely</u> because of his busy schedule.",
+    "options": ["By leaps and bounds", "Once in a blue moon", "Off and on", "By fits and starts"],
+    "answer": "Once in a blue moon",
+    "explanation": "'Once in a blue moon' মানে হলো কদাচিৎ বা অত্যন্ত বিরল কোনো ঘটনা, যা প্রায় ঘটেই না।"
+  },
+  {
+    "id": 157,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>It was difficult to <u>start a conversation</u> in the meeting due to the tension.",
+    "options": ["Beat about the bush", "Cut the Gordian knot", "Break the ice", "Read between the lines"],
+    "answer": "Break the ice",
+    "explanation": "'Break the ice' বলতে দীর্ঘ নীরবতা বা অস্বস্তিকর পরিবেশ ভেঙে প্রথম কথা শুরু করাকে বোঝায়।"
+  },
+  {
+    "id": 158,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>She accidentally <u>revealed the secret</u> about the surprise party.",
+    "options": ["Made a clean breast of", "Cleared the air", "Spoke volumes", "Let the cat out of the bag"],
+    "answer": "Let the cat out of the bag",
+    "explanation": "'Let the cat out of the bag' মানে হলো ভুলবশত বা অসাবধানতাবশত কোনো গোপন কথা ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": 159,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Searching for the lost ring in this huge garden is a <u>useless search</u>.",
+    "options": ["Wild goose chase", "Herculean task", "Child's play", "Fool's errand"],
+    "answer": "Wild goose chase",
+    "explanation": "'Wild goose chase' মানে হলো এমন কোনো কিছুর পেছনে ছোটা যা পাওয়া অসম্ভব, অর্থাৎ পণ্ডশ্রম বা বৃথা চেষ্টা।"
+  },
+  {
+    "id": 160,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After losing his job, he found himself <u>in a difficult situation</u>.",
+    "options": ["In a fool's paradise", "In a tight corner", "At large", "In black and white"],
+    "answer": "In a tight corner",
+    "explanation": "'In a tight corner' বা 'in a tight spot' মানে হলো খুব কঠিন, অস্বস্তিকর বা সমস্যাসঙ্কুল পরিস্থিতিতে পড়া।"
+  },
+  {
+    "id": 161,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You guessed the exact reason for her anger. You <u>said exactly the right thing</u>.",
+    "options": ["Broke the ice", "Let the cat out of the bag", "Hit the nail on the head", "Beat about the bush"],
+    "answer": "Hit the nail on the head",
+    "explanation": "'Hit the nail on the head' মানে একেবারে সঠিক কথা বলা বা সমস্যার মূল কারণটি সঠিকভাবে ধরতে পারা।"
+  },
+  {
+    "id": 162,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Come on, <u>reveal the secret</u>! Who won the competition?",
+    "options": ["Call a spade a spade", "Chew the cud", "Cry for the moon", "Spill the beans"],
+    "answer": "Spill the beans",
+    "explanation": "'Spill the beans' মানে হলো অনিচ্ছাকৃতভাবে বা হঠাৎ করে কোনো গোপন তথ্য বা রহস্য ফাঁস করে দেওয়া।"
+  },
+  {
+    "id": 163,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I will not go to the office today because I am feeling <u>slightly unwell</u>.",
+    "options": ["Under the weather", "Out of sorts", "In the dark", "Off colour"],
+    "answer": "Under the weather",
+    "explanation": "'Under the weather' বলতে বোঝায় সামান্য অসুস্থ বোধ করা বা শরীর ভালো না থাকা।"
+  },
+  {
+    "id": 164,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>She was shedding <u>false tears</u> at the funeral of her rich uncle.",
+    "options": ["Bitter tears", "Crocodile tears", "Idle tears", "Silent tears"],
+    "answer": "Crocodile tears",
+    "explanation": "'Crocodile tears' বা মায়াকান্না মানে হলো ভেতরে দুঃখ না থাকলেও লোক-দেখানো মিথ্যা শোক বা দুঃখ প্রকাশ করা।"
+  },
+  {
+    "id": 165,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The news of his sudden resignation came <u>completely unexpectedly</u>.",
+    "options": ["At the eleventh hour", "By and by", "Out of the blue", "In a nutshell"],
+    "answer": "Out of the blue",
+    "explanation": "'Out of the blue' (বিনামেঘে বজ্রপাত) মানে হলো সম্পূর্ণ অপ্রত্যাশিত বা হঠাৎ করে ঘটে যাওয়া কোনো ঘটনা।"
+  },
+  {
+    "id": 166,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Solving this basic math problem is an <u>extremely easy task</u> for him.",
+    "options": ["Herculean task", "Uphill task", "Child's play", "Piece of cake"],
+    "answer": "Piece of cake",
+    "explanation": "'Piece of cake' মানে হলো অত্যন্ত সহজ কাজ যা যে কেউই অনায়াসে করতে পারে।"
+  },
+  {
+    "id": 167,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You have to <u>understand the hidden meaning</u> of the letter to know his real intention.",
+    "options": ["Read between the lines", "Call a spade a spade", "Look before you leap", "Beat about the bush"],
+    "answer": "Read between the lines",
+    "explanation": "'Read between the lines' মানে হলো যা স্পষ্টভাবে বলা বা লেখা নেই, তার অন্তর্নিহিত অর্থ বোঝার চেষ্টা করা।"
+  },
+  {
+    "id": 168,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We must <u>destroy the evil practice at an early stage</u> before it spreads.",
+    "options": ["Turn over a new leaf", "Nip in the bud", "Bring to light", "Take to task"],
+    "answer": "Nip in the bud",
+    "explanation": "'Nip in the bud' মানে হলো অঙ্কুরে বিনাশ করা বা কোনো সমস্যাকে বড় হওয়ার আগেই সমূলে শেষ করে দেওয়া।"
+  },
+  {
+    "id": 169,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Stop <u>talking indirectly</u> and come straight to the point.",
+    "options": ["Splitting hairs", "Blowing your own trumpet", "Beating about the bush", "Crying over spilt milk"],
+    "answer": "Beating about the bush",
+    "explanation": "'Beat about the bush' মানে আসল কথায় না এসে অকারণে ঘুরিয়ে পেঁচিয়ে অপ্রাসঙ্গিক কথা বলা।"
+  },
+  {
+    "id": 170,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He submitted his project report <u>at the very last moment</u>.",
+    "options": ["In the nick of time", "In the long run", "At a stretch", "At the eleventh hour"],
+    "answer": "At the eleventh hour",
+    "explanation": "'At the eleventh hour' বলতে একেবারে শেষ মুহূর্তে বা সময় ফুরিয়ে যাওয়ার ঠিক আগে কোনো কাজ করা বোঝায়।"
+  },
+  {
+    "id": 171,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You should <u>believe only a part</u> of what he says, as he often exaggerates.",
+    "options": ["Take with a pinch of salt", "Turn a deaf ear to", "Make light of", "Keep at arm's length"],
+    "answer": "Take with a pinch of salt",
+    "explanation": "'Take with a pinch of salt' মানে হলো কারো কথা পুরোপুরি বিশ্বাস না করে কিছুটা সন্দেহের চোখে দেখা বা যাচাই করে নেওয়া।"
+  },
+  {
+    "id": 172,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>His new startup business is growing <u>very rapidly</u>.",
+    "options": ["Slowly but surely", "By leaps and bounds", "By fits and starts", "Through thick and thin"],
+    "answer": "By leaps and bounds",
+    "explanation": "'By leaps and bounds' মানে হলো অত্যন্ত দ্রুতগতিতে বা লাফিয়ে লাফিয়ে বৃদ্ধি পাওয়া।"
+  },
+  {
+    "id": 173,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We have been working continuously for 10 hours, let's <u>stop working for today</u>.",
+    "options": ["Break the ice", "Call in question", "Call it a day", "Nip in the bud"],
+    "answer": "Call it a day",
+    "explanation": "'Call it a day' মানে হলো আজকের মতো কাজ বন্ধ করা বা দিনের মতো ছুটি ঘোষণা করা।"
+  },
+  {
+    "id": 174,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Nobody likes him because he is always <u>praising himself</u>.",
+    "options": ["Toeing the line", "Eating humble pie", "Resting on his laurels", "Blowing his own trumpet"],
+    "answer": "Blowing his own trumpet",
+    "explanation": "'Blow one's own trumpet' মানে নিজের ঢাক নিজে পেটানো অর্থাৎ নিজের প্রশংসা নিজেই করা।"
+  },
+  {
+    "id": 175,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The police will <u>try every possible means</u> to find the kidnapped child.",
+    "options": ["Leave no stone unturned", "Move heaven and earth", "Make a mountain out of a molehill", "Bite the dust"],
+    "answer": "Leave no stone unturned",
+    "explanation": "'Leave no stone unturned' মানে হলো চেষ্টার কোনো ত্রুটি না রাখা বা সম্ভাব্য সব উপায় প্রয়োগ করা।"
+  },
+  {
+    "id": 176,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is considered the <u>person with a bad reputation</u> in his highly reputed family.",
+    "options": ["Dark horse", "Black sheep", "White elephant", "Scapegoat"],
+    "answer": "Black sheep",
+    "explanation": "'Black sheep' বলতে পরিবারের বা দলের এমন সদস্যকে বোঝায় যে কুখ্যাত এবং অন্যদের জন্য লজ্জার কারণ।"
+  },
+  {
+    "id": 177,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Losing that job turned out to be a <u>hidden advantage</u> as I found a much better one later.",
+    "options": ["Bolt from the blue", "Bone of contention", "Blessing in disguise", "Storm in a teacup"],
+    "answer": "Blessing in disguise",
+    "explanation": "'Blessing in disguise' মানে শাপে বর। অর্থাৎ এমন কিছু যা প্রথমে খারাপ মনে হলেও পরে উপকারী প্রমাণিত হয়।"
+  },
+  {
+    "id": 178,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Convincing the stubborn manager to approve our leave is a <u>difficult problem to solve</u>.",
+    "options": ["Piece of cake", "Child's play", "Blind alley", "Hard nut to crack"],
+    "answer": "Hard nut to crack",
+    "explanation": "'Hard nut to crack' মানে হলো খুব কঠিন সমস্যা যা সহজে সমাধান করা যায় না বা এমন ব্যক্তি যাকে সহজে বশ করা যায় না।"
+  },
+  {
+    "id": 179,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When I asked for his help, he gave me a <u>deliberately unfriendly treatment</u>.",
+    "options": ["Cold shoulder", "Red carpet", "Clean sweep", "Deaf ear"],
+    "answer": "Cold shoulder",
+    "explanation": "'Give a cold shoulder' মানে হলো কাউকে ইচ্ছাকৃতভাবে এড়িয়ে চলা বা অবজ্ঞা ও ঔদাসীন্য দেখানো।"
+  },
+  {
+    "id": 180,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The corrupt officer was <u>caught while committing the crime</u>.",
+    "options": ["Caught off guard", "Caught red-handed", "Caught in the crossfire", "Caught napping"],
+    "answer": "Caught red-handed",
+    "explanation": "'Catch red-handed' মানে হলো অপরাধ করার ঠিক মুহূর্তেই হাতেনাতে কাউকে ধরে ফেলা।"
+  },
+  {
+    "id": 181,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>True friends will support you <u>under all circumstances</u>.",
+    "options": ["By and by", "By fits and starts", "Through thick and thin", "In black and white"],
+    "answer": "Through thick and thin",
+    "explanation": "'Through thick and thin' মানে হলো সুখে-দুঃখে অর্থাৎ জীবনের সবরকম ভালো ও খারাপ পরিস্থিতিতে পাশে থাকা।"
+  },
+  {
+    "id": 182,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>His career has reached a <u>situation with no escape or progress</u>.",
+    "options": ["Fools paradise", "Golden mean", "Turning point", "Blind alley"],
+    "answer": "Blind alley",
+    "explanation": "'Blind alley' (কানা গলি) মানে এমন এক পরিস্থিতি যেখান থেকে সামনে এগোনোর বা উন্নতির কোনো পথ বা ভবিষ্যৎ নেই।"
+  },
+  {
+    "id": 183,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Buying a house in this expensive city will <u>be very expensive</u>.",
+    "options": ["Cost an arm and a leg", "Make ends meet", "Bear the brunt", "Break the bank"],
+    "answer": "Cost an arm and a leg",
+    "explanation": "'Cost an arm and a leg' মানে হলো অত্যন্ত ব্যয়বহুল বা খুব দামি হওয়া।"
+  },
+  {
+    "id": 184,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We cannot go out to play right now because it is <u>raining heavily</u>.",
+    "options": ["Blowing hot and cold", "Raining cats and dogs", "Falling flat", "Going to the dogs"],
+    "answer": "Raining cats and dogs",
+    "explanation": "'Rain cats and dogs' বলতে মুষলধারে বা খুব ভারী বৃষ্টিপাত হওয়াকে বোঝায়।"
+  },
+  {
+    "id": 185,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You failed the exam, but there is no point in <u>complaining about a past loss</u>; start studying again.",
+    "options": ["Eating humble pie", "Beating about the bush", "Crying over spilt milk", "Barking up the wrong tree"],
+    "answer": "Crying over spilt milk",
+    "explanation": "'Cry over spilt milk' মানে হলো যে ক্ষতি ইতিমধ্যে হয়ে গেছে তা নিয়ে বৃথা অনুশোচনা বা দুঃখ করা।"
+  },
+  {
+    "id": 186,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>In the new boarding school, the little boy felt like <u>a person in an unfamiliar situation</u>.",
+    "options": ["A dark horse", "A black sheep", "A broken reed", "A fish out of water"],
+    "answer": "A fish out of water",
+    "explanation": "'Fish out of water' (জল ছাড়া মাছ) মানে সম্পূর্ণ অচেনা এবং অস্বস্তিকর পরিবেশে থাকা।"
+  },
+  {
+    "id": 187,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>His sarcastic comments only <u>worsened the bad situation</u> during the meeting.",
+    "options": ["Added fuel to the fire", "Broke the ice", "Turned the tables", "Cleared the air"],
+    "answer": "Added fuel to the fire",
+    "explanation": "'Add fuel to the fire' মানে আগুনে ঘি ঢালা অর্থাৎ একটি খারাপ বা উত্তপ্ত পরিস্থিতিকে আরও খারাপ করে তোলা।"
+  },
+  {
+    "id": 188,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The ancestral property became the <u>cause of quarrel</u> between the two brothers.",
+    "options": ["Bolt from the blue", "Apple of discord", "Bed of roses", "Storm in a teacup"],
+    "answer": "Apple of discord",
+    "explanation": "'Apple of discord' বা 'Bone of contention' মানে হলো বিবাদ বা ঝগড়ার মূল কারণ।"
+  },
+  {
+    "id": 189,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>There is a lot of <u>ill feeling</u> between the two rival political parties.",
+    "options": ["Blue blood", "Cold blood", "Bad blood", "Flesh and blood"],
+    "answer": "Bad blood",
+    "explanation": "'Bad blood' মানে হলো দুই পক্ষের মধ্যে থাকা পুরনো শত্রুতা, রাগ বা বিদ্বেষ।"
+  },
+  {
+    "id": 190,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Being the Prime Minister of a country is not an <u>easy and comfortable situation</u>.",
+    "options": ["Uphill task", "Apple-pie order", "Fool's paradise", "Bed of roses"],
+    "answer": "Bed of roses",
+    "explanation": "'A bed of roses' (পুষ্পশয্যা) মানে হলো অত্যন্ত আরামদায়ক ও সহজ পরিস্থিতি।"
+  },
+  {
+    "id": 191,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I hate going to the dentist, but I'll just have to <u>face the difficult situation bravely</u>.",
+    "options": ["Bite the bullet", "Eat humble pie", "Chew the cud", "Face the music"],
+    "answer": "Bite the bullet",
+    "explanation": "'Bite the bullet' মানে হলো কোনো অপ্রীতিকর, কঠিন বা যন্ত্রণাদায়ক পরিস্থিতিকে সাহসের সাথে মোকাবিলা করা বা মেনে নেওয়া।"
+  },
+  {
+    "id": 192,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Nobody expected him to win, but he proved to be an <u>unexpected winner</u> in the tournament.",
+    "options": ["White elephant", "Dark horse", "Scapegoat", "Lone wolf"],
+    "answer": "Dark horse",
+    "explanation": "'A dark horse' বলতে এমন প্রতিযোগীকে বোঝায় যার জেতার কথা কেউ ভাবেনি কিন্তু সে অপ্রত্যাশিতভাবে জয়লাভ করে।"
+  },
+  {
+    "id": 193,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>That old colonial law is now a <u>law no longer in force</u>.",
+    "options": ["Blind alley", "Close shave", "Dead letter", "Iron will"],
+    "answer": "Dead letter",
+    "explanation": "'Dead letter' মানে হলো এমন কোনো আইন বা প্রথা যা একসময় প্রচলিত থাকলেও বর্তমানে আর কার্যকর নেই।"
+  },
+  {
+    "id": 194,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After being proven wrong in front of everyone, he had to <u>apologize humbly</u>.",
+    "options": ["Face the music", "Bite the dust", "Call a spade a spade", "Eat humble pie"],
+    "answer": "Eat humble pie",
+    "explanation": "'Eat humble pie' মানে হলো নিজের ভুল স্বীকার করে বিনীতভাবে ক্ষমা চাওয়া বা অপমান হজম করা।"
+  },
+  {
+    "id": 195,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>People came from <u>over a large area</u> to attend the famous village fair.",
+    "options": ["Far and wide", "High and low", "By leaps and bounds", "Through thick and thin"],
+    "answer": "Far and wide",
+    "explanation": "'Far and wide' মানে হলো চারদিকে বা বহু দূর-দূরান্ত থেকে আসা।"
+  },
+  {
+    "id": 196,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Winning the national award is another <u>achievement to be proud of</u> for the actor.",
+    "options": ["Gala day", "Feather in his cap", "Red letter day", "Blessing in disguise"],
+    "answer": "Feather in his cap",
+    "explanation": "'Feather in one's cap' মানে মুকুটে নতুন পালক অর্থাৎ এমন কোনো নতুন সাফল্য বা অর্জন যা নিয়ে গর্ব করা যায়।"
+  },
+  {
+    "id": 197,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Such cruel behavior is beyond the tolerance of <u>human nature</u>.",
+    "options": ["Kith and kin", "Pros and cons", "Flesh and blood", "Heart and soul"],
+    "answer": "Flesh and blood",
+    "explanation": "'Flesh and blood' মানে রক্তমাংসের শরীর বা সাধারণ মানব স্বভাব, যার নিজস্ব আবেগ বা দুর্বলতা আছে।"
+  },
+  {
+    "id": 198,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The politician won the election mainly because of his <u>ability to speak well</u>.",
+    "options": ["Iron will", "Herculean task", "Lion's share", "Gift of the gab"],
+    "answer": "Gift of the gab",
+    "explanation": "'Gift of the gab' মানে হলো সুন্দর করে গুছিয়ে কথা বলার সহজাত ক্ষমতা বা বাগ্মীতা।"
+  },
+  {
+    "id": 199,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The police discovered that the bank manager was <u>in close collusion</u> with the robbers.",
+    "options": ["Hand in glove", "At daggers drawn", "At loggerheads", "At arm's length"],
+    "answer": "Hand in glove",
+    "explanation": "'Hand in glove' মানে অত্যন্ত ঘনিষ্ঠ সম্পর্ক, সাধারণত কোনো খারাপ কাজ বা ষড়যন্ত্রে একসাথে যুক্ত থাকার ক্ষেত্রে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 200,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Cleaning the entire house alone is a <u>task requiring great effort</u>.",
+    "options": ["Child's play", "Herculean task", "Piece of cake", "Wild goose chase"],
+    "answer": "Herculean task",
+    "explanation": "'Herculean task' মানে হলো এমন কাজ যা সম্পন্ন করতে প্রচুর শারীরিক বা মানসিক শক্তির প্রয়োজন হয় (অত্যন্ত কঠিন কাজ)।"
+  },
+  {
+    "id": 201,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He <u>abandoned his friend in a difficult situation</u> when their business went bankrupt.",
+    "options": ["Left in the lurch", "Kept at arm's length", "Showed the white feather", "Called it a day"],
+    "answer": "Left in the lurch",
+    "explanation": "'Leave in the lurch' মানে হলো কাউকে চরম বিপদে বা কঠিন পরিস্থিতিতে একা ফেলে চলে যাওয়া বা সাহায্য না করা।"
+  },
+  {
+    "id": 202,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After years of rivalry, the two families finally decided to <u>make peace</u> and live happily.",
+    "options": ["Bite the dust", "Bury the hatchet", "Clear the air", "Spill the beans"],
+    "answer": "Bury the hatchet",
+    "explanation": "'Bury the hatchet' মানে হলো পুরনো শত্রুতা বা ঝগড়া ভুলে গিয়ে নতুন করে শান্তি স্থাপন করা (To make peace)।"
+  },
+  {
+    "id": 203,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Trying to convince him to change his mind is like <u>wasting energy on an unalterable situation</u>.",
+    "options": ["Crying for the moon", "Beating about the bush", "Flogging a dead horse", "Barking up the wrong tree"],
+    "answer": "Flogging a dead horse",
+    "explanation": "'Flog a dead horse' (মরা ঘোড়াকে চাবুক মারা) মানে হলো এমন কোনো কাজে বৃথা সময় বা শ্রম নষ্ট করা যা থেকে কোনো ফল পাওয়া সম্ভব নয়।"
+  },
+  {
+    "id": 204,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The teacher chose to <u>pretend not to notice</u> the minor mistake of the sincere student.",
+    "options": ["Make light of", "Give a cold shoulder", "Turn a deaf ear", "Turn a blind eye"],
+    "answer": "Turn a blind eye",
+    "explanation": "'Turn a blind eye' মানে হলো দেখেও না দেখার ভান করা বা জেনেবুঝে কোনো বিষয় এড়িয়ে যাওয়া (To ignore intentionally)।"
+  },
+  {
+    "id": 205,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He has read this novel so many times that he knows the story <u>completely</u>.",
+    "options": ["Through and through", "By leaps and bounds", "Off and on", "By and by"],
+    "answer": "Through and through",
+    "explanation": "'Through and through' কথাটির অর্থ হলো সম্পূর্ণরূপে বা আদ্যোপান্ত (Completely or thoroughly)।"
+  },
+  {
+    "id": 206,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Instead of running away, he decided to <u>face the danger boldly</u>.",
+    "options": ["Turn over a new leaf", "Take the bull by the horns", "Face the music", "Stand his ground"],
+    "answer": "Take the bull by the horns",
+    "explanation": "'Take the bull by the horns' (ষাঁড়ের শিং ধরে লড়া) মানে হলো অত্যন্ত সাহসের সাথে সরাসরি বিপদের বা সমস্যার মোকাবিলা করা।"
+  },
+  {
+    "id": 207,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>It is never a good idea to <u>discuss private family disputes in public</u>.",
+    "options": ["Let the cat out of the bag", "Blow one's own trumpet", "Wash dirty linen in public", "Make a mountain out of a molehill"],
+    "answer": "Wash dirty linen in public",
+    "explanation": "'Wash dirty linen in public' মানে হলো নিজেদের বাড়ির বা ব্যক্তিগত ঝগড়া-বিবাদ বাইরের মানুষের সামনে আলোচনা করা।"
+  },
+  {
+    "id": 208,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The company managed to <u>survive the difficult period</u> during the economic crisis.",
+    "options": ["Hold water", "Bite the bullet", "Break the ice", "Weather the storm"],
+    "answer": "Weather the storm",
+    "explanation": "'Weather the storm' মানে হলো কোনো বড় বিপদ, সংকট বা কঠিন সময় সফলভাবে পার করে টিকে থাকা।"
+  },
+  {
+    "id": 209,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He does two part-time jobs just to <u>avoid starvation</u>.",
+    "options": ["Keep the wolf from the door", "Make both ends meet", "Earn his keep", "Hold his ground"],
+    "answer": "Keep the wolf from the door",
+    "explanation": "'Keep the wolf from the door' মানে হলো অনাহার বা চরম দারিদ্র্য থেকে কোনোমতে নিজেকে বা পরিবারকে বাঁচিয়ে রাখা।"
+  },
+  {
+    "id": 210,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He insulted me years ago, and now I have got the chance to <u>take revenge</u>.",
+    "options": ["Turn the tables", "Pay off old scores", "Clear the air", "Throw down the gauntlet"],
+    "answer": "Pay off old scores",
+    "explanation": "'Pay off old scores' (পুরনো হিসাব মেটানো) মানে হলো অতীত কোনো শত্রুতা বা অপমানের প্রতিশোধ নেওয়া।"
+  },
+  {
+    "id": 211,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>First he broke my phone, and then to <u>make the bad situation worse</u>, he blamed me for it.",
+    "options": ["Put the cart before the horse", "Call a spade a spade", "Add insult to injury", "Throw dust in my eyes"],
+    "answer": "Add insult to injury",
+    "explanation": "'Add insult to injury' মানে হলো কাটা ঘায়ে নুনের ছিটে দেওয়া, অর্থাৎ কোনো খারাপ পরিস্থিতিকে আরও খারাপ বা অপমানজনক করে তোলা।"
+  },
+  {
+    "id": 212,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You cannot <u>deceive me</u> with your fake tears and false promises.",
+    "options": ["Pull my leg", "Beat about the bush", "Bite the dust", "Throw dust in my eyes"],
+    "answer": "Throw dust in my eyes",
+    "explanation": "'Throw dust in one's eyes' (চোখে ধুলো দেওয়া) মানে হলো কাউকে প্রতারণা করা বা ধোঁকা দেওয়া (To deceive)।"
+  },
+  {
+    "id": 213,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>It was just a small scratch on his car, but he likes to <u>exaggerate a minor problem</u>.",
+    "options": ["Make a mountain out of a molehill", "Cry over spilt milk", "Blow his own trumpet", "Split hairs"],
+    "answer": "Make a mountain out of a molehill",
+    "explanation": "'Make a mountain out of a molehill' মানে হলো তিলকে তাল করা, অর্থাৎ অত্যন্ত ছোট বা তুচ্ছ কোনো সমস্যাকে অকারণে বড় করে দেখানো।"
+  },
+  {
+    "id": 214,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Even after winning the gold medal, she didn't <u>become complacent with her past success</u> and started training again.",
+    "options": ["Show her true colours", "Rest on her laurels", "Call it a day", "Throw in the towel"],
+    "answer": "Rest on her laurels",
+    "explanation": "'Rest on one's laurels' মানে হলো অতীতের কোনো সাফল্যে আত্মসন্তুষ্ট হয়ে নতুন কোনো চেষ্টা করা বন্ধ করে দেওয়া।"
+  },
+  {
+    "id": 215,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You have broken the expensive vase, now be ready to <u>accept the unpleasant consequences</u>.",
+    "options": ["Pay the piper", "Bite the bullet", "Face the music", "Eat humble pie"],
+    "answer": "Face the music",
+    "explanation": "'Face the music' মানে হলো নিজের ভুল বা খারাপ কাজের জন্য শাস্তি, সমালোচনা বা অপ্রীতিকর পরিণতি মাথা পেতে নেওয়া।"
+  },
+  {
+    "id": 216,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The poor civilians always have to <u>endure the main force</u> of a war.",
+    "options": ["Stand their ground", "Make amends", "Face the music", "Bear the brunt of"],
+    "answer": "Bear the brunt of",
+    "explanation": "'Bear the brunt of' মানে হলো কোনো আক্রমণ, সমালোচনা বা খারাপ পরিস্থিতির সবচেয়ে বড় ধাক্কা বা প্রধান আঘাত সহ্য করা।"
+  },
+  {
+    "id": 217,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Don't be angry, I was just <u>teasing you playfully</u> about your new haircut.",
+    "options": ["Pulling your leg", "Splitting hairs", "Blowing hot and cold", "Hitting below the belt"],
+    "answer": "Pulling your leg",
+    "explanation": "'Pull someone's leg' মানে হলো নিছক মজা করার উদ্দেশ্যে কাউকে ক্ষ্যাপানো বা ঠাট্টা করা।"
+  },
+  {
+    "id": 218,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>None of us have money to buy the tickets, so we are all <u>in the same difficult situation</u>.",
+    "options": ["In a tight corner", "In the same boat", "Between the devil and the deep sea", "At sixes and sevens"],
+    "answer": "In the same boat",
+    "explanation": "'In the same boat' মানে হলো একই রকম অসুবিধাজনক বা কঠিন পরিস্থিতির শিকার হওয়া।"
+  },
+  {
+    "id": 219,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you don't apply for the scholarship by tomorrow, you will <u>miss the opportunity</u>.",
+    "options": ["Bite the dust", "Lose face", "Miss the boat", "Drop the ball"],
+    "answer": "Miss the boat",
+    "explanation": "'Miss the boat' মানে হলো সঠিক সময়ে কাজ না করার কারণে কোনো ভালো সুযোগ হাতছাড়া করা।"
+  },
+  {
+    "id": 220,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Making fun of his physical disability during the argument was <u>an unfair attack</u>.",
+    "options": ["A wild goose chase", "A foul play", "A lame excuse", "Hitting below the belt"],
+    "answer": "Hitting below the belt",
+    "explanation": "'Hit below the belt' মানে হলো অন্যায়ভাবে কাউকে আক্রমণ করা বা কারো দুর্বল জায়গায় আঘাত করা (To attack unfairly)।"
+  },
+  {
+    "id": 221,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The principal had to <u>reprimand the students severely</u> for their continuous misbehavior.",
+    "options": ["Read the riot act", "Call a spade a spade", "Clear the air", "Throw the book at"],
+    "answer": "Read the riot act",
+    "explanation": "'Read the riot act' মানে হলো কাউকে কঠোরভাবে সতর্ক করা বা তীব্র ভর্ৎসনা করা যাতে তারা খারাপ আচরণ বন্ধ করে।"
+  },
+  {
+    "id": 222,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>They had a long meeting to <u>remove the misunderstanding and tension</u> between the two departments.",
+    "options": ["Break the ice", "Clear the air", "Bury the hatchet", "Make amends"],
+    "answer": "Clear the air",
+    "explanation": "'Clear the air' মানে হলো আলোচনা বা ব্যাখ্যার মাধ্যমে সন্দেহ, ক্ষোভ বা ভুল বোঝাবুঝি দূর করে পরিস্থিতি স্বাভাবিক করা।"
+  },
+  {
+    "id": 223,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The manager didn't admit his mistake because he didn't want to <u>suffer a loss of respect</u> in front of his team.",
+    "options": ["Eat humble pie", "Cut a sorry figure", "Lose face", "Bite the dust"],
+    "answer": "Lose face",
+    "explanation": "'Lose face' মানে হলো সম্মান হারানো, লজ্জিত হওয়া বা অন্যদের চোখে ছোট হয়ে যাওয়া।"
+  },
+  {
+    "id": 224,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Gifting him a book on his birthday is like <u>doing something unnecessary</u>, as he already owns a huge library.",
+    "options": ["Flogging a dead horse", "Building castles in the air", "Crying for the moon", "Carrying coals to Newcastle"],
+    "answer": "Carrying coals to Newcastle",
+    "explanation": "'Carry coals to Newcastle' মানে হলো এমন জায়গায় কোনো জিনিস নিয়ে যাওয়া যেখানে সেটি ইতিমধ্যেই প্রচুর পরিমাণে রয়েছে, অর্থাৎ নিষ্প্রয়োজন কাজ করা।"
+  },
+  {
+    "id": 225,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When you attend the royal dinner, you must <u>be very careful about your behavior and manners</u>.",
+    "options": ["Mind your P's and Q's", "Hold your horses", "Stand your ground", "Dot the i's and cross the t's"],
+    "answer": "Mind your P's and Q's",
+    "explanation": "'Mind one's P's and Q's' মানে হলো নিজের কথাবার্তা, আচরণ ও আদবকায়দা সম্পর্কে অত্যন্ত সতর্ক থাকা।"
+  },
+  {
+    "id": 226,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Our team was losing, but a brilliant goal in the last minute completely <u>reversed the situation</u>.",
+    "options": ["Saved the day", "Turned the tables", "Broke the ice", "Cleared the air"],
+    "answer": "Turned the tables",
+    "explanation": "'Turn the tables' মানে হলো পাশা উল্টে দেওয়া। অর্থাৎ পরাজিত বা দুর্বল অবস্থান থেকে হঠাৎ করে পরিস্থিতি সম্পূর্ণ নিজের অনুকূলে নিয়ে আসা।"
+  },
+  {
+    "id": 227,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After trying for three years to pass the difficult exam, he finally decided to <u>admit defeat</u>.",
+    "options": ["Call it a day", "Bite the bullet", "Throw in the towel", "Eat humble pie"],
+    "answer": "Throw in the towel",
+    "explanation": "'Throw in the towel' মানে হলো হাল ছেড়ে দেওয়া বা নিজের পরাজয় স্বীকার করে নেওয়া।"
+  },
+  {
+    "id": 228,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I have given my best in the interview, now I can only <u>hope for a positive outcome</u>.",
+    "options": ["Hold my horses", "Rest on my laurels", "Bide my time", "Keep my fingers crossed"],
+    "answer": "Keep my fingers crossed",
+    "explanation": "'Keep one's fingers crossed' মানে হলো কোনো কিছুর সফল বা ইতিবাচক ফলাফলের জন্য তীব্র আশা বা প্রার্থনা করা।"
+  },
+  {
+    "id": 229,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you want this opportunity, act now! Do not <u>delay in taking action</u>.",
+    "options": ["Let the grass grow under your feet", "Miss the boat", "Beat about the bush", "Blow hot and cold"],
+    "answer": "Let the grass grow under your feet",
+    "explanation": "'Let the grass grow under one's feet' মানে হলো কাজ করতে অহেতুক দেরি করা বা আলসেমি করে সময় নষ্ট করা।"
+  },
+  {
+    "id": 230,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>She has a bad habit of trying to <u>interfere</u> in everyone else's personal matters.",
+    "options": ["Throw dust in eyes", "Poke her nose into", "Add fuel to the fire", "Pull strings"],
+    "answer": "Poke her nose into",
+    "explanation": "'Poke one's nose into' (নাক গলানো) মানে হলো অন্যের ব্যক্তিগত বা গোপনীয় ব্যাপারে অযথা হস্তক্ষেপ করা বা কৌতূহল দেখানো।"
+  },
+  {
+    "id": 231,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He managed to get the government contract by <u>using hidden influence</u>.",
+    "options": ["Turning a blind eye", "Blowing his own trumpet", "Pulling strings", "Greasing palms"],
+    "answer": "Pulling strings",
+    "explanation": "'Pull strings' মানে হলো পেছন থেকে কলকাঠি নাড়া বা কোনো কাজ হাসিল করার জন্য নিজের ক্ষমতা বা রাজনৈতিক প্রভাব খাটানো।"
+  },
+  {
+    "id": 232,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I prepared the presentation, but my colleague tried to <u>take credit for my idea</u> in front of the boss.",
+    "options": ["Pass the buck", "Turn the tables", "Throw dust in my eyes", "Steal my thunder"],
+    "answer": "Steal my thunder",
+    "explanation": "'Steal someone's thunder' মানে হলো অন্যের পরিশ্রমে বা অন্যের আইডিয়া ব্যবহার করে নিজে প্রশংসা কুড়ানোর চেষ্টা করা।"
+  },
+  {
+    "id": 233,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After thinking about it for months, he finally decided to <u>commit to the decisive action</u> and started his own company.",
+    "options": ["Take the plunge", "Break the ice", "Bite the bullet", "Stand his ground"],
+    "answer": "Take the plunge",
+    "explanation": "'Take the plunge' মানে হলো দীর্ঘ দ্বিধা বা চিন্তার পর অবশেষে কোনো ঝুঁকিপূর্ণ বা গুরুত্বপূর্ণ সিদ্ধান্ত গ্রহণ করা।"
+  },
+  {
+    "id": 234,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Ever since she heard the news of her promotion, she has been <u>feeling extremely happy</u>.",
+    "options": ["In a fool's paradise", "Walking on air", "Building castles in the air", "Resting on her laurels"],
+    "answer": "Walking on air",
+    "explanation": "'Walk on air' (হাওয়ায় ওড়া) মানে হলো অত্যন্ত আনন্দিত হওয়া বা চরম খুশিতে থাকা।"
+  },
+  {
+    "id": 235,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>In that company, it is the marketing director who actually <u>is in complete control</u>.",
+    "options": ["Carries the day", "Holds water", "Rules the roost", "Turns the tables"],
+    "answer": "Rules the roost",
+    "explanation": "'Rule the roost' মানে হলো সর্বেসর্বা হওয়া বা কোনো দল বা প্রতিষ্ঠানের ওপর সম্পূর্ণ কর্তৃত্ব ও নিয়ন্ত্রণ বজায় রাখা।"
+  },
+  {
+    "id": 236,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is a very busy man because he seems to <u>be involved in many different activities</u> at the same time.",
+    "options": ["Have an axe to grind", "Keep the pot boiling", "Burn the midnight oil", "Have a finger in every pie"],
+    "answer": "Have a finger in every pie",
+    "explanation": "'Have a finger in every pie' মানে হলো একসঙ্গে একাধিক কাজ, প্রকল্প বা ব্যবসায় যুক্ত থাকা।"
+  },
+  {
+    "id": 237,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He writes freelance articles just to <u>earn barely enough to live</u> while looking for a permanent job.",
+    "options": ["Keep the pot boiling", "Make a clean breast of", "Make amends", "Hold his ground"],
+    "answer": "Keep the pot boiling",
+    "explanation": "'Keep the pot boiling' মানে হলো কোনোমতে সংসার চালানোর বা বেঁচে থাকার মতো ন্যূনতম অর্থ উপার্জন করা।"
+  },
+  {
+    "id": 238,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The students have to <u>study late into the night</u> before their final examinations.",
+    "options": ["Rest on their laurels", "Burn the midnight oil", "Leave no stone unturned", "Face the music"],
+    "answer": "Burn the midnight oil",
+    "explanation": "'Burn the midnight oil' মানে হলো অনেক রাত জাগা, বিশেষ করে অনেক রাত পর্যন্ত পড়াশোনা বা কঠোর পরিশ্রম করা।"
+  },
+  {
+    "id": 239,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Buying furniture before you even rent a house is like <u>doing things in the wrong order</u>.",
+    "options": ["Crying for the moon", "Barking up the wrong tree", "Putting the cart before the horse", "Beating about the bush"],
+    "answer": "Putting the cart before the horse",
+    "explanation": "'Put the cart before the horse' (ঘোড়ার আগে গাড়ি জোড়া) মানে হলো কাজের স্বাভাবিক বা সঠিক ক্রম উল্টে ফেলা, অর্থাৎ যে কাজ পরে করার কথা তা আগে করা।"
+  },
+  {
+    "id": 240,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is a mediocre student; he will never <u>do anything remarkable</u> in his career.",
+    "options": ["Turn over a new leaf", "Break the ice", "Catch a tartar", "Set the Thames on fire"],
+    "answer": "Set the Thames on fire",
+    "explanation": "'Set the Thames on fire' মানে হলো অত্যন্ত চমকপ্রদ বা অসাধারণ কোনো সাফল্য অর্জন করা (সাধারণত নেতিবাচক বাক্যে বেশি বসে, যে সে এমন কিছু করতে পারবে না)।"
+  },
+  {
+    "id": 241,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Whenever a project fails, the manager tries to <u>shift the responsibility</u> to his subordinates.",
+    "options": ["Pass the buck", "Turn the tables", "Pull strings", "Spill the beans"],
+    "answer": "Pass the buck",
+    "explanation": "'Pass the buck' মানে হলো নিজের দোষ বা দায়িত্ব অন্যের ঘাড়ে চাপিয়ে দেওয়া।"
+  },
+  {
+    "id": 242,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After a long and bloody war, the rebel forces finally decided to <u>surrender</u>.",
+    "options": ["Bite the dust", "Lay down their arms", "Throw dust in eyes", "Hold their ground"],
+    "answer": "Lay down their arms",
+    "explanation": "'Lay down one's arms' মানে হলো অস্ত্র সমর্পণ করা বা হার স্বীকার করে নেওয়া (To surrender)।"
+  },
+  {
+    "id": 243,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He ruined her presentation, and now he wants to <u>compensate for the mistake</u> by buying her lunch.",
+    "options": ["Clear the air", "Eat humble pie", "Make amends", "Face the music"],
+    "answer": "Make amends",
+    "explanation": "'Make amends' মানে হলো কোনো ক্ষতি, ভুল বা অন্যায়ের জন্য ক্ষতিপূরণ দেওয়া বা প্রায়শ্চিত্ত করা।"
+  },
+  {
+    "id": 244,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you think you can pass the exam without studying, you need to <u>realize the truth of the situation</u>.",
+    "options": ["Read between the lines", "Turn a blind eye", "Bite the bullet", "Wake up and smell the coffee"],
+    "answer": "Wake up and smell the coffee",
+    "explanation": "'Wake up and smell the coffee' মানে হলো নিজের ভুল ধারণা থেকে বেরিয়ে এসে বাস্তব পরিস্থিতি বুঝতে শেখা বা সত্যের মুখোমুখি হওয়া।"
+  },
+  {
+    "id": 245,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Despite intense pressure from the opposition, the leader managed to <u>maintain his position</u>.",
+    "options": ["Stand his ground", "Weather the storm", "Take the plunge", "Turn the tables"],
+    "answer": "Stand his ground",
+    "explanation": "'Stand one's ground' মানে হলো নিজের মত, অবস্থান বা সিদ্ধান্তে অটল থাকা, কোনো চাপের মুখে পিছু না হটা।"
+  },
+  {
+    "id": 246,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Before submitting the final legal document, the lawyer made sure to <u>pay attention to every detail</u>.",
+    "options": ["Read between the lines", "Dot the i's and cross the t's", "Leave no stone unturned", "Split hairs"],
+    "answer": "Dot the i's and cross the t's",
+    "explanation": "'Dot the i's and cross the t's' মানে হলো অত্যন্ত নিখুঁতভাবে কাজ করা বা সমস্ত খুঁটিনাটি বিষয়ের দিকে নজর দেওয়া।"
+  },
+  {
+    "id": 247,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>By promising to finish the entire project alone in two days, he has surely <u>taken on a task that is way too big</u>.",
+    "options": ["Made a mountain out of a molehill", "Carried coals to Newcastle", "Bitten off more than he can chew", "Put the cart before the horse"],
+    "answer": "Bitten off more than he can chew",
+    "explanation": "'Bite off more than one can chew' মানে হলো নিজের সাধ্যের চেয়ে বড় কোনো দায়িত্ব বা কাজ ঘাড়ে নেওয়া।"
+  },
+  {
+    "id": 248,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I know he made a mistake last year, but don't mention it now. It is better to <u>avoid interfering so as not to cause trouble</u>.",
+    "options": ["Keep at arm's length", "Nip in the bud", "Bury the hatchet", "Let sleeping dogs lie"],
+    "answer": "Let sleeping dogs lie",
+    "explanation": "'Let sleeping dogs lie' মানে হলো ঘুমন্ত কুকুরকে না ঘাঁটানো। অর্থাৎ এমন কোনো পুরনো বিবাদ বা বিষয় না তোলা যা নতুন করে সমস্যা সৃষ্টি করতে পারে।"
+  },
+  {
+    "id": 249,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When his son asked for money to buy a third bike, the father finally <u>took a firm stand</u> and said no.",
+    "options": ["Put his foot down", "Stood his ground", "Called a spade a spade", "Read the riot act"],
+    "answer": "Put his foot down",
+    "explanation": "'Put one's foot down' মানে হলো কোনো বিষয়ে চরম কঠোর হওয়া বা নিজের সিদ্ধান্তে দৃঢ় থেকে কাউকে কোনো কাজ করতে বারণ করা।"
+  },
+  {
+    "id": 250,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When the business failed, his partner ran away with the money and <u>revealed his real character</u>.",
+    "options": ["Spilt the beans", "Showed his true colours", "Let the cat out of the bag", "Turned the tables"],
+    "answer": "Showed his true colours",
+    "explanation": "'Show one's true colours' মানে হলো আসল রূপ বা আসল চরিত্র প্রকাশ পাওয়া।"
+  },
+  {
+    "id": 251,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The financial help they gave us was just <u>a very small amount compared to what is needed</u>.",
+    "options": ["A drop in the ocean", "A blind alley", "A white elephant", "A dead letter"],
+    "answer": "A drop in the ocean",
+    "explanation": "'A drop in the ocean' (সমুদ্রে এক বিন্দু জল) মানে হলো প্রয়োজনের তুলনায় অত্যন্ত সামান্য বা নগণ্য পরিমাণ। অর্থাৎ যা প্রয়োজন তার কাছে এটি কিছুই না।"
+  },
+  {
+    "id": 252,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>His lack of mathematical skill is his <u>small but fatal weakness</u>.",
+    "options": ["Bone of contention", "Achilles' heel", "Lame excuse", "Apple of discord"],
+    "answer": "Achilles' heel",
+    "explanation": "'Achilles' heel' বলতে এমন এক ছোট কিন্তু মারাত্মক দুর্বলতাকে বোঝায়, যার কারণে কোনো বড় পতন বা ক্ষতি হতে পারে।"
+  },
+  {
+    "id": 253,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The two friends were ready to start a fight <u>instantly and without hesitation</u>.",
+    "options": ["By fits and starts", "Once in a blue moon", "At the drop of a hat", "At arm's length"],
+    "answer": "At the drop of a hat",
+    "explanation": "'At the drop of a hat' মানে হলো কোনো কারণ বা প্ররোচনা ছাড়াই তাৎক্ষণিকভাবে বা বিন্দুমাত্র দেরি না করে কোনো কাজ করা।"
+  },
+  {
+    "id": 254,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Since our project proposal got rejected, we have to go <u>back to the starting point</u>.",
+    "options": ["By leaps and bounds", "Into a blind alley", "Through thick and thin", "Back to square one"],
+    "answer": "Back to square one",
+    "explanation": "'Back to square one' মানে হলো কোনো কাজে ব্যর্থ হওয়ার পর একেবারে শুরু থেকে বা শূন্য থেকে আবার শুরু করা।"
+  },
+  {
+    "id": 255,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If he thinks I stole his pen, he is <u>looking in the wrong place or falsely accusing</u>.",
+    "options": ["Barking up the wrong tree", "Crying over spilt milk", "Beating about the bush", "Flogging a dead horse"],
+    "answer": "Barking up the wrong tree",
+    "explanation": "'Barking up the wrong tree' মানে হলো ভুল পথে এগোনো বা ভুল লোককে সন্দেহ করা, অর্থাৎ যে কাজে কোনো ফল পাওয়া যাবে না।"
+  },
+  {
+    "id": 256,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Seeing the fierce dog, the thief <u>withdrew quickly</u>.",
+    "options": ["Stood his ground", "Beat a hasty retreat", "Faced the music", "Took the plunge"],
+    "answer": "Beat a hasty retreat",
+    "explanation": "'Beat a hasty retreat' মানে হলো বিপদের আভাস পেয়ে দ্রুত পিছু হটা বা পালিয়ে যাওয়া।"
+  },
+  {
+    "id": 257,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I didn't see him do it, so I will <u>believe his statement without proof</u>.",
+    "options": ["Turn a deaf ear", "Give the cold shoulder", "Give the benefit of the doubt", "Call in question"],
+    "answer": "Give the benefit of the doubt",
+    "explanation": "'Give the benefit of the doubt' মানে হলো প্রমাণ না পাওয়া পর্যন্ত কাউকে দোষী না ভেবে তার কথা বিশ্বাস করা বা সন্দেহর সুবিধা দেওয়া।"
+  },
+  {
+    "id": 258,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He has to choose between resigning or getting fired; he is <u>faced with two equally unacceptable alternatives</u>.",
+    "options": ["In a fool's paradise", "In the same boat", "At sixes and sevens", "Between a rock and a hard place"],
+    "answer": "Between a rock and a hard place",
+    "explanation": "'Between a rock and a hard place' বা 'Between the devil and the deep sea' মানে হলো উভয়সঙ্কট বা দুটি খারাপ পরিস্থিতির মধ্যে আটকে পড়া।"
+  },
+  {
+    "id": 259,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When his son failed the exam again, the father <u>lost his temper suddenly</u>.",
+    "options": ["Blew his top", "Broke the ice", "Turned the tables", "Burnt his fingers"],
+    "answer": "Blew his top",
+    "explanation": "'Blow one's top' বা 'Fly off the handle' মানে হলো হঠাৎ করে রাগে ফেটে পড়া বা মাথা গরম করে ফেলা।"
+  },
+  {
+    "id": 260,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Because of his continuous success, he is the <u>highly favored person</u> of the boss.",
+    "options": ["Black sheep", "Blue-eyed boy", "Dark horse", "Man of straw"],
+    "answer": "Blue-eyed boy",
+    "explanation": "'Blue-eyed boy' (নয়নের মণি) বলতে এমন ব্যক্তিকে বোঝায় যে ঊর্ধ্বতন কর্তৃপক্ষের অত্যন্ত প্রিয় বা স্নেহের পাত্র।"
+  },
+  {
+    "id": 261,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I have a <u>grievance that needs to be discussed</u> with you regarding yesterday's meeting.",
+    "options": ["Feather in my cap", "Storm in a teacup", "Bone to pick", "Fish out of water"],
+    "answer": "Bone to pick",
+    "explanation": "'Have a bone to pick' মানে হলো কারো সাথে অভিযোগ বা বিবাদের বিষয় নিয়ে আলোচনা বা বোঝাপড়া করা।"
+  },
+  {
+    "id": 262,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Since his father's retirement, he is the only one to <u>earn a living for the family</u>.",
+    "options": ["Keep at bay", "Rest on his laurels", "Blow his own trumpet", "Bring home the bacon"],
+    "answer": "Bring home the bacon",
+    "explanation": "'Bring home the bacon' মানে হলো পরিবারের জন্য অর্থ উপার্জন করা বা জীবিকা নির্বাহ করা।"
+  },
+  {
+    "id": 263,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Working during the day and studying at night means he is <u>exhausting himself by doing too much</u>.",
+    "options": ["Burning the candle at both ends", "Splitting hairs", "Biting the bullet", "Carrying the day"],
+    "answer": "Burning the candle at both ends",
+    "explanation": "'Burn the candle at both ends' মানে হলো অত্যন্ত বেশি পরিশ্রম করা বা অতিরিক্ত কাজ করে নিজেকে ক্লান্ত করে ফেলা।"
+  },
+  {
+    "id": 264,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He escaped the terrible car crash <u>by a very narrow margin</u>.",
+    "options": ["By fits and starts", "By the skin of his teeth", "Through and through", "For good"],
+    "answer": "By the skin of his teeth",
+    "explanation": "'By the skin of one's teeth' মানে হলো অল্পের জন্য বা চুল পরিমাণ ব্যবধানে কোনো বিপদ থেকে রক্ষা পাওয়া।"
+  },
+  {
+    "id": 265,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>In our team, the captain is the one who <u>is in charge and makes the decisions</u>.",
+    "options": ["Faces the music", "Passes the buck", "Calls the shots", "Eats humble pie"],
+    "answer": "Calls the shots",
+    "explanation": "'Call the shots' মানে হলো সর্বেসর্বা হওয়া, নেতৃত্ব দেওয়া বা গুরুত্বপূর্ণ সিদ্ধান্ত নেওয়ার ক্ষমতা থাকা।"
+  },
+  {
+    "id": 266,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>During the weekends, he just sits on the sofa and behaves like a <u>lazy person who watches too much TV</u>.",
+    "options": ["Good Samaritan", "Jack of all trades", "Green horn", "Couch potato"],
+    "answer": "Couch potato",
+    "explanation": "'Couch potato' বলতে এমন অলস ব্যক্তিকে বোঝায় যে সারাদিন সোফায় বসে টিভি দেখে বা ভিডিও গেম খেলে সময় কাটায়।"
+  },
+  {
+    "id": 267,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you keep <u>raising a false alarm</u>, no one will help you when you are in real danger.",
+    "options": ["Crying wolf", "Spilling the beans", "Shedding crocodile tears", "Blowing hot and cold"],
+    "answer": "Crying wolf",
+    "explanation": "'Cry wolf' (বাঘ এল বাঘ এল বলে মিথ্যে চিৎকার করা) মানে হলো অকারণে বিপদের ভান করা বা মিথ্যা সতর্কবার্তা দেওয়া।"
+  },
+  {
+    "id": 268,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The builder tried to <u>do things poorly to save money</u>, which made the building unsafe.",
+    "options": ["Dot the i's and cross the t's", "Cut corners", "Turn over a new leaf", "Move heaven and earth"],
+    "answer": "Cut corners",
+    "explanation": "'Cut corners' মানে হলো সময় বা অর্থ বাঁচানোর জন্য কোনো কাজের নিয়ম লঙ্ঘন করা বা খারাপ মানের কাজ করা।"
+  },
+  {
+    "id": 269,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I agree with you, but let me <u>express a contentious opinion to provoke debate</u> just to test your plan.",
+    "options": ["Call a spade a spade", "Read between the lines", "Play devil's advocate", "Steal your thunder"],
+    "answer": "Play devil's advocate",
+    "explanation": "'Play devil's advocate' মানে হলো তর্কের খাতিরে বা বিপক্ষের যুক্তি যাচাই করার জন্য ইচ্ছাকৃতভাবে বিরোধী অবস্থান নেওয়া।"
+  },
+  {
+    "id": 270,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I will help you with money, but I <u>set a limit</u> when it comes to doing something illegal.",
+    "options": ["Break the ice", "Clear the air", "Weather the storm", "Draw the line"],
+    "answer": "Draw the line",
+    "explanation": "'Draw the line' মানে হলো সীমারেখা টেনে দেওয়া, অর্থাৎ কোনো কাজ কতটা পর্যন্ত সহ্য করা বা গ্রহণ করা হবে তার একটি নির্দিষ্ট সীমা ঠিক করা।"
+  },
+  {
+    "id": 271,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The company's huge debt is the <u>obvious problem that everyone avoids discussing</u> in the meeting.",
+    "options": ["Elephant in the room", "Snake in the grass", "Apple of discord", "Bone of contention"],
+    "answer": "Elephant in the room",
+    "explanation": "'Elephant in the room' মানে হলো এমন কোনো বড় বা অস্বস্তিকর সমস্যা যা সবার সামনে থাকলেও কেউ সেটি নিয়ে আলোচনা করতে চায় না।"
+  },
+  {
+    "id": 272,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>His first movie was a hit, but his later ones failed; he was just a <u>sudden but brief success</u>.",
+    "options": ["Feather in the cap", "Flash in the pan", "Red letter day", "Gala day"],
+    "answer": "Flash in the pan",
+    "explanation": "'Flash in the pan' মানে হলো ক্ষণস্থায়ী সাফল্য, যা হঠাৎ করে শুরু হলেও বেশিদিন টেকে না।"
+  },
+  {
+    "id": 273,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You don't need to <u>lose your temper suddenly</u> over such a small mistake.",
+    "options": ["Turn a deaf ear", "Rest on your laurels", "Fly off the handle", "Throw in the towel"],
+    "answer": "Fly off the handle",
+    "explanation": "'Fly off the handle' মানে হলো হঠাৎ করে মেজাজ হারিয়ে ফেলা বা রাগে ফেটে পড়া।"
+  },
+  {
+    "id": 274,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Just before the wedding, the groom started to <u>experience doubt and nervousness</u>.",
+    "options": ["Smell a rat", "Bite the dust", "Face the music", "Get cold feet"],
+    "answer": "Get cold feet",
+    "explanation": "'Get cold feet' মানে হলো গুরুত্বপূর্ণ কোনো কাজ করার ঠিক আগে অতিরিক্ত নার্ভাস বা ভয় পেয়ে পিছিয়ে যেতে চাওয়া।"
+  },
+  {
+    "id": 275,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The student protest started peacefully but soon <u>became impossible to control</u>.",
+    "options": ["Got out of hand", "Fell flat", "Ended in smoke", "Came to light"],
+    "answer": "Got out of hand",
+    "explanation": "'Get out of hand' মানে হলো নিয়ন্ত্রণের বাইরে চলে যাওয়া বা সামলাতে না পারা।"
+  },
+  {
+    "id": 276,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>For her customers, she is always ready to <u>make a special effort</u>.",
+    "options": ["Leave in the lurch", "Go the extra mile", "Rest on her laurels", "Beat about the bush"],
+    "answer": "Go the extra mile",
+    "explanation": "'Go the extra mile' মানে হলো সাধারণ বা কাঙ্ক্ষিত কাজের চেয়েও ভালো কিছু করার জন্য অতিরিক্ত চেষ্টা করা বা বিশেষ উদ্যোগ নেওয়া।"
+  },
+  {
+    "id": 277,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The exams are starting next week, so it is time to <u>begin to study hard</u>.",
+    "options": ["Read between the lines", "Call it a day", "Hit the books", "Turn over a new leaf"],
+    "answer": "Hit the books",
+    "explanation": "'Hit the books' মানে হলো সিরিয়াসভাবে পড়াশোনা শুরু করা।"
+  },
+  {
+    "id": 278,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I am extremely tired today, I think I will <u>go to bed</u> early.",
+    "options": ["Bite the bullet", "Throw dust in eyes", "Walk on air", "Hit the sack"],
+    "answer": "Hit the sack",
+    "explanation": "'Hit the sack' বা 'Hit the hay' মানে হলো ঘুমোতে যাওয়া (To go to bed)।"
+  },
+  {
+    "id": 279,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is <u>in a state of disgrace and facing punishment</u> for leaking company secrets.",
+    "options": ["In hot water", "In a fool's paradise", "In the dark", "In a nutshell"],
+    "answer": "In hot water",
+    "explanation": "'In hot water' মানে হলো বড় কোনো সমস্যায় পড়া বা খারাপ কাজের জন্য বিপদের সম্মুখীন হওয়া।"
+  },
+  {
+    "id": 280,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When the new diet became popular, everyone started to <u>join the popular trend</u>.",
+    "options": ["Miss the boat", "Jump on the bandwagon", "Take the plunge", "Keep their fingers crossed"],
+    "answer": "Jump on the bandwagon",
+    "explanation": "'Jump on the bandwagon' মানে হলো হুজুগে মাতা, অর্থাৎ কোনো ট্রেন্ড বা ফ্যাশন জনপ্রিয় হলে না বুঝেই তাতে যোগ দেওয়া।"
+  },
+  {
+    "id": 281,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He took vitamin C to <u>prevent the cold from affecting him</u>.",
+    "options": ["Turn a blind eye", "Give a cold shoulder", "Keep the cold at bay", "Add fuel to the fire"],
+    "answer": "Keep the cold at bay",
+    "explanation": "'Keep at bay' মানে হলো দূরে সরিয়ে রাখা বা কোনো খারাপ জিনিসকে নিজের ক্ষতি করা থেকে প্রতিহত করা।"
+  },
+  {
+    "id": 282,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>They decided to <u>forget past conflicts and be reconciled</u>.",
+    "options": ["Read the riot act", "Wash dirty linen", "Split hairs", "Let bygones be bygones"],
+    "answer": "Let bygones be bygones",
+    "explanation": "'Let bygones be bygones' (যা হয়ে গেছে তা হয়ে গেছে) মানে হলো অতীতের তিক্ততা ভুলে গিয়ে সম্পর্ক স্বাভাবিক করা।"
+  },
+  {
+    "id": 283,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When you get something for free, you shouldn't <u>find fault with it</u>.",
+    "options": ["Look a gift horse in the mouth", "Make a mountain out of a molehill", "Call a spade a spade", "Hit the nail on the head"],
+    "answer": "Look a gift horse in the mouth",
+    "explanation": "'Look a gift horse in the mouth' (দান করা ঘোড়ার দাঁত গোনা) মানে হলো বিনামূল্যে বা উপহার হিসেবে পাওয়া কোনো জিনিসের খুঁত ধরা।"
+  },
+  {
+    "id": 284,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>To <u>come directly to the point</u>, we have decided to cancel the project.",
+    "options": ["Beat about the bush", "Make a long story short", "Break the ice", "Clear the air"],
+    "answer": "Make a long story short",
+    "explanation": "'Make a long story short' মানে হলো অপ্রাসঙ্গিক বিষয় বাদ দিয়ে সংক্ষেপে আসল কথায় আসা।"
+  },
+  {
+    "id": 285,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The new tax policy will be the <u>action that causes the final failure</u> for small businesses.",
+    "options": ["Blessing in disguise", "Feather in the cap", "Nail in the coffin", "Bolt from the blue"],
+    "answer": "Nail in the coffin",
+    "explanation": "'Nail in the coffin' (কফিনের শেষ পেরেক) মানে হলো এমন কোনো কাজ বা ঘটনা যা কোনো কিছুকে চূড়ান্তভাবে ধ্বংস বা ব্যর্থ করে দেয়।"
+  },
+  {
+    "id": 286,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I appreciate the invitation to the opera, but classical music is <u>not what I like</u>.",
+    "options": ["Out of the question", "A hard nut to crack", "Child's play", "Not my cup of tea"],
+    "answer": "Not my cup of tea",
+    "explanation": "'Not my cup of tea' মানে হলো আমার পছন্দের বা আগ্রহের বিষয় নয় (Not what one likes or is interested in)।"
+  },
+  {
+    "id": 287,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Her surgery was successful, but she is not completely <u>out of danger</u> yet.",
+    "options": ["Out of the woods", "Under the weather", "In a tight corner", "At large"],
+    "answer": "Out of the woods",
+    "explanation": "'Out of the woods' মানে হলো বিপদমুক্ত হওয়া বা কঠিন অবস্থা থেকে উদ্ধার পাওয়া।"
+  },
+  {
+    "id": 288,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>She was <u>extremely happy</u> when she got the first prize in the competition.",
+    "options": ["In a fix", "Over the moon", "At sixes and sevens", "Under a cloud"],
+    "answer": "Over the moon",
+    "explanation": "'Over the moon' (চাঁদে হাত পাওয়া) মানে হলো অত্যন্ত খুশি বা আনন্দে আত্মহারা হওয়া।"
+  },
+  {
+    "id": 289,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We don't have a fixed schedule for our trip, we will just <u>proceed without a plan</u>.",
+    "options": ["Leave no stone unturned", "Burn the midnight oil", "Play it by ear", "Move heaven and earth"],
+    "answer": "Play it by ear",
+    "explanation": "'Play it by ear' মানে হলো কোনো পূর্বপরিকল্পনা ছাড়াই পরিস্থিতির ওপর নির্ভর করে তাৎক্ষণিকভাবে সিদ্ধান্ত নেওয়া।"
+  },
+  {
+    "id": 290,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Stop crying and try to <u>regain control of your emotions</u>.",
+    "options": ["Bite the bullet", "Throw in the towel", "Face the music", "Pull yourself together"],
+    "answer": "Pull yourself together",
+    "explanation": "'Pull yourself together' মানে হলো আবেগ, রাগ বা কান্নাকাটি থামিয়ে নিজের ওপর নিয়ন্ত্রণ ফিরে পাওয়া বা শান্ত হওয়া।"
+  },
+  {
+    "id": 291,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You must <u>embark on the task with purpose and enthusiasm</u> if you want to impress the interviewers.",
+    "options": ["Put your best foot forward", "Stand your ground", "Read between the lines", "Eat humble pie"],
+    "answer": "Put your best foot forward",
+    "explanation": "'Put one's best foot forward' মানে হলো নিজের সেরাটা দিয়ে কোনো কাজ শুরু করা বা অন্যদের সামনে নিজের সবচেয়ে ভালো ভাবমূর্তি তুলে ধরা।"
+  },
+  {
+    "id": 292,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I don't want to <u>spoil your happiness</u>, but you still have a lot of work to do.",
+    "options": ["Add fuel to the fire", "Rain on your parade", "Throw dust in your eyes", "Steal your thunder"],
+    "answer": "Rain on your parade",
+    "explanation": "'Rain on someone's parade' মানে হলো কারো আনন্দ বা ভালো পরিকল্পনা মাটি করে দেওয়া।"
+  },
+  {
+    "id": 293,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>A good politician must always know how to <u>understand the emotions of the people present</u>.",
+    "options": ["Turn a blind eye", "Mind his P's and Q's", "Read the room", "Call a spade a spade"],
+    "answer": "Read the room",
+    "explanation": "'Read the room' মানে হলো উপস্থিত মানুষের মেজাজ, অনুভূতি বা মনোভাব বুঝতে পারা, যাতে সেই অনুযায়ী কথা বলা যায়।"
+  },
+  {
+    "id": 294,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After years of denying his mistake, he finally <u>realized the truth</u>.",
+    "options": ["Bit the dust", "Lost face", "Cut a sorry figure", "Saw the light"],
+    "answer": "Saw the light",
+    "explanation": "'See the light' মানে হলো দীর্ঘ সময় পর অবশেষে সত্য বা সঠিক জিনিস বুঝতে পারা বা উপলব্ধি করা।"
+  },
+  {
+    "id": 295,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You cannot <u>avoid making a decision</u> forever; you must choose a side.",
+    "options": ["Sit on the fence", "Beat about the bush", "Build castles in the air", "Hold your horses"],
+    "answer": "Sit on the fence",
+    "explanation": "'Sit on the fence' (বেড়ায় বসে থাকা) মানে হলো কোনো পক্ষ না নেওয়া বা সিদ্ধান্ত নেওয়া থেকে বিরত থাকা।"
+  },
+  {
+    "id": 296,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The little girl sang so beautifully that she <u>attracted the most attention and praise</u> in the concert.",
+    "options": ["Broke the ice", "Stole the show", "Carried the day", "Turned the tables"],
+    "answer": "Stole the show",
+    "explanation": "'Steal the show' মানে হলো নিজের পারফরম্যান্স দিয়ে সবার মনোযোগ আকর্ষণ করা এবং সবচেয়ে বেশি প্রশংসা কুড়ানো।"
+  },
+  {
+    "id": 297,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I think it's time for me to <u>take a subordinate role</u> and let the younger generation lead.",
+    "options": ["Keep at arm's length", "Show the white feather", "Take a back seat", "Throw in the towel"],
+    "answer": "Take a back seat",
+    "explanation": "'Take a back seat' মানে হলো পেছনের সারিতে চলে যাওয়া, অর্থাৎ স্বেচ্ছায় নেতৃত্ব ছেড়ে দিয়ে কম গুরুত্বপূর্ণ ভূমিকা গ্রহণ করা।"
+  },
+  {
+    "id": 298,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He submitted his assignment right <u>at the very last minute</u> before the deadline.",
+    "options": ["In the long run", "By leaps and bounds", "Once in a blue moon", "Under the wire"],
+    "answer": "Under the wire",
+    "explanation": "'Under the wire' বা 'At the eleventh hour' মানে হলো একেবারে শেষ মুহূর্তে, সময় পার হয়ে যাওয়ার ঠিক আগে।"
+  },
+  {
+    "id": 299,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The decision about our holiday destination is still <u>unresolved and undecided</u>.",
+    "options": ["Up in the air", "In black and white", "Out of the question", "Null and void"],
+    "answer": "Up in the air",
+    "explanation": "'Up in the air' মানে হলো ঝুলন্ত অবস্থায় থাকা, অর্থাৎ এখনো পর্যন্ত কোনো সিদ্ধান্ত বা সমাধান না হওয়া।"
+  },
+  {
+    "id": 300,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>It is very difficult to <u>succeed in understanding</u> such a complex scientific theory.",
+    "options": ["Put the cart before the horse", "Wrap your head around", "Make a clean breast of", "Nip in the bud"],
+    "answer": "Wrap your head around",
+    "explanation": "'Wrap one's head around' মানে হলো কোনো কঠিন, জটিল বা আশ্চর্যের বিষয় অবশেষে বুঝতে পারা বা উপলব্ধি করতে পারা।"
+  },
+  {
+    "id": 301,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He was known to <u>act recklessly and unreliably</u> with other people's money.",
+    "options": ["Play fast and loose", "Bite the bullet", "Call the shots", "Pass the buck"],
+    "answer": "Play fast and loose",
+    "explanation": "'Play fast and loose' মানে হলো দায়িত্বজ্ঞানহীন, বেপরোয়া বা খামখেয়ালি আচরণ করা। অর্থাৎ অন্যের জিনিসের প্রতি যত্নশীল না হওয়া।"
+  },
+  {
+    "id": 302,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is <u>a misfit in his current job</u> as an accountant since he loves creative arts.",
+    "options": ["A dark horse", "A square peg in a round hole", "A couch potato", "A black sheep"],
+    "answer": "A square peg in a round hole",
+    "explanation": "'A square peg in a round hole' মানে হলো বেমানান ব্যক্তি। অর্থাৎ এমন কেউ যে তার বর্তমান পরিবেশ, কাজ বা পদের জন্য একেবারেই উপযুক্ত নয়।"
+  },
+  {
+    "id": 303,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The old machine finally <u>stopped working entirely</u> after ten years of service.",
+    "options": ["Cut corners", "Held its ground", "Gave up the ghost", "Turned a new leaf"],
+    "answer": "Gave up the ghost",
+    "explanation": "'Give up the ghost' কথাটির আক্ষরিক অর্থ প্রাণ ত্যাগ করা বা মারা যাওয়া। তবে যন্ত্রপাতির ক্ষেত্রে এর অর্থ হলো চিরতরে কাজ করা বন্ধ করে দেওয়া।"
+  },
+  {
+    "id": 304,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The manager made the candidate <u>wait for a long time</u> outside the office.",
+    "options": ["Spill the beans", "Hold his horses", "Stand his ground", "Cool his heels"],
+    "answer": "Cool his heels",
+    "explanation": "'Cool one's heels' মানে হলো কাউকে ইচ্ছাকৃতভাবে অনেকক্ষণ বসিয়ে বা দাঁড় করিয়ে রাখা, অর্থাৎ দীর্ঘ সময় ধরে অপেক্ষা করানো।"
+  },
+  {
+    "id": 305,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After his prediction failed completely, he had to <u>retract his statement</u> publicly.",
+    "options": ["Eat his words", "Face the music", "Eat humble pie", "Chew the cud"],
+    "answer": "Eat his words",
+    "explanation": "'Eat one's words' মানে হলো নিজের বলা কথা ভুল প্রমাণিত হওয়ায় জনসমক্ষে তা প্রত্যাহার করা বা ফিরিয়ে নেওয়া।"
+  },
+  {
+    "id": 306,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Let me <u>clarify the facts to avoid misunderstanding</u> before the rumor spreads.",
+    "options": ["Clear the air", "Set the record straight", "Throw down the gauntlet", "Turn the other cheek"],
+    "answer": "Set the record straight",
+    "explanation": "'Set the record straight' মানে হলো কোনো ভুল ধারণা বা মিথ্যা খবরের অবসান ঘটিয়ে সঠিক তথ্য বা সত্য বিষয়টি সবার সামনে পরিষ্কার করা।"
+  },
+  {
+    "id": 307,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>They <u>acted prematurely</u> by announcing the product before it was fully developed.",
+    "options": ["Missed the boat", "Beat a hasty retreat", "Jumped the gun", "Dropped the ball"],
+    "answer": "Jumped the gun",
+    "explanation": "'Jump the gun' মানে হলো তাড়াহুড়ো করে বা সঠিক সময়ের আগেই কোনো কাজ করে ফেলা (To act prematurely)।"
+  },
+  {
+    "id": 308,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You need to <u>be patient and wait</u> before making such a massive investment.",
+    "options": ["Bite your tongue", "Keep at bay", "Drag your feet", "Hold your horses"],
+    "answer": "Hold your horses",
+    "explanation": "'Hold your horses' কথাটি সাধারণত কাউকে শান্ত হতে বা তাড়াহুড়ো না করে ধৈর্য ধরে অপেক্ষা করতে বলার জন্য ব্যবহৃত হয়।"
+  },
+  {
+    "id": 309,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The election campaign started strong but seemed to <u>lose its momentum</u> in the final weeks.",
+    "options": ["Run out of steam", "Hit the roof", "Bite the dust", "Turn the corner"],
+    "answer": "Run out of steam",
+    "explanation": "'Run out of steam' মানে হলো চলার পথে শক্তি বা উৎসাহ হারিয়ে ফেলা, অর্থাৎ কাজের প্রাথমিক গতি বা মোমেন্টাম কমে যাওয়া।"
+  },
+  {
+    "id": 310,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We decided to <u>collect money from people</u> to help our sick colleague.",
+    "options": ["Pull strings", "Pass the hat", "Grease palms", "Pay the piper"],
+    "answer": "Pass the hat",
+    "explanation": "'Pass the hat' মানে হলো কোনো ব্যক্তি বা ভালো কাজের সাহায্যের জন্য সবার কাছ থেকে চাঁদা বা অর্থ সংগ্রহ করা।"
+  },
+  {
+    "id": 311,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>There is no need to <u>waste time doing something that has already been done</u>; just use the existing software.",
+    "options": ["Flog a dead horse", "Split hairs", "Reinvent the wheel", "Rock the boat"],
+    "answer": "Reinvent the wheel",
+    "explanation": "'Reinvent the wheel' মানে হলো যে জিনিসের অস্তিত্ব আগেই রয়েছে বা যা প্রমাণিত, তা নতুন করে তৈরি করার চেষ্টা করে বৃথা সময় নষ্ট করা।"
+  },
+  {
+    "id": 312,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>By continuously arriving late to work, John is <u>in a very risky situation</u> with his boss.",
+    "options": ["In hot water", "In a tight corner", "At sixes and sevens", "On thin ice"],
+    "answer": "On thin ice",
+    "explanation": "'On thin ice' (পাতলা বরফের ওপর দাঁড়ানো) মানে হলো অত্যন্ত বিপজ্জনক বা ঝুঁকিপূর্ণ অবস্থায় থাকা, যেখানে সামান্য ভুলেই বড় ক্ষতি হতে পারে।"
+  },
+  {
+    "id": 313,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The committee is <u>deliberately delaying</u> the approval of the new housing project.",
+    "options": ["Dragging its feet", "Sitting on the fence", "Beating about the bush", "Burying the hatchet"],
+    "answer": "Dragging its feet",
+    "explanation": "'Drag one's feet' মানে হলো ইচ্ছাকৃতভাবে বা আলসেমি করে কোনো কাজে অযথা দেরি করা।"
+  },
+  {
+    "id": 314,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He decided to <u>take a reckless risk</u> and invest all his savings in the stock market.",
+    "options": ["Go against the grain", "Throw caution to the wind", "Bite off more than he can chew", "Take the plunge"],
+    "answer": "Throw caution to the wind",
+    "explanation": "'Throw caution to the wind' মানে হলো সব রকম ভয় বা সতর্কতা ত্যাগ করে কোনো বেপরোয়া ঝুঁকি গ্রহণ করা।"
+  },
+  {
+    "id": 315,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Let's forgive each other, <u>make a fresh start</u>, and work together on this new project.",
+    "options": ["Bury the hatchet", "Clear the air", "Wipe the slate clean", "Turn over a new leaf"],
+    "answer": "Wipe the slate clean",
+    "explanation": "'Wipe the slate clean' মানে হলো পুরনো ভুল-ত্রুটি বা খারাপ অতীত মুছে ফেলে সম্পূর্ণ নতুনভাবে শুরু করা।"
+  },
+  {
+    "id": 316,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We need to <u>prepare for action by removing obstacles</u> before the inspector arrives.",
+    "options": ["Read the riot act", "Break the ice", "Nip it in the bud", "Clear the decks"],
+    "answer": "Clear the decks",
+    "explanation": "'Clear the decks' মানে হলো কোনো বড় কাজ বা ঘটনা শুরু হওয়ার আগে প্রয়োজনীয় সব ব্যবস্থা করে রাখা এবং বাধাগুলো সরিয়ে ফেলা।"
+  },
+  {
+    "id": 317,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>It is very difficult for him to accept the modern rules as it <u>goes contrary to his natural inclination</u>.",
+    "options": ["Goes against the grain", "Misses the boat", "Hits below the belt", "Puts the cart before the horse"],
+    "answer": "Goes against the grain",
+    "explanation": "'Go against the grain' মানে হলো কারো স্বাভাবিক স্বভাব, ইচ্ছা বা নীতির সম্পূর্ণ বিপরীতে গিয়ে কোনো কিছু করা।"
+  },
+  {
+    "id": 318,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The talented actor was tired of having to <u>take a subordinate role</u> to the superstar.",
+    "options": ["Take a back seat", "Play second fiddle", "Rule the roost", "Stand his ground"],
+    "answer": "Play second fiddle",
+    "explanation": "'Play second fiddle' মানে হলো অন্যের অধীনে থাকা বা স্বেচ্ছায় কম গুরুত্বপূর্ণ ভূমিকা বা গৌণ অবস্থান গ্রহণ করা।"
+  },
+  {
+    "id": 319,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When his rival insulted him, instead of fighting back, he chose to <u>ignore the abuse and not retaliate</u>.",
+    "options": ["Bite his tongue", "Turn a blind eye", "Turn the other cheek", "Let sleeping dogs lie"],
+    "answer": "Turn the other cheek",
+    "explanation": "'Turn the other cheek' মানে হলো অপমানের বদলা না নিয়ে তা সহ্য করা বা ক্ষমা করে দেওয়া (বাইবেলের নীতি)।"
+  },
+  {
+    "id": 320,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you want to keep your job in this strict company, you must <u>strictly follow the rules</u>.",
+    "options": ["Mind your P's and Q's", "Dot the i's and cross the t's", "Play it by ear", "Toe the line"],
+    "answer": "Toe the line",
+    "explanation": "'Toe the line' মানে হলো নির্দিষ্ট নিয়মকানুন, নীতি বা দলের আদেশ কঠোরভাবে মেনে চলা।"
+  },
+  {
+    "id": 321,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Despite immense pressure from his friends, he managed to <u>maintain his original position</u>.",
+    "options": ["Stick to his guns", "Weather the storm", "Stand the test of time", "Hold his horses"],
+    "answer": "Stick to his guns",
+    "explanation": "'Stick to one's guns' মানে হলো হাজার সমালোচনা বা চাপের মুখেও নিজের মত, সিদ্ধান্ত বা নীতিতে অটল থাকা।"
+  },
+  {
+    "id": 322,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>My father will <u>become extremely angry</u> when he sees the dent on his new car.",
+    "options": ["Fly off the handle", "Hit the roof", "Blow hot and cold", "Show his true colours"],
+    "answer": "Hit the roof",
+    "explanation": "'Hit the roof' বা 'Hit the ceiling' মানে হলো হঠাৎ করে প্রচণ্ড রেগে যাওয়া বা ক্ষোভে ফেটে পড়া।"
+  },
+  {
+    "id": 323,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We shouldn't make any major decisions now; let's wait for a few days to <u>allow the situation to calm down</u>.",
+    "options": ["Clear the air", "Let bygones be bygones", "Let the dust settle", "Wipe the slate clean"],
+    "answer": "Let the dust settle",
+    "explanation": "'Let the dust settle' মানে হলো কোনো বড় ঝামেলা বা পরিবর্তনের পর পরিস্থিতি শান্ত বা স্বাভাবিক হওয়া পর্যন্ত অপেক্ষা করা।"
+  },
+  {
+    "id": 324,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>You shouldn't <u>permanently destroy relationships</u> with your former employers.",
+    "options": ["Bite the hand that feeds you", "Cross that bridge", "Throw down the gauntlet", "Burn your bridges"],
+    "answer": "Burn your bridges",
+    "explanation": "'Burn one's bridges' (সেতু পুড়িয়ে ফেলা) মানে হলো ফিরে আসার সমস্ত পথ বন্ধ করে দেওয়া বা সম্পর্ক চিরতরে নষ্ট করে ফেলা।"
+  },
+  {
+    "id": 325,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When the company started losing money, many senior executives decided to <u>leave the difficult situation</u>.",
+    "options": ["Jump ship", "Beat a hasty retreat", "Turn the tables", "Throw in the towel"],
+    "answer": "Jump ship",
+    "explanation": "'Jump ship' (ডুবন্ত জাহাজ থেকে পালানো) মানে হলো কোনো প্রতিষ্ঠান বা দল যখন বিপদে পড়ে তখন দায়িত্ব ছেড়ে পালিয়ে যাওয়া।"
+  },
+  {
+    "id": 326,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>With such low profits this month, they are barely managing to <u>survive financially</u>.",
+    "options": ["Make both ends meet", "Keep their heads above water", "Keep the wolf from the door", "Bring home the bacon"],
+    "answer": "Keep their heads above water",
+    "explanation": "'Keep one's head above water' মানে হলো আর্থিক সংকট বা ঋণের জালে ডুবে না গিয়ে কোনোমতে টিকে থাকা।"
+  },
+  {
+    "id": 327,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Everyone was happy with the new policy, so nobody wanted to <u>disturb the current stable situation</u>.",
+    "options": ["Jump the gun", "Open a can of worms", "Rock the boat", "Add fuel to the fire"],
+    "answer": "Rock the boat",
+    "explanation": "'Rock the boat' মানে হলো চলমান কোনো শান্ত বা স্থিতিশীল পরিস্থিতিকে ঘেঁটে দিয়ে সমস্যার সৃষ্টি করা।"
+  },
+  {
+    "id": 328,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The new CEO is very energetic and intends to <u>start the job at a fast and effective pace</u>.",
+    "options": ["Take the bull by the horns", "Put his best foot forward", "Go the extra mile", "Hit the ground running"],
+    "answer": "Hit the ground running",
+    "explanation": "'Hit the ground running' মানে হলো নতুন কোনো কাজ বা দায়িত্ব পেয়ে প্রথম দিন থেকেই প্রবল উৎসাহে ও সফলভাবে কাজ শুরু করা।"
+  },
+  {
+    "id": 329,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Since we have no specific instructions, we will have to <u>do it by instinct without a plan</u>.",
+    "options": ["Fly by the seat of our pants", "Play it by ear", "Beat about the bush", "Read between the lines"],
+    "answer": "Fly by the seat of our pants",
+    "explanation": "'Fly by the seat of one's pants' মানে হলো কোনো অভিজ্ঞতা বা পূর্ব পরিকল্পনা ছাড়াই কেবল সহজাত বুদ্ধির সাহায্যে কাজ চালানো।"
+  },
+  {
+    "id": 330,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Let me <u>be completely honest about my intentions</u> before we sign this deal.",
+    "options": ["Make a clean breast of", "Lay my cards on the table", "Call a spade a spade", "Clear the air"],
+    "answer": "Lay my cards on the table",
+    "explanation": "'Lay one's cards on the table' মানে হলো নিজের গোপন উদ্দেশ্য বা পরিকল্পনা সবার সামনে সৎভাবে প্রকাশ করে দেওয়া।"
+  },
+  {
+    "id": 331,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After successfully passing their final exams, the students went out to <u>celebrate wildly in the city</u>.",
+    "options": ["Walk on air", "Go out on a limb", "Paint the town red", "Steal the show"],
+    "answer": "Paint the town red",
+    "explanation": "'Paint the town red' মানে হলো শহরের বাইরে গিয়ে প্রচুর হইচই, নাচগান ও আনন্দের মাধ্যমে উদযাপন করা।"
+  },
+  {
+    "id": 332,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I am going to <u>take a risk and support you</u>, even if nobody else does.",
+    "options": ["Throw caution to the wind", "Bite the bullet", "Take the plunge", "Go out on a limb"],
+    "answer": "Go out on a limb",
+    "explanation": "'Go out on a limb' (গাছের সরু ডালে যাওয়া) মানে হলো এমন কোনো কাজ করা যেখানে অন্যের সমর্থন না থাকলে বিপদে পড়ার ঝুঁকি থাকে।"
+  },
+  {
+    "id": 333,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Investigating that old corruption case will just <u>create a complicated new set of problems</u>.",
+    "options": ["Open a can of worms", "Nip it in the bud", "Add insult to injury", "Rub salt in the wound"],
+    "answer": "Open a can of worms",
+    "explanation": "'Open a can of worms' মানে হলো এমন কোনো বিষয় ঘেঁটে দেখা যার ফলে নতুন করে অনেক অনাকাঙ্ক্ষিত ও জটিল সমস্যার সৃষ্টি হয়।"
+  },
+  {
+    "id": 334,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The new policy had to <u>face severe criticism and trials</u> before it was finally approved.",
+    "options": ["Weather the storm", "Run the gauntlet", "Bear the brunt", "Bite the bullet"],
+    "answer": "Run the gauntlet",
+    "explanation": "'Run the gauntlet' মানে হলো সবার কঠোর সমালোচনা, আক্রমণ বা কঠিন পরীক্ষার মধ্য দিয়ে যাওয়া।"
+  },
+  {
+    "id": 335,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you insult the boss who gave you this job, you will just <u>harm the person who is helping you</u>.",
+    "options": ["Burn your bridges", "Spill the beans", "Bite the hand that feeds you", "Play fast and loose"],
+    "answer": "Bite the hand that feeds you",
+    "explanation": "'Bite the hand that feeds you' মানে হলো যে উপকার করছে বা সাহায্য করছে তার সাথেই বেইমানি করা বা তার ক্ষতি করা।"
+  },
+  {
+    "id": 336,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We have very little time, so please skip the introduction and <u>come directly to the main point</u>.",
+    "options": ["Beat about the bush", "Call a spade a spade", "Make a long story short", "Cut to the chase"],
+    "answer": "Cut to the chase",
+    "explanation": "'Cut to the chase' মানে হলো ভূমিকা বা অপ্রয়োজনীয় কথা বাদ দিয়ে সরাসরি কাজের কথায় বা মূল বিষয়ে আসা।"
+  },
+  {
+    "id": 337,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The organizers will <u>use every possible resource and effort</u> to make the event a grand success.",
+    "options": ["Pull out all the stops", "Leave no stone unturned", "Move heaven and earth", "Go the extra mile"],
+    "answer": "Pull out all the stops",
+    "explanation": "'Pull out all the stops' মানে হলো কোনো কিছু সফল করতে নিজের সামর্থ্য বা সম্পদের সর্বোচ্চ ব্যবহার করা।"
+  },
+  {
+    "id": 338,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The rival company managed to <u>gain a secret advantage over</u> us by launching their product a week earlier.",
+    "options": ["Turn the tables on", "Steal a march on", "Steal our thunder", "Play devil's advocate"],
+    "answer": "Steal a march on",
+    "explanation": "'Steal a march on' মানে হলো নিঃশব্দে বা অলক্ষ্যে এগিয়ে গিয়ে প্রতিদ্বন্দ্বীর ওপর বিশেষ সুবিধা বা জয় লাভ করা।"
+  },
+  {
+    "id": 339,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Investing all your retirement money in a single startup is like <u>risking everything on one venture</u>.",
+    "options": ["Biting off more than you can chew", "Throwing caution to the wind", "Putting all your eggs in one basket", "Going out on a limb"],
+    "answer": "Putting all your eggs in one basket",
+    "explanation": "'Put all your eggs in one basket' মানে হলো নিজের সব সম্পদ বা আশা একটিমাত্র কাজের ওপর বিনিয়োগ করে চরম ঝুঁকি নেওয়া।"
+  },
+  {
+    "id": 340,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I will publish the true report and <u>accept whatever the consequences may be</u>.",
+    "options": ["Face the music", "Pay the piper", "Stand my ground", "Let the chips fall where they may"],
+    "answer": "Let the chips fall where they may",
+    "explanation": "'Let the chips fall where they may' মানে হলো পরিণতি যাই হোক না কেন বা যত খারাপই হোক না কেন, পরোয়া না করে কাজ করে যাওয়া।"
+  },
+  {
+    "id": 341,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is an emotional person who always <u>shows his feelings openly</u>.",
+    "options": ["Wears his heart on his sleeve", "Cries over spilt milk", "Blows hot and cold", "Wears the trousers"],
+    "answer": "Wears his heart on his sleeve",
+    "explanation": "'Wear one's heart on one's sleeve' মানে হলো নিজের আবেগ-অনুভূতি না লুকিয়ে তা সবার সামনে খোলাখুলিভাবে প্রকাশ করা।"
+  },
+  {
+    "id": 342,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you want to succeed in this competitive market, you must <u>stay informed about the latest trends</u>.",
+    "options": ["Read between the lines", "Keep an ear to the ground", "Keep a stiff upper lip", "Turn a blind eye"],
+    "answer": "Keep an ear to the ground",
+    "explanation": "'Keep an ear to the ground' মানে হলো চারপাশের খবর রাখা বা নতুন কী ঘটছে সে সম্পর্কে সবসময় সতর্ক ও ওয়াকিবহাল থাকা।"
+  },
+  {
+    "id": 343,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Failing the exam was bad enough, but his friend's constant mocking just <u>made the painful situation worse</u>.",
+    "options": ["Added insult to injury", "Added fuel to the fire", "Rubbed salt in the wound", "Hit below the belt"],
+    "answer": "Rubbed salt in the wound",
+    "explanation": "'Rub salt in the wound' (কাটা ঘায়ে নুনের ছিটে) মানে হলো এমন কিছু বলা বা করা যা কারো দুঃখ বা যন্ত্রণাকে আরও বাড়িয়ে দেয়।"
+  },
+  {
+    "id": 344,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The government finally decided to <u>give permission to proceed</u> with the new highway project.",
+    "options": ["Call the shots", "Set the record straight", "Rule the roost", "Give the green light"],
+    "answer": "Give the green light",
+    "explanation": "'Give the green light' (সবুজ সংকেত দেওয়া) মানে হলো কোনো কাজ বা প্রকল্প শুরু করার চূড়ান্ত অনুমতি প্রদান করা।"
+  },
+  {
+    "id": 345,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Since the initial prototype failed completely, the engineers had to <u>start planning all over again</u>.",
+    "options": ["Go back to the drawing board", "Call it a day", "Throw in the towel", "Wipe the slate clean"],
+    "answer": "Go back to the drawing board",
+    "explanation": "'Go back to the drawing board' মানে হলো কোনো পরিকল্পনা সম্পূর্ণ ব্যর্থ হওয়ার পর একেবারে গোড়া থেকে আবার নতুন করে ছক কষা শুরু করা।"
+  },
+  {
+    "id": 346,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I wanted to insult him back, but I decided to <u>force myself to stay silent</u>.",
+    "options": ["Turn a deaf ear", "Bite my tongue", "Keep at arm's length", "Turn the other cheek"],
+    "answer": "Bite my tongue",
+    "explanation": "'Bite one's tongue' মানে হলো রাগের মাথায় বা উত্তেজনার বশে কিছু বলতে গিয়েও নিজেকে জোর করে থামিয়ে নেওয়া বা চুপ থাকা।"
+  },
+  {
+    "id": 347,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Don't worry about how we will pay for the hotel next month; we will <u>deal with that problem when it arrives</u>.",
+    "options": ["Let sleeping dogs lie", "Let the dust settle", "Cross that bridge when we come to it", "Face the music"],
+    "answer": "Cross that bridge when we come to it",
+    "explanation": "'Cross that bridge when one comes to it' মানে হলো ভবিষ্যতের কোনো সমস্যা নিয়ে এখন থেকে না ভেবে, সমস্যা এলে তখন তা মেটানো।"
+  },
+  {
+    "id": 348,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>By publishing that controversial article, the journalist has <u>issued a bold challenge</u> to the government.",
+    "options": ["Burnt his boats", "Let the cat out of the bag", "Spilt the beans", "Thrown down the gauntlet"],
+    "answer": "Thrown down the gauntlet",
+    "explanation": "'Throw down the gauntlet' মানে হলো কাউকে প্রকাশ্যে যুদ্ধে বা তীব্র প্রতিযোগিতায় অবতীর্ণ হওয়ার জন্য চ্যালেঞ্জ ছুঁড়ে দেওয়া।"
+  },
+  {
+    "id": 349,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Even after losing his entire fortune, the old man managed to <u>hide his grief and stay resolute</u>.",
+    "options": ["Keep a stiff upper lip", "Stand his ground", "Weather the storm", "Take the plunge"],
+    "answer": "Keep a stiff upper lip",
+    "explanation": "'Keep a stiff upper lip' মানে হলো তীব্র কষ্ট বা দুঃখের মধ্যেও ভেঙে না পড়া এবং নিজের আবেগ চেপে রেখে দৃঢ় মানসিকতা বজায় রাখা।"
+  },
+  {
+    "id": 350,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After several months of heavy losses, the company has finally <u>passed the critical point and started improving</u>.",
+    "options": ["Turned the tables", "Turned the corner", "Turned over a new leaf", "Turned a blind eye"],
+    "answer": "Turned the corner",
+    "explanation": "'Turn the corner' মানে হলো সবচেয়ে খারাপ বা বিপজ্জনক সময় পার করে এসে উন্নতির দিকে মোড় নেওয়া।"
+  },
+  {
+    "id": 351,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is in a <u>paradoxical situation from which he cannot escape</u> because of contradictory rules.",
+    "options": ["Catch-22 situation", "Blind alley", "Tight corner", "Fool's paradise"],
+    "answer": "Catch-22 situation",
+    "explanation": "'Catch-22 situation' মানে হলো এমন এক অদ্ভুত ও জটিল পরিস্থিতি যেখান থেকে বের হওয়ার কোনো উপায় নেই, কারণ একটি সমস্যা সমাধান করতে গেলে অন্য একটি সমস্যা সামনে এসে দাঁড়ায়।"
+  },
+  {
+    "id": 352,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Due to the massive losses in the company, many employees will <u>lose their jobs</u> tomorrow.",
+    "options": ["Bite the dust", "Get the axe", "Face the music", "Run out of steam"],
+    "answer": "Get the axe",
+    "explanation": "'Get the axe' মানে হলো চাকরি হারানো বা কাজ থেকে বরখাস্ত হওয়া (To be fired from a job)।"
+  },
+  {
+    "id": 353,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Before we start this massive project, let's make sure we <u>have the same understanding of the goals</u>.",
+    "options": ["Are in the same boat", "Clear the decks", "Are on the same page", "Turn a blind eye"],
+    "answer": "Are on the same page",
+    "explanation": "'On the same page' মানে হলো কোনো বিষয়ে সবার একই রকম ধারণা থাকা বা সম্পূর্ণ একমত হওয়া।"
+  },
+  {
+    "id": 354,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>She is a perfectionist and always keeps her kitchen <u>perfectly neat and clean</u>.",
+    "options": ["At sixes and sevens", "In black and white", "Out of the woods", "Spick and span"],
+    "answer": "Spick and span",
+    "explanation": "'Spick and span' কথাটির অর্থ হলো ঝকঝকে তকতকে, অর্থাৎ অত্যন্ত পরিষ্কার ও পরিপাটি।"
+  },
+  {
+    "id": 355,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>These days, websites offering free fitness advice are <u>very common and not very valuable</u>.",
+    "options": ["A dime a dozen", "A drop in the ocean", "A white elephant", "A wild goose chase"],
+    "answer": "A dime a dozen",
+    "explanation": "'A dime a dozen' মানে হলো খুব সাধারণ বা সহজলভ্য কোনো জিনিস, যার বিশেষ কোনো মূল্য বা গুরুত্ব নেই।"
+  },
+  {
+    "id": 356,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is new to this big city, but I am sure he will soon <u>become confident in this new situation</u>.",
+    "options": ["Turn the corner", "Find his feet", "Hit the ground running", "Weather the storm"],
+    "answer": "Find his feet",
+    "explanation": "'Find one's feet' মানে হলো নতুন কোনো পরিবেশে খাপ খাইয়ে নেওয়া বা নতুন কাজ শিখে আত্মবিশ্বাসী হয়ে ওঠা।"
+  },
+  {
+    "id": 357,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The police officer took pity on the young boy and decided to <u>release him without punishment</u> this time.",
+    "options": ["Give him the green light", "Turn the other cheek", "Let him off the hook", "Give him a cold shoulder"],
+    "answer": "Let him off the hook",
+    "explanation": "'Let someone off the hook' মানে হলো কাউকে শাস্তি বা কঠিন পরিস্থিতির হাত থেকে রেহাই দেওয়া।"
+  },
+  {
+    "id": 358,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He says he met me at the party last year, but his name doesn't <u>sound familiar</u> to me at all.",
+    "options": ["Break the ice", "Hit the roof", "Steal the show", "Ring a bell"],
+    "answer": "Ring a bell",
+    "explanation": "'Ring a bell' মানে হলো কোনো কিছু শুনে পরিচিত মনে হওয়া বা কোনো স্মৃতি মনে পড়ে যাওয়া।"
+  },
+  {
+    "id": 359,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The doctor told the worried patient to <u>wait patiently</u> until the blood test results arrived.",
+    "options": ["Sit tight", "Drag his feet", "Stand his ground", "Rest on his laurels"],
+    "answer": "Sit tight",
+    "explanation": "'Sit tight' মানে হলো কোনো পদক্ষেপ না নিয়ে ধৈর্য ধরে অপেক্ষা করা।"
+  },
+  {
+    "id": 360,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>We were just discussing John's new car, and <u>here comes the person we were talking about</u>!",
+    "options": ["A dark horse", "Speak of the devil", "A blue-eyed boy", "Out of the blue"],
+    "answer": "Speak of the devil",
+    "explanation": "'Speak of the devil' কথাটি তখন ব্যবহৃত হয়, যখন কারো সম্পর্কে কথা বলার ঠিক সেই মুহূর্তেই ওই ব্যক্তি সেখানে উপস্থিত হয়।"
+  },
+  {
+    "id": 361,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The management somehow <u>heard a rumor about</u> the workers' secret plan to go on a strike.",
+    "options": ["Turned a blind eye to", "Kept an ear to the ground for", "Got wind of", "Made light of"],
+    "answer": "Got wind of",
+    "explanation": "'Get wind of' মানে হলো কোনো গোপন খবর বা গুজব টের পাওয়া বা কানে আসা।"
+  },
+  {
+    "id": 362,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Despite all the hard work and funding, his ambitious startup <u>failed completely and spectacularly</u>.",
+    "options": ["Weathered the storm", "Ran out of steam", "Missed the boat", "Went down in flames"],
+    "answer": "Went down in flames",
+    "explanation": "'Go down in flames' মানে হলো নাটকীয়ভাবে বা পুরোপুরি ব্যর্থ হওয়া এবং ধ্বংস হয়ে যাওয়া।"
+  },
+  {
+    "id": 363,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Buying a luxury car right now will definitely <u>use up all my money</u>.",
+    "options": ["Break the bank", "Keep the wolf from the door", "Bring home the bacon", "Foot the bill"],
+    "answer": "Break the bank",
+    "explanation": "'Break the bank' মানে হলো খুব বেশি দামি হওয়া বা কোনো কিছু কিনতে গিয়ে সর্বস্বান্ত হওয়া।"
+  },
+  {
+    "id": 364,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After the grand family dinner at the expensive restaurant, my uncle had to <u>pay for everything</u>.",
+    "options": ["Bite the bullet", "Foot the bill", "Face the music", "Grease palms"],
+    "answer": "Foot the bill",
+    "explanation": "'Foot the bill' মানে হলো কোনো জিনিসের দাম মেটানো বা খরচ বহন করা।"
+  },
+  {
+    "id": 365,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>During the meeting, the CEO <u>announced shocking and unexpected news</u> about his sudden resignation.",
+    "options": ["Spilt the beans", "Let the cat out of the bag", "Dropped a bombshell", "Blew his top"],
+    "answer": "Dropped a bombshell",
+    "explanation": "'Drop a bombshell' মানে হলো অত্যন্ত চমকপ্রদ, অপ্রত্যাশিত বা খারাপ কোনো খবর হঠাৎ করে সবাইকে জানানো।"
+  },
+  {
+    "id": 366,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Right before going on the stage to sing, she felt <u>extremely nervous and anxious</u>.",
+    "options": ["Under the weather", "Over the moon", "Out of sorts", "Butterflies in her stomach"],
+    "answer": "Butterflies in her stomach",
+    "explanation": "'Have butterflies in one's stomach' মানে হলো কোনো বড় কাজের আগে প্রচণ্ড স্নায়ুচাপে ভোগা বা নার্ভাস হওয়া।"
+  },
+  {
+    "id": 367,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Driving a manual car is tricky at first, but you will soon <u>learn how to do it properly</u>.",
+    "options": ["Get the hang of it", "Break the ice", "Call the shots", "Stand your ground"],
+    "answer": "Get the hang of it",
+    "explanation": "'Get the hang of it' মানে হলো কোনো কাজ কীভাবে করতে হয় তা অভ্যাস বা অনুশীলনের মাধ্যমে বুঝতে পারা বা শিখে নেওয়া।"
+  },
+  {
+    "id": 368,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I am so angry with his careless attitude that I am going to <u>scold him severely</u>.",
+    "options": ["Hit the nail on the head", "Give him a piece of my mind", "Show him his true colours", "Rub salt in his wound"],
+    "answer": "Give him a piece of my mind",
+    "explanation": "'Give someone a piece of one's mind' মানে হলো রাগের মাথায় কাউকে কড়া কথা শোনানো বা তীব্র ভর্ৎসনা করা।"
+  },
+  {
+    "id": 369,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The annoying guest finally left the house, and we were <u>very happy to see him go</u>.",
+    "options": ["On cloud nine", "Walking on air", "Glad to see the back of him", "Over the moon"],
+    "answer": "Glad to see the back of him",
+    "explanation": "'Glad to see the back of someone' মানে হলো কোনো বিরক্তিকর ব্যক্তির বিদায়ে হাঁফ ছেড়ে বাঁচা বা অত্যন্ত খুশি হওয়া।"
+  },
+  {
+    "id": 370,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He initially refused to help us with the project, but later he <u>changed his opinion</u> and agreed.",
+    "options": ["Turned the tables", "Saw the light", "Turned a new leaf", "Had a change of heart"],
+    "answer": "Had a change of heart",
+    "explanation": "'Have a change of heart' মানে হলো নিজের পূর্ববর্তী মত, সিদ্ধান্ত বা দৃষ্টিভঙ্গি পরিবর্তন করে নতুন করে ভাবা।"
+  },
+  {
+    "id": 371,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Several new infrastructure projects are currently <u>being planned and developed</u> for the city.",
+    "options": ["In the pipeline", "Up in the air", "In the dark", "On thin ice"],
+    "answer": "In the pipeline",
+    "explanation": "'In the pipeline' মানে হলো কোনো কাজ বা প্রকল্প বর্তমানে প্রক্রিয়াকরণের স্তরে রয়েছে এবং খুব শিগগিরই তা সম্পন্ন হবে।"
+  },
+  {
+    "id": 372,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Our plan to launch the new software application next week has <u>encountered an unexpected problem</u>.",
+    "options": ["Gone down in flames", "Hit a snag", "Run out of steam", "Missed the boat"],
+    "answer": "Hit a snag",
+    "explanation": "'Hit a snag' মানে হলো কোনো কাজ মসৃণভাবে চলার পথে হঠাৎ করে অপ্রত্যাশিত বাধা বা সমস্যার সম্মুখীন হওয়া।"
+  },
+  {
+    "id": 373,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I will be traveling, but please <u>keep me regularly informed</u> about the progress of the patient.",
+    "options": ["Give me the green light", "Let me off the hook", "Keep me posted", "Turn a blind eye"],
+    "answer": "Keep me posted",
+    "explanation": "'Keep someone posted' মানে হলো কাউকে কোনো ঘটনার নতুন বা সর্বশেষ আপডেট সম্পর্কে নিয়মিতভাবে জানানো।"
+  },
+  {
+    "id": 374,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>After dating for five long years, they have finally decided to <u>get married</u>.",
+    "options": ["Bury the hatchet", "Break the ice", "Cross the bridge", "Tie the knot"],
+    "answer": "Tie the knot",
+    "explanation": "'Tie the knot' (গাঁটছড়া বাঁধা) কথাটির অর্থ হলো বিবাহবন্ধনে আবদ্ধ হওয়া।"
+  },
+  {
+    "id": 375,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I am too busy to join you for lunch today, but I will <u>politely decline for now and accept it later</u>.",
+    "options": ["Take a rain check", "Bite the bullet", "Call it a day", "Turn a deaf ear"],
+    "answer": "Take a rain check",
+    "explanation": "'Take a rain check' মানে হলো কারো আমন্ত্রণ বা অফার বর্তমানের জন্য ভদ্রভাবে প্রত্যাখ্যান করা, তবে ভবিষ্যতে তা গ্রহণ করার ইচ্ছা প্রকাশ করা।"
+  },
+  {
+    "id": 376,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He really <u>said something highly embarrassing</u> when he accidentally asked about her ex-husband.",
+    "options": ["Spilt the beans", "Put his foot in his mouth", "Let the cat out of the bag", "Blew his trumpet"],
+    "answer": "Put his foot in his mouth",
+    "explanation": "'Put one's foot in one's mouth' মানে হলো অজান্তে এমন কিছু বোকা বা বেফাঁস কথা বলে ফেলা যা অপরকে লজ্জিত বা দুঃখিত করে।"
+  },
+  {
+    "id": 377,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The new local smartphone company is ready to <u>be a strong competitor</u> to the established global brands.",
+    "options": ["Turn the tables on", "Play second fiddle to", "Give a run for their money", "Steal a march on"],
+    "answer": "Give a run for their money",
+    "explanation": "'Give someone a run for their money' মানে হলো কাউকে তীব্র প্রতিযোগিতার মুখে ফেলে দেওয়া এবং সহজে জিততে না দেওয়া।"
+  },
+  {
+    "id": 378,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When you walk through the dense jungle, you must <u>keep a sharp lookout</u> for venomous snakes.",
+    "options": ["Keep your fingers crossed", "Turn a blind eye", "Keep a stiff upper lip", "Keep your eyes peeled"],
+    "answer": "Keep your eyes peeled",
+    "explanation": "'Keep one's eyes peeled' মানে হলো চোখ-কান খোলা রাখা বা সতর্কতার সাথে কোনো কিছুর দিকে নজর রাখা।"
+  },
+  {
+    "id": 379,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Ever since she received her dream job offer, she has been <u>extremely happy</u>.",
+    "options": ["On cloud nine", "In a fool's paradise", "Walking on thin ice", "Under a cloud"],
+    "answer": "On cloud nine",
+    "explanation": "'On cloud nine' মানে হলো সপ্তম স্বর্গে থাকা বা আনন্দে আত্মহারা হওয়া।"
+  },
+  {
+    "id": 380,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Because he grew up in poverty, he always seems to <u>be resentful and easily offended</u> when people talk about money.",
+    "options": ["Have a bone to pick", "Have a chip on his shoulder", "Show his true colours", "Have an axe to grind"],
+    "answer": "Have a chip on his shoulder",
+    "explanation": "'Have a chip on one's shoulder' মানে হলো অতীত কোনো ঘটনা বা বঞ্চনার কারণে সবসময় ক্ষুব্ধ, রেগে থাকা বা গায়ে পড়ে ঝগড়া করার মানসিকতা রাখা।"
+  },
+  {
+    "id": 381,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Even though you lost the final match, you must <u>stay cheerful and courageous</u> in front of your fans.",
+    "options": ["Bite the bullet", "Stand your ground", "Keep your chin up", "Pull yourself together"],
+    "answer": "Keep your chin up",
+    "explanation": "'Keep one's chin up' মানে হলো ব্যর্থতা বা কঠিন পরিস্থিতির মধ্যেও মন খারাপ না করে মাথা উঁচু রাখা বা সাহস বজায় রাখা।"
+  },
+  {
+    "id": 382,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>By not inviting him to the crucial board meeting, the manager <u>completely excluded him</u> from the decision-making process.",
+    "options": ["Left him in the lurch", "Gave him the cold shoulder", "Kept him at arm's length", "Left him out in the cold"],
+    "answer": "Left him out in the cold",
+    "explanation": "'Leave someone out in the cold' মানে হলো কাউকে সম্পূর্ণ অবজ্ঞা করা বা দল থেকে দূরে সরিয়ে রাখা (To ignore or exclude someone)।"
+  },
+  {
+    "id": 383,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The dishonest salesman tried to <u>deceive me</u> by hiding the major defects of the used car.",
+    "options": ["Pull the wool over my eyes", "Beat about the bush", "Show his true colours", "Pass the buck"],
+    "answer": "Pull the wool over my eyes",
+    "explanation": "'Pull the wool over someone's eyes' মানে হলো কাউকে ধোঁকা দেওয়া, মিথ্যা বলে ঠকানো বা সত্য গোপন করা।"
+  },
+  {
+    "id": 384,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>By insulting the judge during the trial, the lawyer really <u>did something to harm his own case</u>.",
+    "options": ["Burnt his fingers", "Shot himself in the foot", "Bit the hand that fed him", "Spilt the beans"],
+    "answer": "Shot himself in the foot",
+    "explanation": "'Shoot oneself in the foot' (নিজের পায়ে কুড়াল মারা) মানে হলো বোকামির বশে এমন কোনো কাজ করা যা নিজেরই চরম ক্ষতি ডেকে আনে।"
+  },
+  {
+    "id": 385,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I relied on him to send the important email to the clients, but he completely <u>failed to do his responsibility</u>.",
+    "options": ["Missed the boat", "Bit the dust", "Dropped the ball", "Hit a snag"],
+    "answer": "Dropped the ball",
+    "explanation": "'Drop the ball' মানে হলো নিজের দায়িত্ব পালনে চরমভাবে ব্যর্থ হওয়া বা কোনো কাজে বড় ভুল করা।"
+  },
+  {
+    "id": 386,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Because of his poor planning and lack of execution, all the money invested in the project <u>was completely wasted</u>.",
+    "options": ["Ended in smoke", "Went to the dogs", "Went up in flames", "Went down the drain"],
+    "answer": "Went down the drain",
+    "explanation": "'Go down the drain' (জলে যাওয়া) মানে হলো সময়, শ্রম বা অর্থ সম্পূর্ণভাবে নষ্ট বা বৃথা হওয়া।"
+  },
+  {
+    "id": 387,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Because of the extremely low sales this year, our company is currently <u>losing money and in debt</u>.",
+    "options": ["In the red", "In the dark", "On thin ice", "Under a cloud"],
+    "answer": "In the red",
+    "explanation": "'In the red' কথাটির অর্থ হলো আর্থিকভাবে ক্ষতির সম্মুখীন হওয়া বা দেনায় ডুবে থাকা। (লাভজনক অবস্থাকে 'In the black' বলা হয়)।"
+  },
+  {
+    "id": 388,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>I argued with my new boss on the very first day; unfortunately, we <u>started our relationship badly</u>.",
+    "options": ["Hit a snag", "Got off on the wrong foot", "Crossed swords", "Burnt our bridges"],
+    "answer": "Got off on the wrong foot",
+    "explanation": "'Get off on the wrong foot' মানে হলো কোনো সম্পর্ক, কাজ বা যাত্রা খারাপভাবে বা ভুল বোঝাবুঝির মাধ্যমে শুরু করা।"
+  },
+  {
+    "id": 389,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>To save his own job from the angry clients, the manager did not hesitate to <u>betray his loyal assistant</u>.",
+    "options": ["Leave in the lurch", "Turn a blind eye to", "Throw under the bus", "Pass the buck to"],
+    "answer": "Throw under the bus",
+    "explanation": "'Throw someone under the bus' মানে হলো নিজের স্বার্থসিদ্ধি বা নিজেকে বাঁচানোর জন্য অন্য কাউকে বিপদে ফেলা বা তার সঙ্গে বিশ্বাসঘাতকতা করা।"
+  },
+  {
+    "id": 390,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He always ignores my calls, so today I ignored his call to <u>treat him exactly as he treats others</u>.",
+    "options": ["Pay off old scores", "Add insult to injury", "Turn the tables on him", "Give him a taste of his own medicine"],
+    "answer": "Give him a taste of his own medicine",
+    "explanation": "'Give someone a taste of their own medicine' মানে হলো যেমন কুকুর তেমন মুগুর, অর্থাৎ যে যেরকম খারাপ ব্যবহার করে তাকে ঠিক সেই একই রকম ব্যবহার ফিরিয়ে দেওয়া।"
+  },
+  {
+    "id": 391,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He tried to quit smoking gradually, but finally decided to <u>stop the habit completely and suddenly</u>.",
+    "options": ["Go cold turkey", "Turn over a new leaf", "Bite the bullet", "Take the plunge"],
+    "answer": "Go cold turkey",
+    "explanation": "'Go cold turkey' মানে হলো কোনো খারাপ অভ্যাস বা নেশা ধীরে ধীরে না ছেড়ে, হঠাৎ করে একেবারে বন্ধ করে দেওয়া।"
+  },
+  {
+    "id": 392,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>At the charity gala, she had the opportunity to <u>meet and socialize with</u> famous Hollywood celebrities.",
+    "options": ["Keep at arm's length", "Rub shoulders with", "Keep an ear to the ground for", "Turn a blind eye to"],
+    "answer": "Rub shoulders with",
+    "explanation": "'Rub shoulders with' মানে হলো গুরুত্বপূর্ণ, ধনী বা বিখ্যাত মানুষদের সাথে মেলামেশা করা বা একই অনুষ্ঠানে অংশগ্রহণ করা।"
+  },
+  {
+    "id": 393,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Before you submit the final report tomorrow, let's <u>briefly make contact and talk</u> to review it.",
+    "options": ["Clear the air", "Break the ice", "Touch base", "Ring a bell"],
+    "answer": "Touch base",
+    "explanation": "'Touch base' মানে হলো কারো সাথে সংক্ষিপ্তভাবে যোগাযোগ করা বা কোনো বিষয়ে আপডেট দেওয়ার জন্য কথা বলা।"
+  },
+  {
+    "id": 394,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The local residents are <u>angrily protesting</u> against the construction of the new chemical factory in their area.",
+    "options": ["At sixes and sevens", "In hot water", "At daggers drawn", "Up in arms"],
+    "answer": "Up in arms",
+    "explanation": "'Up in arms' মানে হলো চরম ক্ষুব্ধ হওয়া এবং কোনো কিছুর বিরুদ্ধে প্রবল প্রতিবাদ বা বিদ্রোহ করা।"
+  },
+  {
+    "id": 395,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>When the team captain fell ill unexpectedly, the young player had to <u>take the responsibility and perform</u>.",
+    "options": ["Step up to the plate", "Hit the ground running", "Put his best foot forward", "Take the bull by the horns"],
+    "answer": "Step up to the plate",
+    "explanation": "'Step up to the plate' মানে হলো প্রয়োজনের সময়ে এগিয়ে এসে দায়িত্ব কাঁধে তুলে নেওয়া এবং কাজ সম্পন্ন করা।"
+  },
+  {
+    "id": 396,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>He is talking to himself and shouting at the walls; I think he has <u>gone completely crazy</u>.",
+    "options": ["Blown his top", "Lost his marbles", "Flown off the handle", "Hit the roof"],
+    "answer": "Lost his marbles",
+    "explanation": "'Lose one's marbles' কথাটির অর্থ হলো পাগল হয়ে যাওয়া বা মানসিক ভারসাম্য হারিয়ে ফেলা।"
+  },
+  {
+    "id": 397,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The marathon runner was totally exhausted at the 10th mile, but suddenly <u>got a new burst of energy</u>.",
+    "options": ["Hit the ground running", "Turned the corner", "Got a second wind", "Found his feet"],
+    "answer": "Got a second wind",
+    "explanation": "'Get a second wind' মানে হলো ক্লান্ত হওয়ার পর হঠাৎ করে কাজে নতুন উদ্যম, শক্তি বা গতি ফিরে পাওয়া।"
+  },
+  {
+    "id": 398,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>The corruption cases exposed so far are just <u>a small visible part of a much larger hidden problem</u>.",
+    "options": ["A drop in the ocean", "A storm in a teacup", "A flash in the pan", "The tip of the iceberg"],
+    "answer": "The tip of the iceberg",
+    "explanation": "'The tip of the iceberg' (বরফখণ্ডের চূড়ামাত্র) মানে হলো বড় কোনো সমস্যা বা সংকটের সামান্য বা দৃশ্যমান একটি অংশ মাত্র, যার বৃহত্তর রূপটি আড়ালে রয়েছে।"
+  },
+  {
+    "id": 399,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>If you want to buy concert tickets at the very last minute, you will have to <u>pay an excessively high price</u>.",
+    "options": ["Pay through the nose", "Break the bank", "Cost an arm and a leg", "Foot the bill"],
+    "answer": "Pay through the nose",
+    "explanation": "'Pay through the nose' মানে হলো কোনো জিনিসের জন্য অযৌক্তিকভাবে অত্যন্ত চড়া দাম দেওয়া।"
+  },
+  {
+    "id": 400,
+    "question": "Replace the underlined portion with an idiom from the list below:<br>Instead of solving the budget crisis right now, the government decided to <u>postpone dealing with the problem</u>.",
+    "options": ["Drag its feet", "Kick the can down the road", "Bury the hatchet", "Sit on the fence"],
+    "answer": "Kick the can down the road",
+    "explanation": "'Kick the can down the road' মানে হলো কোনো সমস্যার সমাধান না করে তা বর্তমানের জন্য এড়িয়ে যাওয়া বা ভবিষ্যতের জন্য ফেলে রাখা।"
+  }
+]

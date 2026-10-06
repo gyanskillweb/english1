@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "What is the Noun form of the verb 'Depart'?",
+    "options": ["Departure", "Depart", "Departing", "Departion"],
+    "answer": "Departure",
+    "explanation": "'Depart' (প্রস্থান করা) একটি Verb। এর শেষে '-ure' সাফিক্স (Suffix) যোগ করে Noun গঠন করা হয়, যা হলো 'Departure' (প্রস্থান)।"
+  },
+  {
+    "id": 2,
+    "question": "The Adjective form of the word 'Boy' is",
+    "options": ["Boyish", "Boyhood", "Boyly", "Boylike"],
+    "answer": "Boyish",
+    "explanation": "'Boy' (বালক) একটি Noun। এর শেষে '-ish' যুক্ত হয়ে Adjective 'Boyish' (বালকসুলভ) গঠিত হয়। ('Boyhood' হলো Abstract Noun)।"
+  },
+  {
+    "id": 3,
+    "question": "What is the Verb form of the word 'Blood'?",
+    "options": ["Bleed", "Bloody", "Blooded", "Blooden"],
+    "answer": "Bleed",
+    "explanation": "'Blood' (রক্ত) একটি Noun। এর ভেতরের Vowel পরিবর্তন হয়ে Verb ফর্ম 'Bleed' (রক্তপাত হওয়া) গঠিত হয়।"
+  },
+  {
+    "id": 4,
+    "question": "Choose the correct Noun form of 'Advise'.",
+    "options": ["Advice", "Advising", "Advisory", "Advised"],
+    "answer": "Advice",
+    "explanation": "'Advise' (উপদেশ দেওয়া) একটি Verb। এর Noun ফর্ম হলো 'Advice' (উপদেশ)। 's'-এর জায়গায় 'c' বসে Noun গঠিত হয়। এটি পরীক্ষায় খুব বেশি আসে।"
+  },
+  {
+    "id": 5,
+    "question": "What is the Adverb form of the word 'Fast'?",
+    "options": ["Fast", "Fastly", "Faster", "Fastness"],
+    "answer": "Fast",
+    "explanation": "'Fast' শব্দটি Adjective এবং Adverb উভয় রূপেই ব্যবহৃত হয়। ইংরাজিতে 'Fastly' বলে কোনো শব্দ নেই। যেমন: He runs fast (এখানে fast হলো Adverb)।"
+  },
+  {
+    "id": 6,
+    "question": "The Adjective form of the word 'Laugh' is",
+    "options": ["Laughable", "Laughter", "Laughing", "Laughly"],
+    "answer": "Laughable",
+    "explanation": "'Laugh' (হাসা) Verb-এর শেষে '-able' সাফিক্স যোগ করে Adjective 'Laughable' (হাস্যকর) গঠিত হয়। (Laughter হলো Noun)।"
+  },
+  {
+    "id": 7,
+    "question": "What is the Verb form of the word 'Bath'?",
+    "options": ["Bathe", "Bather", "Bathing", "Bathly"],
+    "answer": "Bathe",
+    "explanation": "'Bath' (স্নান) একটি Noun। এর শেষে 'e' যুক্ত করে Verb ফর্ম 'Bathe' (স্নান করা) তৈরি হয়।"
+  },
+  {
+    "id": 8,
+    "question": "Choose the Adjective form of the word 'Gold'.",
+    "options": ["Golden", "Goldy", "Goldish", "Gilden"],
+    "answer": "Golden",
+    "explanation": "'Gold' (সোনা) Noun-এর শেষে '-en' যুক্ত করে Adjective 'Golden' (সোনালী) গঠিত হয়।"
+  },
+  {
+    "id": 9,
+    "question": "What is the Noun form of 'Perform'?",
+    "options": ["Performance", "Performing", "Performer", "Performary"],
+    "answer": "Performance",
+    "explanation": "'Perform' (সম্পাদন করা) Verb-এর শেষে '-ance' যুক্ত করে Noun 'Performance' (সম্পাদন বা পরিবেশনা) তৈরি হয়।"
+  },
+  {
+    "id": 10,
+    "question": "The Verb form of the word 'Food' is",
+    "options": ["Feed", "Fooding", "Fodder", "Fed"],
+    "answer": "Feed",
+    "explanation": "'Food' (খাদ্য) একটি Noun। ভেতরের Vowel (oo থেকে ee) পরিবর্তন করে এর Verb ফর্ম 'Feed' (খাওয়ানো) তৈরি হয়।"
+  },
+  {
+    "id": 11,
+    "question": "What is the Adjective form of 'King'?",
+    "options": ["Kingly", "Kingdom", "Kinghood", "Kingish"],
+    "answer": "Kingly",
+    "explanation": "'King' (রাজা) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Kingly' (রাজকীয়) তৈরি হয়। (Kingdom হলো Noun)।"
+  },
+  {
+    "id": 12,
+    "question": "Choose the Noun form of the word 'Die'.",
+    "options": ["Death", "Dying", "Dead", "Died"],
+    "answer": "Death",
+    "explanation": "'Die' (মারা যাওয়া) একটি Verb। এর Noun ফর্ম হলো 'Death' (মৃত্যু)। (Dead হলো Adjective)।"
+  },
+  {
+    "id": 13,
+    "question": "The Adjective form of 'Star' is",
+    "options": ["Starry", "Starly", "Starness", "Starred"],
+    "answer": "Starry",
+    "explanation": "'Star' (তারা) Noun-এর শেষে '-ry' যুক্ত করে Adjective 'Starry' (তারকাখচিত) গঠিত হয়।"
+  },
+  {
+    "id": 14,
+    "question": "What is the Noun form of 'Beautiful'?",
+    "options": ["Beautify", "Beauty", "Beautifully", "Beauteous"],
+    "answer": "Beauty",
+    "explanation": "'Beautiful' (সুন্দর) একটি Adjective। এর Noun ফর্ম হলো 'Beauty' (সৌন্দর্য)। (Beautify হলো Verb)।"
+  },
+  {
+    "id": 15,
+    "question": "The Verb form of the word 'Courage' is",
+    "options": ["Courageous", "Encourage", "Couraging", "Discourage"],
+    "answer": "Encourage",
+    "explanation": "'Courage' (সাহস) একটি Noun। এর আগে 'en-' প্রিফিক্স (Prefix) যোগ করে Verb 'Encourage' (উৎসাহিত করা) গঠিত হয়।"
+  },
+  {
+    "id": 16,
+    "question": "Choose the Adjective form of 'Nature'.",
+    "options": ["Natures", "Natural", "Naturally", "Naturist"],
+    "answer": "Natural",
+    "explanation": "'Nature' (প্রকৃতি) Noun-এর শেষে '-al' যুক্ত করে Adjective 'Natural' (প্রাকৃতিক) গঠিত হয়।"
+  },
+  {
+    "id": 17,
+    "question": "What is the Adverb form of the word 'Good'?",
+    "options": ["Goodly", "Well", "Better", "Goodness"],
+    "answer": "Well",
+    "explanation": "'Good' (ভালো) একটি Adjective। এর Adverb ফর্ম সম্পূর্ণ আলাদা, সেটি হলো 'Well' (ভালোভাবে)। এটি পরীক্ষায় প্রায়ই আসে।"
+  },
+  {
+    "id": 18,
+    "question": "What is the Noun form of the verb 'Decide'?",
+    "options": ["Decisive", "Decision", "Deciding", "Decided"],
+    "answer": "Decision",
+    "explanation": "'Decide' (সিদ্ধান্ত নেওয়া) একটি Verb। এর শেষে '-ion' যুক্ত হয়ে Noun 'Decision' (সিদ্ধান্ত) তৈরি হয়।"
+  },
+  {
+    "id": 19,
+    "question": "The Adjective form of the word 'Care' is",
+    "options": ["Caring", "Careful", "Carely", "Careness"],
+    "answer": "Careful",
+    "explanation": "'Care' (যত্ন) Noun-এর শেষে '-ful' যুক্ত করে Adjective 'Careful' (যত্নশীল) গঠিত হয়।"
+  },
+  {
+    "id": 20,
+    "question": "Find the Verb form of 'Knowledge'.",
+    "options": ["Knowledgeable", "Know", "Knowing", "Known"],
+    "answer": "Know",
+    "explanation": "'Knowledge' (জ্ঞান) হলো Noun। এর মূল Verb ফর্ম হলো 'Know' (জানা)।"
+  },
+  {
+    "id": 21,
+    "question": "What is the Noun form of 'Poor'?",
+    "options": ["Poorness", "Poverty", "Poorly", "Poordom"],
+    "answer": "Poverty",
+    "explanation": "'Poor' (গরিব) একটি Adjective। এর Abstract Noun ফর্ম হলো 'Poverty' (দারিদ্র্য)। এটি প্রতিযোগিতামূলক পরীক্ষার অন্যতম কমন প্রশ্ন।"
+  },
+  {
+    "id": 22,
+    "question": "Choose the Adjective form of 'Circle'.",
+    "options": ["Circled", "Circular", "Circulation", "Circlely"],
+    "answer": "Circular",
+    "explanation": "'Circle' (বৃত্ত) Noun-এর Adjective ফর্ম হলো 'Circular' (বৃত্তাকার)।"
+  },
+  {
+    "id": 23,
+    "question": "The Verb form of the word 'Joy' is",
+    "options": ["Joyful", "Enjoy", "Joyous", "Joying"],
+    "answer": "Enjoy",
+    "explanation": "'Joy' (আনন্দ) Noun-এর আগে 'en-' যুক্ত করে Verb 'Enjoy' (উপভোগ করা) তৈরি হয়।"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is the Adverb form of 'Hard' (meaning with great effort)?",
+    "options": ["Hardly", "Hard", "Hardness", "Hardship"],
+    "answer": "Hard",
+    "explanation": "'Hard' শব্দটি Adjective এবং Adverb উভয়ভাবেই ব্যবহৃত হয় (যেমন: He works hard)। 'Hardly' মানে 'কদাচিৎ', তাই এটি অর্থ অনুযায়ী সঠিক নয়।"
+  },
+  {
+    "id": 25,
+    "question": "What is the Noun form of the Adjective 'Long'?",
+    "options": ["Longing", "Length", "Lengthen", "Longness"],
+    "answer": "Length",
+    "explanation": "'Long' (দীর্ঘ) Adjective-এর Noun ফর্ম হলো 'Length' (দৈর্ঘ্য)। (Lengthen হলো Verb)।"
+  },
+  {
+    "id": 26,
+    "question": "The Adjective form of 'Silk' is",
+    "options": ["Silk", "Silken", "Silkness", "Silkly"],
+    "answer": "Silken",
+    "explanation": "'Silk' (রেশম) Noun-এর শেষে '-en' যুক্ত করে Adjective 'Silken' (রেশম নির্মিত বা মসৃণ) গঠিত হয়।"
+  },
+  {
+    "id": 27,
+    "question": "What is the Verb form of the word 'Success'?",
+    "options": ["Successful", "Succession", "Succeed", "Successfully"],
+    "answer": "Succeed",
+    "explanation": "'Success' (সাফল্য) একটি Noun। এর Verb ফর্ম হলো 'Succeed' (সফল হওয়া)। এটি ছাত্রছাত্রীদের খুব ভুল হয়।"
+  },
+  {
+    "id": 28,
+    "question": "The Noun form of the Adjective 'True' is",
+    "options": ["Truely", "Trueness", "Truth", "Truthful"],
+    "answer": "Truth",
+    "explanation": "'True' (সত্য) একটি Adjective। এর শেষে '-th' যুক্ত করে Abstract Noun 'Truth' (সত্যতা) গঠিত হয়।"
+  },
+  {
+    "id": 29,
+    "question": "Choose the Adjective form of 'Play'.",
+    "options": ["Player", "Playing", "Playful", "Playable"],
+    "answer": "Playful",
+    "explanation": "'Play' (খেলা) শব্দটির সাথে '-ful' যুক্ত করে Adjective 'Playful' (চঞ্চল বা ক্রীড়ামোদী) তৈরি হয়।"
+  },
+  {
+    "id": 30,
+    "question": "What is the Adverb form of 'Polite'?",
+    "options": ["Politeness", "Polite", "Politely", "Polited"],
+    "answer": "Politely",
+    "explanation": "'Polite' (ভদ্র) Adjective-এর শেষে '-ly' যুক্ত করে Adverb 'Politely' (ভদ্রভাবে) গঠিত হয়।"
+  },
+  {
+    "id": 31,
+    "question": "The Verb form of the word 'Memory' is",
+    "options": ["Memorable", "Memorial", "Memorize", "Memory"],
+    "answer": "Memorize",
+    "explanation": "'Memory' (স্মৃতি) Noun-এর শেষে '-ize' যুক্ত করে Verb 'Memorize' (মুখস্থ করা বা মনে রাখা) গঠিত হয়।"
+  },
+  {
+    "id": 32,
+    "question": "What is the Noun form of the Verb 'Fly'?",
+    "options": ["Flyer", "Flying", "Flight", "Flew"],
+    "answer": "Flight",
+    "explanation": "'Fly' (ওড়া) Verb-এর Abstract Noun ফর্ম হলো 'Flight' (উড্ডয়ন)। এটি একটি ব্যতিক্রমী এবং গুরুত্বপূর্ণ গঠন।"
+  },
+  {
+    "id": 33,
+    "question": "Choose the Adjective form of 'Child'.",
+    "options": ["Childhood", "Childly", "Childish", "Childing"],
+    "answer": "Childish",
+    "explanation": "'Child' (শিশু) Noun-এর শেষে '-ish' যুক্ত করে Adjective 'Childish' (শিশুসুলভ) গঠিত হয়।"
+  },
+  {
+    "id": 34,
+    "question": "What is the Verb form of the word 'Belief'?",
+    "options": ["Believable", "Believing", "Believe", "Believer"],
+    "answer": "Believe",
+    "explanation": "'Belief' (বিশ্বাস) একটি Noun। এর ভেতরের 'f' পরিবর্তিত হয়ে 've' হয় এবং Verb 'Believe' (বিশ্বাস করা) তৈরি হয়।"
+  },
+  {
+    "id": 35,
+    "question": "The Noun form of the Adjective 'Strong' is",
+    "options": ["Strongly", "Strongness", "Strength", "Strengthen"],
+    "answer": "Strength",
+    "explanation": "'Strong' (শক্তিশালী) Adjective-এর Noun ফর্ম হলো 'Strength' (শক্তি)। (Strengthen হলো Verb)।"
+  },
+  {
+    "id": 36,
+    "question": "What is the Adjective form of 'Time'?",
+    "options": ["Timer", "Time", "Timely", "Timing"],
+    "answer": "Timely",
+    "explanation": "'Time' (সময়) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Timely' (সময়োপযোগী) তৈরি হয়।"
+  },
+  {
+    "id": 37,
+    "question": "Find the Verb form of the word 'Friend'.",
+    "options": ["Friendly", "Friendship", "Befriend", "Friendless"],
+    "answer": "Befriend",
+    "explanation": "'Friend' (বন্ধু) Noun-এর আগে 'be-' প্রিফিক্স যুক্ত করে Verb 'Befriend' (বন্ধুত্ব করা) গঠিত হয়।"
+  },
+  {
+    "id": 38,
+    "question": "What is the Noun form of the Verb 'See'?",
+    "options": ["Seeing", "Seen", "Sight", "Seer"],
+    "answer": "Sight",
+    "explanation": "'See' (দেখা) Verb-এর Noun ফর্ম হলো 'Sight' (দৃষ্টি বা দৃশ্য)। এটি সম্পূর্ণ আলাদা একটি শব্দগঠন।"
+  },
+  {
+    "id": 39,
+    "question": "Choose the Adjective form of 'Hope'.",
+    "options": ["Hopelessness", "Hopingly", "Hopes", "Hopeful"],
+    "answer": "Hopeful",
+    "explanation": "'Hope' (আশা) শব্দের শেষে '-ful' যুক্ত করে Adjective 'Hopeful' (আশাবাদী) গঠিত হয়।"
+  },
+  {
+    "id": 40,
+    "question": "The Noun form of the Verb 'Grow' is",
+    "options": ["Growing", "Grown", "Grew", "Growth"],
+    "answer": "Growth",
+    "explanation": "'Grow' (বৃদ্ধি পাওয়া) Verb-এর শেষে '-th' যুক্ত করে Abstract Noun 'Growth' (বৃদ্ধি) তৈরি হয়।"
+  },
+  {
+    "id": 41,
+    "question": "What is the Verb form of the word 'Life'?",
+    "options": ["Lifelong", "Alive", "Lively", "Live"],
+    "answer": "Live",
+    "explanation": "'Life' (জীবন) হলো Noun। এর 'f' পরিবর্তিত হয়ে 've' হয় এবং Verb 'Live' (বাস করা বা বেঁচে থাকা) তৈরি হয়।"
+  },
+  {
+    "id": 42,
+    "question": "What is the Adverb form of 'Month'?",
+    "options": ["Month", "Monthing", "Monthness", "Monthly"],
+    "answer": "Monthly",
+    "explanation": "'Month' (মাস) Noun-এর শেষে '-ly' যুক্ত করে Adverb 'Monthly' (মাসিক ভিত্তিতে) গঠিত হয়।"
+  },
+  {
+    "id": 43,
+    "question": "Choose the Adjective form of 'Father'.",
+    "options": ["Fatherhood", "Father", "Fathering", "Fatherly"],
+    "answer": "Fatherly",
+    "explanation": "'Father' (পিতা) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Fatherly' (পিতৃসুলভ) গঠিত হয়।"
+  },
+  {
+    "id": 44,
+    "question": "The Noun form of the Adjective 'High' is",
+    "options": ["Highly", "Highness", "Higher", "Height"],
+    "answer": "Height",
+    "explanation": "'High' (উঁচু) Adjective-এর Abstract Noun ফর্ম হলো 'Height' (উচ্চতা)। এটি বানান পরিবর্তনের দিক থেকে খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 45,
+    "question": "What is the Verb form of 'Power'?",
+    "options": ["Powerful", "Powerless", "Powering", "Empower"],
+    "answer": "Empower",
+    "explanation": "'Power' (ক্ষমতা) Noun-এর আগে 'em-' প্রিফিক্স যুক্ত করে Verb 'Empower' (ক্ষমতায়ন করা) গঠিত হয়।"
+  },
+  {
+    "id": 46,
+    "question": "The Noun form of the Verb 'Deceive' is",
+    "options": ["Deceptive", "Deceiving", "Deceived", "Deceit"],
+    "answer": "Deceit",
+    "explanation": "'Deceive' (প্রতারণা করা) Verb-এর Noun ফর্ম হলো 'Deceit' (প্রতারণা)। (Deceptive হলো Adjective)।"
+  },
+  {
+    "id": 47,
+    "question": "Choose the Adjective form of 'Dust'.",
+    "options": ["Duster", "Dusting", "Dustful", "Dusty"],
+    "answer": "Dusty",
+    "explanation": "'Dust' (ধুলো) Noun-এর শেষে '-y' যুক্ত করে Adjective 'Dusty' (ধুলোময়) গঠিত হয়।"
+  },
+  {
+    "id": 48,
+    "question": "What is the Verb form of the word 'Clean'?",
+    "options": ["Cleanly", "Cleanness", "Cleaner", "Cleanse"],
+    "answer": "Cleanse",
+    "explanation": "'Clean' শব্দটিও Verb হিসেবে বসে, তবে বিশেষভাবে শুদ্ধ বা পরিষ্কার করা অর্থে এর Verb ফর্ম হিসেবে 'Cleanse' শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 49,
+    "question": "The Adverb form of 'Angry' is",
+    "options": ["Anger", "Angry", "Angriness", "Angrily"],
+    "answer": "Angrily",
+    "explanation": "'Angry' (রাগান্বিত) Adjective-এর শেষের 'y' পরিবর্তিত হয়ে 'ily' বসে Adverb 'Angrily' (রাগান্বিতভাবে) গঠিত হয়।"
+  },
+  {
+    "id": 50,
+    "question": "What is the Noun form of 'Proud'?",
+    "options": ["Proudly", "Proudness", "Prouder", "Pride"],
+    "answer": "Pride",
+    "explanation": "'Proud' (গর্বিত) একটি Adjective। এর Noun ফর্ম সম্পূর্ণ আলাদা, সেটি হলো 'Pride' (গর্ব বা অহংকার)।"
+  },
+  {
+    "id": 51,
+    "question": "What is the Verb form of the word 'Able'?",
+    "options": ["Enable", "Ably", "Ability", "Abling"],
+    "answer": "Enable",
+    "explanation": "'Able' (সক্ষম) একটি Adjective। এর আগে 'en-' Prefix যুক্ত করে Verb 'Enable' (সক্ষম করা) গঠিত হয়।"
+  },
+  {
+    "id": 52,
+    "question": "The Noun form of the Adjective 'Broad' is",
+    "options": ["Broadness", "Breadth", "Broadly", "Broaden"],
+    "answer": "Breadth",
+    "explanation": "'Broad' (চওড়া) Adjective-এর Abstract Noun ফর্ম হলো 'Breadth' (প্রস্থ)। এটি Length, Width-এর মতোই গঠিত হয়।"
+  },
+  {
+    "id": 53,
+    "question": "Choose the Adjective form of 'Wood'.",
+    "options": ["Woody", "Wooding", "Wooden", "Woodless"],
+    "answer": "Wooden",
+    "explanation": "'Wood' (কাঠ) Noun-এর শেষে '-en' যুক্ত করে Adjective 'Wooden' (কাঠের তৈরি) গঠিত হয়।"
+  },
+  {
+    "id": 54,
+    "question": "What is the Noun form of the Verb 'Arrive'?",
+    "options": ["Arriving", "Arrive", "Arriver", "Arrival"],
+    "answer": "Arrival",
+    "explanation": "'Arrive' (পৌঁছানো) Verb-এর শেষে '-al' যুক্ত করে Noun 'Arrival' (আগমন) তৈরি হয়।"
+  },
+  {
+    "id": 55,
+    "question": "The Adverb form of the word 'True' is",
+    "options": ["Truly", "Truely", "Truthfully", "Truthly"],
+    "answer": "Truly",
+    "explanation": "'True' (সত্য) Adjective-এর শেষের 'e' বাদ গিয়ে '-ly' যুক্ত হয়ে Adverb 'Truly' (সত্যিই) গঠিত হয়। (Truely বানানটি ভুল)।"
+  },
+  {
+    "id": 56,
+    "question": "What is the Verb form of the word 'Sure'?",
+    "options": ["Surely", "Ensure", "Sureness", "Surity"],
+    "answer": "Ensure",
+    "explanation": "'Sure' (নিশ্চিত) Adjective-এর আগে 'en-' যুক্ত করে Verb 'Ensure' (নিশ্চিত করা) গঠিত হয়।"
+  },
+  {
+    "id": 57,
+    "question": "Find the Adjective form of the Noun 'Day'.",
+    "options": ["Dayly", "Daying", "Daily", "Daytime"],
+    "answer": "Daily",
+    "explanation": "'Day' (দিন)-এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-ly' যুক্ত হয়ে Adjective 'Daily' (দৈনিক) তৈরি হয়।"
+  },
+  {
+    "id": 58,
+    "question": "What is the Noun form of the Verb 'Admit'?",
+    "options": ["Admittedly", "Admit", "Admitting", "Admission"],
+    "answer": "Admission",
+    "explanation": "'Admit' (ভর্তি করা বা স্বীকার করা) Verb-এর Noun ফর্ম হলো 'Admission' (ভর্তি)। (Admittance-ও একটি Noun, তবে Admission বেশি প্রচলিত)।"
+  },
+  {
+    "id": 59,
+    "question": "The Verb form of the word 'Little' is",
+    "options": ["Belittle", "Less", "Lessen", "Littlely"],
+    "answer": "Belittle",
+    "explanation": "'Little' (ছোট) Adjective-এর আগে 'be-' Prefix যুক্ত করে Verb 'Belittle' (খাটো করে দেখা বা অবজ্ঞা করা) গঠিত হয়।"
+  },
+  {
+    "id": 60,
+    "question": "What is the Noun form of 'Deep'?",
+    "options": ["Deepness", "Depth", "Deeply", "Deepen"],
+    "answer": "Depth",
+    "explanation": "'Deep' (গভীর) Adjective-এর শেষে '-th' যুক্ত করে Abstract Noun 'Depth' (গভীরতা) গঠিত হয়।"
+  },
+  {
+    "id": 61,
+    "question": "Choose the Adjective form of the word 'Year'.",
+    "options": ["Year", "Yearling", "Yearly", "Years"],
+    "answer": "Yearly",
+    "explanation": "'Year' (বছর) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Yearly' (বার্ষিক) তৈরি হয়। এটি Adverb হিসেবেও ব্যবহৃত হয়।"
+  },
+  {
+    "id": 62,
+    "question": "The Noun form of the Verb 'Choose' is",
+    "options": ["Choosing", "Choosy", "Choosen", "Choice"],
+    "answer": "Choice",
+    "explanation": "'Choose' (পছন্দ করা) Verb-এর Noun ফর্ম হলো 'Choice' (পছন্দ)। এটি বানান পরিবর্তনের দিক থেকে খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 63,
+    "question": "What is the Verb form of the word 'Large'?",
+    "options": ["Enlarge", "Largen", "Largely", "Largeness"],
+    "answer": "Enlarge",
+    "explanation": "'Large' (বিশাল) Adjective-এর আগে 'en-' যুক্ত করে Verb 'Enlarge' (বিবর্ধিত করা বা বড় করা) গঠিত হয়।"
+  },
+  {
+    "id": 64,
+    "question": "The Noun form of the Adjective 'Wise' is",
+    "options": ["Wiseness", "Wisdom", "Wisely", "Wiser"],
+    "answer": "Wisdom",
+    "explanation": "'Wise' (জ্ঞানী) Adjective-এর শেষে '-dom' Suffix যুক্ত করে Abstract Noun 'Wisdom' (জ্ঞান) গঠিত হয়।"
+  },
+  {
+    "id": 65,
+    "question": "Find the Adjective form of 'Center'.",
+    "options": ["Centered", "Centric", "Central", "Centrally"],
+    "answer": "Central",
+    "explanation": "'Center' (কেন্দ্র) Noun-এর শেষে '-al' যুক্ত করে Adjective 'Central' (কেন্দ্রীয়) তৈরি হয়।"
+  },
+  {
+    "id": 66,
+    "question": "What is the Noun form of the Adjective 'Just'?",
+    "options": ["Justly", "Justness", "Justify", "Justice"],
+    "answer": "Justice",
+    "explanation": "'Just' (ন্যায়পরায়ণ) Adjective-এর শেষে '-ice' যুক্ত করে Abstract Noun 'Justice' (ন্যায়বিচার) গঠিত হয়।"
+  },
+  {
+    "id": 67,
+    "question": "Choose the Verb form of 'Black'.",
+    "options": ["Blacken", "Black", "Blackly", "Blackness"],
+    "answer": "Blacken",
+    "explanation": "'Black' (কালো) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Blacken' (কালো করা বা কালিমালিপ্ত করা) গঠিত হয়।"
+  },
+  {
+    "id": 68,
+    "question": "The Noun form of the Adjective 'Brave' is",
+    "options": ["Braveness", "Bravery", "Bravely", "Brave"],
+    "answer": "Bravery",
+    "explanation": "'Brave' (সাহসী) Adjective-এর শেষে '-ry' যুক্ত করে Abstract Noun 'Bravery' (সাহসিকতা) তৈরি হয়।"
+  },
+  {
+    "id": 69,
+    "question": "What is the Adjective form of the word 'Man'?",
+    "options": ["Mankind", "Manhood", "Manly", "Manful"],
+    "answer": "Manly",
+    "explanation": "'Man' (মানুষ/পুরুষ) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Manly' (পুরুষোচিত) গঠিত হয়।"
+  },
+  {
+    "id": 70,
+    "question": "Find the Noun form of the Verb 'Fail'.",
+    "options": ["Failing", "Fail", "Failed", "Failure"],
+    "answer": "Failure",
+    "explanation": "'Fail' (ব্যর্থ হওয়া) Verb-এর শেষে '-ure' Suffix যুক্ত করে Noun 'Failure' (ব্যর্থতা) গঠিত হয়।"
+  },
+  {
+    "id": 71,
+    "question": "What is the Verb form of the Noun 'Circle'?",
+    "options": ["Encircle", "Circular", "Circley", "Circled"],
+    "answer": "Encircle",
+    "explanation": "'Circle' (বৃত্ত) Noun-এর আগে 'en-' যুক্ত করে Verb 'Encircle' (চারপাশ ঘিরে ফেলা) তৈরি হয়।"
+  },
+  {
+    "id": 72,
+    "question": "The Noun form of the Adjective 'Free' is",
+    "options": ["Freeness", "Freedom", "Freely", "Freeing"],
+    "answer": "Freedom",
+    "explanation": "'Free' (স্বাধীন) Adjective-এর শেষে '-dom' যুক্ত করে Abstract Noun 'Freedom' (স্বাধীনতা) গঠিত হয়।"
+  },
+  {
+    "id": 73,
+    "question": "Choose the Adjective form of the Noun 'Trouble'.",
+    "options": ["Troubling", "Troubledly", "Troublesome", "Troubler"],
+    "answer": "Troublesome",
+    "explanation": "'Trouble' (সমস্যা) Noun-এর শেষে '-some' যুক্ত করে Adjective 'Troublesome' (সমস্যাবহুল বা যন্ত্রণাদায়ক) গঠিত হয়।"
+  },
+  {
+    "id": 74,
+    "question": "What is the Noun form of the Verb 'Punish'?",
+    "options": ["Punishing", "Punishable", "Punisher", "Punishment"],
+    "answer": "Punishment",
+    "explanation": "'Punish' (শাস্তি দেওয়া) Verb-এর শেষে '-ment' যুক্ত করে Noun 'Punishment' (শাস্তি) তৈরি হয়।"
+  },
+  {
+    "id": 75,
+    "question": "Find the Verb form of the word 'Camp'.",
+    "options": ["Encamp", "Camping", "Camper", "Campify"],
+    "answer": "Encamp",
+    "explanation": "'Camp' (শিবির) Noun-এর আগে 'en-' যুক্ত করে Verb 'Encamp' (শিবির স্থাপন করা) গঠিত হয়।"
+  },
+  {
+    "id": 76,
+    "question": "The Noun form of the Adjective 'Cruel' is",
+    "options": ["Cruelness", "Cruelty", "Cruelly", "Crueling"],
+    "answer": "Cruelty",
+    "explanation": "'Cruel' (নিষ্ঠুর) Adjective-এর শেষে '-ty' যুক্ত করে Abstract Noun 'Cruelty' (নিষ্ঠুরতা) গঠিত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "What is the Adjective form of the word 'Sun'?",
+    "options": ["Sunned", "Sunning", "Sunny", "Sunless"],
+    "answer": "Sunny",
+    "explanation": "'Sun' (সূর্য) Noun-এর শেষে একটি অতিরিক্ত 'n' এবং 'y' যুক্ত হয়ে Adjective 'Sunny' (রৌদ্রোজ্জ্বল) গঠিত হয়।"
+  },
+  {
+    "id": 78,
+    "question": "What is the Noun form of the Verb 'Know'?",
+    "options": ["Knowing", "Known", "Knower", "Knowledge"],
+    "answer": "Knowledge",
+    "explanation": "'Know' (জানা) Verb-এর শেষে '-ledge' যুক্ত করে Abstract Noun 'Knowledge' (জ্ঞান) গঠিত হয়।"
+  },
+  {
+    "id": 79,
+    "question": "The Verb form of the word 'Half' is",
+    "options": ["Halve", "Halfen", "Halfer", "Halfly"],
+    "answer": "Halve",
+    "explanation": "'Half' (অর্ধেক) Noun-এর 'f' পরিবর্তিত হয়ে 've' হয় এবং Verb 'Halve' (সমান দু'ভাগে ভাগ করা) তৈরি হয়।"
+  },
+  {
+    "id": 80,
+    "question": "Find the Noun form of the Adjective 'Hot'.",
+    "options": ["Hotness", "Heat", "Hotly", "Heated"],
+    "answer": "Heat",
+    "explanation": "'Hot' (গরম) Adjective-এর Abstract Noun ফর্ম হলো 'Heat' (তাপ বা উষ্ণতা)। এটি সম্পূর্ণ ভিন্ন বানান।"
+  },
+  {
+    "id": 81,
+    "question": "Choose the Adjective form of 'Brother'.",
+    "options": ["Brotherhood", "Brothers", "Brotherly", "Brethren"],
+    "answer": "Brotherly",
+    "explanation": "'Brother' (ভাই) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Brotherly' (ভ্রাতৃসুলভ) গঠিত হয়।"
+  },
+  {
+    "id": 82,
+    "question": "What is the Noun form of the Verb 'Lose'?",
+    "options": ["Losing", "Lost", "Loser", "Loss"],
+    "answer": "Loss",
+    "explanation": "'Lose' (হারানো) Verb-এর Noun ফর্ম হলো 'Loss' (ক্ষতি বা হার)। (Lost হলো Adjective বা Past form)।"
+  },
+  {
+    "id": 83,
+    "question": "The Verb form of the word 'Slave' is",
+    "options": ["Enslave", "Slaver", "Slavery", "Slavish"],
+    "answer": "Enslave",
+    "explanation": "'Slave' (ক্রীতদাস) Noun-এর আগে 'en-' যুক্ত করে Verb 'Enslave' (দাসত্বে আবদ্ধ করা) গঠিত হয়।"
+  },
+  {
+    "id": 84,
+    "question": "What is the Noun form of the Adjective 'Warm'?",
+    "options": ["Warmness", "Warmth", "Warmly", "Warming"],
+    "answer": "Warmth",
+    "explanation": "'Warm' (উষ্ণ) Adjective-এর শেষে '-th' যুক্ত করে Abstract Noun 'Warmth' (উষ্ণতা) গঠিত হয়।"
+  },
+  {
+    "id": 85,
+    "question": "Find the Adjective form of the Noun 'Accident'.",
+    "options": ["Accidentally", "Accidents", "Accidental", "Accidenting"],
+    "answer": "Accidental",
+    "explanation": "'Accident' (দুর্ঘটনা) Noun-এর শেষে '-al' যুক্ত করে Adjective 'Accidental' (আকস্মিক বা দুর্ঘটনাবশত) তৈরি হয়।"
+  },
+  {
+    "id": 86,
+    "question": "What is the Noun form of the Verb 'Protect'?",
+    "options": ["Protecting", "Protective", "Protect", "Protection"],
+    "answer": "Protection",
+    "explanation": "'Protect' (রক্ষা করা) Verb-এর শেষে '-ion' যুক্ত করে Noun 'Protection' (সুরক্ষা) গঠিত হয়।"
+  },
+  {
+    "id": 87,
+    "question": "The Verb form of the Noun 'Fool' is",
+    "options": ["Befool", "Foolish", "Fooling", "Foolery"],
+    "answer": "Befool",
+    "explanation": "'Fool' (বোকা) Noun-এর আগে 'be-' Prefix যুক্ত করে Verb 'Befool' (বোকা বানানো) গঠিত হয়।"
+  },
+  {
+    "id": 88,
+    "question": "Choose the Noun form of the Adjective 'Dark'.",
+    "options": ["Darken", "Darkness", "Darkly", "Darky"],
+    "answer": "Darkness",
+    "explanation": "'Dark' (অন্ধকার) Adjective-এর শেষে '-ness' যুক্ত করে Abstract Noun 'Darkness' (অন্ধকার বা তমসা) গঠিত হয়।"
+  },
+  {
+    "id": 89,
+    "question": "What is the Adjective form of the word 'Coward'?",
+    "options": ["Cowardice", "Cowards", "Cowardly", "Cowarding"],
+    "answer": "Cowardly",
+    "explanation": "'Coward' (ভীতু) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Cowardly' (কাপুরুষোচিত) গঠিত হয়। (Cowardice হলো Noun)।"
+  },
+  {
+    "id": 90,
+    "question": "The Noun form of the Verb 'Think' is",
+    "options": ["Thinking", "Thinker", "Think", "Thought"],
+    "answer": "Thought",
+    "explanation": "'Think' (চিন্তা করা) Verb-এর Abstract Noun ফর্ম হলো 'Thought' (চিন্তা বা ধারণা)।"
+  },
+  {
+    "id": 91,
+    "question": "What is the Verb form of the Adjective 'Rich'?",
+    "options": ["Enrich", "Richen", "Richly", "Richness"],
+    "answer": "Enrich",
+    "explanation": "'Rich' (ধনী বা সমৃদ্ধ) Adjective-এর আগে 'en-' যুক্ত করে Verb 'Enrich' (সমৃদ্ধ করা) গঠিত হয়।"
+  },
+  {
+    "id": 92,
+    "question": "Find the Noun form of the Adjective 'Young'.",
+    "options": ["Youngness", "Youth", "Younger", "Youngly"],
+    "answer": "Youth",
+    "explanation": "'Young' (তরুণ) Adjective-এর Abstract Noun ফর্ম হলো 'Youth' (যৌবন বা তারুণ্য)। এটি একটি ব্যতিক্রমী পরিবর্তন।"
+  },
+  {
+    "id": 93,
+    "question": "Choose the Adjective form of the word 'Picture'.",
+    "options": ["Pictury", "Pictured", "Picturesque", "Picturization"],
+    "answer": "Picturesque",
+    "explanation": "'Picture' (ছবি) Noun-এর Adjective ফর্ম হলো 'Picturesque' (ছবির মতো সুন্দর বা মনোরম)। এটি পরীক্ষায় প্রায়ই আসে।"
+  },
+  {
+    "id": 94,
+    "question": "What is the Noun form of the Verb 'Permit'?",
+    "options": ["Permitting", "Permissible", "Permit", "Permission"],
+    "answer": "Permission",
+    "explanation": "'Permit' (অনুমতি দেওয়া) Verb-এর Noun ফর্ম হলো 'Permission' (অনুমতি)।"
+  },
+  {
+    "id": 95,
+    "question": "The Verb form of the Noun 'Danger' is",
+    "options": ["Endanger", "Dangerous", "Dangerly", "Dangered"],
+    "answer": "Endanger",
+    "explanation": "'Danger' (বিপদ) Noun-এর আগে 'en-' যুক্ত করে Verb 'Endanger' (বিপন্ন করা বা বিপদে ফেলা) গঠিত হয়।"
+  },
+  {
+    "id": 96,
+    "question": "What is the Noun form of the Adjective 'Wide'?",
+    "options": ["Wideness", "Width", "Widely", "Widen"],
+    "answer": "Width",
+    "explanation": "'Wide' (চওড়া) Adjective-এর শেষে '-th' যুক্ত করে Abstract Noun 'Width' (প্রস্থ) গঠিত হয়।"
+  },
+  {
+    "id": 97,
+    "question": "Find the Adjective form of the Noun 'Metal'.",
+    "options": ["Metal", "Metaled", "Metallic", "Metallurgy"],
+    "answer": "Metallic",
+    "explanation": "'Metal' (ধাতু) Noun-এর শেষে '-lic' যুক্ত করে Adjective 'Metallic' (ধাতব) গঠিত হয়।"
+  },
+  {
+    "id": 98,
+    "question": "What is the Noun form of the Verb 'Sing'?",
+    "options": ["Singing", "Singer", "Sang", "Song"],
+    "answer": "Song",
+    "explanation": "'Sing' (গান গাওয়া) Verb-এর Noun ফর্ম হলো 'Song' (গান)। ভেতরের Vowel (i থেকে o) পরিবর্তিত হয়ে এটি গঠিত হয়।"
+  },
+  {
+    "id": 99,
+    "question": "The Verb form of the word 'Act' is",
+    "options": ["Enact", "Action", "Active", "Actify"],
+    "answer": "Enact",
+    "explanation": "'Act' (কাজ বা আইন) Noun-এর আগে 'en-' যুক্ত করে Verb 'Enact' (আইন প্রণয়ন করা বা অভিনয় করা) গঠিত হয়।"
+  },
+  {
+    "id": 100,
+    "question": "Choose the Noun form of the Adjective 'Brief'.",
+    "options": ["Briefness", "Brevity", "Briefly", "Briefer"],
+    "answer": "Brevity",
+    "explanation": "'Brief' (সংক্ষিপ্ত) Adjective-এর Abstract Noun ফর্ম হলো 'Brevity' (সংক্ষিপ্ততা)। এটি competitive exam-এর জন্য খুবই গুরুত্বপূর্ণ শব্দ।"
+  },
+  {
+    "id": 101,
+    "question": "The adjective form of the word 'Glory' is",
+    "options": ["Glorious", "Gloried", "Glorification", "Gloriously"],
+    "answer": "Glorious",
+    "explanation": "'Glory' (গৌরব) একটি Noun। এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-ous' সাফিক্স যুক্ত হয়ে Adjective 'Glorious' (গৌরবান্বিত) গঠিত হয়।"
+  },
+  {
+    "id": 102,
+    "question": "What is the Noun form of the Adjective 'Absent'?",
+    "options": ["Absention", "Absence", "Absentness", "Absently"],
+    "answer": "Absence",
+    "explanation": "'Absent' (অনুপস্থিত) Adjective-এর শেষে '-ce' যুক্ত হয়ে Abstract Noun 'Absence' (অনুপস্থিতি) গঠিত হয়।"
+  },
+  {
+    "id": 103,
+    "question": "Choose the Verb form of the Noun 'Prison'.",
+    "options": ["Prisoner", "Prison", "Imprison", "Prisoning"],
+    "answer": "Imprison",
+    "explanation": "'Prison' (কারাগার) Noun-এর আগে 'im-' প্রিফিক্স (Prefix) যুক্ত করে Verb 'Imprison' (কারারুদ্ধ করা) গঠিত হয়।"
+  },
+  {
+    "id": 104,
+    "question": "What is the Adverb form of the word 'Whole'?",
+    "options": ["Wholely", "Wholesome", "Whole", "Wholly"],
+    "answer": "Wholly",
+    "explanation": "'Whole' (সমগ্র) Adjective-এর শেষের 'e' বাদ গিয়ে '-ly' যুক্ত হয়ে Adverb 'Wholly' (সম্পূর্ণরূপে) গঠিত হয়। বানানটি পরীক্ষায় খুব আসে।"
+  },
+  {
+    "id": 105,
+    "question": "Find the Noun form of the Verb 'Expect'.",
+    "options": ["Expectation", "Expect", "Expecting", "Expected"],
+    "answer": "Expectation",
+    "explanation": "'Expect' (আশা করা) Verb-এর শেষে '-ation' যুক্ত করে Abstract Noun 'Expectation' (প্রত্যাশা) গঠিত হয়।"
+  },
+  {
+    "id": 106,
+    "question": "What is the Verb form of the word 'Title'?",
+    "options": ["Title", "Entitle", "Titling", "Titled"],
+    "answer": "Entitle",
+    "explanation": "'Title' (উপাধি) Noun-এর আগে 'en-' যুক্ত করে Verb 'Entitle' (উপাধি দেওয়া বা অধিকার দেওয়া) তৈরি হয়।"
+  },
+  {
+    "id": 107,
+    "question": "Choose the Adjective form of the Noun 'Wool'.",
+    "options": ["Wooly", "Wooling", "Woollen", "Wool"],
+    "answer": "Woollen",
+    "explanation": "'Wool' (পশম) Noun-এর শেষে '-len' যুক্ত করে Adjective 'Woollen' (পশমী) গঠিত হয়।"
+  },
+  {
+    "id": 108,
+    "question": "The Noun form of the Verb 'Judge' is",
+    "options": ["Judging", "Judged", "Judgemental", "Judgment"],
+    "answer": "Judgment",
+    "explanation": "'Judge' (বিচার করা) Verb-এর শেষে '-ment' যুক্ত করে Noun 'Judgment' (রায় বা বিচার) গঠিত হয়।"
+  },
+  {
+    "id": 109,
+    "question": "What is the Noun form of the Verb 'Please'?",
+    "options": ["Pleasure", "Pleasant", "Pleasing", "Pleasantly"],
+    "answer": "Pleasure",
+    "explanation": "'Please' (সন্তুষ্ট করা) Verb-এর শেষে '-ure' যুক্ত হয়ে Abstract Noun 'Pleasure' (আনন্দ বা সন্তুষ্টি) গঠিত হয়।"
+  },
+  {
+    "id": 110,
+    "question": "The Adverb form of the word 'Happy' is",
+    "options": ["Happiness", "Happily", "Happier", "Happy"],
+    "answer": "Happily",
+    "explanation": "'Happy' (সুখী) Adjective-এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-ly' যুক্ত হয়ে Adverb 'Happily' (আনন্দের সাথে) গঠিত হয়।"
+  },
+  {
+    "id": 111,
+    "question": "What is the Verb form of the Adjective 'Sweet'?",
+    "options": ["Sweetly", "Sweetness", "Sweeten", "Sweeter"],
+    "answer": "Sweeten",
+    "explanation": "'Sweet' (মিষ্টি) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Sweeten' (মিষ্টি করা) গঠিত হয়।"
+  },
+  {
+    "id": 112,
+    "question": "Find the Noun form of the word 'Martyr'.",
+    "options": ["Martyry", "Martyring", "Martyred", "Martyrdom"],
+    "answer": "Martyrdom",
+    "explanation": "'Martyr' (শহীদ) Noun-এর শেষে '-dom' যুক্ত করে Abstract Noun 'Martyrdom' (শহীদত্ব বা আত্মত্যাগ) গঠিত হয়।"
+  },
+  {
+    "id": 113,
+    "question": "Choose the Adjective form of 'Honour'.",
+    "options": ["Honourable", "Honoured", "Honouring", "Honourably"],
+    "answer": "Honourable",
+    "explanation": "'Honour' (সম্মান) Noun-এর শেষে '-able' যুক্ত করে Adjective 'Honourable' (সম্মানীয়) গঠিত হয়।"
+  },
+  {
+    "id": 114,
+    "question": "What is the Verb form of the Noun 'Head'?",
+    "options": ["Head", "Behead", "Heading", "Header"],
+    "answer": "Behead",
+    "explanation": "'Head' (মাথা) Noun-এর আগে 'be-' প্রিফিক্স যুক্ত করে Verb 'Behead' (শিরশ্ছেদ করা) গঠিত হয়।"
+  },
+  {
+    "id": 115,
+    "question": "The Noun form of the Verb 'Move' is",
+    "options": ["Moving", "Moved", "Motion", "Mover"],
+    "answer": "Motion",
+    "explanation": "'Move' (নড়াচড়া করা) Verb-এর Noun ফর্ম 'Movement' এবং 'Motion' দুটোই হয়। অপশনে 'Motion' থাকায় এটি সঠিক উত্তর।"
+  },
+  {
+    "id": 116,
+    "question": "What is the Adverb form of 'Careful'?",
+    "options": ["Careful", "Care", "Carefulness", "Carefully"],
+    "answer": "Carefully",
+    "explanation": "'Careful' (যত্নশীল) Adjective-এর শেষে '-ly' যুক্ত করে Adverb 'Carefully' (যত্নসহকারে) গঠিত হয়।"
+  },
+  {
+    "id": 117,
+    "question": "Find the Verb form of the Adjective 'Broad'.",
+    "options": ["Broaden", "Breadth", "Broadly", "Broad"],
+    "answer": "Broaden",
+    "explanation": "'Broad' (চওড়া) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Broaden' (প্রসারিত করা বা চওড়া করা) গঠিত হয়।"
+  },
+  {
+    "id": 118,
+    "question": "What is the Noun form of the Verb 'Create'?",
+    "options": ["Creative", "Creation", "Creator", "Creating"],
+    "answer": "Creation",
+    "explanation": "'Create' (সৃষ্টি করা) Verb-এর শেষে '-ion' যুক্ত করে Abstract Noun 'Creation' (সৃষ্টি) গঠিত হয়।"
+  },
+  {
+    "id": 119,
+    "question": "Choose the Adjective form of the Noun 'Storm'.",
+    "options": ["Storming", "Stormed", "Stormy", "Stormly"],
+    "answer": "Stormy",
+    "explanation": "'Storm' (ঝড়) Noun-এর শেষে '-y' যুক্ত করে Adjective 'Stormy' (ঝড়ো) গঠিত হয়।"
+  },
+  {
+    "id": 120,
+    "question": "The Verb form of the Adjective 'Thick' is",
+    "options": ["Thickness", "Thickly", "Thicker", "Thicken"],
+    "answer": "Thicken",
+    "explanation": "'Thick' (ঘন বা পুরু) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Thicken' (ঘন করা) গঠিত হয়।"
+  },
+  {
+    "id": 121,
+    "question": "What is the Noun form of the Verb 'Hate'?",
+    "options": ["Hatred", "Hateful", "Hating", "Hated"],
+    "answer": "Hatred",
+    "explanation": "'Hate' (ঘৃণা করা) Verb-এর Abstract Noun ফর্ম হলো 'Hatred' (ঘৃণা)। এটি বানান পরিবর্তনের দিক থেকে খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 122,
+    "question": "The Adverb form of the Noun 'Hour' is",
+    "options": ["Hour", "Hourly", "Hours", "Houring"],
+    "answer": "Hourly",
+    "explanation": "'Hour' (ঘণ্টা) Noun-এর শেষে '-ly' যুক্ত করে Adverb 'Hourly' (প্রতি ঘণ্টায়) গঠিত হয়।"
+  },
+  {
+    "id": 123,
+    "question": "What is the Verb form of the Noun 'Hand'?",
+    "options": ["Handy", "Handful", "Handle", "Handing"],
+    "answer": "Handle",
+    "explanation": "'Hand' (হাত) Noun-এর শেষে '-le' যুক্ত করে Verb 'Handle' (পরিচালনা করা বা সামলানো) গঠিত হয়।"
+  },
+  {
+    "id": 124,
+    "question": "Find the Noun form of the Verb 'Examine'.",
+    "options": ["Examiner", "Examined", "Examining", "Examination"],
+    "answer": "Examination",
+    "explanation": "'Examine' (পরীক্ষা করা) Verb-এর শেষে '-ation' যুক্ত করে Noun 'Examination' (পরীক্ষা) গঠিত হয়।"
+  },
+  {
+    "id": 125,
+    "question": "Choose the Verb form of the Noun 'Force'.",
+    "options": ["Enforce", "Forceful", "Forcing", "Forcibly"],
+    "answer": "Enforce",
+    "explanation": "'Force' (বল) Noun-এর আগে 'en-' যুক্ত করে Verb 'Enforce' (বলবৎ করা বা কার্যকর করা) গঠিত হয়।"
+  },
+  {
+    "id": 126,
+    "question": "What is the Noun form of the Verb 'Practise'?",
+    "options": ["Practising", "Practice", "Practical", "Practised"],
+    "answer": "Practice",
+    "explanation": "'Practise' ('s' যুক্ত) হলো Verb, যার অর্থ অনুশীলন করা। এর Noun ফর্ম হলো 'Practice' ('c' যুক্ত), যার অর্থ অনুশীলন।"
+  },
+  {
+    "id": 127,
+    "question": "The Adjective form of the Noun 'Value' is",
+    "options": ["Valuation", "Valued", "Valuable", "Valuelessness"],
+    "answer": "Valuable",
+    "explanation": "'Value' (মূল্য) Noun-এর শেষে '-able' যুক্ত করে Adjective 'Valuable' (মূল্যবান) গঠিত হয়।"
+  },
+  {
+    "id": 128,
+    "question": "What is the Verb form of the Noun 'Breath'?",
+    "options": ["Breathing", "Breathless", "Breather", "Breathe"],
+    "answer": "Breathe",
+    "explanation": "'Breath' (শ্বাস) Noun-এর শেষে 'e' যুক্ত করে Verb 'Breathe' (শ্বাস নেওয়া) গঠিত হয়।"
+  },
+  {
+    "id": 129,
+    "question": "Find the Noun form of the Verb 'Steal'.",
+    "options": ["Theft", "Stealing", "Stolen", "Stole"],
+    "answer": "Theft",
+    "explanation": "'Steal' (চুরি করা) Verb-এর Noun ফর্ম সম্পূর্ণ আলাদা, সেটি হলো 'Theft' (চুরি)।"
+  },
+  {
+    "id": 130,
+    "question": "Choose the Adjective form of the Verb 'Talk'.",
+    "options": ["Talker", "Talkative", "Talking", "Talk"],
+    "answer": "Talkative",
+    "explanation": "'Talk' (কথা বলা) Verb-এর শেষে '-ative' যুক্ত করে Adjective 'Talkative' (বাচাল) গঠিত হয়।"
+  },
+  {
+    "id": 131,
+    "question": "What is the Verb form of the Adjective 'Just'?",
+    "options": ["Justice", "Justly", "Justify", "Justness"],
+    "answer": "Justify",
+    "explanation": "'Just' (ন্যায়পরায়ণ) Adjective-এর শেষে '-ify' যুক্ত করে Verb 'Justify' (ন্যায্যতা প্রমাণ করা) গঠিত হয়।"
+  },
+  {
+    "id": 132,
+    "question": "The Noun form of the Verb 'Attend' is",
+    "options": ["Attending", "Attendant", "Attentive", "Attendance"],
+    "answer": "Attendance",
+    "explanation": "'Attend' (উপস্থিত থাকা) Verb-এর শেষে '-ance' যুক্ত করে Abstract Noun 'Attendance' (উপস্থিতি) গঠিত হয়।"
+  },
+  {
+    "id": 133,
+    "question": "What is the Adverb form of the Adjective 'Kind'?",
+    "options": ["Kindly", "Kindness", "Kinder", "Kind"],
+    "answer": "Kindly",
+    "explanation": "'Kind' (দয়ালু) Adjective-এর শেষে '-ly' যুক্ত করে Adverb 'Kindly' (দয়ার সাথে) গঠিত হয়।"
+  },
+  {
+    "id": 134,
+    "question": "Find the Verb form of the Adjective 'New'.",
+    "options": ["Newly", "Renew", "Newness", "Newer"],
+    "answer": "Renew",
+    "explanation": "'New' (নতুন) Adjective-এর আগে 're-' যুক্ত করে Verb 'Renew' (পুনর্নবীকরণ করা বা নতুন করা) গঠিত হয়।"
+  },
+  {
+    "id": 135,
+    "question": "Choose the Noun form of the Verb 'Confess'.",
+    "options": ["Confessing", "Confessed", "Confession", "Confessor"],
+    "answer": "Confession",
+    "explanation": "'Confess' (স্বীকার করা) Verb-এর শেষে '-ion' যুক্ত করে Abstract Noun 'Confession' (স্বীকারোক্তি) গঠিত হয়।"
+  },
+  {
+    "id": 136,
+    "question": "What is the Adjective form of the Noun 'Sense'?",
+    "options": ["Sensing", "Sensed", "Senselessness", "Sensible"],
+    "answer": "Sensible",
+    "explanation": "'Sense' (বোধ) Noun-এর শেষে '-ible' যুক্ত করে Adjective 'Sensible' (বিচক্ষণ বা বুদ্ধিমান) গঠিত হয়।"
+  },
+  {
+    "id": 137,
+    "question": "The Verb form of the Noun 'Spark' is",
+    "options": ["Sparkle", "Sparking", "Sparkly", "Sparked"],
+    "answer": "Sparkle",
+    "explanation": "'Spark' (স্ফুলিঙ্গ) Noun-এর শেষে '-le' যুক্ত করে Verb 'Sparkle' (ঝলমল করা) গঠিত হয়।"
+  },
+  {
+    "id": 138,
+    "question": "What is the Noun form of the Verb 'Sell'?",
+    "options": ["Selling", "Sale", "Sold", "Seller"],
+    "answer": "Sale",
+    "explanation": "'Sell' (বিক্রি করা) Verb-এর Noun ফর্ম হলো 'Sale' (বিক্রয়)। এটি ছাত্রছাত্রীদের খুব ভুল হয়।"
+  },
+  {
+    "id": 139,
+    "question": "Find the Adjective form of the Noun 'Quarrel'.",
+    "options": ["Quarrelling", "Quarreled", "Quarrelsome", "Quarreller"],
+    "answer": "Quarrelsome",
+    "explanation": "'Quarrel' (ঝগড়া) Noun-এর শেষে '-some' যুক্ত করে Adjective 'Quarrelsome' (ঝগড়াটে) গঠিত হয়।"
+  },
+  {
+    "id": 140,
+    "question": "Choose the Verb form of the Noun 'Beauty'.",
+    "options": ["Beautiful", "Beautifully", "Beautious", "Beautify"],
+    "answer": "Beautify",
+    "explanation": "'Beauty' (সৌন্দর্য) Noun-এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-fy' যুক্ত হয়ে Verb 'Beautify' (সুন্দর করা) গঠিত হয়।"
+  },
+  {
+    "id": 141,
+    "question": "What is the Noun form of the Verb 'Prove'?",
+    "options": ["Proof", "Proved", "Proving", "Proven"],
+    "answer": "Proof",
+    "explanation": "'Prove' (প্রমাণ করা) Verb-এর Noun ফর্ম সম্পূর্ণ আলাদা, সেটি হলো 'Proof' (প্রমাণ)।"
+  },
+  {
+    "id": 142,
+    "question": "The Adjective form of the Noun 'Cloud' is",
+    "options": ["Clouding", "Cloudy", "Cloudless", "Clouded"],
+    "answer": "Cloudy",
+    "explanation": "'Cloud' (মেঘ) Noun-এর শেষে '-y' যুক্ত করে Adjective 'Cloudy' (মেঘলা) গঠিত হয়।"
+  },
+  {
+    "id": 143,
+    "question": "What is the Verb form of the Adjective 'Soft'?",
+    "options": ["Softness", "Softly", "Soften", "Softer"],
+    "answer": "Soften",
+    "explanation": "'Soft' (নরম) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Soften' (নরম করা) গঠিত হয়।"
+  },
+  {
+    "id": 144,
+    "question": "Find the Noun form of the Verb 'Grieve'.",
+    "options": ["Grieving", "Grievous", "Grieved", "Grief"],
+    "answer": "Grief",
+    "explanation": "'Grieve' (শোক করা) Verb-এর Noun ফর্ম হলো 'Grief' (শোক বা দুঃখ)।"
+  },
+  {
+    "id": 145,
+    "question": "Choose the Adjective form of the Noun 'Woman'.",
+    "options": ["Womanly", "Womanhood", "Women", "Womanish"],
+    "answer": "Womanly",
+    "explanation": "'Woman' (মহিলা) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Womanly' (নারীসুলভ) গঠিত হয়।"
+  },
+  {
+    "id": 146,
+    "question": "What is the Verb form of the Noun 'Terror'?",
+    "options": ["Terrible", "Terrify", "Terrorism", "Terrific"],
+    "answer": "Terrify",
+    "explanation": "'Terror' (ভয় বা সন্ত্রাস) Noun-এর শেষে '-ify' যুক্ত করে Verb 'Terrify' (ভীত করা) গঠিত হয়।"
+  },
+  {
+    "id": 147,
+    "question": "The Noun form of the Verb 'Prosper' is",
+    "options": ["Prosperous", "Prospering", "Prosperity", "Prospered"],
+    "answer": "Prosperity",
+    "explanation": "'Prosper' (উন্নতি করা) Verb-এর শেষে '-ity' যুক্ত করে Abstract Noun 'Prosperity' (সমৃদ্ধি) গঠিত হয়।"
+  },
+  {
+    "id": 148,
+    "question": "What is the Noun form of the Verb 'Divide'?",
+    "options": ["Dividing", "Divided", "Divider", "Division"],
+    "answer": "Division",
+    "explanation": "'Divide' (ভাগ করা) Verb-এর শেষে '-ion' যুক্ত করে Noun 'Division' (ভাগ) গঠিত হয়।"
+  },
+  {
+    "id": 149,
+    "question": "Find the Noun form of the Verb 'Starve'.",
+    "options": ["Starvation", "Starving", "Starved", "Starves"],
+    "answer": "Starvation",
+    "explanation": "'Starve' (অনাহারে থাকা) Verb-এর শেষে '-ation' যুক্ত করে Noun 'Starvation' (অনাহার) গঠিত হয়।"
+  },
+  {
+    "id": 150,
+    "question": "Choose the Verb form of the Noun 'Habit'.",
+    "options": ["Habitual", "Habituate", "Habitually", "Habits"],
+    "answer": "Habituate",
+    "explanation": "'Habit' (অভ্যাস) Noun-এর শেষে '-uate' যুক্ত করে Verb 'Habituate' (অভ্যস্ত করা) গঠিত হয়।"
+  },
+  {
+    "id": 151,
+    "question": "What is the Verb form of the Adjective 'Pure'?",
+    "options": ["Purify", "Purely", "Purity", "Pureness"],
+    "answer": "Purify",
+    "explanation": "'Pure' (বিশুদ্ধ) Adjective-এর শেষে '-ify' সাফিক্স যুক্ত করে Verb 'Purify' (বিশুদ্ধ করা) গঠিত হয়।"
+  },
+  {
+    "id": 152,
+    "question": "The Noun form of the Verb 'Depend' is",
+    "options": ["Depend", "Dependence", "Depending", "Dependent"],
+    "answer": "Dependence",
+    "explanation": "'Depend' (নির্ভর করা) Verb-এর শেষে '-ence' যুক্ত করে Abstract Noun 'Dependence' (নির্ভরতা) গঠিত হয়।"
+  },
+  {
+    "id": 153,
+    "question": "Choose the Adjective form of the Noun 'Harm'.",
+    "options": ["Harm", "Harming", "Harmful", "Harmlessness"],
+    "answer": "Harmful",
+    "explanation": "'Harm' (ক্ষতি) Noun-এর শেষে '-ful' যুক্ত করে Adjective 'Harmful' (ক্ষতিকর) তৈরি হয়।"
+  },
+  {
+    "id": 154,
+    "question": "What is the Noun form of the Adjective 'Clear'?",
+    "options": ["Clearly", "Clear", "Clearness", "Clarity"],
+    "answer": "Clarity",
+    "explanation": "'Clear' (পরিষ্কার) Adjective-এর Abstract Noun ফর্ম হলো 'Clarity' (স্বচ্ছতা)। এটি বানান পরিবর্তনের দিক থেকে খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 155,
+    "question": "Find the Noun form of the Adjective 'Able'.",
+    "options": ["Ability", "Ably", "Enable", "Abling"],
+    "answer": "Ability",
+    "explanation": "'Able' (সক্ষম) Adjective-এর Abstract Noun ফর্ম হলো 'Ability' (সক্ষমতা)। (Enable হলো Verb)।"
+  },
+  {
+    "id": 156,
+    "question": "What is the Noun form of the Verb 'Inform'?",
+    "options": ["Inform", "Information", "Informer", "Informing"],
+    "answer": "Information",
+    "explanation": "'Inform' (অবহিত করা) Verb-এর শেষে '-ation' যুক্ত করে Noun 'Information' (তথ্য) গঠিত হয়।"
+  },
+  {
+    "id": 157,
+    "question": "Choose the Adverb form of the word 'Brief'.",
+    "options": ["Brief", "Briefness", "Briefly", "Brevity"],
+    "answer": "Briefly",
+    "explanation": "'Brief' (সংক্ষিপ্ত) Adjective-এর শেষে '-ly' যুক্ত করে Adverb 'Briefly' (সংক্ষেপে) গঠিত হয়।"
+  },
+  {
+    "id": 158,
+    "question": "The Noun form of the Verb 'Add' is",
+    "options": ["Adding", "Add", "Added", "Addition"],
+    "answer": "Addition",
+    "explanation": "'Add' (যোগ করা) Verb-এর শেষে '-ition' যুক্ত করে Noun 'Addition' (যোগ বা সংযোজন) তৈরি হয়।"
+  },
+  {
+    "id": 159,
+    "question": "What is the Noun form of the Verb 'Manage'?",
+    "options": ["Management", "Manager", "Managing", "Manage"],
+    "answer": "Management",
+    "explanation": "'Manage' (পরিচালনা করা) Verb-এর শেষে '-ment' যুক্ত করে Noun 'Management' (পরিচালন ব্যবস্থা) গঠিত হয়।"
+  },
+  {
+    "id": 160,
+    "question": "Find the Adjective form of the Noun 'Courage'.",
+    "options": ["Encourage", "Courageous", "Couraging", "Courage"],
+    "answer": "Courageous",
+    "explanation": "'Courage' (সাহস) Noun-এর শেষে '-ous' যুক্ত করে Adjective 'Courageous' (সাহসী) গঠিত হয়।"
+  },
+  {
+    "id": 161,
+    "question": "Choose the Adjective form of the Noun 'Industry'.",
+    "options": ["Industrialist", "Industry", "Industrious", "Industrying"],
+    "answer": "Industrious",
+    "explanation": "'Industry' (শিল্প বা পরিশ্রম) Noun-এর শেষে '-ious' যুক্ত করে Adjective 'Industrious' (পরিশ্রমী) তৈরি হয়।"
+  },
+  {
+    "id": 162,
+    "question": "What is the Verb form of the Adjective 'Quick'?",
+    "options": ["Quickly", "Quickness", "Quick", "Quicken"],
+    "answer": "Quicken",
+    "explanation": "'Quick' (দ্রুত) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Quicken' (দ্রুততর করা) গঠিত হয়।"
+  },
+  {
+    "id": 163,
+    "question": "The Verb form of the Adjective 'Short' is",
+    "options": ["Shorten", "Short", "Shortly", "Shortness"],
+    "answer": "Shorten",
+    "explanation": "'Short' (ছোট বা সংক্ষিপ্ত) Adjective-এর শেষে '-en' যুক্ত করে Verb 'Shorten' (ছোট করা) গঠিত হয়।"
+  },
+  {
+    "id": 164,
+    "question": "What is the Noun form of the Verb 'Describe'?",
+    "options": ["Describing", "Description", "Described", "Descriptive"],
+    "answer": "Description",
+    "explanation": "'Describe' (বর্ণনা করা) Verb-এর Noun ফর্ম হলো 'Description' (বর্ণনা)। এটি একটি গুরুত্বপূর্ণ বানান পরিবর্তন।"
+  },
+  {
+    "id": 165,
+    "question": "Choose the Noun form of the Verb 'Destroy'.",
+    "options": ["Destroyer", "Destroying", "Destruction", "Destroy"],
+    "answer": "Destruction",
+    "explanation": "'Destroy' (ধ্বংস করা) Verb-এর Abstract Noun ফর্ম সম্পূর্ণ আলাদা, সেটি হলো 'Destruction' (ধ্বংস)।"
+  },
+  {
+    "id": 166,
+    "question": "What is the Noun form of the Verb 'Enter'?",
+    "options": ["Entering", "Enter", "Entered", "Entrance"],
+    "answer": "Entrance",
+    "explanation": "'Enter' (প্রবেশ করা) Verb-এর শেষে '-ance' যুক্ত করে Noun 'Entrance' (প্রবেশদ্বার বা প্রবেশ) গঠিত হয়।"
+  },
+  {
+    "id": 167,
+    "question": "Find the Noun form of the Verb 'Tolerate'.",
+    "options": ["Tolerance", "Tolerating", "Tolerated", "Tolerant"],
+    "answer": "Tolerance",
+    "explanation": "'Tolerate' (সহ্য করা) Verb-এর শেষে '-ance' যুক্ত করে Abstract Noun 'Tolerance' (সহনশীলতা) গঠিত হয়।"
+  },
+  {
+    "id": 168,
+    "question": "The Noun form of the Verb 'Differ' is",
+    "options": ["Different", "Difference", "Differing", "Differ"],
+    "answer": "Difference",
+    "explanation": "'Differ' (ভিন্ন হওয়া) Verb-এর শেষে '-ence' যুক্ত করে Noun 'Difference' (পার্থক্য) তৈরি হয়।"
+  },
+  {
+    "id": 169,
+    "question": "What is the Noun form of the Adjective 'Ignorant'?",
+    "options": ["Ignore", "Ignoring", "Ignorance", "Ignorantly"],
+    "answer": "Ignorance",
+    "explanation": "'Ignorant' (অজ্ঞ) Adjective-এর শেষের 't' বাদ দিয়ে '-ce' যুক্ত করে Abstract Noun 'Ignorance' (অজ্ঞতা) গঠিত হয়।"
+  },
+  {
+    "id": 170,
+    "question": "Choose the Noun form of the Adjective 'Popular'.",
+    "options": ["Popularly", "Populate", "Population", "Popularity"],
+    "answer": "Popularity",
+    "explanation": "'Popular' (জনপ্রিয়) Adjective-এর শেষে '-ity' যুক্ত করে Abstract Noun 'Popularity' (জনপ্রিয়তা) গঠিত হয়।"
+  },
+  {
+    "id": 171,
+    "question": "What is the Noun form of the Adjective 'Stupid'?",
+    "options": ["Stupidity", "Stupidly", "Stupidness", "Stupids"],
+    "answer": "Stupidity",
+    "explanation": "'Stupid' (বোকা) Adjective-এর শেষে '-ity' যুক্ত করে Abstract Noun 'Stupidity' (বোকামি) গঠিত হয়।"
+  },
+  {
+    "id": 172,
+    "question": "Find the Verb form of the Adjective 'Civil'.",
+    "options": ["Civil", "Civilize", "Civility", "Civilization"],
+    "answer": "Civilize",
+    "explanation": "'Civil' (সভ্য) Adjective-এর শেষে '-ize' যুক্ত করে Verb 'Civilize' (সভ্য করা) গঠিত হয়।"
+  },
+  {
+    "id": 173,
+    "question": "What is the Verb form of the Adjective 'Real'?",
+    "options": ["Reality", "Really", "Realize", "Realness"],
+    "answer": "Realize",
+    "explanation": "'Real' (বাস্তব) Adjective-এর শেষে '-ize' যুক্ত করে Verb 'Realize' (বাস্তবায়ন করা বা বুঝতে পারা) গঠিত হয়।"
+  },
+  {
+    "id": 174,
+    "question": "Choose the Adjective form of the Noun 'Fruit'.",
+    "options": ["Fruity", "Fruition", "Fruit", "Fruitful"],
+    "answer": "Fruitful",
+    "explanation": "'Fruit' (ফল) Noun-এর শেষে '-ful' যুক্ত করে Adjective 'Fruitful' (ফলপ্রসূ) গঠিত হয়।"
+  },
+  {
+    "id": 175,
+    "question": "The Adjective form of the Noun 'Earth' is",
+    "options": ["Earthly", "Earthen", "Earth", "Earthing"],
+    "answer": "Earthly",
+    "explanation": "'Earth' (পৃথিবী) Noun-এর শেষে '-ly' যুক্ত করে Adjective 'Earthly' (পার্থিব) গঠিত হয়। ('Earthen' মানে মাটির তৈরি)।"
+  },
+  {
+    "id": 176,
+    "question": "What is the Verb form of the Noun 'Origin'?",
+    "options": ["Original", "Originate", "Originally", "Origin"],
+    "answer": "Originate",
+    "explanation": "'Origin' (উৎস) Noun-এর শেষে '-ate' যুক্ত করে Verb 'Originate' (উৎপন্ন হওয়া) তৈরি হয়।"
+  },
+  {
+    "id": 177,
+    "question": "Find the Adjective form of the Noun 'Custom'.",
+    "options": ["Customs", "Customer", "Customary", "Customing"],
+    "answer": "Customary",
+    "explanation": "'Custom' (প্রথা) Noun-এর শেষে '-ary' যুক্ত করে Adjective 'Customary' (প্রথাগত) গঠিত হয়।"
+  },
+  {
+    "id": 178,
+    "question": "What is the Adjective form of the Noun 'Air'?",
+    "options": ["Airing", "Air", "Aired", "Airy"],
+    "answer": "Airy",
+    "explanation": "'Air' (হাওয়া) Noun-এর শেষে '-y' যুক্ত করে Adjective 'Airy' (হাওয়াযুক্ত বা খোলামেলা) গঠিত হয়।"
+  },
+  {
+    "id": 179,
+    "question": "Choose the Noun form of the Verb 'Offend'.",
+    "options": ["Offence", "Offending", "Offended", "Offensive"],
+    "answer": "Offence",
+    "explanation": "'Offend' (অপরাধ করা বা আঘাত দেওয়া) Verb-এর Noun ফর্ম হলো 'Offence' (অপরাধ)।"
+  },
+  {
+    "id": 180,
+    "question": "The Noun form of the Verb 'Receive' is",
+    "options": ["Receiver", "Receipt", "Receiving", "Received"],
+    "answer": "Receipt",
+    "explanation": "'Receive' (গ্রহণ করা) Verb-এর Noun ফর্ম হলো 'Receipt' (প্রাপ্তি বা রসিদ)। এটি খুবই গুরুত্বপূর্ণ একটি শব্দ।"
+  },
+  {
+    "id": 181,
+    "question": "What is the Noun form of the Verb 'Relieve'?",
+    "options": ["Relieving", "Relieved", "Relief", "Reliever"],
+    "answer": "Relief",
+    "explanation": "'Relieve' (উপশম করা) Verb-এর Noun ফর্ম সম্পূর্ণ আলাদা, সেটি হলো 'Relief' (উপশম বা মুক্তি)।"
+  },
+  {
+    "id": 182,
+    "question": "Find the Noun form of the Verb 'Assume'.",
+    "options": ["Assuming", "Assumed", "Assumer", "Assumption"],
+    "answer": "Assumption",
+    "explanation": "'Assume' (মেনে নেওয়া বা অনুমান করা) Verb-এর শেষে '-ption' যুক্ত করে Noun 'Assumption' (অনুমান) গঠিত হয়।"
+  },
+  {
+    "id": 183,
+    "question": "What is the Noun form of the Verb 'Compel'?",
+    "options": ["Compulsion", "Compelling", "Compelled", "Compulsive"],
+    "answer": "Compulsion",
+    "explanation": "'Compel' (বাধ্য করা) Verb-এর Abstract Noun ফর্ম হলো 'Compulsion' (বাধ্যবাধকতা)।"
+  },
+  {
+    "id": 184,
+    "question": "Choose the Noun form of the Verb 'Provide'.",
+    "options": ["Provider", "Provision", "Providing", "Provided"],
+    "answer": "Provision",
+    "explanation": "'Provide' (সরবরাহ করা) Verb-এর Noun ফর্ম হলো 'Provision' (সরবরাহ বা ব্যবস্থা)।"
+  },
+  {
+    "id": 185,
+    "question": "The Adjective form of the Noun 'Base' is",
+    "options": ["Basement", "Base", "Basic", "Basely"],
+    "answer": "Basic",
+    "explanation": "'Base' (ভিত্তি) Noun-এর শেষে '-ic' যুক্ত করে Adjective 'Basic' (মৌলিক) গঠিত হয়।"
+  },
+  {
+    "id": 186,
+    "question": "What is the Verb form of the Noun 'Class'?",
+    "options": ["Classic", "Class", "Classy", "Classify"],
+    "answer": "Classify",
+    "explanation": "'Class' (শ্রেণী) Noun-এর শেষে '-ify' যুক্ত করে Verb 'Classify' (শ্রেণীবদ্ধ করা) গঠিত হয়।"
+  },
+  {
+    "id": 187,
+    "question": "Find the Verb form of the Adjective 'Simple'.",
+    "options": ["Simplify", "Simplicity", "Simply", "Simpleness"],
+    "answer": "Simplify",
+    "explanation": "'Simple' (সহজ) Adjective-এর শেষে '-ify' যুক্ত করে Verb 'Simplify' (সহজ করা) গঠিত হয়।"
+  },
+  {
+    "id": 188,
+    "question": "What is the Verb form of the Adjective 'False'?",
+    "options": ["Falsehood", "Falsify", "Falsely", "Falseness"],
+    "answer": "Falsify",
+    "explanation": "'False' (মিথ্যা) Adjective-এর শেষে '-ify' যুক্ত করে Verb 'Falsify' (মিথ্যা প্রমাণ করা বা জালিয়াতি করা) গঠিত হয়।"
+  },
+  {
+    "id": 189,
+    "question": "Choose the Adjective form of the Noun 'Person'.",
+    "options": ["Personality", "Personify", "Personal", "Personally"],
+    "answer": "Personal",
+    "explanation": "'Person' (ব্যক্তি) Noun-এর শেষে '-al' যুক্ত করে Adjective 'Personal' (ব্যক্তিগত) তৈরি হয়।"
+  },
+  {
+    "id": 190,
+    "question": "The Noun form of the Verb 'Signify' is",
+    "options": ["Significant", "Signifying", "Signified", "Significance"],
+    "answer": "Significance",
+    "explanation": "'Signify' (তাৎপর্যপূর্ণ হওয়া) Verb-এর Noun ফর্ম হলো 'Significance' (তাৎপর্য)।"
+  },
+  {
+    "id": 191,
+    "question": "What is the Noun form of the Verb 'Marry'?",
+    "options": ["Marriage", "Marrying", "Married", "Marital"],
+    "answer": "Marriage",
+    "explanation": "'Marry' (বিবাহ করা) Verb-এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-age' যুক্ত হয়ে Noun 'Marriage' (বিবাহ) গঠিত হয়।"
+  },
+  {
+    "id": 192,
+    "question": "Find the Noun form of the Verb 'Carry'.",
+    "options": ["Carrier", "Carriage", "Carrying", "Carried"],
+    "answer": "Carriage",
+    "explanation": "'Carry' (বহন করা) Verb-এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-age' যুক্ত হয়ে Noun 'Carriage' (বহন বা গাড়ি) গঠিত হয়।"
+  },
+  {
+    "id": 193,
+    "question": "What is the Noun form of the Verb 'Vary'?",
+    "options": ["Variable", "Various", "Variety", "Varying"],
+    "answer": "Variety",
+    "explanation": "'Vary' (পরিবর্তন বা ভিন্ন হওয়া) Verb-এর Noun ফর্ম হলো 'Variety' (বৈচিত্র্য)।"
+  },
+  {
+    "id": 194,
+    "question": "Choose the Noun form of the Verb 'Discover'.",
+    "options": ["Discoverer", "Discovering", "Discovered", "Discovery"],
+    "answer": "Discovery",
+    "explanation": "'Discover' (আবিষ্কার করা) Verb-এর শেষে '-y' যুক্ত করে Abstract Noun 'Discovery' (আবিষ্কার) গঠিত হয়।"
+  },
+  {
+    "id": 195,
+    "question": "The Noun form of the Adjective 'Sane' is",
+    "options": ["Sanity", "Sanely", "Saneness", "Sane"],
+    "answer": "Sanity",
+    "explanation": "'Sane' (মানসিকভাবে সুস্থ) Adjective-এর শেষে '-ity' যুক্ত করে Abstract Noun 'Sanity' (মানসিক সুস্থতা) গঠিত হয়।"
+  },
+  {
+    "id": 196,
+    "question": "What is the Noun form of the Adjective 'Vain'?",
+    "options": ["Vainly", "Vanity", "Vainness", "Vain"],
+    "answer": "Vanity",
+    "explanation": "'Vain' (অহংকারী বা বৃথা) Adjective-এর Noun ফর্ম হলো 'Vanity' (অহংকার বা অসারতা)। এটি অত্যন্ত গুরুত্বপূর্ণ শব্দ।"
+  },
+  {
+    "id": 197,
+    "question": "Find the Noun form of the Verb 'Accept'.",
+    "options": ["Acceptance", "Accepting", "Accepted", "Acceptable"],
+    "answer": "Acceptance",
+    "explanation": "'Accept' (গ্রহণ করা) Verb-এর শেষে '-ance' যুক্ত করে Noun 'Acceptance' (গ্রহণযোগ্যতা বা সম্মতি) গঠিত হয়।"
+  },
+  {
+    "id": 198,
+    "question": "Choose the Adjective form of the Noun 'Fool'.",
+    "options": ["Befool", "Foolish", "Foolery", "Fooling"],
+    "answer": "Foolish",
+    "explanation": "'Fool' (বোকা) Noun-এর শেষে '-ish' যুক্ত করে Adjective 'Foolish' (বোকামি-পূর্ণ) তৈরি হয়।"
+  },
+  {
+    "id": 199,
+    "question": "What is the Noun form of the Verb 'Approve'?",
+    "options": ["Approval", "Approving", "Approved", "Approvement"],
+    "answer": "Approval",
+    "explanation": "'Approve' (অনুমোদন করা) Verb-এর শেষে '-al' যুক্ত করে Noun 'Approval' (অনুমোদন) গঠিত হয়।"
+  },
+  {
+    "id": 200,
+    "question": "The Noun form of the Verb 'Bury' is",
+    "options": ["Buried", "Burial", "Burying", "Burier"],
+    "answer": "Burial",
+    "explanation": "'Bury' (কবর দেওয়া) Verb-এর শেষের 'y' পরিবর্তিত হয়ে 'i' বসে এবং '-al' যুক্ত হয়ে Noun 'Burial' (কবর বা সমাধি) গঠিত হয়।"
+  }
+]

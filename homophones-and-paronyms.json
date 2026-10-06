@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank:<br>The ______ of the college is very strict.",
+    "options": ["Principal", "Principle", "Prince", "Principally"],
+    "answer": "Principal",
+    "explanation": "'Principal' মানে কলেজের অধ্যক্ষ বা প্রধান, আর 'Principle' মানে নিয়ম বা নীতি। এখানে কলেজের অধ্যক্ষকে বোঝানো হচ্ছে, তাই 'Principal' সঠিক।"
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank:<br>The new education policy will have a positive ______ on the students.",
+    "options": ["affect", "effect", "affecting", "effection"],
+    "answer": "effect",
+    "explanation": "'Effect' হলো Noun, যার অর্থ প্রভাব বা ফল। আর 'Affect' হলো Verb, যার অর্থ প্রভাব ফেলা। এখানে Noun বসবে, তাই 'effect' সঠিক।"
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank:<br>Everyone attended the meeting ______ John.",
+    "options": ["accept", "expect", "except", "aspect"],
+    "answer": "except",
+    "explanation": "'Except' মানে ব্যতীত বা ছাড়া। 'Accept' মানে গ্রহণ করা। জন 'ছাড়া' বাকি সবাই মিটিংয়ে এসেছিল, তাই 'except' হবে।"
+  },
+  {
+    "id": 4,
+    "question": "Fill in the blank:<br>I went to the store to buy some ______ for the office.",
+    "options": ["stationary", "stationeries", "stationery's", "stationery"],
+    "answer": "stationery",
+    "explanation": "'Stationery' (শেষে 'ery') মানে খাতা, পেন বা লেখার সামগ্রী। 'Stationary' (শেষে 'ary') মানে স্থির। অফিসে ব্যবহারের জন্য লেখার সামগ্রী কেনা হয়।"
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank:<br>The dog wagged ______ tail happily.",
+    "options": ["its", "it's", "its'", "it"],
+    "answer": "its",
+    "explanation": "'Its' হলো Possessive Pronoun যার অর্থ 'ইহার' বা 'তার'। আর 'It's' মানে 'It is'। এখানে কুকুরের লেজ বোঝাতে 'its' বসবে।"
+  },
+  {
+    "id": 6,
+    "question": "Fill in the blank:<br>Do not eat sugar in ______.",
+    "options": ["access", "excess", "assess", "axis"],
+    "answer": "excess",
+    "explanation": "'Excess' মানে অতিরিক্ত বা আধিক্য। 'Access' মানে প্রবেশাধিকার। অতিরিক্ত চিনি খাওয়া উচিত নয়, তাই 'excess' সঠিক।"
+  },
+  {
+    "id": 7,
+    "question": "Fill in the blank:<br>He is very ______ at playing the guitar.",
+    "options": ["adapt", "adopt", "adept", "admit"],
+    "answer": "adept",
+    "explanation": "'Adept' (e দিয়ে) মানে পারদর্শী বা দক্ষ। 'Adapt' (a দিয়ে) মানে খাপ খাওয়ানো এবং 'Adopt' (o দিয়ে) মানে দত্তক নেওয়া।"
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank:<br>My teacher gave me a good piece of ______.",
+    "options": ["advise", "advises", "advicing", "advice"],
+    "answer": "advice",
+    "explanation": "'Advice' (c দিয়ে) হলো Noun, যার অর্থ উপদেশ। 'Advise' (s দিয়ে) হলো Verb, যার অর্থ উপদেশ দেওয়া। এখানে Noun হিসেবে 'advice' বসবে।"
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank:<br>Do not walk ______-footed on the hot sand.",
+    "options": ["bare", "bear", "beer", "bore"],
+    "answer": "bare",
+    "explanation": "'Bare' মানে খালি বা অনাবৃত (যেমন- খালি পা বা bare-footed)। 'Bear' মানে সহ্য করা বা ভল্লুক।"
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank:<br>You should not ______ the traffic rules.",
+    "options": ["brake", "break", "bark", "broak"],
+    "answer": "break",
+    "explanation": "'Break' মানে ভাঙা বা নিয়ম অমান্য করা। 'Brake' মানে গাড়ির ব্রেক বা গতি কমানো।"
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank:<br>The political leader started to ______ for votes in the village.",
+    "options": ["canvas", "canvassing", "canvass", "canvasses"],
+    "answer": "canvass",
+    "explanation": "'Canvass' (ডবল s) মানে ভোট বা সমর্থন চাওয়া। 'Canvas' (সিঙ্গেল s) মানে তাঁবু বা ছবি আঁকার মোটা কাপড়।"
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank:<br>He was wearing a ______ shirt.",
+    "options": ["lose", "loss", "lost", "loose"],
+    "answer": "loose",
+    "explanation": "'Loose' মানে ঢিলেঢালা বা আলগা। 'Lose' মানে হারিয়ে ফেলা। ঢিলেঢালা শার্ট বোঝাতে 'loose' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank:<br>A fine wine is a perfect ______ to a good meal.",
+    "options": ["complement", "compliment", "complimenting", "comply"],
+    "answer": "complement",
+    "explanation": "'Complement' (e দিয়ে) মানে পরিপূরক (যা অন্য কিছুকে সম্পূর্ণ করে)। 'Compliment' (i দিয়ে) মানে প্রশংসা করা।"
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank:<br>The king sought the ______ of his wise ministers.",
+    "options": ["council", "counsel", "consul", "cancel"],
+    "answer": "counsel",
+    "explanation": "'Counsel' মানে পরামর্শ বা উপদেশ। 'Council' মানে পরিষদ বা সমিতি। রাজা মন্ত্রীদের পরামর্শ চাইছিলেন, তাই 'counsel' সঠিক।"
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank:<br>She writes in her ______ every night.",
+    "options": ["dairy", "deary", "diary", "daisy"],
+    "answer": "diary",
+    "explanation": "'Diary' মানে দিনলিপি (যেখানে রোজকার কথা লেখা হয়)। 'Dairy' মানে দুগ্ধশালা। তাই 'diary' সঠিক উত্তর।"
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank:<br>His handwriting is completely ______.",
+    "options": ["eligible", "legible", "illogical", "illegible"],
+    "answer": "illegible",
+    "explanation": "'Illegible' মানে যা পড়া যায় না বা অস্পষ্ট। 'Eligible' মানে কোনো কিছুর জন্য যোগ্য হওয়া।"
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank:<br>A person who leaves his own country to settle in another is an ______.",
+    "options": ["emigrant", "immigrant", "migrant", "alien"],
+    "answer": "emigrant",
+    "explanation": "যে নিজের দেশ ছেড়ে অন্য দেশে গিয়ে বসবাস করে তাকে 'Emigrant' (দেশত্যাগী) বলে। আর যে অন্য দেশ থেকে নিজের দেশে আসে তাকে 'Immigrant' বলে।"
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank:<br>She has a natural ______ for interior design.",
+    "options": ["flare", "flair", "flaw", "flier"],
+    "answer": "flair",
+    "explanation": "'Flair' মানে জন্মগত বা স্বাভাবিক দক্ষতা (Natural Talent)। 'Flare' মানে আগুনের শিখা জ্বলে ওঠা।"
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank:<br>During the pandemic, people started to ______ food.",
+    "options": ["horde", "herd", "hoard", "hard"],
+    "answer": "hoard",
+    "explanation": "'Hoard' মানে ভবিষ্যতের জন্য কোনো কিছু মজুত করা। 'Horde' মানে মানুষের বিশাল দল বা ভিড়।"
+  },
+  {
+    "id": 20,
+    "question": "Fill in the blank:<br>Of the two options, I prefer the ______.",
+    "options": ["later", "letter", "lately", "latter"],
+    "answer": "latter",
+    "explanation": "'Latter' মানে দুজনের বা দুটির মধ্যে শেষেরটি বা পরবর্তীটি। 'Later' মানে সময়ের দিক থেকে পরে।"
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank:<br>The old tree was struck by ______.",
+    "options": ["lightning", "lightening", "lighting", "lighten"],
+    "answer": "lightning",
+    "explanation": "'Lightning' মানে আকাশে বিদ্যুতের চমক বা বজ্রপাত। 'Lightening' (e দিয়ে) মানে ভার কমানো বা হালকা করা।"
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank:<br>We all desire world ______.",
+    "options": ["piece", "peace", "pace", "peas"],
+    "answer": "peace",
+    "explanation": "'Peace' মানে শান্তি। 'Piece' মানে কোনো কিছুর টুকরো বা অংশ। বিশ্বশান্তি বোঝাতে 'world peace' হয়।"
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank:<br>The hungry lion is looking for its ______.",
+    "options": ["pray", "pry", "prey", "play"],
+    "answer": "prey",
+    "explanation": "'Prey' (e দিয়ে) মানে শিকার। 'Pray' (a দিয়ে) মানে প্রার্থনা করা। সিংহ তার শিকার খুঁজছে।"
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank:<br>Which ______ should we take to reach the railway station?",
+    "options": ["root", "rout", "riot", "route"],
+    "answer": "route",
+    "explanation": "'Route' (রুট) মানে যাওয়ার রাস্তা বা পথ। 'Root' (রুট) মানে গাছের শেকড়।"
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank:<br>The eagle began to ______ high in the sky.",
+    "options": ["soar", "sore", "sour", "shore"],
+    "answer": "soar",
+    "explanation": "'Soar' মানে উঁচুতে ওড়া। 'Sore' মানে ব্যথা বা ক্ষতস্থান। আকাশে ওড়া বোঝাতে 'soar' বসবে।"
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank:<br>The sun is ______ while the earth moves around it.",
+    "options": ["stationery", "stationary", "stationing", "statue"],
+    "answer": "stationary",
+    "explanation": "'Stationary' (ary) মানে স্থির বা নিশ্চল। 'Stationery' (ery) মানে লেখার খাতা-পেন।"
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank:<br>I do not know ______ he will come or not.",
+    "options": ["weather", "wether", "whether", "whither"],
+    "answer": "whether",
+    "explanation": "'Whether' মানে 'কিনা' (যেমন: সে আসবে কিনা)। 'Weather' মানে আবহাওয়া।"
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank:<br>He paid the electricity bill by ______.",
+    "options": ["check", "chick", "chuck", "cheque"],
+    "answer": "cheque",
+    "explanation": "'Cheque' মানে ব্যাঙ্কের চেক যা দিয়ে টাকা লেনদেন করা হয়। 'Check' মানে পরীক্ষা করা বা মিলিয়ে দেখা।"
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank:<br>You cannot ______ your date of birth now.",
+    "options": ["alter", "altar", "alert", "allot"],
+    "answer": "alter",
+    "explanation": "'Alter' (er দিয়ে) মানে পরিবর্তন করা। 'Altar' (ar দিয়ে) মানে মন্দিরের বা গির্জার বেদিকা যেখানে পুজো দেওয়া হয়।"
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank:<br>The ______ to the mountain peak was very steep.",
+    "options": ["assent", "ascent", "accent", "ascend"],
+    "answer": "ascent",
+    "explanation": "'Ascent' মানে আরোহণ করা বা ওপরে ওঠা। 'Assent' মানে সম্মতি বা মত দেওয়া।"
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank:<br>The criminal was finally released on ______.",
+    "options": ["bale", "bell", "bail", "bael"],
+    "answer": "bail",
+    "explanation": "'Bail' মানে আদালত থেকে পাওয়া জামিন। 'Bale' মানে তুলো বা পাটের গাঁট।"
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank:<br>The fabric of this shirt is very ______.",
+    "options": ["course", "curse", "choir", "coarse"],
+    "answer": "coarse",
+    "explanation": "'Coarse' মানে খসখসে বা অমসৃণ। 'Course' মানে পাঠ্যক্রম বা চলার পথ। শার্টের কাপড় খসখসে বোঝাতে 'coarse' বসবে।"
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank:<br>The engineer visited the construction ______.",
+    "options": ["site", "cite", "sight", "side"],
+    "answer": "site",
+    "explanation": "'Site' মানে কাজের স্থান বা জায়গা। 'Sight' মানে দৃষ্টি বা দৃশ্য। 'Cite' মানে উল্লেখ করা।"
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank:<br>Do not ______ off during the English class.",
+    "options": ["dose", "doze", "daze", "docs"],
+    "answer": "doze",
+    "explanation": "'Doze' মানে ঝিমানো বা ঘুমিয়ে পড়া (Doze off)। 'Dose' মানে ওষুধের মাত্রা।"
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank:<br>He was arrested for selling ______ liquor.",
+    "options": ["elicit", "explicit", "illicit", "implicit"],
+    "answer": "illicit",
+    "explanation": "'Illicit' মানে বেআইনি বা অবৈধ (অবৈধ মদ)। 'Elicit' মানে কারো কাছ থেকে কোনো কথা বা তথ্য বের করে আনা।"
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank:<br>What is the bus ______ from here to Kolkata?",
+    "options": ["fair", "fear", "fire", "fare"],
+    "answer": "fare",
+    "explanation": "'Fare' মানে বাস, ট্রেন বা যাতায়াতের ভাড়া। 'Fair' মানে মেলা বা ফর্সা/ন্যায্য।"
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank:<br>Time will ______ all your wounds.",
+    "options": ["heal", "heel", "hill", "hail"],
+    "answer": "heal",
+    "explanation": "'Heal' মানে ক্ষতস্থান নিরাময় হওয়া বা সেরে ওঠা। 'Heel' মানে পায়ের গোড়ালি।"
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank:<br>Swami Vivekananda is an ______ for the youth.",
+    "options": ["idol", "ideal", "idle", "idyll"],
+    "answer": "ideal",
+    "explanation": "'Ideal' মানে আদর্শ। 'Idol' মানে প্রতিমা বা মূর্তি। 'Idle' মানে অলস।"
+  },
+  {
+    "id": 39,
+    "question": "Fill in the blank:<br>You should check your body ______ regularly.",
+    "options": ["wait", "wheat", "weight", "white"],
+    "answer": "weight",
+    "explanation": "'Weight' মানে দেহের ওজন। 'Wait' মানে অপেক্ষা করা।"
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank:<br>Please ______ some hot tea into the cup.",
+    "options": ["pore", "poor", "pure", "pour"],
+    "answer": "pour",
+    "explanation": "'Pour' (p-o-u-r) মানে কোনো তরল ঢালা। 'Pore' (p-o-r-e) মানে ত্বকের ছিদ্র।"
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank:<br>The library was completely ______.",
+    "options": ["quiet", "quite", "quit", "quote"],
+    "answer": "quiet",
+    "explanation": "'Quiet' (q-u-i-e-t) মানে শান্ত বা নিস্তব্ধ। 'Quite' (q-u-i-t-e) মানে সম্পূর্ণ বা বেশ।"
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank:<br>Hindus perform the last ______s of the dead near the river.",
+    "options": ["rights", "rites", "writes", "riots"],
+    "answer": "rites",
+    "explanation": "'Rites' মানে ধর্মীয় প্রথা বা আচার (যেমন শেষকৃত্য বা last rites)। 'Rights' মানে অধিকার।"
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank:<br>The new shopping mall has ten ______s.",
+    "options": ["stories", "storages", "storeys", "starrys"],
+    "answer": "storeys",
+    "explanation": "'Storey' মানে ভবনের তলা, যার বহুবচন হলো 'Storeys'। 'Story' মানে গল্প, যার বহুবচন 'Stories'।"
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank:<br>He is the ______ owner of this huge property.",
+    "options": ["soul", "solve", "sell", "sole"],
+    "answer": "sole",
+    "explanation": "'Sole' মানে একমাত্র বা অদ্বিতীয়। 'Soul' মানে আত্মা বা প্রাণ।"
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank:<br>All his efforts to pass the exam went in ______.",
+    "options": ["vain", "vein", "vane", "ban"],
+    "answer": "vain",
+    "explanation": "'Vain' মানে বৃথা বা ব্যর্থ হওয়া (in vain)। 'Vein' মানে শরীরের শিরা।"
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank:<br>He was too ______ to walk after the fever.",
+    "options": ["week", "weak", "wake", "wick"],
+    "answer": "weak",
+    "explanation": "'Weak' (e-a) মানে দুর্বল। 'Week' (e-e) মানে সপ্তাহ।"
+  },
+  {
+    "id": 47,
+    "question": "Fill in the blank:<br>My grandmother told me a beautiful fairy ______.",
+    "options": ["tail", "tell", "tale", "tall"],
+    "answer": "tale",
+    "explanation": "'Tale' মানে গল্প বা কাহিনী (fairy tale)। 'Tail' মানে প্রাণীর লেজ।"
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank:<br>This sharp knife is made of stainless ______.",
+    "options": ["steal", "still", "style", "steel"],
+    "answer": "steel",
+    "explanation": "'Steel' (e-e) মানে ইস্পাত বা লোহা জাতীয় ধাতু। 'Steal' (e-a) মানে চুরি করা।"
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank:<br>The shoe shop announced a 50% discount ______.",
+    "options": ["sale", "sail", "cell", "shell"],
+    "answer": "sale",
+    "explanation": "'Sale' মানে বিক্রয় বা ছাড় দেওয়া। 'Sail' মানে নৌকার পাল তোলা।"
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank:<br>The Indian army completely ______ed the enemy forces.",
+    "options": ["route", "routed", "root", "riot"],
+    "answer": "routed",
+    "explanation": "'Rout' (rout) মানে সম্পূর্ণরূপে পরাস্ত করা বা ছত্রভঙ্গ করে দেওয়া। 'Route' মানে পথ বা রাস্তা।"
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank:<br>The teacher read the story ______ to the class.",
+    "options": ["aloud", "allowed", "allied", "allude"],
+    "answer": "aloud",
+    "explanation": "'Aloud' মানে জোরে জোরে পড়া যাতে অন্যরা শুনতে পায়। 'Allowed' মানে অনুমতি দেওয়া। তাই এখানে 'aloud' সঠিক।"
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank:<br>I have reserved a lower ______ in the train.",
+    "options": ["berth", "birth", "borth", "bathe"],
+    "answer": "berth",
+    "explanation": "'Berth' মানে ট্রেন বা জাহাজের শোয়ার জায়গা। 'Birth' মানে জন্ম। ট্রেনের সিট বোঝাতে 'berth' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank:<br>The bride looked beautiful in her ______ dress.",
+    "options": ["bridal", "bridle", "bridel", "braid"],
+    "answer": "bridal",
+    "explanation": "'Bridal' (a দিয়ে) মানে বিয়ের বা কনে সংক্রান্ত (Bridal dress)। 'Bridle' (e দিয়ে) মানে ঘোড়ার লাগাম।"
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank:<br>Please tie the parcel with a strong ______.",
+    "options": ["cord", "chord", "card", "chard"],
+    "answer": "cord",
+    "explanation": "'Cord' মানে মোটা সুতো বা দড়ি। 'Chord' মানে জ্যামিতির জ্যা অথবা বাদ্যযন্ত্রের তার।"
+  },
+  {
+    "id": 55,
+    "question": "Fill in the blank:<br>The hunter chased a ______ in the forest.",
+    "options": ["deer", "dear", "dare", "dire"],
+    "answer": "deer",
+    "explanation": "'Deer' মানে হরিণ। 'Dear' মানে প্রিয় বা মহার্ঘ। শিকারি হরিণ তাড়া করেছিল তাই 'deer' বসবে।"
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank:<br>The ______ from the mountain peak was dangerous.",
+    "options": ["descent", "dissent", "decent", "discent"],
+    "answer": "descent",
+    "explanation": "'Descent' মানে অবরোহণ বা নিচে নামা। 'Dissent' মানে মতভেদ বা বিরোধিতা করা। 'Decent' মানে ভদ্র বা মার্জিত।"
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank:<br>She wants to ______ her hair black.",
+    "options": ["dye", "die", "dry", "day"],
+    "answer": "dye",
+    "explanation": "'Dye' মানে রং করা। 'Die' মানে মারা যাওয়া। চুলে রং করার ক্ষেত্রে 'dye' শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank:<br>The two knights fought a ______ for the princess.",
+    "options": ["duel", "dual", "dull", "doll"],
+    "answer": "duel",
+    "explanation": "'Duel' (e দিয়ে) মানে দুজনের মধ্যে যুদ্ধ বা দ্বন্দ্বযুদ্ধ। 'Dual' (a দিয়ে) মানে দ্বৈত বা দুটি (যেমন Dual SIM)।"
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank:<br>Dr. APJ Abdul Kalam was an ______ scientist.",
+    "options": ["eminent", "imminent", "emanant", "ament"],
+    "answer": "eminent",
+    "explanation": "'Eminent' মানে বিখ্যাত বা স্বনামধন্য। 'Imminent' মানে আসন্ন (যা শিঘ্রই ঘটতে চলেছে)।"
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank:<br>The dark clouds show that rain is ______.",
+    "options": ["imminent", "eminent", "permanent", "prominent"],
+    "answer": "imminent",
+    "explanation": "'Imminent' মানে আসন্ন বা যা এখনই ঘটতে চলেছে। মেঘ দেখে মনে হচ্ছে বৃষ্টি আসন্ন।"
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank:<br>The old man walks with a limping ______.",
+    "options": ["gait", "gate", "get", "goat"],
+    "answer": "gait",
+    "explanation": "'Gait' মানে হাঁটার ভঙ্গি বা চালচলন। 'Gate' মানে দরজা বা ফটক।"
+  },
+  {
+    "id": 62,
+    "question": "Fill in the blank:<br>You should not ______ with your hard-earned money.",
+    "options": ["gamble", "gambol", "gumble", "grumble"],
+    "answer": "gamble",
+    "explanation": "'Gamble' মানে জুয়া খেলা বা বাজি ধরা। 'Gambol' মানে আনন্দে লাফিয়ে বেড়ানো।"
+  },
+  {
+    "id": 63,
+    "question": "Fill in the blank:<br>The tortoise won the race against the ______.",
+    "options": ["hare", "hair", "hear", "heir"],
+    "answer": "hare",
+    "explanation": "'Hare' মানে খরগোশ। 'Hair' মানে চুল। কচ্ছপ ও খরগোশের বিখ্যাত গল্পের কথা বলা হয়েছে।"
+  },
+  {
+    "id": 64,
+    "question": "Fill in the blank:<br>The prince is the only ______ to the throne.",
+    "options": ["hair", "heir", "hare", "here"],
+    "answer": "heir",
+    "explanation": "'Heir' (উচ্চারণ: এয়ার) মানে উত্তরাধিকারী। 'Hair' মানে চুল। সিংহাসনের উত্তরাধিকারী বোঝাতে 'heir' বসবে।"
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank:<br>He ate the ______ apple in one bite.",
+    "options": ["hole", "whole", "howl", "hall"],
+    "answer": "whole",
+    "explanation": "'Whole' মানে সম্পূর্ণ বা গোটা। 'Hole' মানে গর্ত বা ছিদ্র।"
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank:<br>We should be ______ to animals.",
+    "options": ["human", "humane", "humor", "hymen"],
+    "answer": "humane",
+    "explanation": "'Humane' (e দিয়ে) মানে দয়ালু বা মানবিক। 'Human' মানে মানুষ।"
+  },
+  {
+    "id": 67,
+    "question": "Fill in the blank:<br>The ants are very ______ insects.",
+    "options": ["industrial", "industrious", "industry", "indigent"],
+    "answer": "industrious",
+    "explanation": "'Industrious' মানে পরিশ্রমী। 'Industrial' মানে শিল্প সংক্রান্ত। পিঁপড়েরা খুব পরিশ্রমী হয়।"
+  },
+  {
+    "id": 68,
+    "question": "Fill in the blank:<br>The missionary was very ______ in his work.",
+    "options": ["jealous", "zealous", "callous", "jello"],
+    "answer": "zealous",
+    "explanation": "'Zealous' (z দিয়ে) মানে প্রবল উৎসাহী বা কর্মঠ। 'Jealous' (j দিয়ে) মানে ঈর্ষান্বিত।"
+  },
+  {
+    "id": 69,
+    "question": "Fill in the blank:<br>You must make a ______ use of your savings.",
+    "options": ["judicial", "judicious", "judiciary", "justice"],
+    "answer": "judicious",
+    "explanation": "'Judicious' মানে বিচক্ষণ বা বুদ্ধিমান (জ্ঞানের সাথে ব্যবহার করা)। 'Judicial' মানে বিচার বিভাগীয়।"
+  },
+  {
+    "id": 70,
+    "question": "Fill in the blank:<br>The doctor gave him medicine to ______ the pain.",
+    "options": ["lesson", "lessen", "listen", "loose"],
+    "answer": "lessen",
+    "explanation": "'Lessen' (e দিয়ে) মানে কোনো কিছু কমানো বা হ্রাস করা। 'Lesson' (o দিয়ে) মানে শিক্ষা বা অধ্যায়।"
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank:<br>The ______ was trapped inside the coal pit.",
+    "options": ["minor", "miner", "meaner", "manor"],
+    "answer": "miner",
+    "explanation": "'Miner' (e দিয়ে) মানে খনি শ্রমিক। 'Minor' (o দিয়ে) মানে অপ্রাপ্তবয়স্ক বা গৌণ। খনির ভেতরে শ্রমিক আটকে ছিল।"
+  },
+  {
+    "id": 72,
+    "question": "Fill in the blank:<br>The victory boosted the ______ of the team.",
+    "options": ["moral", "morale", "mural", "mortal"],
+    "answer": "morale",
+    "explanation": "'Morale' (উচ্চারণ: মোরাল, শেষে e আছে) মানে মনের জোর বা আত্মবিশ্বাস। 'Moral' মানে নীতি বা নৈতিক।"
+  },
+  {
+    "id": 73,
+    "question": "Fill in the blank:<br>The country has a strong ______ fleet.",
+    "options": ["navel", "naval", "novel", "noble"],
+    "answer": "naval",
+    "explanation": "'Naval' (a দিয়ে) মানে নৌবাহিনী বা সমুদ্র সংক্রান্ত। 'Navel' (e দিয়ে) মানে নাভি।"
+  },
+  {
+    "id": 74,
+    "question": "Fill in the blank:<br>Nobody likes him because he is very ______.",
+    "options": ["official", "officious", "office", "officer"],
+    "answer": "officious",
+    "explanation": "'Officious' মানে যে বিনা প্রয়োজনে কর্তৃত্ব ফলায় বা গায়ে পড়ে উপদেশ দেয় (গায়ে-পড়া স্বভাব)। 'Official' মানে দাপ্তরিক বা সরকারি।"
+  },
+  {
+    "id": 75,
+    "question": "Fill in the blank:<br>Please fetch a ______ of water from the well.",
+    "options": ["pale", "pail", "pal", "peel"],
+    "answer": "pail",
+    "explanation": "'Pail' (i দিয়ে) মানে বালতি। 'Pale' (e দিয়ে) মানে ফ্যাকাশে বা ম্লান।"
+  },
+  {
+    "id": 76,
+    "question": "Fill in the blank:<br>The boy broke the window ______ with a cricket ball.",
+    "options": ["pain", "pane", "pen", "pan"],
+    "answer": "pane",
+    "explanation": "'Pane' মানে জানালার কাঁচ বা শার্শি। 'Pain' মানে ব্যথা বা কষ্ট।"
+  },
+  {
+    "id": 77,
+    "question": "Fill in the blank:<br>The police are on ______ at night.",
+    "options": ["petrol", "patrel", "patrol", "petrel"],
+    "answer": "patrol",
+    "explanation": "'Patrol' (a-o) মানে টহল দেওয়া বা পাহারা দেওয়া। 'Petrol' (e-o) মানে জ্বালানি তেল।"
+  },
+  {
+    "id": 78,
+    "question": "Fill in the blank:<br>Only authorized ______ can enter this server room.",
+    "options": ["personal", "person", "personnel", "parsons"],
+    "answer": "personnel",
+    "explanation": "'Personnel' (ডবল n) মানে কর্মী বা কর্মচারীবৃন্দ। 'Personal' মানে ব্যক্তিগত।"
+  },
+  {
+    "id": 79,
+    "question": "Fill in the blank:<br>India is a very ______ country.",
+    "options": ["popular", "populus", "populous", "population"],
+    "answer": "populous",
+    "explanation": "'Populous' মানে জনবহুল। 'Popular' মানে জনপ্রিয়। ভারত একটি জনবহুল দেশ, তাই 'populous' বেশি মানানসই।"
+  },
+  {
+    "id": 80,
+    "question": "Fill in the blank:<br>We need more ______ to win the match.",
+    "options": ["practise", "practical", "practice", "practiced"],
+    "answer": "practice",
+    "explanation": "'Practice' (c দিয়ে) হলো Noun, যার অর্থ অনুশীলন। এখানে বাক্যের গঠনে Noun প্রয়োজন, তাই 'practice' বসবে।"
+  },
+  {
+    "id": 81,
+    "question": "Fill in the blank:<br>You should ______ speaking English daily.",
+    "options": ["practice", "practical", "practise", "practically"],
+    "answer": "practise",
+    "explanation": "'Practise' (s দিয়ে) হলো Verb, যার অর্থ অনুশীলন করা। Should-এর পর Verb বসবে, তাই 'practise' সঠিক।"
+  },
+  {
+    "id": 82,
+    "question": "Fill in the blank:<br>After the break, let us ______ with the lesson.",
+    "options": ["precede", "recede", "proceed", "succeed"],
+    "answer": "proceed",
+    "explanation": "'Proceed' মানে সামনে এগিয়ে চলা বা চালিয়ে যাওয়া। 'Precede' মানে কোনো কিছুর আগে আসা।"
+  },
+  {
+    "id": 83,
+    "question": "Fill in the blank:<br>The government has decided to ______ the sale of gutkha.",
+    "options": ["prescribe", "describe", "proscribe", "subscribe"],
+    "answer": "proscribe",
+    "explanation": "'Proscribe' মানে নিষিদ্ধ করা বা বর্জন করা। 'Prescribe' মানে ডাক্তার যেমন ওষুধ লিখে দেন বা নির্দেশ দেওয়া।"
+  },
+  {
+    "id": 84,
+    "question": "Fill in the blank:<br>The king had a long and peaceful ______.",
+    "options": ["rain", "rein", "reign", "ruin"],
+    "answer": "reign",
+    "explanation": "'Reign' (e-i-g-n) মানে রাজত্ব বা শাসনকাল। 'Rain' মানে বৃষ্টি এবং 'Rein' মানে ঘোড়ার লাগাম।"
+  },
+  {
+    "id": 85,
+    "question": "Fill in the blank:<br>The rider pulled the ______ to stop the horse.",
+    "options": ["rain", "reign", "rein", "ring"],
+    "answer": "rein",
+    "explanation": "'Rein' (r-e-i-n) মানে ঘোড়ার লাগাম। ঘোড়াকে থামাতে লাগাম টানা হয়।"
+  },
+  {
+    "id": 86,
+    "question": "Fill in the blank:<br>It was a ______ decision to save the money.",
+    "options": ["sensitive", "sensory", "sensible", "sensual"],
+    "answer": "sensible",
+    "explanation": "'Sensible' মানে বিচক্ষণ বা যুক্তিসঙ্গত (Good judgement)। 'Sensitive' মানে সংবেদনশীল।"
+  },
+  {
+    "id": 87,
+    "question": "Fill in the blank:<br>The farmers ______ the seeds in the rainy season.",
+    "options": ["sew", "saw", "sow", "show"],
+    "answer": "sow",
+    "explanation": "'Sow' (o দিয়ে) মানে বীজ বপন করা। 'Sew' (e দিয়ে) মানে সেলাই করা।"
+  },
+  {
+    "id": 88,
+    "question": "Fill in the blank:<br>The river was ______ing with fish.",
+    "options": ["team", "tam", "teem", "tame"],
+    "answer": "teem",
+    "explanation": "'Teem' (ডবল e) মানে পরিপূর্ণ থাকা বা গিজগিজ করা। 'Team' (e-a) মানে দল বা খেলোয়াড়দের গ্রুপ।"
+  },
+  {
+    "id": 89,
+    "question": "Fill in the blank:<br>He is a man of polished and ______ manners.",
+    "options": ["urban", "turban", "rural", "urbane"],
+    "answer": "urbane",
+    "explanation": "'Urbane' (e দিয়ে) মানে মার্জিত, সুসভ্য বা ভদ্র। 'Urban' (e ছাড়া) মানে শহুরে।"
+  },
+  {
+    "id": 90,
+    "question": "Fill in the blank:<br>The bank decided to ______ the processing fee for him.",
+    "options": ["wave", "weave", "wipe", "waive"],
+    "answer": "waive",
+    "explanation": "'Waive' (w-a-i-v-e) মানে মকুব করা বা ছেড়ে দেওয়া (যেমন- ফি মকুব করা)। 'Wave' মানে ঢেউ বা হাত নাড়া।"
+  },
+  {
+    "id": 91,
+    "question": "Fill in the blank:<br>The yellow part of an egg is called the ______.",
+    "options": ["yoke", "youth", "yell", "yolk"],
+    "answer": "yolk",
+    "explanation": "'Yolk' (l-k) মানে ডিমের কুসুম। 'Yoke' (k-e) মানে জোয়াল (যা বলদের ঘাড়ে দেওয়া হয়)।"
+  },
+  {
+    "id": 92,
+    "question": "Fill in the blank:<br>Who is sitting ______ you?",
+    "options": ["besides", "aside", "outside", "beside"],
+    "answer": "beside",
+    "explanation": "'Beside' (s ছাড়া) মানে পাশে (Next to)। 'Besides' (s দিয়ে) মানে এছাড়া বা ব্যতীত (In addition to)।"
+  },
+  {
+    "id": 93,
+    "question": "Fill in the blank:<br>______ English, he also speaks French.",
+    "options": ["Beside", "Except", "Accept", "Besides"],
+    "answer": "besides",
+    "explanation": "'Besides' মানে এছাড়া বা তাছাড়া (In addition to)। ইংরেজি ছাড়াও সে ফ্রেঞ্চ বলে, তাই Besides হবে।"
+  },
+  {
+    "id": 94,
+    "question": "Fill in the blank:<br>Mosquitoes cause many water-______ diseases.",
+    "options": ["born", "boren", "burn", "borne"],
+    "answer": "borne",
+    "explanation": "'Borne' (e দিয়ে) মানে বাহিত (যেমন: water-borne মানে জলবাহিত)। 'Born' (e ছাড়া) মানে জন্ম গ্রহণ করা।"
+  },
+  {
+    "id": 95,
+    "question": "Fill in the blank:<br>This bag is made of thick ______.",
+    "options": ["canvass", "convoy", "canves", "canvas"],
+    "answer": "canvas",
+    "explanation": "'Canvas' (সিঙ্গেল s) মানে তাঁবু, ব্যাগ বা ছবি আঁকার মোটা কাপড়। 'Canvass' (ডবল s) মানে ভোট বা সমর্থন চাওয়া।"
+  },
+  {
+    "id": 96,
+    "question": "Fill in the blank:<br>Always ______ your answers before submitting the paper.",
+    "options": ["cheque", "cheek", "choke", "check"],
+    "answer": "check",
+    "explanation": "'Check' মানে পরীক্ষা করা বা মিলিয়ে দেখা। 'Cheque' মানে ব্যাঙ্কের চেক।"
+  },
+  {
+    "id": 97,
+    "question": "Fill in the blank:<br>We had ice cream for ______ after dinner.",
+    "options": ["desert", "disart", "disser", "dessert"],
+    "answer": "dessert",
+    "explanation": "'Dessert' (ডবল s) মানে খাওয়ার পর মিষ্টিমুখ (Sweet dish)। 'Desert' (সিঙ্গেল s) মানে মরুভূমি বা ত্যাগ করা।"
+  },
+  {
+    "id": 98,
+    "question": "Fill in the blank:<br>Alexander Graham Bell ______ed the telephone.",
+    "options": ["discover", "discovered", "invent", "invented"],
+    "answer": "invented",
+    "explanation": "'Invent' মানে নতুন কিছু আবিষ্কার বা তৈরি করা যা আগে ছিল না। 'Discover' মানে যা আগে থেকেই ছিল কিন্তু লুকিয়ে ছিল তা খুঁজে বের করা।"
+  },
+  {
+    "id": 99,
+    "question": "Fill in the blank:<br>Please ______ your life against accidents.",
+    "options": ["ensure", "assure", "sure", "insure"],
+    "answer": "insure",
+    "explanation": "'Insure' মানে বিমা করা (Insurance)। 'Ensure' মানে নিশ্চিত করা। 'Assure' মানে কাউকে আশ্বাস বা ভরসা দেওয়া।"
+  },
+  {
+    "id": 100,
+    "question": "Fill in the blank:<br>William Shakespeare was a great ______.",
+    "options": ["playwrite", "playrite", "playright", "playwright"],
+    "answer": "playwright",
+    "explanation": "'Playwright' মানে নাট্যকার বা নাটক রচয়িতা। 'Wright' কথাটির অর্থ হলো যিনি কোনো কিছু তৈরি করেন বা কারিগর। Playwrite বলে ইংরেজিতে কোনো শব্দ নেই।"
+  },
+  {
+    "id": 101,
+    "question": "Fill in the blank:<br>The old man is loved for his ______ innocence.",
+    "options": ["childlike", "childish", "childhood", "childly"],
+    "answer": "childlike",
+    "explanation": "'Childlike' মানে শিশুসুলভ বা শিশুদের মতো সরল (পজেটিভ অর্থে)। 'Childish' মানে বাচ্চাদের মতো অপরিপক্ক বা বোকামি (নেগেটিভ অর্থে)।"
+  },
+  {
+    "id": 102,
+    "question": "Fill in the blank:<br>Crying for toys at this age is a ______ behavior.",
+    "options": ["childlike", "childish", "children", "childly"],
+    "answer": "childish",
+    "explanation": "বড়ো বয়সে বাচ্চাদের মতো কান্নাকাটি করা অপরিপক্কতার লক্ষণ, তাই নেগেটিভ অর্থে এখানে 'childish' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 103,
+    "question": "Fill in the blank:<br>The ______ rain flooded the city streets.",
+    "options": ["continue", "continual", "continuous", "continuously"],
+    "answer": "continuous",
+    "explanation": "'Continuous' মানে একটানা বা অবিরাম (যা এক মুহূর্তের জন্যও থামে না)। 'Continual' মানে থেমে থেমে বারবার ঘটা।"
+  },
+  {
+    "id": 104,
+    "question": "Fill in the blank:<br>He is tired of her ______ complaints.",
+    "options": ["continuously", "continuous", "continue", "continual"],
+    "answer": "continual",
+    "explanation": "অভিযোগ তো আর একটানা করা যায় না, থেমে থেমে বারবার করা হয়। তাই বারবার ঘটা বোঝাতে 'continual' বসবে।"
+  },
+  {
+    "id": 105,
+    "question": "Fill in the blank:<br>The witness provided a ______ account of the accident.",
+    "options": ["credible", "credulous", "creditable", "credit"],
+    "answer": "credible",
+    "explanation": "'Credible' মানে বিশ্বাসযোগ্য বা যা বিশ্বাস করা যায়। 'Credulous' মানে যে মানুষ খুব সহজে অন্যদের বিশ্বাস করে ফেলে।"
+  },
+  {
+    "id": 106,
+    "question": "Fill in the blank:<br>The ______ public easily believed the fake news.",
+    "options": ["credible", "credulous", "creditable", "credit"],
+    "answer": "credulous",
+    "explanation": "যে সহজে অন্যদের কথা বা খবর বিশ্বাস করে ফেলে তাকে 'credulous' (সহজবিশ্বাসী) বলে।"
+  },
+  {
+    "id": 107,
+    "question": "Fill in the blank:<br>The film board decided to ______ the violent scenes.",
+    "options": ["censure", "sensor", "censor", "senser"],
+    "answer": "censor",
+    "explanation": "'Censor' (c দিয়ে শুরু, o দিয়ে শেষ) মানে কোনো সিনেমা বা লেখা থেকে আপত্তিকর অংশ বাদ দেওয়া। 'Censure' মানে তীব্র নিন্দা করা।"
+  },
+  {
+    "id": 108,
+    "question": "Fill in the blank:<br>The minister faced severe ______ for his irresponsible remarks.",
+    "options": ["censor", "sensor", "senser", "censure"],
+    "answer": "censure",
+    "explanation": "'Censure' মানে তীব্র নিন্দা বা তিরস্কার করা। মন্ত্রীর মন্তব্যের জন্য তিনি তীব্র নিন্দার সম্মুখীন হয়েছিলেন।"
+  },
+  {
+    "id": 109,
+    "question": "Fill in the blank:<br>The lawyer read the will after the ______ of his client.",
+    "options": ["decease", "disease", "decees", "dissess"],
+    "answer": "decease",
+    "explanation": "'Decease' (c-e-a-s-e) মানে মৃত্যু। 'Disease' (s-e-a-s-e) মানে রোগ বা অসুখ। ক্লায়েন্টের মৃত্যুর পর উইল পড়া হয়।"
+  },
+  {
+    "id": 110,
+    "question": "Fill in the blank:<br>Malaria is a mosquito-borne ______.",
+    "options": ["decease", "disease", "disese", "decees"],
+    "answer": "disease",
+    "explanation": "'Disease' মানে রোগ বা ব্যাধি। ম্যালেরিয়া একটি মশাবাহিত রোগ।"
+  },
+  {
+    "id": 111,
+    "question": "Fill in the blank:<br>The farmers suffered huge losses due to the severe ______.",
+    "options": ["draught", "draft", "drought", "drift"],
+    "answer": "drought",
+    "explanation": "'Drought' (o দিয়ে) মানে খরা বা অনাবৃষ্টি। 'Draught' (a দিয়ে) মানে হাওয়ার ঝাপটা বা চুমুক।"
+  },
+  {
+    "id": 112,
+    "question": "Fill in the blank:<br>I felt a cold ______ coming from the open window.",
+    "options": ["drought", "drafty", "draft", "draught"],
+    "answer": "draught",
+    "explanation": "'Draught' (উচ্চারণ: ড্রাফট) মানে এক ঝলক হাওয়া বা হাওয়ার ঝাপটা। খোলা জানালা থেকে ঠান্ডা হাওয়া আসছিল।"
+  },
+  {
+    "id": 113,
+    "question": "Fill in the blank:<br>My house is ______ from the station than yours.",
+    "options": ["farther", "further", "feather", "farder"],
+    "answer": "farther",
+    "explanation": "'Farther' মানে দূরত্বের দিক থেকে আরও দূরে (Physical distance)। 'Further' মানে অতিরিক্ত বা আরো কিছু।"
+  },
+  {
+    "id": 114,
+    "question": "Fill in the blank:<br>For ______ details, please contact the manager.",
+    "options": ["farther", "further", "farder", "future"],
+    "answer": "further",
+    "explanation": "'Further' মানে অতিরিক্ত বা বিস্তারিত (Additional)। অতিরিক্ত তথ্যের জন্য ম্যানেজারের সাথে যোগাযোগ করতে বলা হয়েছে।"
+  },
+  {
+    "id": 115,
+    "question": "Fill in the blank:<br>The signing of the peace treaty was a ______ event.",
+    "options": ["historical", "history", "historic", "hysterics"],
+    "answer": "historic",
+    "explanation": "'Historic' মানে অত্যন্ত গুরুত্বপূর্ণ বা যুগান্তকারী কোনো ঘটনা। 'Historical' মানে ইতিহাস সম্পর্কিত বা ইতিহাসে আছে এমন কিছু।"
+  },
+  {
+    "id": 116,
+    "question": "Fill in the blank:<br>I enjoy reading ______ novels set in the 18th century.",
+    "options": ["historic", "history", "hysterics", "historical"],
+    "answer": "historical",
+    "explanation": "'Historical' মানে ইতিহাস ভিত্তিক বা ইতিহাস সংক্রান্ত (যেমন Historical novels, Historical buildings)।"
+  },
+  {
+    "id": 117,
+    "question": "Fill in the blank:<br>India winning the World Cup was a ______ occasion.",
+    "options": ["momentous", "momentary", "momentum", "moments"],
+    "answer": "momentous",
+    "explanation": "'Momentous' মানে অত্যন্ত গুরুত্বপূর্ণ বা স্মরণীয়। 'Momentary' মানে ক্ষণস্থায়ী (যা মুহূর্তের জন্য থাকে)।"
+  },
+  {
+    "id": 118,
+    "question": "Fill in the blank:<br>The pain from the injection was only ______.",
+    "options": ["momentous", "momentary", "momentum", "moments"],
+    "answer": "momentary",
+    "explanation": "'Momentary' মানে খুব অল্প সময়ের জন্য বা ক্ষণস্থায়ী। ইনজেকশনের ব্যথা ক্ষণস্থায়ী হয়।"
+  },
+  {
+    "id": 119,
+    "question": "Fill in the blank:<br>The soldiers collected their weapons from the ______ depot.",
+    "options": ["ordinance", "ordinents", "ordnance", "ordnence"],
+    "answer": "ordnance",
+    "explanation": "'Ordnance' (i ছাড়া) মানে সামরিক অস্ত্রশস্ত্র বা গোলাবারুদ। 'Ordinance' (i দিয়ে) মানে সরকারের অধ্যাদেশ বা জরুরি আইন।"
+  },
+  {
+    "id": 120,
+    "question": "Fill in the blank:<br>The Governor issued an ______ to ban plastic bags.",
+    "options": ["ordnance", "ordinents", "ordnence", "ordinance"],
+    "answer": "ordinance",
+    "explanation": "'Ordinance' মানে জরুরি আইন বা অধ্যাদেশ। প্লাস্টিক ব্যাগ বন্ধ করার জন্য আইন জারি করা হয়েছে।"
+  },
+  {
+    "id": 121,
+    "question": "Fill in the blank:<br>He is an ______ young man who makes friends easily.",
+    "options": ["amiable", "amicable", "amible", "amendable"],
+    "answer": "amiable",
+    "explanation": "'Amiable' (ব্যক্তির ক্ষেত্রে) মানে অমায়িক বা বন্ধুভাবাপন্ন। 'Amicable' (পরিস্থিতি বা মীমাংসার ক্ষেত্রে) মানে শান্তিপূর্ণ।"
+  },
+  {
+    "id": 122,
+    "question": "Fill in the blank:<br>The two neighbors reached an ______ settlement.",
+    "options": ["amiable", "amicable", "amible", "amendable"],
+    "answer": "amicable",
+    "explanation": "'Amicable' মানে বন্ধুত্বপূর্ণ বা শান্তিপূর্ণ। দুই প্রতিবেশীর মধ্যে একটি শান্তিপূর্ণ মীমাংসা হয়েছে।"
+  },
+  {
+    "id": 123,
+    "question": "Fill in the blank:<br>The beautiful wooden chair was crafted by a skilled ______.",
+    "options": ["artist", "artiste", "artisan", "artsy"],
+    "answer": "artisan",
+    "explanation": "'Artisan' মানে কারিগর বা হস্তশিল্পী (যিনি হাতে জিনিস বানান)। 'Artist' মানে চিত্রশিল্পী এবং 'Artiste' মানে মঞ্চের শিল্পী (গান/নাচ)।"
+  },
+  {
+    "id": 124,
+    "question": "Fill in the blank:<br>The dance troupe features a famous ______.",
+    "options": ["artist", "artisan", "artsy", "artiste"],
+    "answer": "artiste",
+    "explanation": "'Artiste' (শেষে e আছে) মানে মঞ্চশিল্পী (performing artist) যিনি গান, নাচ বা অভিনয় করেন।"
+  },
+  {
+    "id": 125,
+    "question": "Fill in the blank:<br>The teacher conducted an ______ examination.",
+    "options": ["oral", "aural", "orall", "aurall"],
+    "answer": "oral",
+    "explanation": "'Oral' মানে মৌখিক (মুখের সাহায্যে)। 'Aural' মানে শ্রবণ সংক্রান্ত (কানের সাহায্যে)। পরীক্ষাটি মৌখিক ছিল।"
+  },
+  {
+    "id": 126,
+    "question": "Fill in the blank:<br>The deaf child was given ______ training.",
+    "options": ["oral", "aural", "orall", "aurall"],
+    "answer": "aural",
+    "explanation": "'Aural' মানে কান বা শ্রবণ সংক্রান্ত। কানে কম শোনা শিশুকে শোনার প্রশিক্ষণ দেওয়া হয়।"
+  },
+  {
+    "id": 127,
+    "question": "Fill in the blank:<br>The dead bodies were buried in the ______.",
+    "options": ["symmetry", "simmetry", "cemetery", "cemetry"],
+    "answer": "cemetery",
+    "explanation": "'Cemetery' (c-e-m-e-t-e-r-y) মানে কবরস্থান বা গোরস্থান। 'Symmetry' মানে প্রতিসাম্য বা ভারসাম্য।"
+  },
+  {
+    "id": 128,
+    "question": "Fill in the blank:<br>The beautiful building is known for its perfect ______.",
+    "options": ["cemetery", "cemetry", "simmetry", "symmetry"],
+    "answer": "symmetry",
+    "explanation": "'Symmetry' (s-y-m-m-e-t-r-y) মানে প্রতিসাম্য বা দুই দিকের সমান আকার। সুন্দর ভবনের গঠনশৈলীতে এটি দেখা যায়।"
+  },
+  {
+    "id": 129,
+    "question": "Fill in the blank:<br>After winning one match, the team became ______ and lost the next.",
+    "options": ["complacent", "complaisant", "complacant", "complaint"],
+    "answer": "complacent",
+    "explanation": "'Complacent' (c-e-n-t) মানে আত্মসন্তুষ্ট (Overconfident)। 'Complaisant' (s-a-n-t) মানে বাধ্য বা অন্যকে খুশি করতে চায় এমন।"
+  },
+  {
+    "id": 130,
+    "question": "Fill in the blank:<br>The hotel staff was very ______ to the guests' needs.",
+    "options": ["complacent", "complaisant", "complacant", "complaint"],
+    "answer": "complaisant",
+    "explanation": "'Complaisant' মানে অন্যকে খুশি করতে ইচ্ছুক বা বিনয়ী। হোটেলের স্টাফরা অতিথিদের প্রতি বিনয়ী ছিল।"
+  },
+  {
+    "id": 131,
+    "question": "Fill in the blank:<br>Many schools have completely banned ______ punishment.",
+    "options": ["corporeal", "corporate", "corporal", "corporel"],
+    "answer": "corporal",
+    "explanation": "'Corporal' মানে শারীরিক (Physical)। যেমন: Corporal punishment মানে শারীরিক শাস্তি।"
+  },
+  {
+    "id": 132,
+    "question": "Fill in the blank:<br>Ghosts and spirits do not have a ______ body.",
+    "options": ["corporal", "corporate", "corporel", "corporeal"],
+    "answer": "corporeal",
+    "explanation": "'Corporeal' মানে বস্তুগত বা মূর্ত দেহ আছে এমন। ভূত বা আত্মাদের কোনো বস্তুগত দেহ নেই।"
+  },
+  {
+    "id": 133,
+    "question": "Fill in the blank:<br>We reached a ______ agreement, not a written one.",
+    "options": ["verbal", "verbose", "orally", "verbous"],
+    "answer": "verbal",
+    "explanation": "'Verbal' মানে মৌখিক বা শব্দগত। 'Verbose' মানে শব্দবহুল বা বাগাড়ম্বরপূর্ণ (প্রয়োজনের চেয়ে বেশি শব্দ ব্যবহার করা)।"
+  },
+  {
+    "id": 134,
+    "question": "Fill in the blank:<br>His speech was so ______ that people lost interest.",
+    "options": ["verbal", "verbose", "verbous", "orally"],
+    "answer": "verbose",
+    "explanation": "'Verbose' মানে প্রয়োজনের চেয়ে বেশি শব্দ ব্যবহার করা বা বাগাড়ম্বরপূর্ণ। বক্তৃতাটি খুব বেশি দীর্ঘ ও শব্দবহুল ছিল।"
+  },
+  {
+    "id": 135,
+    "question": "Fill in the blank:<br>She is a noble and ______ woman.",
+    "options": ["virtual", "virtuoso", "virtuous", "virtually"],
+    "answer": "virtuous",
+    "explanation": "'Virtuous' মানে গুণবতী বা সচ্চরিত্রা। 'Virtual' মানে অবাস্তব বা কম্পিউটার-সৃষ্ট (যেমন Virtual reality)।"
+  },
+  {
+    "id": 136,
+    "question": "Fill in the blank:<br>Online classes have created a ______ learning environment.",
+    "options": ["virtuous", "virtuoso", "virtually", "virtual"],
+    "answer": "virtual",
+    "explanation": "'Virtual' মানে কম্পিউটার বা ইন্টারনেটের মাধ্যমে তৈরি হওয়া অবাস্তব কিন্তু কার্যকরী পরিবেশ।"
+  },
+  {
+    "id": 137,
+    "question": "Fill in the blank:<br>The hurricane is expected to ______ havoc on the coastal areas.",
+    "options": ["wreak", "wreck", "reck", "reek"],
+    "answer": "wreak",
+    "explanation": "'Wreak' (w-r-e-a-k) মানে ক্ষতিসাধন করা বা ঘটানো (যেমন- Wreak havoc)। 'Wreck' মানে ধ্বংসাবশেষ।"
+  },
+  {
+    "id": 138,
+    "question": "Fill in the blank:<br>The divers found the ______ of an old ship.",
+    "options": ["wreak", "wreck", "reck", "reek"],
+    "answer": "wreck",
+    "explanation": "'Wreck' (w-r-e-c-k) মানে ধ্বংসাবশেষ (বিশেষ করে জাহাজ বা গাড়ির)। ডুবুরিরা জাহাজের ধ্বংসাবশেষ খুঁজে পেয়েছিল।"
+  },
+  {
+    "id": 139,
+    "question": "Fill in the blank:<br>The clown entertained the children with his funny ______.",
+    "options": ["antique", "antic", "antics", "antiques"],
+    "answer": "antics",
+    "explanation": "'Antics' মানে ভাঁড়ামি, মজার বা অদ্ভুত অঙ্গভঙ্গি। 'Antique' মানে প্রাচীন বা পুরোনো মূল্যবান জিনিস।"
+  },
+  {
+    "id": 140,
+    "question": "Fill in the blank:<br>My grandfather gifted me an ______ pocket watch.",
+    "options": ["antic", "antics", "antiqus", "antique"],
+    "answer": "antique",
+    "explanation": "'Antique' (a-n-t-i-q-u-e) মানে প্রাচীনকালের মহামূল্যবান বস্তু। দাদু একটি অ্যান্টিক পকেট ঘড়ি দিয়েছিলেন।"
+  },
+  {
+    "id": 141,
+    "question": "Fill in the blank:<br>Her remarks were perfectly ______ to the present situation.",
+    "options": ["apposite", "opposite", "oppose", "appose"],
+    "answer": "apposite",
+    "explanation": "'Apposite' (a দিয়ে শুরু) মানে উপযুক্ত, লাগসই বা যথাযথ। 'Opposite' (o দিয়ে শুরু) মানে বিপরীত বা উল্টো।"
+  },
+  {
+    "id": 142,
+    "question": "Fill in the blank:<br>His house is situated ______ the post office.",
+    "options": ["apposite", "opposite", "oppose", "appose"],
+    "answer": "opposite",
+    "explanation": "'Opposite' মানে বিপরীত দিকে বা উল্টোদিকে। তার বাড়ি পোস্ট অফিসের ঠিক উল্টোদিকে অবস্থিত।"
+  },
+  {
+    "id": 143,
+    "question": "Fill in the blank:<br>Photography is my favorite ______, though I am a teacher.",
+    "options": ["vocation", "vacation", "avocation", "vacacion"],
+    "answer": "avocation",
+    "explanation": "'Avocation' (a দিয়ে শুরু) মানে শখ (Hobby) যা পেশার বাইরে করা হয়। 'Vocation' মানে পেশা।"
+  },
+  {
+    "id": 144,
+    "question": "Fill in the blank:<br>Teaching is not just a job; it is a noble ______.",
+    "options": ["avocation", "vacation", "vacacion", "vocation"],
+    "answer": "vocation",
+    "explanation": "'Vocation' মানে পেশা বা বৃত্তি। শিক্ষাদানকে একটি মহান পেশা বলা হয়েছে।"
+  },
+  {
+    "id": 145,
+    "question": "Fill in the blank:<br>India has legally abolished untouchability based on ______.",
+    "options": ["caste", "cast", "cost", "coast"],
+    "answer": "caste",
+    "explanation": "'Caste' (শেষে e আছে) মানে জাতি বা বর্ণ (যেমন Caste system)। 'Cast' (e ছাড়া) মানে নিক্ষেপ করা বা ঢালাই করা।"
+  },
+  {
+    "id": 146,
+    "question": "Fill in the blank:<br>The fisherman ______ his net into the river.",
+    "options": ["caste", "cast", "cost", "coast"],
+    "answer": "cast",
+    "explanation": "'Cast' মানে ছুঁড়ে দেওয়া বা নিক্ষেপ করা। জেলে নদীতে তার জাল নিক্ষেপ করল।"
+  },
+  {
+    "id": 147,
+    "question": "Fill in the blank:<br>The factory will ______ production due to lack of funds.",
+    "options": ["seize", "size", "cease", "sees"],
+    "answer": "cease",
+    "explanation": "'Cease' (c-e-a-s-e) মানে থামা বা বন্ধ হওয়া। 'Seize' (s-e-i-z-e) মানে বাজেয়াপ্ত করা বা আঁকড়ে ধরা। কারখানা উৎপাদন বন্ধ করবে।"
+  },
+  {
+    "id": 148,
+    "question": "Fill in the blank:<br>The police decided to ______ the illegal weapons.",
+    "options": ["cease", "size", "sees", "seize"],
+    "answer": "seize",
+    "explanation": "'Seize' মানে বাজেয়াপ্ত করা, অধিকার করা বা জব্দ করা। পুলিশ বেআইনি অস্ত্র বাজেয়াপ্ত করেছিল।"
+  },
+  {
+    "id": 149,
+    "question": "Fill in the blank:<br>The prices were fixed by a secret ______ among the companies.",
+    "options": ["collusion", "collision", "collecion", "colution"],
+    "answer": "collusion",
+    "explanation": "'Collusion' (u দিয়ে) মানে গোপন চক্রান্ত বা আঁতাত (secret agreement for illegal purpose)। 'Collision' (i দিয়ে) মানে সংঘর্ষ।"
+  },
+  {
+    "id": 150,
+    "question": "Fill in the blank:<br>The heavy fog caused a fatal ______ between two buses.",
+    "options": ["collusion", "collision", "collecion", "colution"],
+    "answer": "collision",
+    "explanation": "'Collision' মানে দুটি বস্তুর মধ্যে সজোরে ধাক্কা বা সংঘর্ষ। ঘন কুয়াশার কারণে বাসে বাসে সংঘর্ষ হয়েছিল।"
+  },
+  {
+    "id": 151,
+    "question": "Fill in the blank:<br>The poet made an ______ to Greek mythology.",
+    "options": ["allusion", "illusion", "elusion", "delusion"],
+    "answer": "allusion",
+    "explanation": "'Allusion' (a দিয়ে) মানে পরোক্ষ উল্লেখ (Indirect reference)। 'Illusion' (i দিয়ে) মানে মোহ বা মায়া বা দৃষ্টি বিভ্রম।"
+  },
+  {
+    "id": 152,
+    "question": "Fill in the blank:<br>The magician created a perfect optical ______.",
+    "options": ["allusion", "elusion", "illusion", "delusion"],
+    "answer": "illusion",
+    "explanation": "'Illusion' মানে দৃষ্টি বিভ্রম বা মায়া (Optical illusion)। জাদুকর একটি নিখুঁত দৃষ্টি বিভ্রম তৈরি করেছিলেন।"
+  },
+  {
+    "id": 153,
+    "question": "Fill in the blank:<br>The manager will ______ the employee's performance.",
+    "options": ["apprise", "appraise", "upraise", "praise"],
+    "answer": "appraise",
+    "explanation": "'Appraise' মানে মূল্যায়ন করা (to evaluate)। 'Apprise' মানে কাউকে অবহিত করা বা জানানো (to inform)।"
+  },
+  {
+    "id": 154,
+    "question": "Fill in the blank:<br>Please ______ me of the latest developments.",
+    "options": ["appraise", "upraise", "praise", "apprise"],
+    "answer": "apprise",
+    "explanation": "'Apprise' মানে কাউকে কোনো বিষয়ে অবহিত করা বা জানানো। নতুন খবরাখবর সম্পর্কে জানাতে বলা হয়েছে।"
+  },
+  {
+    "id": 155,
+    "question": "Fill in the blank:<br>I marked the date of the meeting on my ______.",
+    "options": ["calender", "calendar", "calander", "colander"],
+    "answer": "calendar",
+    "explanation": "'Calendar' (শেষে a-r) মানে দিনপঞ্জি বা ক্যালেন্ডার। 'Calender' (শেষে e-r) মানে কাগজ বা কাপড় মসৃণ করার যন্ত্র।"
+  },
+  {
+    "id": 156,
+    "question": "Fill in the blank:<br>The paper is passed through a ______ to make it smooth.",
+    "options": ["calendar", "calander", "calender", "colander"],
+    "answer": "calender",
+    "explanation": "'Calender' (শেষে e-r) মানে কারখানায় ব্যবহৃত রোলার মেশিন যা দিয়ে কাগজ বা কাপড় মসৃণ করা হয়।"
+  },
+  {
+    "id": 157,
+    "question": "Fill in the blank:<br>According to the ______ of the church, this is forbidden.",
+    "options": ["canon", "cannon", "canyon", "canin"],
+    "answer": "canon",
+    "explanation": "'Canon' (সিঙ্গেল n) মানে চার্চের নিয়ম বা সাধারণ নীতি (rule/law)। 'Cannon' (ডবল n) মানে কামান।"
+  },
+  {
+    "id": 158,
+    "question": "Fill in the blank:<br>The soldiers fired the ______ at the enemy fort.",
+    "options": ["canon", "canyon", "canin", "cannon"],
+    "answer": "cannon",
+    "explanation": "'Cannon' (ডবল n) মানে যুদ্ধে ব্যবহৃত কামান বা বড়ো বন্দুক। সৈন্যরা শত্রুর দুর্গে কামান দেগেছিল।"
+  },
+  {
+    "id": 159,
+    "question": "Fill in the blank:<br>He was wearing ______ clothes for the party.",
+    "options": ["causal", "casual", "casuist", "casuality"],
+    "answer": "casual",
+    "explanation": "'Casual' (c-a-s-u-a-l) মানে সাধারণ, আকস্মিক বা অনানুষ্ঠানিক (যেমন casual clothes)। 'Causal' (c-a-u-s-a-l) মানে কারণ-ঘটিত।"
+  },
+  {
+    "id": 160,
+    "question": "Fill in the blank:<br>There is no ______ link between the two events.",
+    "options": ["casual", "casuist", "causal", "casuality"],
+    "answer": "causal",
+    "explanation": "'Causal' মানে কারণ সংক্রান্ত। দুটি ঘটনার মধ্যে কারণ-ঘটিত সম্পর্ক বোঝাতে এটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 161,
+    "question": "Fill in the blank:<br>John is my closest ______, and I share all my secrets with him.",
+    "options": ["confidant", "confident", "confidence", "confide"],
+    "answer": "confidant",
+    "explanation": "'Confidant' (a দিয়ে) মানে বিশ্বস্ত বন্ধু যার কাছে গোপন কথা বলা যায়। 'Confident' (e দিয়ে) মানে আত্মবিশ্বাসী।"
+  },
+  {
+    "id": 162,
+    "question": "Fill in the blank:<br>The student was very ______ about passing the exam.",
+    "options": ["confidant", "confidence", "confide", "confident"],
+    "answer": "confident",
+    "explanation": "'Confident' (e দিয়ে) মানে নিজের উপর বিশ্বাস আছে এমন (আত্মবিশ্বাসী)। ছাত্রটি পাস করার বিষয়ে আত্মবিশ্বাসী ছিল।"
+  },
+  {
+    "id": 163,
+    "question": "Fill in the blank:<br>Chickenpox is a highly ______ disease.",
+    "options": ["contiguous", "contagious", "contingent", "continual"],
+    "answer": "contagious",
+    "explanation": "'Contagious' মানে ছোঁয়াচে রোগ যা সংস্পর্শে ছড়ায়। 'Contiguous' মানে সংলগ্ন বা পাশাপাশি অবস্থিত।"
+  },
+  {
+    "id": 164,
+    "question": "Fill in the blank:<br>The United States and Canada share a ______ border.",
+    "options": ["contagious", "contingent", "contiguous", "continual"],
+    "answer": "contiguous",
+    "explanation": "'Contiguous' মানে সংলগ্ন বা যার সীমানা একে অপরের সাথে লেগে আছে (Sharing a common border)।"
+  },
+  {
+    "id": 165,
+    "question": "Fill in the blank:<br>He is an officer in the National Cadet ______.",
+    "options": ["corpse", "crops", "copse", "corps"],
+    "answer": "corps",
+    "explanation": "'Corps' (উচ্চারণ: কোর) মানে সেনাবাহিনীর একটি শাখা বা বিশেষ দল (যেমন NCC)। 'Corpse' (উচ্চারণ: কর্পস) মানে মৃতদেহ।"
+  },
+  {
+    "id": 166,
+    "question": "Fill in the blank:<br>The police found a ______ in the abandoned house.",
+    "options": ["corpse", "corps", "crops", "copse"],
+    "answer": "corpse",
+    "explanation": "'Corpse' মানে মানুষের মৃতদেহ বা শবদেহ। পরিত্যক্ত বাড়িতে পুলিশ একটি মৃতদেহ পেয়েছিল।"
+  },
+  {
+    "id": 167,
+    "question": "Fill in the blank:<br>A brave soldier will never ______ his commander's orders.",
+    "options": ["deify", "defy", "defer", "differ"],
+    "answer": "defy",
+    "explanation": "'Defy' (d-e-f-y) মানে অমান্য করা বা বিরোধিতা করা। 'Deify' (d-e-i-f-y) মানে দেবতাজ্ঞানে পুজো করা।"
+  },
+  {
+    "id": 168,
+    "question": "Fill in the blank:<br>In some cultures, people ______ their kings as gods.",
+    "options": ["defy", "defer", "deify", "differ"],
+    "answer": "deify",
+    "explanation": "'Deify' মানে কাউকে ভগবানের মতো সম্মান করা বা দেবতাজ্ঞানে পুজো করা।"
+  },
+  {
+    "id": 169,
+    "question": "Fill in the blank:<br>The smartphone is a very useful electronic ______.",
+    "options": ["devise", "divice", "devis", "device"],
+    "answer": "device",
+    "explanation": "'Device' (c দিয়ে) হলো Noun, যার অর্থ যন্ত্র বা সরঞ্জাম। 'Devise' (s দিয়ে) হলো Verb, যার অর্থ পরিকল্পনা করা।"
+  },
+  {
+    "id": 170,
+    "question": "Fill in the blank:<br>We need to ______ a new plan to solve the problem.",
+    "options": ["devise", "device", "divice", "devis"],
+    "answer": "devise",
+    "explanation": "'Devise' (s দিয়ে) হলো Verb, যার অর্থ কোনো নতুন উপায় বা পরিকল্পনা বের করা।"
+  },
+  {
+    "id": 171,
+    "question": "Fill in the blank:<br>I sealed the letter and put it in an ______.",
+    "options": ["envelop", "envelope", "invelop", "envelops"],
+    "answer": "envelope",
+    "explanation": "'Envelope' (শেষে e আছে) হলো Noun, যার অর্থ খাম (যাতে চিঠি ভরা হয়)। 'Envelop' (শেষে e নেই) হলো Verb, যার অর্থ ঢেকে ফেলা।"
+  },
+  {
+    "id": 172,
+    "question": "Fill in the blank:<br>The dark clouds began to ______ the whole sky.",
+    "options": ["envelope", "invelop", "envelop", "envelops"],
+    "answer": "envelop",
+    "explanation": "'Envelop' (শেষে e ছাড়া) একটি Verb যার অর্থ চারিদিক থেকে ঘিরে ফেলা বা ঢেকে ফেলা।"
+  },
+  {
+    "id": 173,
+    "question": "Fill in the blank:<br>The new hospital provides excellent medical ______ for everyone.",
+    "options": ["felicity", "facilitate", "facile", "facility"],
+    "answer": "facility",
+    "explanation": "'Facility' মানে সুবিধা বা সুযোগ। 'Felicity' মানে চরম আনন্দ বা সুখ।"
+  },
+  {
+    "id": 174,
+    "question": "Fill in the blank:<br>She expressed her ______ upon hearing the good news.",
+    "options": ["felicity", "facility", "facilitate", "facile"],
+    "answer": "felicity",
+    "explanation": "'Felicity' মানে পরম সুখ বা আনন্দ (Intense happiness)। সুখবর শুনে সে আনন্দ প্রকাশ করল।"
+  },
+  {
+    "id": 175,
+    "question": "Fill in the blank:<br>He was ______ to admit his mistakes.",
+    "options": ["loathe", "loath", "loaths", "lothe"],
+    "answer": "loath",
+    "explanation": "'Loath' (শেষে e ছাড়া) একটি Adjective, যার অর্থ অনিচ্ছুক (unwilling)। 'Loathe' (শেষে e আছে) একটি Verb, যার অর্থ ঘৃণা করা।"
+  },
+  {
+    "id": 176,
+    "question": "Fill in the blank:<br>I completely ______ people who tell lies.",
+    "options": ["loath", "lothe", "loathe", "loaths"],
+    "answer": "loathe",
+    "explanation": "'Loathe' (শেষে e আছে) একটি Verb, যার অর্থ তীব্র ঘৃণা করা (to hate)।"
+  },
+  {
+    "id": 177,
+    "question": "Fill in the blank:<br>The taxi driver started the ______ as soon as we sat.",
+    "options": ["metre", "metor", "mater", "meter"],
+    "answer": "meter",
+    "explanation": "'Meter' (e-r) হলো মাপার যন্ত্র (যেমন ট্যাক্সি মিটার, থার্মোমিটার)। 'Metre' (r-e) হলো দৈর্ঘ্যের একক।"
+  },
+  {
+    "id": 178,
+    "question": "Fill in the blank:<br>The length of this cloth is exactly one ______.",
+    "options": ["metre", "meter", "metor", "mater"],
+    "answer": "metre",
+    "explanation": "'Metre' (r-e) হলো ব্রিটিশ বানানে দৈর্ঘ্যের একক। কাপড়ের দৈর্ঘ্য মাপতে এটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 179,
+    "question": "Fill in the blank:<br>Do not try to ______ with the evidence.",
+    "options": ["temper", "tamper", "timber", "tumber"],
+    "answer": "tamper",
+    "explanation": "'Tamper' (a দিয়ে) মানে কোনো প্রমাণ বা জিনিসে বেআইনিভাবে হাত দেওয়া বা নষ্ট করা। 'Temper' (e দিয়ে) মানে মেজাজ।"
+  },
+  {
+    "id": 180,
+    "question": "Fill in the blank:<br>He has a very short ______ and gets angry easily.",
+    "options": ["tamper", "timber", "temper", "tumber"],
+    "answer": "temper",
+    "explanation": "'Temper' (e দিয়ে) মানে মানুষের মেজাজ বা স্বভাব। Short temper মানে যে অল্পতেই রেগে যায়।"
+  },
+  {
+    "id": 181,
+    "question": "Fill in the blank:<br>The ______ judge took a bribe to change the verdict.",
+    "options": ["venial", "vena", "penal", "venal"],
+    "answer": "venal",
+    "explanation": "'Venal' (v-e-n-a-l) মানে ঘুষখোর বা দুর্নীতিগ্রস্ত। 'Venial' (v-e-n-i-a-l) মানে ক্ষমার যোগ্য।"
+  },
+  {
+    "id": 182,
+    "question": "Fill in the blank:<br>A small mistake like being late is a ______ fault.",
+    "options": ["venal", "venial", "penal", "vena"],
+    "answer": "venial",
+    "explanation": "'Venial' মানে মার্জনীয় বা ক্ষমার যোগ্য (pardonable offense)।"
+  },
+  {
+    "id": 183,
+    "question": "Fill in the blank:<br>The company recalled the cars because of a ______ engine.",
+    "options": ["deficient", "defensive", "defective", "defict"],
+    "answer": "defective",
+    "explanation": "'Defective' মানে ত্রুটিপূর্ণ (যাতে খুঁত বা সমস্যা আছে)। 'Deficient' মানে ঘাটতি বা অভাব আছে এমন।"
+  },
+  {
+    "id": 184,
+    "question": "Fill in the blank:<br>The child's diet is ______ in vitamin C.",
+    "options": ["defective", "defensive", "defict", "deficient"],
+    "answer": "deficient",
+    "explanation": "'Deficient' মানে কোনো কিছুর অভাব বা ঘাটতি থাকা (ল্যাকিং)। ভিটামিনের অভাব বোঝাতে এটি বসে।"
+  },
+  {
+    "id": 185,
+    "question": "Fill in the blank:<br>Climbing the steep mountain was an ______ task.",
+    "options": ["exhausting", "exhaustive", "exhaust", "exhausted"],
+    "answer": "exhausting",
+    "explanation": "'Exhausting' মানে অত্যন্ত ক্লান্তিকর (যা খুব পরিশ্রান্ত করে দেয়)। 'Exhaustive' মানে পুঙ্খানুপুঙ্খ বা সম্পূর্ণ।"
+  },
+  {
+    "id": 186,
+    "question": "Fill in the blank:<br>The police made an ______ search of the whole area.",
+    "options": ["exhausting", "exhaustive", "exhaust", "exhausted"],
+    "answer": "exhaustive",
+    "explanation": "'Exhaustive' মানে সম্পূর্ণ বা বিস্তারিত (comprehensive/detailed)। পুলিশ পুরো এলাকা তন্নতন্ন করে খুঁজেছিল।"
+  },
+  {
+    "id": 187,
+    "question": "Fill in the blank:<br>The scientist came up with an ______ solution to the problem.",
+    "options": ["ingenuous", "indigenous", "ingenious", "indigens"],
+    "answer": "ingenious",
+    "explanation": "'Ingenious' (i দিয়ে) মানে উদ্ভাবনী ক্ষমতাসম্পন্ন, অত্যন্ত বুদ্ধিমান বা চতুর। 'Ingenuous' (u দিয়ে) মানে সরল বা অকপট।"
+  },
+  {
+    "id": 188,
+    "question": "Fill in the blank:<br>The ______ boy believed whatever the strangers told him.",
+    "options": ["ingenious", "indigenous", "indigens", "ingenuous"],
+    "answer": "ingenuous",
+    "explanation": "'Ingenuous' (u দিয়ে) মানে অত্যন্ত সরল, নিষ্পাপ বা যে সহজে বিশ্বাস করে (innocent/naive)।"
+  },
+  {
+    "id": 189,
+    "question": "Fill in the blank:<br>The driver was ______ in checking the brakes before the journey.",
+    "options": ["negligent", "negligible", "neglectful", "neglect"],
+    "answer": "negligent",
+    "explanation": "'Negligent' মানে দায়িত্বজ্ঞানহীন বা অবহেলাকারী (careless)। 'Negligible' মানে নগণ্য বা যা বাদ দেওয়া যায় এমন সামান্য।"
+  },
+  {
+    "id": 190,
+    "question": "Fill in the blank:<br>The difference in their scores was so small that it was ______.",
+    "options": ["negligent", "negligible", "neglectful", "neglect"],
+    "answer": "negligible",
+    "explanation": "'Negligible' মানে এতই সামান্য যে তাকে গ্রাহ্য না করলেও চলে (খুব নগণ্য)।"
+  },
+  {
+    "id": 191,
+    "question": "Fill in the blank:<br>He gave some ______ advice on how to save money.",
+    "options": ["practicable", "practice", "practical", "practically"],
+    "answer": "practical",
+    "explanation": "'Practical' মানে বাস্তবসম্মত বা ব্যবহারিক। 'Practicable' মানে যা বাস্তবে করা সম্ভব বা প্রয়োগযোগ্য।"
+  },
+  {
+    "id": 192,
+    "question": "Fill in the blank:<br>Building a bridge over that wide river is not ______.",
+    "options": ["practical", "practice", "practically", "practicable"],
+    "answer": "practicable",
+    "explanation": "'Practicable' মানে যা বাস্তবে রূপায়ন করা সম্ভব (capable of being done)। নদীর ওপর সেতু করা সম্ভব নয় বোঝানো হয়েছে।"
+  },
+  {
+    "id": 193,
+    "question": "Fill in the blank:<br>Mother Teresa was a ______ lady who helped the poor.",
+    "options": ["beneficent", "beneficial", "benefit", "benefaction"],
+    "answer": "beneficent",
+    "explanation": "'Beneficent' মানে দয়ালু বা যে মানুষের উপকার করে (generous)। 'Beneficial' মানে উপকারী বা লাভদায়ক।"
+  },
+  {
+    "id": 194,
+    "question": "Fill in the blank:<br>Eating fresh fruits is ______ to our health.",
+    "options": ["beneficent", "beneficial", "benefit", "benefaction"],
+    "answer": "beneficial",
+    "explanation": "'Beneficial' মানে উপকারী বা স্বাস্থ্যের জন্য ভালো (advantageous)।"
+  },
+  {
+    "id": 195,
+    "question": "Fill in the blank:<br>Shakespeare is a ______ writer in English literature.",
+    "options": ["notorious", "noted", "notable", "notice"],
+    "answer": "notable",
+    "explanation": "'Notable' মানে বিখ্যাত বা স্মরণীয় (পজেটিভ অর্থে)। 'Notorious' মানে কুখ্যাত (নেগেটিভ অর্থে)।"
+  },
+  {
+    "id": 196,
+    "question": "Fill in the blank:<br>The ______ gangster was finally arrested by the police.",
+    "options": ["notable", "noted", "notice", "notorious"],
+    "answer": "notorious",
+    "explanation": "'Notorious' মানে কুখ্যাত (খারাপ কাজের জন্য বিখ্যাত)। গ্যাংস্টার খারাপ কাজের জন্যই পরিচিত হয়।"
+  },
+  {
+    "id": 197,
+    "question": "Fill in the blank:<br>Man is a ______ animal and cannot live alone.",
+    "options": ["social", "sociable", "society", "socially"],
+    "answer": "social",
+    "explanation": "'Social' মানে সমাজবদ্ধ বা সামাজিক (যিনি সমাজে বাস করেন)। 'Sociable' মানে মিশুকে বা যে সহজে অন্যদের সাথে মিশতে পারে।"
+  },
+  {
+    "id": 198,
+    "question": "Fill in the blank:<br>My neighbor is very ______ and loves to meet new people.",
+    "options": ["social", "sociable", "society", "socially"],
+    "answer": "sociable",
+    "explanation": "'Sociable' মানে মিশুকে বা বন্ধুত্বপূর্ণ (friendly)। যে অন্যদের সাথে মিশতে ভালোবাসে।"
+  },
+  {
+    "id": 199,
+    "question": "Fill in the blank:<br>We should be ______ of other people's religious beliefs.",
+    "options": ["tolerant", "tolerable", "tolerate", "toleration"],
+    "answer": "tolerant",
+    "explanation": "'Tolerant' মানে সহনশীল (যে অন্যদের মত বা ধর্মকে মেনে নেয়)। 'Tolerable' মানে সহ্য করার যোগ্য।"
+  },
+  {
+    "id": 200,
+    "question": "Fill in the blank:<br>The pain after the surgery was severe but ______.",
+    "options": ["tolerable", "tolerant", "tolerate", "toleration"],
+    "answer": "tolerable",
+    "explanation": "'Tolerable' মানে সহনীয় বা যতটুকু সহ্য করা যায়। অপারেশনের ব্যথা সহনীয় ছিল।"
+  }
+]

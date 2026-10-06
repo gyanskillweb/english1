@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "question": "What is the feminine gender of 'Fox'?",
+    "options": ["Vixen", "Foxess", "She-fox", "Vixiness"],
+    "answer": "Vixen",
+    "explanation": "'Fox' (শিয়াল)-এর ফেমিনিন জেন্ডার হলো 'Vixen' (খেঁকশিয়ালী)। এটি সম্পূর্ণ ভিন্ন শব্দের নিয়মে পরিবর্তিত হয় এবং পরীক্ষায় প্রচুর আসে।"
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct feminine form of 'Bachelor'.",
+    "options": ["Bacheloress", "Spinster", "Lady", "Woman"],
+    "answer": "Spinster",
+    "explanation": "'Bachelor' (অবিবাহিত পুরুষ বা কুমার)-এর ফেমিনিন জেন্ডার হলো 'Spinster' বা 'Maid' (অবিবাহিতা নারী বা কুমারী)।"
+  },
+  {
+    "id": 3,
+    "question": "What is the feminine of 'Horse'?",
+    "options": ["She-horse", "Cow", "Mare", "Filly"],
+    "answer": "Mare",
+    "explanation": "'Horse' (ঘোড়া)-এর স্ত্রীলিঙ্গ হলো 'Mare' (ঘোটকী)। এটি একটি সম্পূর্ণ ভিন্ন শব্দ।"
+  },
+  {
+    "id": 4,
+    "question": "Find the feminine gender of 'Drone'.",
+    "options": ["Wasp", "Ant", "Fly", "Bee"],
+    "answer": "Bee",
+    "explanation": "'Drone' হলো পুরুষ মৌমাছি। এর ফেমিনিন জেন্ডার হলো 'Bee' (স্ত্রী মৌমাছি)।"
+  },
+  {
+    "id": 5,
+    "question": "Select the correct feminine form of 'Tiger'.",
+    "options": ["Tigress", "Tigeress", "She-tiger", "Tigris"],
+    "answer": "Tigress",
+    "explanation": "কিছু শব্দের শেষে '-ess' যোগ করার আগে শেষের Vowel টি বাদ যায়। Tiger -> Tigress (বাঘিনী) হয়।"
+  },
+  {
+    "id": 6,
+    "question": "What is the feminine gender of 'Emperor'?",
+    "options": ["Emperoress", "Empress", "Queen", "Emperatress"],
+    "answer": "Empress",
+    "explanation": "'Emperor' (সম্রাট)-এর ফেমিনিন জেন্ডার হলো 'Empress' (সম্রাজ্ঞী)। এখানে বানান পরিবর্তনের নিয়মটি বিশেষভাবে খেয়াল রাখতে হবে।"
+  },
+  {
+    "id": 7,
+    "question": "Find the feminine of 'Peacock'.",
+    "options": ["Pea-hen", "Pea-bird", "Peahen", "She-peacock"],
+    "answer": "Peahen",
+    "explanation": "Compound Noun বা যৌগিক শব্দের ক্ষেত্রে পুরুষ বাচক অংশটি পরিবর্তিত হয়। Peacock (ময়ূর) থেকে Peahen (ময়ূরী) হয়।"
+  },
+  {
+    "id": 8,
+    "question": "What is the feminine gender of 'Administrator'?",
+    "options": ["Administratoress", "Administratress", "Lady-administrator", "Administratrix"],
+    "answer": "Administratrix",
+    "explanation": "কিছু বিদেশি শব্দে (ল্যাটিন উৎপত্তি) '-tor' থাকলে ফেমিনিনে তা '-trix' হয়ে যায়। Administrator -> Administratrix."
+  },
+  {
+    "id": 9,
+    "question": "Choose the feminine gender of 'Wizard'.",
+    "options": ["Witch", "Lizard", "Fairy", "Wizardess"],
+    "answer": "Witch",
+    "explanation": "'Wizard' (জাদুকর) শব্দের ফেমিনিন জেন্ডার হলো 'Witch' (ডাইনি)। এটি ব্যতিক্রমী পরিবর্তন।"
+  },
+  {
+    "id": 10,
+    "question": "What is the feminine form of 'Lord'?",
+    "options": ["Queen", "Lady", "Lordess", "Baroness"],
+    "answer": "Lady",
+    "explanation": "'Lord' (প্রভু বা জমিদার)-এর ফেমিনিন জেন্ডার হলো 'Lady' (মহাশয়া বা লেডি)।"
+  },
+  {
+    "id": 11,
+    "question": "Select the feminine gender of 'Nephew'.",
+    "options": ["Sister", "Daughter", "Niece", "Cousin"],
+    "answer": "Niece",
+    "explanation": "'Nephew' (ভাইপো বা ভাগ্নে) শব্দের ফেমিনিন জেন্ডার হলো 'Niece' (ভাইঝি বা ভাগ্নি)।"
+  },
+  {
+    "id": 12,
+    "question": "What is the feminine of 'Monk'?",
+    "options": ["Priestess", "Monkess", "Lady-monk", "Nun"],
+    "answer": "Nun",
+    "explanation": "'Monk' (সন্ন্যাসী) এর ফেমিনিন জেন্ডার হলো 'Nun' (সন্ন্যাসিনী)।"
+  },
+  {
+    "id": 13,
+    "question": "Find the feminine gender of 'Duke'.",
+    "options": ["Duchess", "Dukess", "Queen", "Princess"],
+    "answer": "Duchess",
+    "explanation": "'Duke' (ডিউক বা শাসক)-এর ফেমিনিন জেন্ডার হলো 'Duchess' (ডাচেস)। এটি একটি গুরুত্বপূর্ণ বানান।"
+  },
+  {
+    "id": 14,
+    "question": "What is the feminine of 'Hero'?",
+    "options": ["Heroess", "Heroine", "She-hero", "Lady-hero"],
+    "answer": "Heroine",
+    "explanation": "'Hero' শব্দের সাথে '-ine' প্রত্যয় যোগ করে ফেমিনিন 'Heroine' তৈরি হয়।"
+  },
+  {
+    "id": 15,
+    "question": "Identify the feminine form of 'Czar'.",
+    "options": ["Czaress", "Czarist", "Czarina", "Lady Czar"],
+    "answer": "Czarina",
+    "explanation": "'Czar' (রাশিয়ার সম্রাট)-এর স্ত্রীলিঙ্গ হলো 'Czarina' (রাশিয়ার সম্রাজ্ঞী)। এটি বিদেশি শব্দের নিয়ম।"
+  },
+  {
+    "id": 16,
+    "question": "What is the feminine gender of 'Actor'?",
+    "options": ["Actoress", "She-actor", "Lady-actor", "Actress"],
+    "answer": "Actress",
+    "explanation": "শব্দের শেষের '-or' এর আগের Vowel (o) বাদ গিয়ে '-ess' যোগ হয়। Actor -> Actress."
+  },
+  {
+    "id": 17,
+    "question": "Choose the correct feminine of 'Bull'.",
+    "options": ["Cow", "Bullock", "Heifer", "Ox"],
+    "answer": "Cow",
+    "explanation": "'Bull' (ষাঁড়)-এর ফেমিনিন জেন্ডার হলো 'Cow' (গরু)।"
+  },
+  {
+    "id": 18,
+    "question": "What is the feminine gender of 'Gander'?",
+    "options": ["Duck", "Goose", "Swan", "Drake"],
+    "answer": "Goose",
+    "explanation": "'Gander' (রাজহাঁস) শব্দের ফেমিনিন জেন্ডার হলো 'Goose' (মাদি রাজহাঁস)।"
+  },
+  {
+    "id": 19,
+    "question": "Find the feminine form of 'Boar'.",
+    "options": ["Pig", "Piglet", "Sow", "She-boar"],
+    "answer": "Sow",
+    "explanation": "'Boar' (বুনো শুকর)-এর ফেমিনিন জেন্ডার হলো 'Sow' (মাদি শুকর)।"
+  },
+  {
+    "id": 20,
+    "question": "What is the feminine of 'Stag'?",
+    "options": ["Doe", "Roes", "Mare", "Hind"],
+    "answer": "Hind",
+    "explanation": "'Stag' (পুরুষ হরিণ)-এর ফেমিনিন জেন্ডার হলো 'Hind' (মাদি হরিণ)।"
+  },
+  {
+    "id": 21,
+    "question": "Select the feminine gender of 'Earl'.",
+    "options": ["Countess", "Earless", "Lady-earl", "Queen"],
+    "answer": "Countess",
+    "explanation": "'Earl' (ব্রিটেনের অভিজাত ব্যক্তি)-এর ফেমিনিন জেন্ডার হলো 'Countess' (কাউন্টেস)।"
+  },
+  {
+    "id": 22,
+    "question": "What is the feminine of 'Ram'?",
+    "options": ["Sheep", "Ewe", "She-ram", "Lamb"],
+    "answer": "Ewe",
+    "explanation": "'Ram' (ভেড়া) শব্দের ফেমিনিন জেন্ডার হলো 'Ewe' (ভেড়ী)। এটি পরীক্ষায় প্রায়ই দেখা যায়।"
+  },
+  {
+    "id": 23,
+    "question": "Find the feminine gender of 'Stallion'.",
+    "options": ["She-stallion", "Filly", "Mare", "Pony"],
+    "answer": "Mare",
+    "explanation": "'Stallion' (প্রজননক্ষম পুরুষ ঘোড়া)-এর ফেমিনিন জেন্ডার হলো 'Mare' (ঘোটকী)।"
+  },
+  {
+    "id": 24,
+    "question": "What is the feminine form of 'Host'?",
+    "options": ["Hoste", "Hostesss", "Lady-host", "Hostess"],
+    "answer": "Hostess",
+    "explanation": "'Host' (অতিথেয়তা প্রদানকারী)-এর সাথে সরাসরি '-ess' যোগ হয়ে 'Hostess' হয়।"
+  },
+  {
+    "id": 25,
+    "question": "Select the feminine gender of 'Master'.",
+    "options": ["Mistress", "Masteress", "Madam", "Miss"],
+    "answer": "Mistress",
+    "explanation": "'Master' শব্দের ফেমিনিন জেন্ডার হলো 'Mistress'। এখানে বানানের উল্লেখযোগ্য পরিবর্তন হয়।"
+  },
+  {
+    "id": 26,
+    "question": "What is the feminine of 'Mayor'?",
+    "options": ["Lady-mayor", "Mayoress", "Mayoresss", "She-mayor"],
+    "answer": "Mayoress",
+    "explanation": "'Mayor' (পৌরপিতা)-এর শেষে সরাসরি '-ess' যুক্ত হয়ে 'Mayoress' (পৌর মাতা) হয়।"
+  },
+  {
+    "id": 27,
+    "question": "Identify the feminine form of 'Waiter'.",
+    "options": ["Waiteress", "Waiters", "Waitress", "Lady-waiter"],
+    "answer": "Waitress",
+    "explanation": "শব্দের শেষের '-er' এর পূর্বের Vowel (e) বাদ গিয়ে '-ess' যোগ হয়। Waiter -> Waitress."
+  },
+  {
+    "id": 28,
+    "question": "What is the feminine gender of 'Hunter'?",
+    "options": ["Hunteress", "Lady-hunter", "Hunterress", "Huntress"],
+    "answer": "Huntress",
+    "explanation": "'Hunter' (শিকারি)-এর ক্ষেত্রে শেষের 'e' বাদ গিয়ে '-ess' যুক্ত হয়ে 'Huntress' হয়।"
+  },
+  {
+    "id": 29,
+    "question": "Find the feminine of 'Governor'.",
+    "options": ["Governess", "Governoress", "Matron", "Lady-governor"],
+    "answer": "Governess",
+    "explanation": "'Governor' (শাসক)-এর ফেমিনিন জেন্ডার হলো 'Governess' (শিক্ষয়িত্রী বা পালিকা)। বানানের পরিবর্তনটি মনে রাখা জরুরি।"
+  },
+  {
+    "id": 30,
+    "question": "What is the feminine gender of 'Step-father'?",
+    "options": ["Step-daughter", "Step-mother", "Step-sister", "Step-aunt"],
+    "answer": "Step-mother",
+    "explanation": "যৌগিক শব্দের ক্ষেত্রে প্রধান পুরুষবাচক অংশটি পরিবর্তিত হয়। Step-father -> Step-mother (সৎমা)।"
+  },
+  {
+    "id": 31,
+    "question": "Select the feminine form of 'He-goat'.",
+    "options": ["Female-goat", "Lady-goat", "She-goat", "Nanny-goat"],
+    "answer": "She-goat",
+    "explanation": "'He-goat' (পাঁঠা)-এর ফেমিনিন হলো 'She-goat' (ছাগী)। অনেক সময় একে Nanny-goat ও বলা হয়, তবে She-goat বেশি প্রচলিত।"
+  },
+  {
+    "id": 32,
+    "question": "What is the feminine of 'Washerman'?",
+    "options": ["Washmaid", "Washergirl", "Washerlady", "Washerwoman"],
+    "answer": "Washerwoman",
+    "explanation": "যৌগিক শব্দের শেষ অংশ '-man' থাকলে তা '-woman' এ পরিবর্তিত হয়। Washerman -> Washerwoman (ধোপানি)।"
+  },
+  {
+    "id": 33,
+    "question": "Find the feminine gender of 'Landlord'.",
+    "options": ["Landlady", "Landwoman", "Landowner", "Landmistress"],
+    "answer": "Landlady",
+    "explanation": "'Landlord' (বাড়িওয়ালা)-এর ফেমিনিন জেন্ডার হলো 'Landlady' (বাড়িওয়ালি)।"
+  },
+  {
+    "id": 34,
+    "question": "What is the feminine form of 'Milkman'?",
+    "options": ["Milkwoman", "Milkmaid", "Milkladie", "Milk-girl"],
+    "answer": "Milkmaid",
+    "explanation": "'Milkman' (গোয়ালা)-এর ফেমিনিন জেন্ডার হিসেবে সাধারণত 'Milkmaid' (গোয়ালিনী) বেশি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 35,
+    "question": "Select the feminine gender of 'Grandfather'.",
+    "options": ["Grandlady", "Grandparent", "Grandmother", "Grandaunt"],
+    "answer": "Grandmother",
+    "explanation": "যৌগিক শব্দের শেষ অংশটি পরিবর্তিত হয়। Grandfather (দাদু/ঠাকুরদা) -> Grandmother (ঠাকুমা/দিদিমা)।"
+  },
+  {
+    "id": 36,
+    "question": "What is the feminine of 'Manservant'?",
+    "options": ["Womanservant", "Servantmaid", "Lady-servant", "Maidservant"],
+    "answer": "Maidservant",
+    "explanation": "'Manservant' (চাকর)-এর ফেমিনিন জেন্ডার হলো 'Maidservant' (চাকরানি)। এটি একটি গুরুত্বপূর্ণ প্রশ্ন।"
+  },
+  {
+    "id": 37,
+    "question": "Choose the feminine gender of 'Uncle'.",
+    "options": ["Aunt", "Niece", "Mother", "Sister"],
+    "answer": "Aunt",
+    "explanation": "'Uncle' (কাকু/জ্যাঠা/মামা)-এর ফেমিনিন জেন্ডার হলো 'Aunt' (কাকিমা/জেঠিমা/মামিমা)।"
+  },
+  {
+    "id": 38,
+    "question": "What is the feminine form of 'Widower'?",
+    "options": ["Widowess", "Widow", "Widow-woman", "Wife"],
+    "answer": "Widow",
+    "explanation": "'Widower' (বিপত্নীক) শব্দটি একটি পুরুষবাচক শব্দ। এর ফেমিনিন জেন্ডার হলো 'Widow' (বিধবা)। এটি সাধারণ নিয়মের বিপরীত।"
+  },
+  {
+    "id": 39,
+    "question": "Find the feminine gender of 'Testator'.",
+    "options": ["Testatoress", "Testaress", "Testatrix", "Testatress"],
+    "answer": "Testatrix",
+    "explanation": "ল্যাটিন শব্দে '-tor' থাকলে ফেমিনিনে তা '-trix' হয়। Testator (উইলকারী) -> Testatrix (উইলকারিণী)।"
+  },
+  {
+    "id": 40,
+    "question": "What is the feminine of 'Executor'?",
+    "options": ["Executoress", "Lady-executor", "Executress", "Executrix"],
+    "answer": "Executrix",
+    "explanation": "একই নিয়মে '-tor' পরিবর্তিত হয়ে '-trix' হয়। Executor (সম্পাদনাকারী) -> Executrix (সম্পাদনাকারিণী)।"
+  },
+  {
+    "id": 41,
+    "question": "Select the feminine gender of 'Signor'.",
+    "options": ["Signora", "Signoress", "Lady Signor", "Signorina"],
+    "answer": "Signora",
+    "explanation": "'Signor' (ইতালীয় ভাষায় মহাশয়)-এর ফেমিনিন জেন্ডার হলো 'Signora' (মহাশয়া)।"
+  },
+  {
+    "id": 42,
+    "question": "What is the feminine form of 'Dog'?",
+    "options": ["She-dog", "Bitch", "Puppy", "Hound"],
+    "answer": "Bitch",
+    "explanation": "'Dog' (কুকুর)-এর ফেমিনিন জেন্ডার হলো 'Bitch' (মাদি কুকুর)। এটি সম্পূর্ণ ভিন্ন শব্দ।"
+  },
+  {
+    "id": 43,
+    "question": "Find the feminine of 'Colt'.",
+    "options": ["Mare", "Pony", "Filly", "Calf"],
+    "answer": "Filly",
+    "explanation": "'Colt' (পুরুষ ঘোড়ার শাবক)-এর ফেমিনিন জেন্ডার হলো 'Filly' (স্ত্রী ঘোড়ার শাবক)।"
+  },
+  {
+    "id": 44,
+    "question": "What is the feminine gender of 'Buck'?",
+    "options": ["Sheep", "Hind", "Ewe", "Doe"],
+    "answer": "Doe",
+    "explanation": "'Buck' (পুরুষ হরিণ বা খরগোশ)-এর ফেমিনিন জেন্ডার হলো 'Doe' (মাদি হরিণ বা খরগোশ)।"
+  },
+  {
+    "id": 45,
+    "question": "Select the feminine gender of 'Sir'.",
+    "options": ["Madam", "Lady", "Mistress", "Miss"],
+    "answer": "Madam",
+    "explanation": "'Sir' (মহাশয়)-এর ফেমিনিন জেন্ডার হলো 'Madam' (মহাশয়া)।"
+  },
+  {
+    "id": 46,
+    "question": "What is the feminine of 'Drake'?",
+    "options": ["Goose", "Duck", "Swan", "Drake-hen"],
+    "answer": "Duck",
+    "explanation": "'Drake' (পুরুষ পাতিহাঁস) শব্দের ফেমিনিন জেন্ডার হলো 'Duck' (মাদি পাতিহাঁস)।"
+  },
+  {
+    "id": 47,
+    "question": "Find the feminine form of 'Prophet'.",
+    "options": ["Lady-prophet", "Prophetoress", "Prophetess", "Seer"],
+    "answer": "Prophetess",
+    "explanation": "'Prophet' (নবী বা ভবিষ্যদ্বক্তা)-এর সাথে সরাসরি '-ess' যুক্ত হয়ে 'Prophetess' হয়।"
+  },
+  {
+    "id": 48,
+    "question": "What is the feminine gender of 'Poet'?",
+    "options": ["Lady-poet", "Poetress", "Author", "Poetess"],
+    "answer": "Poetess",
+    "explanation": "'Poet' (কবি)-এর শেষে সরাসরি '-ess' যুক্ত হয়ে ফেমিনিন 'Poetess' (মহিলা কবি) তৈরি হয়।"
+  },
+  {
+    "id": 49,
+    "question": "Select the feminine of 'Count'.",
+    "options": ["Countess", "Countress", "Lady Count", "Duchess"],
+    "answer": "Countess",
+    "explanation": "'Count' (ইউরোপীয় অভিজাত ব্যক্তি)-এর ফেমিনিন জেন্ডার হলো 'Countess' (কাউন্টেস)। Earl-এর স্ত্রীলিঙ্গও Countess হয়।"
+  },
+  {
+    "id": 50,
+    "question": "What is the feminine gender of 'Author'?",
+    "options": ["Authress", "Authoress", "Lady-author", "Writer"],
+    "answer": "Authoress",
+    "explanation": "'Author' (লেখক) শব্দের সাথে সরাসরি '-ess' যুক্ত হয়ে 'Authoress' (লেখিকা) হয়।"
+  },
+  {
+    "id": 51,
+    "question": "What is the feminine gender of 'Brother-in-law'?",
+    "options": ["Sister-in-law", "Sister-in-laws", "Brother-in-sister", "Mother-in-law"],
+    "answer": "Sister-in-law",
+    "explanation": "যৌগিক শব্দের (Compound Noun) ক্ষেত্রে মূল বা প্রধান অংশটির জেন্ডার পরিবর্তন করতে হয়। 'Brother' পরিবর্তিত হয়ে 'Sister' হবে।"
+  },
+  {
+    "id": 52,
+    "question": "Choose the correct feminine form of 'Son-in-law'.",
+    "options": ["Daughters-in-law", "Daughter-in-law", "Sister-in-law", "Daughter"],
+    "answer": "Daughter-in-law",
+    "explanation": "একই নিয়মে প্রধান শব্দ 'Son' পরিবর্তিত হয়ে 'Daughter' হবে, তাই 'Daughter-in-law' সঠিক উত্তর।"
+  },
+  {
+    "id": 53,
+    "question": "What is the feminine of 'Tom-cat'?",
+    "options": ["She-cat", "Queen-cat", "Tabby-cat", "Pussy-cat"],
+    "answer": "Tabby-cat",
+    "explanation": "'Tom-cat' (হুলো বিড়াল)-এর ফেমিনিন জেন্ডার হলো 'Tabby-cat' (মাদি বিড়াল)। এটি ব্যতিক্রমী পরিবর্তন হিসেবে পরীক্ষায় আসে।"
+  },
+  {
+    "id": 54,
+    "question": "Find the feminine gender of 'Cock-sparrow'.",
+    "options": ["Pea-hen", "She-sparrow", "Lady-sparrow", "Hen-sparrow"],
+    "answer": "Hen-sparrow",
+    "explanation": "যৌগিক পাখির নামের ক্ষেত্রে পুরুষবাচক অংশ 'Cock' পরিবর্তিত হয়ে স্ত্রীবাচক 'Hen' হয়। তাই এটি 'Hen-sparrow' হবে।"
+  },
+  {
+    "id": 55,
+    "question": "Select the correct feminine form of 'Billy-goat'.",
+    "options": ["Nanny-goat", "She-goat", "Lady-goat", "Female-goat"],
+    "answer": "Nanny-goat",
+    "explanation": "'Billy-goat' (পাঁঠা)-এর ফেমিনিন জেন্ডার হলো 'Nanny-goat' (ছাগী)। 'He-goat' থাকলে 'She-goat' হতো।"
+  },
+  {
+    "id": 56,
+    "question": "What is the feminine gender of 'He-bear'?",
+    "options": ["Female-bear", "She-bear", "Lady-bear", "Bear-ess"],
+    "answer": "She-bear",
+    "explanation": "প্রাণীদের ক্ষেত্রে পুরুষ বোঝাতে 'He' এবং স্ত্রী বোঝাতে 'She' ব্যবহৃত হয়। তাই 'He-bear' থেকে 'She-bear' (মাদি ভাল্লুক) হয়।"
+  },
+  {
+    "id": 57,
+    "question": "Find the feminine of 'Bull-calf'.",
+    "options": ["Female-calf", "She-calf", "Cow-calf", "Heifer-calf"],
+    "answer": "Cow-calf",
+    "explanation": "'Bull-calf' (এঁড়ে বাছুর বা পুরুষ বাছুর)-এর ফেমিনিন জেন্ডার হলো 'Cow-calf' (বোকনা বাছুর বা মাদি বাছুর)।"
+  },
+  {
+    "id": 58,
+    "question": "What is the feminine gender of 'Jack-ass'?",
+    "options": ["She-ass", "Female-ass", "Queen-ass", "Jenny-ass"],
+    "answer": "Jenny-ass",
+    "explanation": "'Jack-ass' (পুরুষ গাধা)-এর ফেমিনিন জেন্ডার হলো 'Jenny-ass' (মাদি গাধা)। এটি একটি খুব গুরুত্বপূর্ণ প্রশ্ন।"
+  },
+  {
+    "id": 59,
+    "question": "Choose the feminine gender of 'Englishman'.",
+    "options": ["Englishwoman", "Englishlady", "Englishgirl", "English-she"],
+    "answer": "Englishwoman",
+    "explanation": "শব্দের শেষে '-man' থাকলে সেটি ফেমিনিনে '-woman' হয়ে যায়। Englishman -> Englishwoman."
+  },
+  {
+    "id": 60,
+    "question": "What is the feminine form of 'Salesman'?",
+    "options": ["Salesgirl", "Saleswoman", "Saleslady", "Sales-female"],
+    "answer": "Saleswoman",
+    "explanation": "একই নিয়মে Salesman-এর স্ত্রীলিঙ্গ Saleswoman হয়। 'Salesgirl' কথ্য ভাষায় ব্যবহৃত হলেও ব্যাকরণগতভাবে 'Saleswoman' সঠিক।"
+  },
+  {
+    "id": 61,
+    "question": "Select the feminine gender of 'Headmaster'.",
+    "options": ["Headwoman", "Headmadam", "Headmistress", "Headlady"],
+    "answer": "Headmistress",
+    "explanation": "প্রধান অংশ 'Master' পরিবর্তিত হয়ে 'Mistress' হবে। তাই Headmaster -> Headmistress (প্রধান শিক্ষিকা)।"
+  },
+  {
+    "id": 62,
+    "question": "What is the feminine of 'Postmaster'?",
+    "options": ["Postwoman", "Postlady", "Postmadam", "Postmistress"],
+    "answer": "Postmistress",
+    "explanation": "এখানেও Master থেকে Mistress হবে। তাই Postmaster (ডাকপাল) এর ফেমিনিন হলো Postmistress।"
+  },
+  {
+    "id": 63,
+    "question": "Find the feminine gender of 'Step-son'.",
+    "options": ["Step-daughter", "Step-sister", "Step-mother", "Step-girl"],
+    "answer": "Step-daughter",
+    "explanation": "যৌগিক শব্দের ক্ষেত্রে 'Son' পরিবর্তিত হয়ে 'Daughter' হবে। Step-son (সৎ ছেলে) -> Step-daughter (সৎ মেয়ে)।"
+  },
+  {
+    "id": 64,
+    "question": "What is the feminine of 'Step-brother'?",
+    "options": ["Step-aunt", "Step-sister", "Step-wife", "Step-lady"],
+    "answer": "Step-sister",
+    "explanation": "এখানে 'Brother' পরিবর্তিত হয়ে 'Sister' হবে। Step-brother (সৎ ভাই) -> Step-sister (সৎ বোন)।"
+  },
+  {
+    "id": 65,
+    "question": "Identify the feminine form of 'Grandson'.",
+    "options": ["Grandchild", "Grandgirl", "Granddaughter", "Grandniece"],
+    "answer": "Granddaughter",
+    "explanation": "Grandson (নাতি)-এর ফেমিনিন জেন্ডার হলো Granddaughter (নাতনি)।"
+  },
+  {
+    "id": 66,
+    "question": "What is the feminine gender of 'Father-in-law'?",
+    "options": ["Mother", "Sister-in-law", "Daughter-in-law", "Mother-in-law"],
+    "answer": "Mother-in-law",
+    "explanation": "প্রধান শব্দ 'Father' পরিবর্তিত হয়ে 'Mother' হবে। তাই Father-in-law (শ্বশুর) -> Mother-in-law (শাশুড়ি)।"
+  },
+  {
+    "id": 67,
+    "question": "Choose the correct feminine of 'Beau'.",
+    "options": ["Belle", "Bella", "Beauess", "Beauty"],
+    "answer": "Belle",
+    "explanation": "'Beau' (সাজগোজ করা বিলাসী পুরুষ) একটি ফরাসি শব্দ, যার ফেমিনিন রূপ হলো 'Belle' (সুন্দরী রমণী)।"
+  },
+  {
+    "id": 68,
+    "question": "What is the feminine gender of 'Sultan'?",
+    "options": ["Sultaness", "Sultana", "Queen", "Empress"],
+    "answer": "Sultana",
+    "explanation": "'Sultan' (সুলতান)-এর শেষে '-a' যুক্ত হয়ে ফেমিনিন 'Sultana' (সুলতানা) তৈরি হয়। এটি বিদেশি শব্দের নিয়ম।"
+  },
+  {
+    "id": 69,
+    "question": "Find the feminine form of 'Viceroy'.",
+    "options": ["Viceroress", "Lady Viceroy", "Vicereine", "Viceroyess"],
+    "answer": "Vicereine",
+    "explanation": "'Viceroy' (রাজপ্রতিনিধি) এর ফেমিনিন জেন্ডার হলো 'Vicereine' (ভাইসরয়ের স্ত্রী)। এটি একটি অত্যন্ত ব্যতিক্রমী পরিবর্তন।"
+  },
+  {
+    "id": 70,
+    "question": "What is the feminine of 'Don'?",
+    "options": ["Lady", "Doness", "Madam", "Donna"],
+    "answer": "Donna",
+    "explanation": "'Don' (স্প্যানিশ সম্মানসূচক উপাধি, মহাশয়)-এর স্ত্রীলিঙ্গ হলো 'Donna' (মহাশয়া)।"
+  },
+  {
+    "id": 71,
+    "question": "Select the feminine gender of 'Murderer'.",
+    "options": ["Murderess", "Murderesss", "Lady-murderer", "She-murderer"],
+    "answer": "Murderess",
+    "explanation": "শব্দের শেষের '-er' এর পর সরাসরি '-ess' যুক্ত হয়ে ফেমিনিন 'Murderess' (খুনি মহিলা) তৈরি হয়।"
+  },
+  {
+    "id": 72,
+    "question": "What is the feminine of 'Sorcerer'?",
+    "options": ["Witch", "Sorceress", "Sorceresss", "Lady-sorcerer"],
+    "answer": "Sorceress",
+    "explanation": "'Sorcerer' (জাদুকর বা তান্ত্রিক)-এর ফেমিনিন জেন্ডার হলো 'Sorceress' (জাদুকরী)।"
+  },
+  {
+    "id": 73,
+    "question": "Find the feminine gender of 'Founder'.",
+    "options": ["Founderess", "Lady-founder", "Foundress", "Foundoress"],
+    "answer": "Foundress",
+    "explanation": "শব্দের শেষের '-er' এর পূর্বের Vowel (e) বাদ গিয়ে '-ess' যোগ হয়। Founder -> Foundress (প্রতিষ্ঠাত্রী)।"
+  },
+  {
+    "id": 74,
+    "question": "What is the feminine form of 'Instructor'?",
+    "options": ["Instructoress", "Lady-instructor", "Instructor", "Instructress"],
+    "answer": "Instructress",
+    "explanation": "শব্দের শেষে '-or' থাকলে পূর্বের Vowel (o) বাদ গিয়ে '-ess' যুক্ত হয়। Instructor -> Instructress (নির্দেশিকা)।"
+  },
+  {
+    "id": 75,
+    "question": "Select the feminine gender of 'Director'.",
+    "options": ["Directress", "Directoress", "Lady-director", "Director-woman"],
+    "answer": "Directress",
+    "explanation": "একই নিয়মে Director (পরিচালক) থেকে Directress (পরিচালিকা) হয়।"
+  },
+  {
+    "id": 76,
+    "question": "What is the feminine of 'Conductor'?",
+    "options": ["Conductoress", "Conductress", "Lady-conductor", "Conductrice"],
+    "answer": "Conductress",
+    "explanation": "Conductor (পরিচালক বা বাসের কন্ডাক্টর) এর শেষে 'o' বাদ গিয়ে '-ess' যুক্ত হয়ে Conductress হয়।"
+  },
+  {
+    "id": 77,
+    "question": "Identify the feminine form of 'Inspector'.",
+    "options": ["Inspectoress", "Lady-inspector", "Inspectress", "Inspectrice"],
+    "answer": "Inspectress",
+    "explanation": "Inspector (পরিদর্শক) পরিবর্তিত হয়ে Inspectress (পরিদর্শিকা) হয়।"
+  },
+  {
+    "id": 78,
+    "question": "What is the feminine gender of 'Traitor'?",
+    "options": ["Traitoress", "Lady-traitor", "Traitor-woman", "Traitress"],
+    "answer": "Traitress",
+    "explanation": "Traitor (বিশ্বাসঘাতক) এর ফেমিনিন জেন্ডার হলো Traitress (বিশ্বাসঘাতিনী)।"
+  },
+  {
+    "id": 79,
+    "question": "Find the feminine of 'Benefactor'.",
+    "options": ["Benefactress", "Benefactoress", "Lady-benefactor", "Benefactrice"],
+    "answer": "Benefactress",
+    "explanation": "Benefactor (উপকারী ব্যক্তি) পরিবর্তিত হয়ে Benefactress (উপকারিণী) হয়।"
+  },
+  {
+    "id": 80,
+    "question": "What is the feminine gender of 'Enchanter'?",
+    "options": ["Witch", "Enchantress", "Enchanteress", "Lady-enchanter"],
+    "answer": "Enchantress",
+    "explanation": "'Enchanter' (জাদুকর) এর ক্ষেত্রে শেষের 'e' বাদ গিয়ে '-ess' যুক্ত হয়ে 'Enchantress' (মায়াবিনী বা জাদুকরী) হয়।"
+  },
+  {
+    "id": 81,
+    "question": "Select the feminine form of 'Giant'.",
+    "options": ["She-giant", "Giant-woman", "Giantess", "Giantress"],
+    "answer": "Giantess",
+    "explanation": "Giant (দৈত্য) এর সাথে সরাসরি '-ess' যুক্ত হয়ে ফেমিনিন Giantess (রাক্ষসী বা দানবী) তৈরি হয়।"
+  },
+  {
+    "id": 82,
+    "question": "What is the feminine of 'Heir'?",
+    "options": ["Heir-woman", "She-heir", "Heiresss", "Heiress"],
+    "answer": "Heiress",
+    "explanation": "'Heir' (উত্তরাধিকারী)-এর সাথে সরাসরি '-ess' যুক্ত হয়ে 'Heiress' (উত্তরাধিকারিণী) হয়।"
+  },
+  {
+    "id": 83,
+    "question": "Find the feminine gender of 'Priest'.",
+    "options": ["Priestess", "Nun", "Lady-priest", "Priest-woman"],
+    "answer": "Priestess",
+    "explanation": "Priest (যাজক বা পুরোহিত)-এর ফেমিনিন জেন্ডার হলো Priestess (মহিলা যাজক বা পুরোহিতানী)।"
+  },
+  {
+    "id": 84,
+    "question": "What is the feminine form of 'Jew'?",
+    "options": ["Lady-jew", "Jewess", "Jew-woman", "Jewish"],
+    "answer": "Jewess",
+    "explanation": "'Jew' (ইহুদি পুরুষ)-এর ফেমিনিন জেন্ডার হলো 'Jewess' (ইহুদি মহিলা)।"
+  },
+  {
+    "id": 85,
+    "question": "Select the feminine gender of 'Tailor'.",
+    "options": ["Tailor-woman", "She-tailor", "Seamstress", "Tailor-lady"],
+    "answer": "Seamstress",
+    "explanation": "Tailor (দর্জি)-এর ফেমিনিন জেন্ডার সাধারণত Tailoress হয়, তবে সবচেয়ে প্রচলিত এবং সঠিক শব্দ হলো 'Seamstress' (মহিলা দর্জি)।"
+  },
+  {
+    "id": 86,
+    "question": "What is the feminine of 'Manager'?",
+    "options": ["Lady-manager", "Manager-woman", "Manager-lady", "Manageress"],
+    "answer": "Manageress",
+    "explanation": "Manager (পরিচালক বা ব্যবস্থাপক)-এর সাথে সরাসরি '-ess' যুক্ত হয়ে Manageress হয়।"
+  },
+  {
+    "id": 87,
+    "question": "Choose the feminine gender of 'Patron'.",
+    "options": ["Patroness", "Matron", "Lady-patron", "Patron-lady"],
+    "answer": "Patroness",
+    "explanation": "'Patron' (পৃষ্ঠপোষক)-এর ফেমিনিন জেন্ডার হলো 'Patroness'।"
+  },
+  {
+    "id": 88,
+    "question": "What is the feminine form of 'Peer'?",
+    "options": ["Lady-peer", "Peeress", "Peer-woman", "Peer-lady"],
+    "answer": "Peeress",
+    "explanation": "'Peer' (অভিজাত ব্যক্তি)-এর ফেমিনিন জেন্ডার হলো 'Peeress'।"
+  },
+  {
+    "id": 89,
+    "question": "Find the feminine gender of 'Shepherd'.",
+    "options": ["Shepherd-woman", "She-shepherd", "Shepherdess", "Shepherdy"],
+    "answer": "Shepherdess",
+    "explanation": "Shepherd (মেষপালক)-এর শেষে '-ess' যুক্ত হয়ে ফেমিনিন Shepherdess (মহিলা মেষপালক) হয়।"
+  },
+  {
+    "id": 90,
+    "question": "What is the feminine of 'Tutor'?",
+    "options": ["Tutor-woman", "Lady-tutor", "Tutor-lady", "Tutoress"],
+    "answer": "Tutoress",
+    "explanation": "Tutor (গৃহশিক্ষক)-এর ফেমিনিন জেন্ডার হলো Tutoress। তবে আধুনিক ইংরাজিতে Tutor উভয় লিঙ্গেই ব্যবহৃত হয়।"
+  },
+  {
+    "id": 91,
+    "question": "Which of the following is a 'Common Gender'?",
+    "options": ["Orphan", "Lion", "Mare", "King"],
+    "answer": "Orphan",
+    "explanation": "যে শব্দ দিয়ে পুরুষ ও স্ত্রী উভয়কেই বোঝায় তাকে Common Gender বলে। 'Orphan' (অনাথ) ছেলে বা মেয়ে যে কেউই হতে পারে।"
+  },
+  {
+    "id": 92,
+    "question": "Identify the 'Common Gender' noun from the options.",
+    "options": ["Actor", "Cousin", "Hen", "Boy"],
+    "answer": "Cousin",
+    "explanation": "'Cousin' শব্দটি খুড়তুতো/মাসতুতো ভাই বা বোন উভয়কেই বোঝায়, তাই এটি Common Gender।"
+  },
+  {
+    "id": 93,
+    "question": "Which word represents both male and female (Common Gender)?",
+    "options": ["Nephew", "Niece", "Spouse", "Uncle"],
+    "answer": "Spouse",
+    "explanation": "'Spouse' বলতে স্বামী বা স্ত্রী যেকোনো একজনকেই বোঝাতে পারে, তাই এটি Common Gender।"
+  },
+  {
+    "id": 94,
+    "question": "Find the 'Common Gender' from the given list.",
+    "options": ["Bull", "Vixen", "Nun", "Monarch"],
+    "answer": "Monarch",
+    "explanation": "'Monarch' মানে শাসক বা রাজা/রানী। এটি পুরুষ বা মহিলা যে কেউ হতে পারেন, তাই এটি Common Gender।"
+  },
+  {
+    "id": 95,
+    "question": "In English literature, the 'Sun' is often personified as:",
+    "options": ["Masculine Gender", "Feminine Gender", "Common Gender", "Neuter Gender"],
+    "answer": "Masculine Gender",
+    "explanation": "জড় পদার্থকে লিঙ্গ দান করার সময় (Personification) শক্তি, বিশালতা, বা প্রচণ্ডতা বোঝাতে Masculine Gender (পুংলিঙ্গ) ধরা হয়। সূর্য এর একটি দারুণ উদাহরণ।"
+  },
+  {
+    "id": 96,
+    "question": "In English literature, the 'Earth' is generally personified as:",
+    "options": ["Masculine Gender", "Feminine Gender", "Common Gender", "Neuter Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "সৌন্দর্য, স্নিগ্ধতা, বা উৎপাদনশীলতা (প্রকৃতি মাতার রূপ) বোঝাতে জড় বস্তুকে Feminine Gender (স্ত্রীলিঙ্গ) ধরা হয়। তাই Earth বা পৃথিবীকে Feminine ধরা হয়।"
+  },
+  {
+    "id": 97,
+    "question": "A 'Ship' is traditionally referred to as which gender in English?",
+    "options": ["Masculine Gender", "Neuter Gender", "Feminine Gender", "Common Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "ইংরাজি সাহিত্যে বা নাবিকদের কাছে 'Ship' (জাহাজ)-কে ঐতিহ্যগতভাবে Feminine Gender (স্ত্রীলিঙ্গ - She) হিসেবে আখ্যায়িত করা হয়।"
+  },
+  {
+    "id": 98,
+    "question": "'Death' is usually personified as:",
+    "options": ["Feminine Gender", "Common Gender", "Neuter Gender", "Masculine Gender"],
+    "answer": "Masculine Gender",
+    "explanation": "ভয়ংকর বা নিষ্ঠুর কিছু বোঝাতে Masculine Gender ব্যবহৃত হয়। 'Death' (মৃত্যু) নিষ্ঠুরতার প্রতীক হওয়ায় একে পুংলিঙ্গ ধরা হয়।"
+  },
+  {
+    "id": 99,
+    "question": "'Nature' is generally treated as which gender when personified?",
+    "options": ["Feminine Gender", "Masculine Gender", "Neuter Gender", "Common Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "'Nature' (প্রকৃতি) হলো সৃষ্টি ও সৌন্দর্যের প্রতীক। তাই একে Feminine Gender (প্রকৃতি মাতা বা Mother Nature) হিসেবে ধরা হয়।"
+  },
+  {
+    "id": 100,
+    "question": "The 'Moon' is personified as which gender for its beauty and gentleness?",
+    "options": ["Masculine Gender", "Feminine Gender", "Neuter Gender", "Common Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "চাঁদ বা 'Moon'-কে তার স্নিগ্ধতা, সৌন্দর্য এবং নম্রতার জন্য ইংরাজিতে Feminine Gender (স্ত্রীলিঙ্গ) হিসেবে ধরা হয়।"
+  },
+  {
+    "id": 101,
+    "question": "What is the feminine gender of 'Abbot'?",
+    "options": ["Abbess", "Abbotess", "Lady-abbot", "Abbotress"],
+    "answer": "Abbess",
+    "explanation": "'Abbot' (মঠাধ্যক্ষ)-এর ফেমিনিন জেন্ডার হলো 'Abbess' (মঠাধ্যক্ষা)। এটি একটি ব্যতিক্রমী এবং প্রতিযোগিতামূলক পরীক্ষার জন্য গুরুত্বপূর্ণ শব্দ।"
+  },
+  {
+    "id": 102,
+    "question": "Choose the feminine form of 'Marquis'.",
+    "options": ["Marquisess", "Marchioness", "Lady-marquis", "Marquise"],
+    "answer": "Marchioness",
+    "explanation": "'Marquis' (ইউরোপীয় অভিজাত পদবী)-এর ফেমিনিন জেন্ডার হলো 'Marchioness' (মার্শনেস)। বানানটি বিশেষভাবে মনে রাখা প্রয়োজন।"
+  },
+  {
+    "id": 103,
+    "question": "What is the masculine gender of 'Bride'?",
+    "options": ["Brideman", "Husband", "Bridegroom", "Groomer"],
+    "answer": "Bridegroom",
+    "explanation": "'Bride' (কনে)-এর পুংলিঙ্গ বা Masculine Gender হলো 'Bridegroom' (বর)।"
+  },
+  {
+    "id": 104,
+    "question": "Find the feminine gender of 'Ambassador'.",
+    "options": ["Ambassadoress", "Lady-ambassador", "Ambassatrix", "Ambassadress"],
+    "answer": "Ambassadress",
+    "explanation": "'Ambassador' (রাষ্ট্রদূত)-এর শেষের '-or'-এর আগের Vowel (o) বাদ গিয়ে '-ess' যোগ হয়ে 'Ambassadress' হয়।"
+  },
+  {
+    "id": 105,
+    "question": "Select the correct feminine form of 'Protector'.",
+    "options": ["Protectress", "Protectoress", "Lady-protector", "Protectrix"],
+    "answer": "Protectress",
+    "explanation": "'Protector' (রক্ষকর্তা)-এর ফেমিনিন জেন্ডার হলো 'Protectress' (রক্ষাকর্ত্রী)।"
+  },
+  {
+    "id": 106,
+    "question": "What is the feminine gender of 'Ogre'?",
+    "options": ["She-ogre", "Ogress", "Ogroress", "Lady-ogre"],
+    "answer": "Ogress",
+    "explanation": "'Ogre' (রাক্ষস বা দৈত্য)-এর ফেমিনিন জেন্ডার হলো 'Ogress' (রাক্ষসী)।"
+  },
+  {
+    "id": 107,
+    "question": "Find the feminine of 'Songster'.",
+    "options": ["Songbird", "Lady-songster", "Songstress", "Songsteress"],
+    "answer": "Songstress",
+    "explanation": "'Songster' (গায়ক)-এর ফেমিনিন জেন্ডার হলো 'Songstress' (গায়িকা)।"
+  },
+  {
+    "id": 108,
+    "question": "What is the masculine form of 'Madam'?",
+    "options": ["Master", "Lord", "Signor", "Sir"],
+    "answer": "Sir",
+    "explanation": "'Madam' (মহাশয়া)-এর Masculine Gender বা পুংলিঙ্গ হলো 'Sir' (মহাশয়)।"
+  },
+  {
+    "id": 109,
+    "question": "Choose the masculine gender of 'Nun'.",
+    "options": ["Monk", "Priest", "Lord", "Abbot"],
+    "answer": "Monk",
+    "explanation": "'Nun' (সন্ন্যাসিনী)-এর Masculine Gender হলো 'Monk' (সন্ন্যাসী)।"
+  },
+  {
+    "id": 110,
+    "question": "What is the feminine gender of 'Viscount'?",
+    "options": ["Viscount", "Viscountess", "Lady-viscount", "Countess"],
+    "answer": "Viscountess",
+    "explanation": "'Viscount' (ব্রিটিশ অভিজাত উপাধি)-এর ফেমিনিন জেন্ডার হলো 'Viscountess'।"
+  },
+  {
+    "id": 111,
+    "question": "Select the feminine gender of 'Lion'.",
+    "options": ["Lion-woman", "She-lion", "Lioness", "Lioress"],
+    "answer": "Lioness",
+    "explanation": "'Lion' (সিংহ)-এর সাথে সরাসরি '-ess' যুক্ত হয়ে ফেমিনিন 'Lioness' (সিংহী) তৈরি হয়।"
+  },
+  {
+    "id": 112,
+    "question": "What is the feminine of 'Leopard'?",
+    "options": ["She-leopard", "Lady-leopard", "Leopardress", "Leopardess"],
+    "answer": "Leopardess",
+    "explanation": "'Leopard' (চিতাবাঘ)-এর শেষে '-ess' যুক্ত হয়ে ফেমিনিন জেন্ডার 'Leopardess' (মাদি চিতাবাঘ) হয়।"
+  },
+  {
+    "id": 113,
+    "question": "Find the feminine form of 'Bullock'.",
+    "options": ["Heifer", "Cow", "Mare", "Ewe"],
+    "answer": "Heifer",
+    "explanation": "'Bullock' বা 'Steer' (বলদ বা দামড়া)-এর ফেমিনিন জেন্ডার হলো 'Heifer' (বকনা বাছুর)।"
+  },
+  {
+    "id": 114,
+    "question": "What is the feminine gender of 'Hart'?",
+    "options": ["Hind", "Roe", "Doe", "Ewe"],
+    "answer": "Roe",
+    "explanation": "'Hart' (এক বিশেষ প্রজাতির পুরুষ হরিণ)-এর ফেমিনিন জেন্ডার হলো 'Roe' (মাদি হরিণ)। ('Stag'-এর ফেমিনিন 'Hind' হয়)।"
+  },
+  {
+    "id": 115,
+    "question": "Select the feminine gender of 'Rooster'.",
+    "options": ["Duck", "Goose", "Hen", "Peahen"],
+    "answer": "Hen",
+    "explanation": "'Rooster' বা 'Cock' (মোরগ)-এর ফেমিনিন জেন্ডার হলো 'Hen' (মুরগি)।"
+  },
+  {
+    "id": 116,
+    "question": "What is the feminine of 'Tom-turkey'?",
+    "options": ["Turkey-hen", "She-turkey", "Lady-turkey", "Hen-turkey"],
+    "answer": "Hen-turkey",
+    "explanation": "যৌগিক পাখির নামের ক্ষেত্রে 'Tom' বা 'Cock' পরিবর্তিত হয়ে 'Hen' হয়। তাই Tom-turkey -> Hen-turkey."
+  },
+  {
+    "id": 117,
+    "question": "Identify the feminine form of 'Cob' (Male Swan).",
+    "options": ["Pen", "Swaness", "She-swan", "Goose"],
+    "answer": "Pen",
+    "explanation": "'Cob' (পুরুষ রাজহাঁস)-এর ফেমিনিন জেন্ডার হলো 'Pen' (স্ত্রী রাজহাঁস)। এটি খুব আনকমন এবং গুরুত্বপূর্ণ একটি প্রশ্ন।"
+  },
+  {
+    "id": 118,
+    "question": "What is the feminine gender of 'Bull-elephant'?",
+    "options": ["She-elephant", "Cow-elephant", "Elephantess", "Female-elephant"],
+    "answer": "Cow-elephant",
+    "explanation": "হাতি বা তিমির মতো বড় প্রাণীদের পুরুষ বাচক শব্দ বোঝাতে 'Bull' এবং স্ত্রী বাচক বোঝাতে 'Cow' ব্যবহৃত হয়। তাই Bull-elephant -> Cow-elephant."
+  },
+  {
+    "id": 119,
+    "question": "What is the masculine gender of 'Doe'?",
+    "options": ["Bull", "Ram", "Buck", "Stag"],
+    "answer": "Buck",
+    "explanation": "'Doe' (মাদি হরিণ বা খরগোশ)-এর Masculine Gender হলো 'Buck' (পুরুষ হরিণ বা খরগোশ)।"
+  },
+  {
+    "id": 120,
+    "question": "Find the masculine form of 'Witch'.",
+    "options": ["Enchanter", "Sorcerer", "Demon", "Wizard"],
+    "answer": "Wizard",
+    "explanation": "'Witch' (ডাইনি)-এর Masculine Gender হলো 'Wizard' (জাদুকর)।"
+  },
+  {
+    "id": 121,
+    "question": "What is the masculine gender of 'Spinster'?",
+    "options": ["Bachelor", "Man", "Husband", "Boy"],
+    "answer": "Bachelor",
+    "explanation": "'Spinster' (অবিবাহিতা নারী বা কুমারী)-এর Masculine Gender হলো 'Bachelor' (অবিবাহিত পুরুষ বা কুমার)।"
+  },
+  {
+    "id": 122,
+    "question": "Select the feminine gender of 'He-wolf'.",
+    "options": ["Lady-wolf", "She-wolf", "Wolfess", "Female-wolf"],
+    "answer": "She-wolf",
+    "explanation": "প্রাণীদের ক্ষেত্রে পুংলিঙ্গ বোঝাতে 'He' এবং স্ত্রীলিঙ্গ বোঝাতে 'She' ব্যবহৃত হয়। তাই He-wolf -> She-wolf."
+  },
+  {
+    "id": 123,
+    "question": "What is the feminine of 'Buck-rabbit'?",
+    "options": ["She-rabbit", "Female-rabbit", "Doe-rabbit", "Rabbit-cow"],
+    "answer": "Doe-rabbit",
+    "explanation": "যৌগিক শব্দের প্রথম অংশ 'Buck' পরিবর্তিত হয়ে 'Doe' হয়। তাই Buck-rabbit (পুরুষ খরগোশ) -> Doe-rabbit (মাদি খরগোশ)।"
+  },
+  {
+    "id": 124,
+    "question": "What is the Common Gender for 'Brother' and 'Sister'?",
+    "options": ["Relative", "Cousin", "Family", "Sibling"],
+    "answer": "Sibling",
+    "explanation": "ভাই বা বোন উভয়কেই বোঝাতে Common Gender হিসেবে 'Sibling' (সহোদর/সহোদরা) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 125,
+    "question": "What is the Common Gender for 'Son' and 'Daughter'?",
+    "options": ["Child", "Parent", "Sibling", "Spouse"],
+    "answer": "Child",
+    "explanation": "ছেলে বা মেয়ে উভয়কেই বোঝাতে Common Gender হিসেবে 'Child' (সন্তান) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 126,
+    "question": "What is the Common Gender for 'King' and 'Queen'?",
+    "options": ["Ruler", "Monarch", "Emperor", "Sovereign"],
+    "answer": "Monarch",
+    "explanation": "রাজা বা রানী উভয়কেই একত্রে Common Gender-এ 'Monarch' (শাসক বা সম্রাট/সম্রাজ্ঞী) বলা হয়।"
+  },
+  {
+    "id": 127,
+    "question": "Choose the masculine form of 'Lady'.",
+    "options": ["Lord", "Sir", "Gentleman", "Man"],
+    "answer": "Gentleman",
+    "explanation": "'Lady' (ভদ্রমহিলা)-এর Masculine Gender হলো 'Gentleman' (ভদ্রলোক)।"
+  },
+  {
+    "id": 128,
+    "question": "What is the masculine gender of 'Duchess'?",
+    "options": ["King", "Earl", "Count", "Duke"],
+    "answer": "Duke",
+    "explanation": "'Duchess' (ডাচেস)-এর Masculine Gender হলো 'Duke' (ডিউক)।"
+  },
+  {
+    "id": 129,
+    "question": "Find the masculine form of 'Empress'.",
+    "options": ["Emperor", "King", "Lord", "Monarch"],
+    "answer": "Emperor",
+    "explanation": "'Empress' (সম্রাজ্ঞী)-এর পুংলিঙ্গ বা Masculine Gender হলো 'Emperor' (সম্রাট)।"
+  },
+  {
+    "id": 130,
+    "question": "What is the feminine gender of 'Lad'?",
+    "options": ["Lady", "Lass", "Girl", "Woman"],
+    "answer": "Lass",
+    "explanation": "'Lad' (বালক বা ছোকরা)-এর ফেমিনিন জেন্ডার হলো 'Lass' (বালিকা বা ছুঁড়ি)। এটি স্কটিশ ইংরাজি থেকে এসেছে।"
+  },
+  {
+    "id": 131,
+    "question": "Select the masculine gender of 'Countess'.",
+    "options": ["Duke", "Baron", "Earl", "Viscount"],
+    "answer": "Earl",
+    "explanation": "'Countess'-এর Masculine Gender হিসেবে 'Count' বা 'Earl' উভয়ই হয়। অপশনে 'Earl' থাকায় এটি সঠিক।"
+  },
+  {
+    "id": 132,
+    "question": "What is the masculine of 'Landlady'?",
+    "options": ["House-owner", "Landman", "Landmaster", "Landlord"],
+    "answer": "Landlord",
+    "explanation": "'Landlady' (বাড়িওয়ালি)-এর Masculine Gender হলো 'Landlord' (বাড়িওয়ালা)।"
+  },
+  {
+    "id": 133,
+    "question": "Find the masculine gender of 'Peahen'.",
+    "options": ["Peacock", "Peabird", "Cock-sparrow", "Rooster"],
+    "answer": "Peacock",
+    "explanation": "'Peahen' (ময়ূরী)-এর Masculine Gender হলো 'Peacock' (ময়ূর)।"
+  },
+  {
+    "id": 134,
+    "question": "What is the masculine form of 'Niece'?",
+    "options": ["Uncle", "Nephew", "Cousin", "Brother"],
+    "answer": "Nephew",
+    "explanation": "'Niece' (ভাইঝি বা ভাগ্নি)-এর Masculine Gender হলো 'Nephew' (ভাইপো বা ভাগ্নে)।"
+  },
+  {
+    "id": 135,
+    "question": "In English literature, 'Time' is personified as:",
+    "options": ["Feminine Gender", "Neuter Gender", "Masculine Gender", "Common Gender"],
+    "answer": "Masculine Gender",
+    "explanation": "শক্তি, নির্মমতা বা বিশালতা বোঝাতে জড় পদার্থকে Masculine Gender (পুংলিঙ্গ) ধরা হয়। সময় বা 'Time' কারও জন্য অপেক্ষা করে না, তাই একে Masculine ধরা হয়।"
+  },
+  {
+    "id": 136,
+    "question": "'Winter' is traditionally personified as:",
+    "options": ["Common Gender", "Feminine Gender", "Neuter Gender", "Masculine Gender"],
+    "answer": "Masculine Gender",
+    "explanation": "'Winter' বা শীতকালকে তার রুক্ষতা এবং কাঠিন্যের কারণে ইংরাজিতে Masculine Gender হিসেবে ধরা হয়।"
+  },
+  {
+    "id": 137,
+    "question": "The 'Ocean' is often personified as which gender?",
+    "options": ["Masculine Gender", "Feminine Gender", "Neuter Gender", "Common Gender"],
+    "answer": "Masculine Gender",
+    "explanation": "মহাসাগর বা 'Ocean'-এর বিশালতা, শক্তি এবং ভয়ংকর রূপের জন্য একে Masculine Gender (পুংলিঙ্গ) হিসেবে কল্পনা করা হয়।"
+  },
+  {
+    "id": 138,
+    "question": "'Spring' is generally personified as:",
+    "options": ["Masculine Gender", "Feminine Gender", "Neuter Gender", "Common Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "'Spring' (বসন্তকাল) সৌন্দর্য, সজীবতা এবং নবসৃষ্টির প্রতীক। তাই একে Feminine Gender (স্ত্রীলিঙ্গ) হিসেবে ধরা হয়।"
+  },
+  {
+    "id": 139,
+    "question": "In poetry, 'Hope' is often personified as:",
+    "options": ["Masculine Gender", "Neuter Gender", "Feminine Gender", "Common Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "'Hope' (আশা), 'Charity' (দান) বা 'Mercy' (দয়া) এর মতো স্নিগ্ধ ও কোমল গুণাবলিকে Feminine Gender বা স্ত্রীলিঙ্গ হিসেবে ধরা হয়।"
+  },
+  {
+    "id": 140,
+    "question": "'Justice' is usually treated as which gender when personified?",
+    "options": ["Masculine Gender", "Common Gender", "Neuter Gender", "Feminine Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "'Justice' (ন্যায়বিচার)-কে ঐতিহ্যগতভাবে একজন অন্ধ চোখ-বাঁধা দেবী হিসেবে (Lady Justice) কল্পনা করা হয়, তাই এটি Feminine Gender।"
+  },
+  {
+    "id": 141,
+    "question": "'Peace' is traditionally personified as:",
+    "options": ["Feminine Gender", "Masculine Gender", "Neuter Gender", "Common Gender"],
+    "answer": "Feminine Gender",
+    "explanation": "'Peace' (শান্তি) হলো সৌন্দর্য ও স্নিগ্ধতার প্রতীক। তাই একে Feminine Gender বা স্ত্রীলিঙ্গ হিসেবে কল্পনা করা হয়।"
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is a 'Neuter Gender'?",
+    "options": ["Baby", "Book", "Cousin", "Pupil"],
+    "answer": "Book",
+    "explanation": "যে শব্দ দ্বারা কোনো অপ্রাণীবাচক বা জড় পদার্থকে বোঝায়, তাকে Neuter Gender (ক্লীবলিঙ্গ) বলে। এখানে 'Book' (বই) হলো জড় পদার্থ।"
+  },
+  {
+    "id": 143,
+    "question": "Identify the 'Common Gender' noun.",
+    "options": ["Rooster", "Witch", "Parent", "Widow"],
+    "answer": "Parent",
+    "explanation": "'Parent' (পিতা বা মাতা) শব্দটি দিয়ে পুরুষ ও স্ত্রী উভয়কেই বোঝায়। তাই এটি Common Gender।"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following belongs to 'Common Gender'?",
+    "options": ["Drake", "Vixen", "Nun", "Pupil"],
+    "answer": "Pupil",
+    "explanation": "'Pupil' (ছাত্র বা ছাত্রী) ছেলে বা মেয়ে যে কেউই হতে পারে। তাই এটি Common Gender।"
+  },
+  {
+    "id": 145,
+    "question": "Find the 'Common Gender' from the given options.",
+    "options": ["Enemy", "Stag", "Filly", "Ram"],
+    "answer": "Enemy",
+    "explanation": "'Enemy' (শত্রু) পুরুষ বা মহিলা উভয়ই হতে পারে। তাই এটি Common Gender (উভয়লিঙ্গ)।"
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is a 'Feminine Gender'?",
+    "options": ["Gander", "Vixen", "Monk", "Colt"],
+    "answer": "Vixen",
+    "explanation": "এখানে একমাত্র 'Vixen' (খেঁকশিয়ালী) হলো স্ত্রীলিঙ্গ বা Feminine Gender। বাকিগুলো পুংলিঙ্গ।"
+  },
+  {
+    "id": 147,
+    "question": "Which of the following is a 'Masculine Gender'?",
+    "options": ["Ewe", "Niece", "Drake", "Spinster"],
+    "answer": "Drake",
+    "explanation": "'Drake' (পুরুষ পাতিহাঁস) হলো Masculine Gender। বাকিগুলো সবই স্ত্রীলিঙ্গ বা Feminine Gender।"
+  },
+  {
+    "id": 148,
+    "question": "What is the feminine gender of 'Proprietor'?",
+    "options": ["Proprietress", "Proprietoress", "Lady-proprietor", "Proprietrix"],
+    "answer": "Proprietress",
+    "explanation": "'Proprietor' (মালিক)-এর শেষের '-or'-এর আগের Vowel (o) বাদ গিয়ে '-ess' যোগ হয়ে ফেমিনিন 'Proprietress' (মালকিন) হয়।"
+  },
+  {
+    "id": 149,
+    "question": "Find the feminine form of 'Preceptor'.",
+    "options": ["Lady-preceptor", "Preceptress", "Preceptoress", "Preceptrix"],
+    "answer": "Preceptress",
+    "explanation": "'Preceptor' (শিক্ষক বা গুরু)-এর ফেমিনিন জেন্ডার হলো 'Preceptress' (শিক্ষিকা)। এটি 'tor' থেকে 'tress' হওয়ার নিয়মে পড়ে।"
+  },
+  {
+    "id": 150,
+    "question": "What is the masculine gender of 'Ewe'?",
+    "options": ["Buck", "Stag", "Bull", "Ram"],
+    "answer": "Ram",
+    "explanation": "'Ewe' (ভেড়ী)-এর Masculine Gender বা পুংলিঙ্গ হলো 'Ram' (ভেড়া)।"
+  }
+]

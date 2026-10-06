@@ -1,0 +1,807 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: It is ______ who am responsible for the delay.",
+    "options": ["me", "I", "mine", "myself"],
+    "answer": "I",
+    "explanation": "'It is' বা 'It was'-এর পর সর্বদা Pronoun-এর Subjective/Nominative case বসে। তাই এখানে 'me' না হয়ে 'I' হবে। পরবর্তী verb 'am' দেখলেও বোঝা যায় এখানে subject 'I' বসবে।"
+  },
+  {
+    "id": 2,
+    "question": "Fill in the blank: Let you and ______ try what we can do.",
+    "options": ["I", "me", "mine", "myself"],
+    "answer": "me",
+    "explanation": "'Let'-এর পর সর্বদা Pronoun-এর Objective case বসে। তাই 'you' (যা এখানে objective case) এর পর 'I' না বসে 'me' বসবে।"
+  },
+  {
+    "id": 3,
+    "question": "Fill in the blank: Between you and ______, he is not a trustworthy person.",
+    "options": ["I", "me", "he", "we"],
+    "answer": "me",
+    "explanation": "Preposition (যেমন- between, among, with, to, for)-এর পর সর্বদা Pronoun-এর Objective case বসে। তাই 'I' এর পরিবর্তে 'me' হবে।"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is the correct order of pronouns?",
+    "options": ["I, you and he", "He, you and I", "You, he and I", "You, I and he"],
+    "answer": "You, he and I",
+    "explanation": "সাধারণ বা ভালো কাজের ক্ষেত্রে singular pronoun-এর ক্রম হয় 231 (Second person, Third person, First person)। তাই 'You (2), he (3) and I (1)' সঠিক।"
+  },
+  {
+    "id": 5,
+    "question": "Fill in the blank: I, you and he ______ made a blunder.",
+    "options": ["have", "has", "am", "is"],
+    "answer": "have",
+    "explanation": "দোষ স্বীকার বা খারাপ কাজের ক্ষেত্রে pronoun-এর ক্রম হয় 123 (First, Second, Third person)। যেহেতু একাধিক subject (I, you and he) যুক্ত হয়েছে, তাই plural verb 'have' বসবে।"
+  },
+  {
+    "id": 6,
+    "question": "Find the correct pronoun: The boy ______ came here is my brother.",
+    "options": ["whom", "whose", "which", "who"],
+    "answer": "who",
+    "explanation": "এখানে ব্যক্তির (The boy) কথা বলা হয়েছে এবং শূন্যস্থানের পর verb (came) আছে। Subject বোঝাতে Relative Pronoun হিসেবে 'who' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 7,
+    "question": "Find the correct pronoun: The man ______ I met yesterday is very famous.",
+    "options": ["who", "whom", "whose", "which"],
+    "answer": "whom",
+    "explanation": "এখানে Object-কে নির্দেশ করা হচ্ছে (আমি লোকটির সাথে দেখা করেছিলাম)। Object বোঝাতে ব্যক্তির ক্ষেত্রে Relative Pronoun হিসেবে 'whom' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 8,
+    "question": "Fill in the blank: This is the only thing ______ I want from you.",
+    "options": ["which", "who", "whom", "that"],
+    "answer": "that",
+    "explanation": "বাক্যে 'only', 'any', 'all', 'none', 'nothing' ইত্যাদি থাকলে Relative Pronoun হিসেবে সর্বদা 'that' বসে, 'which' বা 'who' নয়।"
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: He is one of the greatest leaders ______ have ever lived.",
+    "options": ["who", "whom", "which", "that"],
+    "answer": "that",
+    "explanation": "Superlative Degree (the greatest)-এর পর Relative Pronoun হিসেবে সবসময় 'that' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 10,
+    "question": "Fill in the blank: All ______ glitters is not gold.",
+    "options": ["which", "what", "that", "those"],
+    "answer": "that",
+    "explanation": "প্রবাদ বাক্য 'All that glitters is not gold'-এ 'All'-এর পর সর্বদা 'that' বসে।"
+  },
+  {
+    "id": 11,
+    "question": "Fill in the blank: One should respect ______ parents.",
+    "options": ["his", "her", "their", "one's"],
+    "answer": "one's",
+    "explanation": "Subject যদি Indefinite Pronoun 'One' হয়, তবে তার Possessive form সর্বদা 'one's' হয় (his বা their নয়)।"
+  },
+  {
+    "id": 12,
+    "question": "Fill in the blank: Everyone must do ______ duty.",
+    "options": ["one's", "his", "their", "her"],
+    "answer": "his",
+    "explanation": "'Everyone', 'Everybody', 'Anyone', 'Anybody' ইত্যাদি থাকলে possessive case হিসেবে সাধারণত singular masculine 'his' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 13,
+    "question": "Fill in the blank: Either of the two brothers has brought ______ bag.",
+    "options": ["their", "his", "ones", "theirs"],
+    "answer": "his",
+    "explanation": "'Either of', 'Neither of', 'Each of'-এর পর noun plural হলেও verb এবং pronoun সর্বদা singular (his/her/its) হয়।"
+  },
+  {
+    "id": 14,
+    "question": "Identify the correct pronoun: ______ of the five boys has completed the task.",
+    "options": ["Neither", "None", "Either", "Both"],
+    "answer": "None",
+    "explanation": "দুয়ের বেশি ব্যক্তির মধ্যে 'কেউ না' বোঝাতে 'None' ব্যবহৃত হয়। 'Neither' শুধুমাত্র দুজনের ক্ষেত্রে বসে।"
+  },
+  {
+    "id": 15,
+    "question": "Fill in the blank: ______ of the two sisters is married.",
+    "options": ["None", "Any", "Either", "All"],
+    "answer": "Either",
+    "explanation": "দুজনের মধ্যে যেকোনো একজনকে বোঝাতে 'Either' ব্যবহৃত হয়। 'Any' দুয়ের বেশির ক্ষেত্রে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 16,
+    "question": "Fill in the blank: The two brothers love ______.",
+    "options": ["one another", "each other", "themselves", "each"],
+    "answer": "each other",
+    "explanation": "পারস্পরিক সম্পর্ক বোঝাতে দুজনের ক্ষেত্রে Reciprocal Pronoun 'each other' বসে।"
+  },
+  {
+    "id": 17,
+    "question": "Fill in the blank: The five friends help ______ in times of need.",
+    "options": ["each other", "one another", "themselves", "every other"],
+    "answer": "one another",
+    "explanation": "দুয়ের বেশি ব্যক্তির মধ্যে পারস্পরিক সম্পর্ক বোঝাতে 'one another' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 18,
+    "question": "Fill in the blank: He availed ______ of the opportunity.",
+    "options": ["him", "himself", "his", "oneself"],
+    "answer": "himself",
+    "explanation": "'Avail', 'enjoy', 'pride', 'absent', 'apply' ইত্যাদি verb-এর পর object না থাকলে একটি Reflexive Pronoun (himself, myself ইত্যাদি) বসাতে হয়।"
+  },
+  {
+    "id": 19,
+    "question": "Fill in the blank: We enjoyed ______ at the party.",
+    "options": ["ourselves", "us", "ourself", "our"],
+    "answer": "ourselves",
+    "explanation": "'Enjoy' verb-এর পর কোনো object (যেমন- the music, the food) না থাকলে reflexive pronoun বসে। Subject 'We' হওয়ায় 'ourselves' হবে।"
+  },
+  {
+    "id": 20,
+    "question": "Find the error: He absented from the class yesterday.",
+    "options": ["He absented", "from the", "class yesterday", "No error"],
+    "answer": "He absented",
+    "explanation": "'Absent' verb-টির পর একটি reflexive pronoun বসাতে হয়। সঠিক বাক্যটি হবে: He absented 'himself' from the class yesterday."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: The dog ______ is barking is mine.",
+    "options": ["who", "whom", "which", "whose"],
+    "answer": "which",
+    "explanation": "প্রাণী বা জড়বস্তুর ক্ষেত্রে Relative Pronoun হিসেবে 'which' বা 'that' বসে। 'Who' শুধুমাত্র ব্যক্তির ক্ষেত্রে বসে।"
+  },
+  {
+    "id": 22,
+    "question": "Fill in the blank: The man ______ car was stolen called the police.",
+    "options": ["who", "whom", "which", "whose"],
+    "answer": "whose",
+    "explanation": "অধিকার বা মালিকানা বোঝাতে (যার গাড়ি) Relative Pronoun হিসেবে 'whose' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 23,
+    "question": "Fill in the blank: ______ is your favorite book among these?",
+    "options": ["What", "Which", "Who", "Whose"],
+    "answer": "Which",
+    "explanation": "নির্দিষ্ট কিছু জিনিসের মধ্যে থেকে বেছে নেওয়া (choice) বোঝালে Interrogative Pronoun হিসেবে 'Which' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 24,
+    "question": "Fill in the blank: ______ do you think will win the match?",
+    "options": ["Whom", "Who", "Which", "Whose"],
+    "answer": "Who",
+    "explanation": "এখানে 'will win' verb-এর subject প্রয়োজন। তাই subject হিসেবে 'Who' বসবে (Whom নয়)।"
+  },
+  {
+    "id": 25,
+    "question": "Fill in the blank: ______ did you invite to the party?",
+    "options": ["Who", "Whom", "Which", "What"],
+    "answer": "Whom",
+    "explanation": "এখানে object প্রয়োজন (কাকে আমন্ত্রণ জানিয়েছ)। তাই objective case 'Whom' বসবে।"
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: The climate of Pune is better than ______ of Mumbai.",
+    "options": ["this", "these", "that", "those"],
+    "answer": "that",
+    "explanation": "একই বাক্যে singular noun (climate)-এর পুনরাবৃত্তি এড়াতে Demonstrative Pronoun হিসেবে 'that' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blank: The streets of Kolkata are wider than ______ of Delhi.",
+    "options": ["that", "those", "this", "these"],
+    "answer": "those",
+    "explanation": "এখানে plural noun (streets)-এর পুনরাবৃত্তি এড়াতে 'those' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 28,
+    "question": "Fill in the blank: She prides ______ on her cooking skills.",
+    "options": ["her", "herself", "hers", "she"],
+    "answer": "herself",
+    "explanation": "'Pride' যখন verb হিসেবে ব্যবহৃত হয়, তখন তার পর reflexive pronoun (herself) বসে।"
+  },
+  {
+    "id": 29,
+    "question": "Fill in the blank: Every student must submit ______ assignment.",
+    "options": ["their", "his", "her", "one's"],
+    "answer": "his",
+    "explanation": "'Every' যুক্ত singular noun-এর ক্ষেত্রে pronoun হিসেবে masculine singular 'his' ব্যবহার করা ব্যাকরণগতভাবে আদর্শ (যদি লিঙ্গ নির্দিষ্ট না থাকে)।"
+  },
+  {
+    "id": 30,
+    "question": "Fill in the blank: You and he must do ______ work.",
+    "options": ["your", "his", "their", "our"],
+    "answer": "your",
+    "explanation": "বাক্যে Second (You) এবং Third (He) person থাকলে possessive pronoun সবসময় Second person (your) অনুযায়ী হয়।"
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: You, he and I have done ______ work.",
+    "options": ["your", "their", "our", "my"],
+    "answer": "our",
+    "explanation": "বাক্যে First person (I) থাকলে পুরো group-কে 'আমরা' (We) ধরা হয়, তাই possessive pronoun 'our' বসে।"
+  },
+  {
+    "id": 32,
+    "question": "Fill in the blank: He is the same man ______ I saw yesterday.",
+    "options": ["who", "whom", "that", "which"],
+    "answer": "that",
+    "explanation": "বাক্যে 'the same' বা 'such' থাকলে তার সাথে Relative Pronoun হিসেবে 'that' বা 'as' বসে। এখানে নির্দিষ্ট করে বোঝাচ্ছে বলে 'that' হবে।"
+  },
+  {
+    "id": 33,
+    "question": "Fill in the blank: There is none ______ can help you in this situation.",
+    "options": ["who", "which", "but", "whom"],
+    "answer": "but",
+    "explanation": "Negative শব্দের (none, nothing) পর 'but' একটি relative pronoun হিসেবে কাজ করে যার অর্থ 'who...not' বা 'that...not'।"
+  },
+  {
+    "id": 34,
+    "question": "Fill in the blank: The jury gave ______ verdict.",
+    "options": ["its", "their", "his", "our"],
+    "answer": "its",
+    "explanation": "Collective noun (Jury, Committee, Team) যখন ঐক্যবদ্ধভাবে কাজ করে, তখন singular pronoun 'its' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 35,
+    "question": "Fill in the blank: The committee were divided in ______ opinions.",
+    "options": ["its", "their", "his", "there"],
+    "answer": "their",
+    "explanation": "Collective noun-এর সদস্যদের মধ্যে মতভেদ তৈরি হলে বা আলাদাভাবে বোঝালে (divided), plural pronoun 'their' বসে।"
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: Such a boy ______ he should be rewarded.",
+    "options": ["who", "that", "as", "which"],
+    "answer": "as",
+    "explanation": "'Such'-এর পর Relative Pronoun হিসেবে সাধারণত 'as' ব্যবহৃত হয় (Such ... as)।"
+  },
+  {
+    "id": 37,
+    "question": "Fill in the blank: I know the man ______ they say is a spy.",
+    "options": ["whom", "who", "which", "whose"],
+    "answer": "who",
+    "explanation": "এখানে 'they say' অংশটি বাক্যের মাঝখানে অতিরিক্ত। আসল clause হলো 'who is a spy'। তাই subject হিসেবে 'who' বসবে।"
+  },
+  {
+    "id": 38,
+    "question": "Fill in the blank: Yours is a new car, but ______ is an old one.",
+    "options": ["my", "mine", "me", "I"],
+    "answer": "mine",
+    "explanation": "এখানে 'my car' বোঝাতে Possessive Pronoun 'mine' ব্যবহৃত হবে। 'My' হলো adjective যার পর noun প্রয়োজন।"
+  },
+  {
+    "id": 39,
+    "question": "Identify the incorrect usage: This book is ______. ",
+    "options": ["hers", "yours", "their's", "ours"],
+    "answer": "their's",
+    "explanation": "Possessive pronoun-এর শেষে কখনো apostrophe (') বসে না। সঠিক রূপটি হলো 'theirs' (their's নয়)।"
+  },
+  {
+    "id": 40,
+    "question": "Fill in the blank: A friend of ______ came to meet me.",
+    "options": ["me", "my", "mine", "I"],
+    "answer": "mine",
+    "explanation": "'A friend of mine' একটি সঠিক ইংরেজি গঠন যাকে Double Possessive বলা হয়। এর অর্থ আমার বন্ধুদের মধ্যে একজন।"
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: Is there ______ in the room?",
+    "options": ["somebody", "anybody", "nobody", "someone"],
+    "answer": "anybody",
+    "explanation": "প্রশ্নবোধক (Interrogative) এবং না-বাচক (Negative) বাক্যে সাধারণত 'anybody' বা 'anyone' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 42,
+    "question": "Fill in the blank: He is one of the players who ______ selected for the national team.",
+    "options": ["has been", "have been", "is", "was"],
+    "answer": "have been",
+    "explanation": "Relative Pronoun (who)-এর আগের শব্দ (Antecedent) হলো 'players' (plural)। তাই verb-টিও plural 'have been' হবে।"
+  },
+  {
+    "id": 43,
+    "question": "Fill in the blank: ______ of the questions in this paper is difficult.",
+    "options": ["Every", "None", "Any", "Some"],
+    "answer": "None",
+    "explanation": "'Every' হলো Adjective, এটি একা subject হতে পারে না (Everyone হতে পারে)। তাই pronoun হিসেবে এখানে 'None' বসবে।"
+  },
+  {
+    "id": 44,
+    "question": "Fill in the blank: I shall not buy ______ of these two pens.",
+    "options": ["neither", "either", "none", "any"],
+    "answer": "either",
+    "explanation": "বাক্যটি আগে থেকেই negative (not buy), তাই নতুন করে 'neither' বসবে না। Negative বাক্যে দুজনের মধ্যে বোঝাতে 'either' বসে।"
+  },
+  {
+    "id": 45,
+    "question": "Fill in the blank: Let ______ who can help her do so.",
+    "options": ["he", "him", "his", "himself"],
+    "answer": "him",
+    "explanation": "'Let'-এর পর সর্বদা Objective case বসে। তাই 'he' না হয়ে 'him' বসবে।"
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: We scoring less marks is not entirely ______ fault.",
+    "options": ["our", "ours", "us", "ourselves"],
+    "answer": "our",
+    "explanation": "এখানে 'fault' হলো Noun। Noun-এর আগে possessive adjective 'our' বসবে (ours নয়)।"
+  },
+  {
+    "id": 47,
+    "question": "Find the error: Both of them did not go there.",
+    "options": ["Both of", "them did", "not go", "there"],
+    "answer": "Both of",
+    "explanation": "'Both...not' ইংরেজিতে ব্যবহৃত হয় না। দুজনের কেউই যায়নি বোঝাতে 'Neither of them went there' সঠিক বাক্য।"
+  },
+  {
+    "id": 48,
+    "question": "Fill in the blank: Students should love ______.",
+    "options": ["each other", "one another", "himself", "themselves"],
+    "answer": "one another",
+    "explanation": "'Students' বলতে দুয়ের বেশি বোঝায়, তাই পারস্পরিক সম্পর্ক বোঝাতে 'one another' বসবে।"
+  },
+  {
+    "id": 49,
+    "question": "Fill in the blank: ______ is your house, the red one or the blue one?",
+    "options": ["What", "Where", "Which", "Whose"],
+    "answer": "Which",
+    "explanation": "নির্দিষ্ট অপশনের (লাল না নীল) মধ্যে থেকে বেছে নেওয়ার ক্ষেত্রে 'Which' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 50,
+    "question": "Fill in the blank: ______ am I speaking to?",
+    "options": ["Who", "Whom", "Which", "Whose"],
+    "answer": "Whom",
+    "explanation": "Preposition (to)-এর object হিসেবে 'Whom' বসে। (আধুনিক স্পোকেন ইংলিশে 'Who' চললেও, প্রতিযোগিতামূলক পরীক্ষায় grammar অনুযায়ী 'Whom' সঠিক)।"
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: I do not like ______ going there.",
+    "options": ["him", "his", "he", "himself"],
+    "answer": "his",
+    "explanation": "Gerund (verb+ing)-এর পূর্বে সর্বদা Pronoun-এর Possessive case (his, my, your, our etc.) বসে। তাই 'him going' না হয়ে 'his going' হবে।"
+  },
+  {
+    "id": 52,
+    "question": "Fill in the blank: If I were ______, I would not do this.",
+    "options": ["him", "he", "his", "himself"],
+    "answer": "he",
+    "explanation": "'To be' verb (am, is, are, was, were)-এর পর সর্বদা Pronoun-এর Subjective/Nominative case বসে। তাই 'him'-এর পরিবর্তে 'he' হবে।"
+  },
+  {
+    "id": 53,
+    "question": "Fill in the blank: Everyone attended the seminar except ______.",
+    "options": ["he", "his", "him", "himself"],
+    "answer": "him",
+    "explanation": "Preposition 'except'-এর পর Pronoun-এর Objective case বসে। তাই 'he' না বসে 'him' বসবে।"
+  },
+  {
+    "id": 54,
+    "question": "Fill in the blank: It is you who ______ responsible for this mistake.",
+    "options": ["is", "am", "are", "was"],
+    "answer": "are",
+    "explanation": "Relative Pronoun (who, which, that)-এর ঠিক আগের শব্দটিকে (Antecedent) অনুসরণ করে verb বসে। এখানে 'who'-এর আগে 'you' আছে, তাই verb 'are' হবে।"
+  },
+  {
+    "id": 55,
+    "question": "Identify the correct option: Please keep ______ away from the fire.",
+    "options": ["yourself", "you", "yours", "No pronoun needed"],
+    "answer": "No pronoun needed",
+    "explanation": "কিছু verb যেমন- keep, stop, turn, qualify, bathe, rest, hide-এর পর সাধারণত Reflexive Pronoun (yourself, himself) বসে না। তাই বাক্যটি হবে 'Please keep away from the fire'."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: The man and his dog ______ I saw yesterday have been caught.",
+    "options": ["who", "which", "that", "whom"],
+    "answer": "that",
+    "explanation": "যদি Relative Pronoun-এর আগে একটি ব্যক্তি (The man) এবং একটি প্রাণী বা বস্তু (his dog) 'and' দ্বারা যুক্ত থাকে, তবে Relative Pronoun হিসেবে সর্বদা 'that' বসে।"
+  },
+  {
+    "id": 57,
+    "question": "Fill in the blank: ______ of the five members is present today.",
+    "options": ["Neither", "None", "Either", "Both"],
+    "answer": "None",
+    "explanation": "দুয়ের বেশি ব্যক্তির মধ্যে 'কেউ না' বোঝাতে 'None' ব্যবহৃত হয়। 'Neither' শুধুমাত্র দুজনের ক্ষেত্রে বসে।"
+  },
+  {
+    "id": 58,
+    "question": "Fill in the blank: The teacher ______ we thought was very strict, turned out to be kind.",
+    "options": ["whom", "who", "which", "whose"],
+    "answer": "who",
+    "explanation": "এখানে 'we thought' একটি অতিরিক্ত clause। আসল বাক্যটি হলো 'The teacher (who) was very strict...'. তাই subject হিসেবে 'who' বসবে।"
+  },
+  {
+    "id": 59,
+    "question": "Fill in the blank: He is the man ______ I know you can trust.",
+    "options": ["who", "whom", "which", "that"],
+    "answer": "whom",
+    "explanation": "এখানে 'you can trust'-এর object প্রয়োজন (যাকে তুমি বিশ্বাস করতে পারো)। তাই Objective case 'whom' বসবে।"
+  },
+  {
+    "id": 60,
+    "question": "Fill in the blank: One must keep ______ promise.",
+    "options": ["his", "her", "one's", "oneself"],
+    "answer": "one's",
+    "explanation": "Subject যদি 'One' হয়, তবে তার Possessive form সর্বদা 'one's' হয়। 'his' বা 'her' ব্যবহার করা ব্যাকরণগতভাবে ভুল।"
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank: Let's go for a walk, shall ______?",
+    "options": ["we", "us", "you", "I"],
+    "answer": "we",
+    "explanation": "'Let us' (Let's) দিয়ে বাক্য শুরু হলে Question Tag-এ সর্বদা 'shall we' বসে।"
+  },
+  {
+    "id": 62,
+    "question": "Fill in the blank: Neither of the two answers ______ correct.",
+    "options": ["is", "are", "were", "have been"],
+    "answer": "is",
+    "explanation": "'Neither of' বা 'Either of'-এর পর noun/pronoun plural হলেও Verb সর্বদা singular হয়। তাই 'is' বসবে।"
+  },
+  {
+    "id": 63,
+    "question": "Fill in the blank: Both of the girls ______ beautiful.",
+    "options": ["is", "are", "was", "has"],
+    "answer": "are",
+    "explanation": "'Both'-এর অর্থ 'উভয়েই' বা দুজন। এটি সর্বদা plural, তাই এর পর Plural verb 'are' বসবে।"
+  },
+  {
+    "id": 64,
+    "question": "Fill in the blank: The Queen ______ distributed the prizes.",
+    "options": ["herself", "she", "her", "hers"],
+    "answer": "herself",
+    "explanation": "Subject-কে জোর দেওয়ার জন্য (emphasize) Subject-এর ঠিক পরেই Emphatic Pronoun (herself) ব্যবহৃত হয়েছে। এর অর্থ রানি 'নিজেই'।"
+  },
+  {
+    "id": 65,
+    "question": "Fill in the blank: The table has broken ______ leg.",
+    "options": ["it's", "its", "his", "her"],
+    "answer": "its",
+    "explanation": "জড়বস্তুর ক্ষেত্রে possessive pronoun হিসেবে 'its' বসে। মনে রাখবেন 'it's' মানে 'it is' বা 'it has', তাই 'its' সঠিক।"
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank: The baby is crying because ______ is hungry.",
+    "options": ["he", "she", "it", "they"],
+    "answer": "it",
+    "explanation": "Baby, infant, child-এর লিঙ্গ (gender) নির্দিষ্ট না থাকলে তাদের ক্ষেত্রে pronoun হিসেবে 'it' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 67,
+    "question": "Fill in the blank: ______ is your choice among these candidates?",
+    "options": ["Who", "Whom", "Which", "What"],
+    "answer": "Which",
+    "explanation": "ব্যক্তি হলেও, যখন নির্দিষ্ট কয়েকজনের মধ্যে থেকে বেছে নেওয়ার (selection/choice) কথা আসে, তখন 'Who'-এর পরিবর্তে 'Which' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 68,
+    "question": "Fill in the blank: He is the most intelligent boy ______ I have ever met.",
+    "options": ["who", "whom", "that", "which"],
+    "answer": "that",
+    "explanation": "Superlative Degree (the most intelligent)-এর পর Relative Pronoun হিসেবে সবসময় 'that' বসে।"
+  },
+  {
+    "id": 69,
+    "question": "Fill in the blank: Who is there ______ does not love his country?",
+    "options": ["who", "which", "whom", "that"],
+    "answer": "that",
+    "explanation": "বাক্যটি Interrogative Pronoun (Who, What) দিয়ে শুরু হলে, পরবর্তীতে Relative Pronoun হিসেবে 'that' বসে।"
+  },
+  {
+    "id": 70,
+    "question": "Fill in the blank: I do not understand ______ you say.",
+    "options": ["which", "that", "what", "who"],
+    "answer": "what",
+    "explanation": "'What' এমন একটি Relative Pronoun যার কোনো Antecedent (পূর্ববর্তী noun) থাকে না। 'that which' অর্থে 'what' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank: My views are the same ______ yours.",
+    "options": ["that", "which", "as", "like"],
+    "answer": "as",
+    "explanation": "'The same'-এর পর Relative Pronoun হিসেবে 'as' বসে। (তবে নির্দিষ্ট করে বোঝালে 'that' বসতে পারে)।"
+  },
+  {
+    "id": 72,
+    "question": "Fill in the blank: There is no mother ______ loves her child.",
+    "options": ["who", "whom", "that", "but"],
+    "answer": "but",
+    "explanation": "এখানে 'but' একটি Negative Relative Pronoun হিসেবে কাজ করছে যার অর্থ 'who does not' (এমন কোনো মা নেই যে ভালোবাসে না)।"
+  },
+  {
+    "id": 73,
+    "question": "Fill in the blank: This is my book; that is ______.",
+    "options": ["your", "your's", "yours", "you"],
+    "answer": "yours",
+    "explanation": "Possessive Pronoun-এর শেষে apostrophe বসে না। 'your book' বোঝাতে 'yours' হবে।"
+  },
+  {
+    "id": 74,
+    "question": "Fill in the blank: Let ______ do whatever he likes.",
+    "options": ["he", "his", "him", "himself"],
+    "answer": "him",
+    "explanation": "'Let'-এর পর সর্বদা Objective case বসে, তাই 'he' না হয়ে 'him' হবে।"
+  },
+  {
+    "id": 75,
+    "question": "Fill in the blank: There is no secret between him and ______.",
+    "options": ["I", "me", "my", "mine"],
+    "answer": "me",
+    "explanation": "'Between' একটি preposition। Preposition-এর পর objective case বসে, তাই 'I' না হয়ে 'me' হবে।"
+  },
+  {
+    "id": 76,
+    "question": "Fill in the blank: ______ of the students was present in the class.",
+    "options": ["Every", "Each", "All", "Some"],
+    "answer": "Each",
+    "explanation": "'Every' হলো Adjective, এটি একা Subject হিসেবে বসতে পারে না। Pronoun হিসেবে 'Each' বসবে।"
+  },
+  {
+    "id": 77,
+    "question": "Fill in the blank: He resigned ______ to his fate.",
+    "options": ["him", "his", "himself", "No pronoun needed"],
+    "answer": "himself",
+    "explanation": "'Resign' verb-টি যখন 'আত্মসমর্পণ করা' অর্থে ব্যবহৃত হয়, তখন এর পর একটি Reflexive Pronoun (himself) বসে।"
+  },
+  {
+    "id": 78,
+    "question": "Fill in the blank: The army had to suffer terrible privations in ______ march.",
+    "options": ["its", "their", "his", "our"],
+    "answer": "its",
+    "explanation": "'Army' একটি Collective Noun যা এখানে একক সত্তা (single unit) হিসেবে কাজ করছে, তাই Singular pronoun 'its' বসবে।"
+  },
+  {
+    "id": 79,
+    "question": "Fill in the blank: The audience took ______ seats.",
+    "options": ["its", "their", "his", "theirs"],
+    "answer": "their",
+    "explanation": "এখানে 'Audience' collective noun হলেও 'seats' (আসন) গ্রহণ করার বিষয়টি দর্শকদের আলাদা আলাদা ভাবে বোঝাচ্ছে। তাই Plural pronoun 'their' বসবে।"
+  },
+  {
+    "id": 80,
+    "question": "Fill in the blank: ______ knocking at the door?",
+    "options": ["Who's", "Whose", "Whom", "Who"],
+    "answer": "Who's",
+    "explanation": "এখানে 'Who is'-এর সংক্ষিপ্ত রূপ 'Who's' বসবে। 'Whose' মানে 'যার/কার', যা এখানে অর্থহীন।"
+  },
+  {
+    "id": 81,
+    "question": "Fill in the blank: The apples of Kashmir are better than ______ of Shimla.",
+    "options": ["that", "those", "these", "this"],
+    "answer": "those",
+    "explanation": "Plural noun 'apples'-এর পুনরাবৃত্তি এড়াতে Demonstrative Pronoun হিসেবে 'those' ব্যবহৃত হয়। Singular হলে 'that' হতো।"
+  },
+  {
+    "id": 82,
+    "question": "Fill in the blank: ______ is it that you want?",
+    "options": ["What", "Which", "Who", "Whom"],
+    "answer": "What",
+    "explanation": "সাধারণভাবে কোনো বস্তু বা বিষয় জানতে চাইলে 'What' ব্যবহৃত হয়। নির্দিষ্ট অপশন থেকে বেছে নিলে 'Which' হতো।"
+  },
+  {
+    "id": 83,
+    "question": "Fill in the blank: The ship sank with all ______ passengers.",
+    "options": ["its", "his", "her", "their"],
+    "answer": "her",
+    "explanation": "Ship, country, earth, nature ইত্যাদিকে Personified (ব্যক্তিসত্তা আরোপ) করলে Feminine gender ধরা হয়, তাই 'her' বসে।"
+  },
+  {
+    "id": 84,
+    "question": "Fill in the blank: You can choose ______ of these three books.",
+    "options": ["either", "neither", "any", "both"],
+    "answer": "any",
+    "explanation": "দুয়ের বেশি জিনিসের মধ্যে একটি বেছে নেওয়ার ক্ষেত্রে 'any' বা 'anyone' ব্যবহৃত হয়। 'Either' শুধু দুটির ক্ষেত্রে বসে।"
+  },
+  {
+    "id": 85,
+    "question": "Fill in the blank: None of the boys ______ come yet.",
+    "options": ["has", "have", "is", "are"],
+    "answer": "has",
+    "explanation": "ঐতিহ্যবাহী (Traditional) গ্রামারে 'None'-এর পর Singular verb 'has' বসানোই বেশি সঠিক বলে ধরা হয় (যদিও মডার্ন ইংলিশে plural-ও চলে)।"
+  },
+  {
+    "id": 86,
+    "question": "Find the error: She is more beautiful than me.",
+    "options": ["She is", "more", "beautiful", "than me"],
+    "answer": "than me",
+    "explanation": "'Than' বা 'As'-এর পর Subjective case বসে যখন দুটি Subject-এর মধ্যে তুলনা হয়। সঠিক রূপ: 'than I' (than I am)।"
+  },
+  {
+    "id": 87,
+    "question": "Fill in the blank: Everybody but ______ was present in the meeting.",
+    "options": ["he", "his", "him", "himself"],
+    "answer": "him",
+    "explanation": "এখানে 'but' একটি preposition (অর্থ: ছাড়া/ব্যতীত)। Preposition-এর পর Objective case 'him' বসে।"
+  },
+  {
+    "id": 88,
+    "question": "Find the correct sentence.",
+    "options": ["His all friends are honest.", "All his friends are honest.", "All friends his are honest.", "Honest are his all friends."],
+    "answer": "All his friends are honest.",
+    "explanation": "'All' এবং 'Both' শব্দের পর Possessive Adjective/Pronoun (my, his, your) বসে। তাই 'All his friends' সঠিক।"
+  },
+  {
+    "id": 89,
+    "question": "Fill in the blank: She is one of those women who ______ always complaining.",
+    "options": ["is", "are", "was", "has"],
+    "answer": "are",
+    "explanation": "'who'-এর antecedent হলো 'women' (plural)। তাই verb-টিও Plural 'are' হবে।"
+  },
+  {
+    "id": 90,
+    "question": "Fill in the blank: There is nothing ______ can stop him now.",
+    "options": ["which", "who", "that", "what"],
+    "answer": "that",
+    "explanation": "'Nothing', 'Anything', 'Everything'-এর পর Relative Pronoun হিসেবে 'that' বসে।"
+  },
+  {
+    "id": 91,
+    "question": "Fill in the blank: I know the boy ______ father is a doctor.",
+    "options": ["who", "whom", "whose", "which"],
+    "answer": "whose",
+    "explanation": "অধিকার (যার বাবা) বোঝাতে Possessive Relative Pronoun 'whose' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 92,
+    "question": "Find the error: It is I who is to blame.",
+    "options": ["It is I", "who is", "to blame", "No error"],
+    "answer": "who is",
+    "explanation": "'who'-এর আগের subject 'I' অনুযায়ী verb বসবে। 'I'-এর সাথে 'am' বসে। তাই সঠিক বাক্য: 'It is I who am to blame'."
+  },
+  {
+    "id": 93,
+    "question": "Fill in the blank: One of my friends ______ going to London.",
+    "options": ["is", "are", "were", "have"],
+    "answer": "is",
+    "explanation": "'One of'-এর পর noun plural (friends) হলেও, আসল subject হলো 'One' (singular)। তাই verb 'is' হবে।"
+  },
+  {
+    "id": 94,
+    "question": "Fill in the blank: God helps those ______ help themselves.",
+    "options": ["which", "whom", "who", "whose"],
+    "answer": "who",
+    "explanation": "এখানে 'those'-কে নির্দেশ করা হচ্ছে (ব্যক্তি), এবং শূন্যস্থানের পর verb 'help' আছে। Subject বোঝাতে 'who' বসবে।"
+  },
+  {
+    "id": 95,
+    "question": "Fill in the blank: Are these books ______?",
+    "options": ["your", "yours", "your's", "you"],
+    "answer": "yours",
+    "explanation": "বাক্যের শেষে noun ছাড়া বসার জন্য Possessive Pronoun 'yours' প্রয়োজন। 'your' হলো adjective।"
+  },
+  {
+    "id": 96,
+    "question": "Fill in the blank: ______ of the pictures is beautiful.",
+    "options": ["Each", "Every", "All", "Some"],
+    "answer": "Each",
+    "explanation": "verb 'is' singular থাকায় বোঝা যায় subject singular হবে। 'Every' একা বসতে পারে না, তাই 'Each' সঠিক।"
+  },
+  {
+    "id": 97,
+    "question": "Fill in the blank: He is taller than ______.",
+    "options": ["me", "my", "mine", "I"],
+    "answer": "I",
+    "explanation": "তুলনা (Comparison) দুটি subject-এর মধ্যে হচ্ছে (He এবং I)। তাই 'than'-এর পর subjective case 'I' বসবে।"
+  },
+  {
+    "id": 98,
+    "question": "Fill in the blank: The poor man poisoned ______ and his children.",
+    "options": ["him", "himself", "his", "he"],
+    "answer": "himself",
+    "explanation": "Subject এবং Object একই ব্যক্তি হলে Reflexive Pronoun 'himself' বসে। লোকটি নিজেকেই বিষ খাইয়েছিল।"
+  },
+  {
+    "id": 99,
+    "question": "Fill in the blank: ______ book is this?",
+    "options": ["Who's", "Whose", "Whom", "Who"],
+    "answer": "Whose",
+    "explanation": "অধিকার বা মালিকানা জানতে চাইলে (কার বই) 'Whose' ব্যবহৃত হয়। 'Who's' মানে 'Who is'।"
+  },
+  {
+    "id": 100,
+    "question": "Fill in the blank: We are going to the cinema. Would you like to join ______?",
+    "options": ["we", "our", "us", "ourselves"],
+    "answer": "us",
+    "explanation": "Verb 'join'-এর Object হিসেবে objective case 'us' (আমাদের) বসবে।"
+  },
+  {
+    "id": 101,
+    "question": "Fill in the blank: I will give the prize to ______ stands first.",
+    "options": ["whomever", "whoever", "who", "whom"],
+    "answer": "whoever",
+    "explanation": "এখানে 'stands' verb-টির জন্য একটি Subject প্রয়োজন। 'Whomever' হলো objective form। তাই Subject হিসেবে 'whoever' (যে-ই) বসবে।"
+  },
+  {
+    "id": 102,
+    "question": "Fill in the blank: You can invite ______ you like.",
+    "options": ["whoever", "whomever", "who", "which"],
+    "answer": "whomever",
+    "explanation": "এখানে 'you like'-এর একটি Object প্রয়োজন (তুমি যাকে পছন্দ করো)। Object হিসেবে 'whomever' (যাকেই) বসবে।"
+  },
+  {
+    "id": 103,
+    "question": "Find the error: Myself and my friends will go to the party tonight.",
+    "options": ["Myself and", "my friends", "will go to", "the party tonight"],
+    "answer": "Myself and",
+    "explanation": "Reflexive Pronoun (Myself, Himself ইত্যাদি) কখনোই বাক্যের স্বাধীন Subject হিসেবে বসতে পারে না। সঠিক বাক্য হবে: 'My friends and I will go...'"
+  },
+  {
+    "id": 104,
+    "question": "Fill in the blank: We found ______ difficult to complete the work on time.",
+    "options": ["this", "that", "it", "these"],
+    "answer": "it",
+    "explanation": "এই ধরনের বাক্যে 'it' একটি Anticipatory Object বা Dummy Object হিসেবে কাজ করে, যা পরবর্তী Infinitive (to complete)-কে নির্দেশ করে। তাই 'it' বসবে।"
+  },
+  {
+    "id": 105,
+    "question": "Fill in the blank: He acquitted ______ very well during the crisis.",
+    "options": ["him", "his", "himself", "No pronoun needed"],
+    "answer": "himself",
+    "explanation": "'Acquit' শব্দটি যখন 'আচরণ করা' বা 'দায়িত্ব পালন করা' অর্থে ব্যবহৃত হয়, তখন এর পর সর্বদা একটি Reflexive Pronoun (himself) বসে।"
+  },
+  {
+    "id": 106,
+    "question": "Fill in the blank: He loves you more than ______.",
+    "options": ["I", "me", "my", "mine"],
+    "answer": "me",
+    "explanation": "খুবই গুরুত্বপূর্ণ কনসেপ্ট! এখানে তুলনা দুটি Object-এর মধ্যে হচ্ছে— 'সে তোমাকে ভালোবাসে' বনাম 'সে আমাকে ভালোবাসে'। তাই 'than'-এর পর Objective case 'me' বসবে।"
+  },
+  {
+    "id": 107,
+    "question": "Fill in the blank: He loves you more than ______ do.",
+    "options": ["I", "me", "mine", "my"],
+    "answer": "I",
+    "explanation": "এখানে তুলনা দুটি Subject-এর মধ্যে হচ্ছে— 'সে তোমাকে যতটা ভালোবাসে' বনাম 'আমি তোমাকে যতটা ভালোবাসি'। যেহেতু 'do' verb আছে, তাই Subjective case 'I' বসবে।"
+  },
+  {
+    "id": 108,
+    "question": "Identify the correct Question Tag: Everyone was happy, ______?",
+    "options": ["wasn't he", "weren't they", "wasn't they", "didn't they"],
+    "answer": "weren't they",
+    "explanation": "মূল বাক্যে Subject 'Everyone/Everybody' থাকলে Question Tag-এ Pronoun হিসেবে সর্বদা 'they' বসে। 'they' plural হওয়ায় verb-টিও plural (weren't) হবে।"
+  },
+  {
+    "id": 109,
+    "question": "Identify the correct Question Tag: Nothing can be done now, ______?",
+    "options": ["can it", "can't it", "can they", "can't they"],
+    "answer": "can it",
+    "explanation": "'Nothing', 'Anything', 'Something' ইত্যাদি থাকলে Question Tag-এ Pronoun হিসেবে 'it' বসে। বাক্যটি Negative হওয়ায় tag-টি Positive (can it) হবে।"
+  },
+  {
+    "id": 110,
+    "question": "Fill in the blank: If you act like a child, you will be treated as ______.",
+    "options": ["so", "such", "that", "one"],
+    "answer": "such",
+    "explanation": "এখানে 'such' একটি Pronoun হিসেবে কাজ করছে, যার অর্থ 'সেই রকম কেউ' (someone of that kind)।"
+  },
+  {
+    "id": 111,
+    "question": "Fill in the blank: ______ cannot be cured must be endured.",
+    "options": ["Which", "That", "What", "It"],
+    "answer": "What",
+    "explanation": "এখানে 'What' একটি Compound Relative Pronoun হিসেবে কাজ করছে (যার অর্থ that which)। প্রবাদ বাক্যটিতে 'What' দিয়ে বাক্য শুরু হবে।"
+  },
+  {
+    "id": 112,
+    "question": "Find the correct sentence.",
+    "options": ["He, you and I are to blame.", "I, you and he are to blame.", "You, he and I are to blame.", "You, I and he are to blame."],
+    "answer": "I, you and he are to blame.",
+    "explanation": "অপরাধ স্বীকার বা নেতিবাচক (negative) কাজের ক্ষেত্রে Pronoun-এর ক্রম হয় 123 (First, Second, Third Person)। তাই 'I, you and he' সঠিক।"
+  },
+  {
+    "id": 113,
+    "question": "Fill in the blank: This is the same watch ______ I lost yesterday.",
+    "options": ["as", "that", "which", "what"],
+    "answer": "that",
+    "explanation": "যদি ঠিক সেই জিনিসটিকেই (identical object) বোঝানো হয়, তবে 'the same'-এর পর 'that' বসে। আর যদি একই রকমের অন্য জিনিস বোঝায়, তবে 'as' বসে। এখানে হারিয়ে যাওয়া নির্দিষ্ট ঘড়িটির কথা বলা হচ্ছে।"
+  },
+  {
+    "id": 114,
+    "question": "Fill in the blank: My house is bigger than ______ of my uncle.",
+    "options": ["that", "those", "this", "which"],
+    "answer": "that",
+    "explanation": "Singular Noun-এর পুনরাবৃত্তি এড়াতে 'that of' বসে। এখানে 'house'-এর পুনরাবৃত্তি এড়াতে 'that' বসেছে (that = the house)।"
+  },
+  {
+    "id": 115,
+    "question": "Fill in the blank: Let ______ who are present here raise their hands.",
+    "options": ["they", "them", "their", "those"],
+    "answer": "those",
+    "explanation": "এখানে নির্দিষ্ট কিছু ব্যক্তিকে (যারা উপস্থিত আছে) নির্দেশ করা হচ্ছে। তাই Demonstrative Pronoun হিসেবে 'those' (তাদেরকে) বসবে। 'Let'-এর পর object হিসেবে them বসার কথা থাকলেও relative clause (who are...) থাকায় those বেশি এপ্রোপ্রিয়েট।"
+  }
+]

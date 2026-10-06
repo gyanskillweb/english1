@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "Transform into Negative: 'Only a graduate can apply for this post.'",
+    "options": ["None but a graduate can apply for this post.", "Not only a graduate can apply for this post.", "No graduate can apply for this post.", "All graduates can apply for this post."],
+    "answer": "None but a graduate can apply for this post.",
+    "explanation": "'Only' বা 'Alone' যদি কোনো ব্যক্তিকে নির্দেশ করে, তবে Negative করার সময় বাক্যের শুরুতে তার পরিবর্তে 'None but' বসে।"
+  },
+  {
+    "id": 2,
+    "question": "Transform into Negative: 'We must obey our parents.'",
+    "options": ["We cannot obey our parents.", "We cannot but obey our parents.", "We must not obey our parents.", "We should not obey our parents."],
+    "answer": "We cannot but obey our parents.",
+    "explanation": "Affirmative বাক্যে 'must' থাকলে Negative করার সময় তার পরিবর্তে 'cannot but' অথবা 'cannot help + (verb+ing)' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 3,
+    "question": "Transform into Negative: 'Every mother loves her child.'",
+    "options": ["No mother loves her child.", "Every mother does not love her child.", "There is no mother but loves her child.", "A mother never loves her child."],
+    "answer": "There is no mother but loves her child.",
+    "explanation": "'Every' যুক্ত বাক্যকে Negative করতে হলে 'There is no ... but' এই গঠনটি ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 4,
+    "question": "Transform into Negative: 'As soon as the thief saw the police, he ran away.'",
+    "options": ["The thief ran away seeing the police.", "Hardly had the thief seen the police when he ran away.", "The thief did not see the police and ran away.", "No sooner had the thief seen the police than he ran away."],
+    "answer": "No sooner had the thief seen the police than he ran away.",
+    "explanation": "'As soon as' যুক্ত বাক্যকে Negative করতে 'No sooner + had + subject + V3 + ... + than' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 5,
+    "question": "Transform into Negative: 'He is always punctual.'",
+    "options": ["He is never late.", "He is not always punctual.", "He is always late.", "He is never punctual."],
+    "answer": "He is never late.",
+    "explanation": "'Always' থাকলে Negative-এ 'Never' বসে এবং তার পরের শব্দটির বিপরীত শব্দ (punctual -> late) ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 6,
+    "question": "Transform into Negative: 'He is too weak to walk.'",
+    "options": ["He is very weak to walk.", "He is so weak that he cannot walk.", "He is not weak to walk.", "He cannot walk because he is weak."],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "Too ... to যুক্ত বাক্যকে Negative করতে 'so ... that' ব্যবহৃত হয় এবং that এর পর subject + cannot/could not বসে।"
+  },
+  {
+    "id": 7,
+    "question": "Transform into Negative: 'Both Rahul and Raj went there.'",
+    "options": ["Rahul and Raj did not go there.", "Either Rahul or Raj went there.", "Not only Rahul but also Raj went there.", "Neither Rahul nor Raj went there."],
+    "answer": "Not only Rahul but also Raj went there.",
+    "explanation": "'Both ... and' যুক্ত Affirmative বাক্যকে Negative করতে 'Not only ... but also' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 8,
+    "question": "Transform into Negative: 'Health is wealth.'",
+    "options": ["Health is not wealth.", "Wealth is not health.", "Is health wealth?", "Is not health wealth?"],
+    "answer": "Is not health wealth?",
+    "explanation": "চিরন্তন সত্য (Universal truth) বাক্যকে Negative করতে হলে সেটিকে Negative Interrogative (প্রশ্নবোধক-না-বাচক) করতে হয়।"
+  },
+  {
+    "id": 9,
+    "question": "Transform into Negative: 'I shall remember you.'",
+    "options": ["I shall not forget you.", "I shall never remember you.", "I will not remember you.", "I shall not remember you."],
+    "answer": "I shall not forget you.",
+    "explanation": "অ্যাফারমেটিভ শব্দটির বিপরীত শব্দ ব্যবহার করে (remember -> forget) এবং তার আগে not বসিয়ে Negative করা যায়।"
+  },
+  {
+    "id": 10,
+    "question": "Transform into Negative: 'A rich man is sometimes happy.'",
+    "options": ["A rich man is never happy.", "A rich man is not always happy.", "A rich man is always happy.", "A rich man is not happy."],
+    "answer": "A rich man is not always happy.",
+    "explanation": "Affirmative বাক্যে 'sometimes' থাকলে Negative করার সময় 'not always' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 11,
+    "question": "Transform into Interrogative: 'Everybody wishes to be happy.'",
+    "options": ["Does everybody wish to be happy?", "Who wishes to be happy?", "Who doesn't wish to be happy?", "Is everybody happy?"],
+    "answer": "Who doesn't wish to be happy?",
+    "explanation": "'Everybody' বা 'Everyone' দিয়ে বাক্য শুরু হলে Interrogative করার সময় 'Who does not / don't / doesn't' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 12,
+    "question": "Transform into Interrogative: 'Nobody trusts a liar.'",
+    "options": ["Does nobody trust a liar?", "Everybody trusts a liar?", "Whom trusts a liar?", "Who trusts a liar?"],
+    "answer": "Who trusts a liar?",
+    "explanation": "'Nobody', 'None' বা 'No one' এর পরিবর্তে সরাসরি 'Who' বসিয়ে খুব সহজেই Interrogative করা যায়।"
+  },
+  {
+    "id": 13,
+    "question": "Transform into Interrogative: 'I never drink tea.'",
+    "options": ["Do I ever drink tea?", "Do I never drink tea?", "Does I drink tea?", "Am I drink tea?"],
+    "answer": "Do I ever drink tea?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative করার সময় তা 'ever' হয়ে যায় এবং সাহায্যকারী ক্রিয়া বাক্যের শুরুতে আসে।"
+  },
+  {
+    "id": 14,
+    "question": "Transform into Interrogative: 'There is no use of this law.'",
+    "options": ["Is there no use of this law?", "What is the use of this law?", "Who is the use of this law?", "Why is the use of this law?"],
+    "answer": "What is the use of this law?",
+    "explanation": "'There is no use of...' যুক্ত বাক্যকে 'What is the use of...' দিয়ে Interrogative করা যায়।"
+  },
+  {
+    "id": 15,
+    "question": "Transform into Assertive: 'Does he not know the secret?'",
+    "options": ["He does not know the secret.", "He knew the secret.", "He knows the secret.", "He is knowing the secret."],
+    "answer": "He knows the secret.",
+    "explanation": "Negative Interrogative বাক্যকে Assertive করতে হলে Not উঠে যায় এবং সাহায্যকারী verb মূল verb এর সাথে যুক্ত হয় (knows)।"
+  },
+  {
+    "id": 16,
+    "question": "Transform into Assertive: 'Is not blood thicker than water?'",
+    "options": ["Blood is not thicker than water.", "Water is thicker than blood.", "Blood is thick.", "Blood is thicker than water."],
+    "answer": "Blood is thicker than water.",
+    "explanation": "প্রবাদবাক্য বা চিরন্তন সত্যের Interrogative (না-বাচক) ফর্মে থাকলে, Assertive করার সময় তা সাধারণ হ্যাঁ-বাচক বাক্যে পরিণত হয়।"
+  },
+  {
+    "id": 17,
+    "question": "Transform into Assertive: 'Who can count the stars?'",
+    "options": ["None can count the stars.", "Everybody can count the stars.", "Someone can count the stars.", "Anyone can count the stars."],
+    "answer": "None can count the stars.",
+    "explanation": "'Who' দিয়ে শুরু হওয়া হ্যাঁ-বাচক Interrogative বাক্যকে Assertive করতে 'None', 'Nobody' বা 'No one' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 18,
+    "question": "Transform into Assertive: 'What though we happen to be late?'",
+    "options": ["We should not be late.", "It does not matter if we happen to be late.", "It matters a lot if we are late.", "We happen to be late."],
+    "answer": "It does not matter if we happen to be late.",
+    "explanation": "'What though...' দিয়ে শুরু হওয়া প্রশ্নবোধক বাক্যকে 'It does not matter if...' দিয়ে Assertive করা হয়।"
+  },
+  {
+    "id": 19,
+    "question": "Transform into Assertive: 'Why cry over spilt milk?'",
+    "options": ["You should cry over spilt milk.", "Do not cry over spilt milk.", "It is useless to cry over spilt milk.", "Crying over spilt milk is good."],
+    "answer": "It is useless to cry over spilt milk.",
+    "explanation": "'Why' + verb দিয়ে শুরু হওয়া Interrogative বাক্যকে 'It is useless to + verb' দিয়ে Assertive করা হয়।"
+  },
+  {
+    "id": 20,
+    "question": "Transform into Assertive: 'Who does not love his motherland?'",
+    "options": ["Nobody loves his motherland.", "Someone loves his motherland.", "None loves his motherland.", "Everybody loves his motherland."],
+    "answer": "Everybody loves his motherland.",
+    "explanation": "'Who does not' যুক্ত Interrogative বাক্যকে Assertive করতে তার পরিবর্তে 'Everybody', 'Everyone' বা 'All' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 21,
+    "question": "Transform into Assertive: 'What a beautiful flower the rose is!'",
+    "options": ["The rose is a very beautiful flower.", "The rose is beautiful flower.", "The rose is a great beautiful flower.", "The rose is so beautiful flower."],
+    "answer": "The rose is a very beautiful flower.",
+    "explanation": "'What a' দিয়ে শুরু হওয়া Exclamatory বাক্যকে Assertive করতে 'Subject + verb + a + very/great + adjective + noun' গঠন মানতে হয়।"
+  },
+  {
+    "id": 22,
+    "question": "Transform into Assertive: 'How fast the boy runs!'",
+    "options": ["The boy runs great fast.", "The boy runs very fast.", "The boy is running fast.", "The boy runs how fast."],
+    "answer": "The boy runs very fast.",
+    "explanation": "'How' দিয়ে শুরু হওয়া Exclamatory বাক্যকে Assertive করতে adjective বা adverb এর পূর্বে 'very' বসে।"
+  },
+  {
+    "id": 23,
+    "question": "Transform into Assertive: 'Alas! I am undone.'",
+    "options": ["I am completely undone.", "I am undone.", "It is a matter of sorrow that I am undone.", "It is a matter of joy that I am undone."],
+    "answer": "It is a matter of sorrow that I am undone.",
+    "explanation": "'Alas' দুঃখ প্রকাশ করে, তাই Assertive করতে 'It is a matter of sorrow that' বা 'It is sad that' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 24,
+    "question": "Transform into Assertive: 'Hurrah! We have won the match.'",
+    "options": ["We have won the match.", "It is a matter of sorrow that we have won the match.", "It is joyful to win the match.", "It is a matter of joy that we have won the match."],
+    "answer": "It is a matter of joy that we have won the match.",
+    "explanation": "'Hurrah' আনন্দ প্রকাশ করে, তাই এর পরিবর্তে 'It is a matter of joy that' বা 'We rejoice that' বসে।"
+  },
+  {
+    "id": 25,
+    "question": "Transform into Exclamatory: 'I wish I were a bird.'",
+    "options": ["If only I were a bird!", "I were a bird!", "Were I a bird?", "What a bird I were!"],
+    "answer": "If only I were a bird!",
+    "explanation": "'I wish' যুক্ত Assertive বাক্যকে Exclamatory করতে 'If', 'Had' বা 'O that' দিয়ে বাক্য শুরু করতে হয়।"
+  },
+  {
+    "id": 26,
+    "question": "Transform into Exclamatory: 'I earnestly desire to see her once.'",
+    "options": ["How I desire to see her!", "Oh for a chance to see her once!", "I want to see her!", "What a chance to see her!"],
+    "answer": "Oh for a chance to see her once!",
+    "explanation": "তীব্র ইচ্ছা (Earnest desire) বোঝাতে Exclamatory বাক্যে 'Oh for' বা 'O for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 27,
+    "question": "Transform into Assertive: 'O that I were a king!'",
+    "options": ["I am a king.", "I wish I were a king.", "I was a king.", "I want to be a king."],
+    "answer": "I wish I were a king.",
+    "explanation": "'O that' দিয়ে শুরু হওয়া Exclamatory বাক্যকে Assertive করতে 'I wish' বসাতে হয়।"
+  },
+  {
+    "id": 28,
+    "question": "Transform into Exclamatory: 'The night is very beautiful.'",
+    "options": ["What beautiful the night is!", "The night is how beautiful!", "What a beautiful night!", "How beautiful the night is!"],
+    "answer": "How beautiful the night is!",
+    "explanation": "বাক্যে 'a/an' না থাকলে Exclamatory করার সময় 'How' দিয়ে শুরু করতে হয়। গঠন: How + adjective + subject + verb!"
+  },
+  {
+    "id": 29,
+    "question": "Transform into Assertive: 'Had I the wings of a dove!'",
+    "options": ["I wish I had the wings of a dove.", "I have the wings of a dove.", "I had the wings of a dove.", "I wish to fly like a dove."],
+    "answer": "I wish I had the wings of a dove.",
+    "explanation": "'Had I...' দিয়ে শুরু হওয়া অবাস্তব ইচ্ছাসূচক বাক্যকে 'I wish I had...' দিয়ে Assertive করা হয়।"
+  },
+  {
+    "id": 30,
+    "question": "Transform into Exclamatory: 'It is a matter of great pity that he is dead.'",
+    "options": ["How pity he is dead!", "What a pity that he is dead!", "He is dead, pity!", "What pity he is dead!"],
+    "answer": "What a pity that he is dead!",
+    "explanation": "'It is a matter of great pity' এর পরিবর্তে Exclamatory বাক্যে 'What a pity' বসে।"
+  },
+  {
+    "id": 31,
+    "question": "Transform into Complex: 'In spite of his poverty, he is honest.'",
+    "options": ["He is poor but honest.", "Because of his poverty, he is honest.", "Though he is poor, he is honest.", "He is honest in spite of poverty."],
+    "answer": "Though he is poor, he is honest.",
+    "explanation": "'In spite of' যুক্ত Simple Sentence-কে Complex করতে 'Though' বা 'Although' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 32,
+    "question": "Transform into Compound: 'Being tired, he sat down to rest.'",
+    "options": ["He was tired so he sat down to rest.", "As he was tired, he sat down to rest.", "He sat down to rest because he was tired.", "He was tired and sat down to rest."],
+    "answer": "He was tired and sat down to rest.",
+    "explanation": "Participle (Being) যুক্ত Simple Sentence-কে Compound করতে 'and' Conjunction দিয়ে দুটি Principal Clause তৈরি করতে হয়।"
+  },
+  {
+    "id": 33,
+    "question": "Transform into Complex: 'I saw a flying bird.'",
+    "options": ["I saw a bird which was flying.", "I saw a bird and it was flying.", "I saw a bird flying.", "A flying bird was seen by me."],
+    "answer": "I saw a bird which was flying.",
+    "explanation": "Adjective-এর কাজ করা Participle (flying)-কে Complex করার সময় Relative clause (which/who/that + verb) ব্যবহার করা হয়।"
+  },
+  {
+    "id": 34,
+    "question": "Transform into Complex: 'I know his name.'",
+    "options": ["I know what his name.", "I know what his name is.", "I know his name is what.", "I know that his name."],
+    "answer": "I know what his name is.",
+    "explanation": "Object হিসেবে থাকা Noun/Noun phrase (his name)-কে Noun clause-এ (what his name is) পরিবর্তন করে Complex করতে হয়।"
+  },
+  {
+    "id": 35,
+    "question": "Transform into Complex: 'He worked hard to pass the exam.'",
+    "options": ["He worked hard and passed the exam.", "He worked hard for passing the exam.", "He worked hard so that he could pass the exam.", "He worked hard because he passed."],
+    "answer": "He worked hard so that he could pass the exam.",
+    "explanation": "উদ্দেশ্যমূলক Infinitive (to pass) থাকলে Complex করার সময় 'so that + subject + can/could/may/might + verb' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 36,
+    "question": "Transform into Complex: 'Because of his illness, he could not attend the meeting.'",
+    "options": ["He was ill and could not attend the meeting.", "He could not attend the meeting for his illness.", "He could not attend the meeting, so he was ill.", "As he was ill, he could not attend the meeting."],
+    "answer": "As he was ill, he could not attend the meeting.",
+    "explanation": "কারণ নির্দেশক 'Because of', 'Owing to', 'Due to' থাকলে Complex করার সময় 'As', 'Since' বা 'Because' দিয়ে Clause শুরু হয়।"
+  },
+  {
+    "id": 37,
+    "question": "Transform into Complex: 'He is rich but unhappy.'",
+    "options": ["Though he is rich, he is unhappy.", "He is rich and unhappy.", "As he is rich, he is unhappy.", "He is unhappy because he is rich."],
+    "answer": "Though he is rich, he is unhappy.",
+    "explanation": "Compound বাক্যে 'but' থাকলে, বৈপরীত্য বোঝাতে Complex করার সময় বাক্যের শুরুতে 'Though/Although' বসে।"
+  },
+  {
+    "id": 38,
+    "question": "Transform into Complex: 'Do or die.'",
+    "options": ["Do and you will die.", "If you do not do, you will die.", "If you do, you will die.", "Do otherwise die."],
+    "answer": "If you do not do, you will die.",
+    "explanation": "শর্তমূলক Compound বাক্যে 'or' থাকলে Complex করার সময় 'If ... not' বা 'Unless' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 39,
+    "question": "Transform into Simple: 'The boy who is reading a book is my brother.'",
+    "options": ["The boy is reading a book and is my brother.", "The boy reads a book and he is my brother.", "The boy reading a book is my brother.", "The boy is my brother reading a book."],
+    "answer": "The boy reading a book is my brother.",
+    "explanation": "Relative clause (who is reading) কে Simple করতে Present Participle (reading) রূপে পরিবর্তন করা হয়।"
+  },
+  {
+    "id": 40,
+    "question": "Transform into Compound: 'As soon as the teacher entered the class, the students stood up.'",
+    "options": ["No sooner had the teacher entered than the students stood up.", "The teacher entered the class so the students stood up.", "The teacher entered the class because the students stood up.", "The teacher entered the class and at once the students stood up."],
+    "answer": "The teacher entered the class and at once the students stood up.",
+    "explanation": "'As soon as' যুক্ত Complex বাক্যকে Compound করতে 'and' বা 'and at once' দিয়ে দুটি সমান্তরাল ঘটনা যুক্ত করা হয়।"
+  },
+  {
+    "id": 41,
+    "question": "Transform into Comparative: 'No other metal is as heavy as lead.'",
+    "options": ["Lead is heavier than any other metal.", "Lead is heavier than all metals.", "Lead is heavy than other metals.", "Lead is the heaviest metal."],
+    "answer": "Lead is heavier than any other metal.",
+    "explanation": "'No other ... as + adjective + as' যুক্ত Positive Degree-কে Comparative করতে 'Subject + verb + comparative form + than any other + noun' গঠন ব্যবহৃত হয়।"
+  },
+  {
+    "id": 42,
+    "question": "Transform into Positive: 'Kolkata is one of the biggest cities in India.'",
+    "options": ["No other city in India is as big as Kolkata.", "Very few cities in India are as big as Kolkata.", "Kolkata is bigger than most other cities.", "Kolkata is the biggest city in India."],
+    "answer": "Very few cities in India are as big as Kolkata.",
+    "explanation": "Superlative ডিগ্রিতে 'one of the' থাকলে Positive করার সময় বাক্যের শুরুতে 'Very few' বসে এবং verb বহুবচন (plural) হয়।"
+  },
+  {
+    "id": 43,
+    "question": "Transform into Superlative: 'Iron is more useful than any other metal.'",
+    "options": ["Iron is a very useful metal.", "Very few metals are as useful as iron.", "Iron is the most useful metal.", "No other metal is as useful as iron."],
+    "answer": "Iron is the most useful metal.",
+    "explanation": "'than any other' যুক্ত Comparative-কে Superlative করতে 'Subject + verb + the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 44,
+    "question": "Transform into Positive: 'Akbar was greater than most other kings of India.'",
+    "options": ["No other king of India was as great as Akbar.", "Akbar was the greatest king of India.", "Akbar was great than other kings.", "Very few kings of India were as great as Akbar."],
+    "answer": "Very few kings of India were as great as Akbar.",
+    "explanation": "'than most other' থাকলে Positive করার সময় 'Very few' দিয়ে বাক্য শুরু করতে হয়।"
+  },
+  {
+    "id": 45,
+    "question": "Transform into Comparative: 'He is the tallest boy in the class.'",
+    "options": ["He is taller than any other boy in the class.", "No other boy is as tall as him.", "He is taller than most other boys.", "He is tall than any other boy."],
+    "answer": "He is taller than any other boy in the class.",
+    "explanation": "'The + Superlative' থাকলে Comparative করার সময় adjective এর comparative রূপ বসিয়ে তারপর 'than any other' বসে।"
+  },
+  {
+    "id": 46,
+    "question": "Transform into Comparative: 'I am as strong as he.'",
+    "options": ["He is stronger than me.", "He is not stronger than I.", "I am stronger than he.", "He is less strong than I."],
+    "answer": "He is not stronger than I.",
+    "explanation": "অ্যাফারমেটিভ 'as ... as' যুক্ত Positive Degree-কে Comparative করতে শেষের subject টি প্রথমে আসে, verb-এর পর not বসে এবং comparative রূপ + than বসে।"
+  },
+  {
+    "id": 47,
+    "question": "Transform into Positive: 'A foolish friend is not as good as a wise enemy.'",
+    "options": ["A foolish friend is worse than a wise enemy.", "A foolish friend is better than a wise enemy.", "A wise enemy is better than a foolish friend.", "A wise enemy is good as a foolish friend."],
+    "answer": "A wise enemy is better than a foolish friend.",
+    "explanation": "না-বাচক 'not as ... as' কে তুলনামূলক বাক্যে রূপান্তর করলে শেষের Subject টি আগে আসে এবং হ্যাঁ-বাচক Comparative রূপ বসে।"
+  },
+  {
+    "id": 48,
+    "question": "Transform into Positive: 'Shakespeare is the greatest English dramatist.'",
+    "options": ["Shakespeare is greater than any other English dramatist.", "Very few English dramatists are as great as Shakespeare.", "Shakespeare is a great English dramatist.", "No other English dramatist is as great as Shakespeare."],
+    "answer": "No other English dramatist is as great as Shakespeare.",
+    "explanation": "Superlative ডিগ্রিতে 'the + adjective-est' থাকলে Positive ডিগ্রি করার সময় 'No other' দিয়ে বাক্য শুরু হয়।"
+  },
+  {
+    "id": 49,
+    "question": "Transform into Superlative: 'Very few poets are as great as Rabindranath.'",
+    "options": ["Rabindranath is one of the greatest poets.", "Rabindranath is greater than most other poets.", "No other poet is as great as Rabindranath.", "Rabindranath is the greatest poet."],
+    "answer": "Rabindranath is one of the greatest poets.",
+    "explanation": "'Very few' যুক্ত Positive ডিগ্রিকে Superlative করতে 'one of the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 50,
+    "question": "Transform into Assertive (by changing Part of Speech): 'He gave a prompt reply.'",
+    "options": ["He replied promptly.", "He replied prompt.", "His reply was prompt.", "He gives a prompt reply."],
+    "answer": "He replied promptly.",
+    "explanation": "'Reply' শব্দটি এখানে Noun হিসেবে আছে। একে Verb হিসেবে ব্যবহার করলে বাক্যটি হয় 'He replied', এবং 'prompt' Adjective টি Adverb (promptly) হয়ে যায়।"
+  },
+  {
+    "id": 51,
+    "question": "Remove 'too': 'The news is too good to be true.'",
+    "options": ["The news is very good to be true.", "The news is so good that it cannot be true.", "The news is so good to be true.", "The news is so good that it is true."],
+    "answer": "The news is so good that it cannot be true.",
+    "explanation": "'Too...to' তুলে দিয়ে 'so...that' ব্যবহার করতে হয় এবং that-এর পর subject + cannot/could not বসে।"
+  },
+  {
+    "id": 52,
+    "question": "Transform into Negative: 'He tried every plan.'",
+    "options": ["He did not try every plan.", "He tried no plan.", "He did not try any plan.", "He left no plan untried."],
+    "answer": "He left no plan untried.",
+    "explanation": "Affirmative বাক্যে 'every' থাকলে Negative-এ বিপরীতার্থক শব্দ (untried) এবং 'no' বা 'left no' ব্যবহার করে অর্থ অপরিবর্তিত রাখা যায়।"
+  },
+  {
+    "id": 53,
+    "question": "Transform into Exclamatory: 'I wish I had a car.'",
+    "options": ["What a car I have!", "How I wish a car!", "If I have a car!", "Had I a car!"],
+    "answer": "Had I a car!",
+    "explanation": "Assertive বাক্যে 'I wish' থাকলে Exclamatory বাক্যে 'Had I' বা 'O that' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 54,
+    "question": "Transform into Assertive: 'What a piece of work is man!'",
+    "options": ["Man is a great piece of work.", "Man is piece of work.", "How wonderful man is!", "Man is a wonderful piece of work."],
+    "answer": "Man is a wonderful piece of work.",
+    "explanation": "Exclamatory বাক্যে 'What a' থাকলে Assertive করার সময় subject ও verb আগে আসে এবং 'a very/great/wonderful' ইত্যাদি বসে।"
+  },
+  {
+    "id": 55,
+    "question": "Transform into Complex: 'A dead man tells no tales.'",
+    "options": ["A man who is dead tells no tales.", "A dead man does not tell tales.", "As a man is dead he tells no tales.", "A man tells no tales if he is dead."],
+    "answer": "A man who is dead tells no tales.",
+    "explanation": "Simple বাক্যে থাকা Adjective (dead)-কে Relative Clause (who is dead)-এ রূপান্তর করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 56,
+    "question": "Transform into Compound: 'If you do not hurry, you will miss the train.'",
+    "options": ["Hurry and you will miss the train.", "Hurry, or you will miss the train.", "You must hurry but you will miss the train.", "Unless you hurry, you will miss the train."],
+    "answer": "Hurry, or you will miss the train.",
+    "explanation": "Condition (If...not) বোঝালে Compound বাক্যে 'or' বা 'otherwise' Conjunction ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 57,
+    "question": "Transform into Simple: 'He must work hard, or he will fail.'",
+    "options": ["If he does not work hard, he will fail.", "In spite of working hard, he will fail.", "He must work hard to avoid failure.", "Because he works hard, he will not fail."],
+    "answer": "He must work hard to avoid failure.",
+    "explanation": "Compound বাক্যের 'or' তুলে Simple করতে 'to avoid' বা 'in case of failure' জাতীয় Phrase ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 58,
+    "question": "Transform into Comparative: 'Mumbai is one of the richest cities in India.'",
+    "options": ["Mumbai is richer than any other city in India.", "Mumbai is richer than most other cities in India.", "No other city is as rich as Mumbai.", "Mumbai is the richest city in India."],
+    "answer": "Mumbai is richer than most other cities in India.",
+    "explanation": "Superlative-এ 'one of the' থাকলে Comparative-এ 'than most other' বসে।"
+  },
+  {
+    "id": 59,
+    "question": "Transform into Positive: 'This is the easiest task.'",
+    "options": ["Very few tasks are as easy as this.", "No other task is as easy as this.", "This task is easy than any other.", "This task is not easy."],
+    "answer": "No other task is as easy as this.",
+    "explanation": "Superlative-এ 'the + est' থাকলে Positive-এ 'No other...as...as' বসে।"
+  },
+  {
+    "id": 60,
+    "question": "Transform by changing Noun to Verb: 'He gave a loud shout.'",
+    "options": ["He shouted loudly.", "He made a loud shout.", "His shout was loud.", "He gives a shout loudly."],
+    "answer": "He shouted loudly.",
+    "explanation": "'Shout' (Noun)-কে Verb হিসেবে ব্যবহার করলে 'gave a shout'-এর পরিবর্তে সরাসরি 'shouted' হয়।"
+  },
+  {
+    "id": 61,
+    "question": "Transform into Assertive: 'If only I could win the first prize!'",
+    "options": ["I could win the first prize.", "Winning the first prize is my wish.", "I wish I win the first prize.", "I earnestly wish that I could win the first prize."],
+    "answer": "I earnestly wish that I could win the first prize.",
+    "explanation": "Exclamatory বাক্যে 'If only' থাকলে Assertive-এ 'I earnestly wish that' বা 'I wish' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 62,
+    "question": "Transform into Interrogative: 'It is no use crying over spilt milk.'",
+    "options": ["Is it use crying over spilt milk?", "Why cry over spilt milk?", "What use crying over spilt milk?", "Who cries over spilt milk?"],
+    "answer": "Why cry over spilt milk?",
+    "explanation": "Assertive বাক্যে 'It is no use' থাকলে Interrogative-এ 'Why + verb(base form)' বা 'What is the use of' বসে।"
+  },
+  {
+    "id": 63,
+    "question": "Transform into Negative: 'As soon as he saw the tiger, he fled.'",
+    "options": ["No sooner had he seen the tiger than he fled.", "He did not flee as soon as he saw the tiger.", "No sooner did he saw the tiger than he fled.", "Hardly he saw the tiger when he fled."],
+    "answer": "No sooner had he seen the tiger than he fled.",
+    "explanation": "'As soon as' থাকলে Negative-এ 'No sooner had...than' বা 'No sooner did...than' ব্যবহৃত হয়। (did থাকলে মূল verb V1 হয়)।"
+  },
+  {
+    "id": 64,
+    "question": "Transform into Complex: 'In spite of his wealth, he is a miser.'",
+    "options": ["He is wealthy but he is a miser.", "As he is wealthy, he is a miser.", "Because he is wealthy, he is a miser.", "Though he is wealthy, he is a miser."],
+    "answer": "Though he is wealthy, he is a miser.",
+    "explanation": "'In spite of' থাকলে Simple থেকে Complex করতে 'Though' বা 'Although' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 65,
+    "question": "Transform into Simple: 'I was glad when I heard the news.'",
+    "options": ["I was glad because I heard the news.", "Hearing the news, I was glad.", "I heard the news and was glad.", "I was glad to hear the news."],
+    "answer": "I was glad to hear the news.",
+    "explanation": "Complex বাক্যের Time clause (when)-কে Simple করতে Infinitive (to hear) বা Participle (hearing) ব্যবহার করা যায়।"
+  },
+  {
+    "id": 66,
+    "question": "Transform into Affirmative: 'None but the brave deserve the fair.'",
+    "options": ["The brave does not deserve the fair.", "Everyone deserves the fair.", "Only the brave deserve the fair.", "The brave always deserve the fair."],
+    "answer": "Only the brave deserve the fair.",
+    "explanation": "Negative বাক্যে 'None but' থাকলে Affirmative-এ তা 'Only' বা 'Alone'-এ পরিবর্তিত হয়।"
+  },
+  {
+    "id": 67,
+    "question": "Transform into Negative: 'He is older than I.'",
+    "options": ["I am not older than he.", "He is not older than I.", "I am not as old as he.", "I am as old as he."],
+    "answer": "I am not as old as he.",
+    "explanation": "Affirmative Comparative-কে Negative Positive করতে শেষের subject প্রথমে আসে এবং 'not as...as' বসে।"
+  },
+  {
+    "id": 68,
+    "question": "Transform into Assertive: 'Does the sun go round the earth?'",
+    "options": ["The sun does not go round the earth.", "The sun goes round the earth.", "The sun never goes round the earth.", "The sun revolves round the earth."],
+    "answer": "The sun does not go round the earth.",
+    "explanation": "Interrogative বাক্যটি হ্যাঁ-বাচক হলে Assertive বাক্যটি না-বাচক (Negative) হয়।"
+  },
+  {
+    "id": 69,
+    "question": "Transform into Interrogative: 'Their glory can never fade.'",
+    "options": ["Can their glory never fade?", "How can their glory fade?", "Why can their glory fade?", "When can their glory fade?"],
+    "answer": "When can their glory fade?",
+    "explanation": "'Never' যুক্ত Assertive বাক্যকে Interrogative করতে 'When' (কখন) ব্যবহার করলে বাক্যের অর্থ জোরালো ও সঠিক হয়।"
+  },
+  {
+    "id": 70,
+    "question": "Transform into Compound: 'Besides being a teacher, he is a writer.'",
+    "options": ["He is not only a teacher but also a writer.", "He is a teacher and writer.", "Though he is a teacher, he is a writer.", "He is a teacher as well as writer."],
+    "answer": "He is not only a teacher but also a writer.",
+    "explanation": "Simple বাক্যে 'Besides' থাকলে Compound করতে 'Not only...but also' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 71,
+    "question": "Transform into Complex: 'Listen to what I say.'",
+    "options": ["Listen to that I say.", "Listen to which I say.", "Listen what I say.", "Listen to my words."],
+    "answer": "Listen to my words.",
+    "explanation": "'What I say' নিজেই একটি Noun Clause, তাই বাক্যটি ইতিমধ্যেই Complex। (এটি একটি ট্রিক প্রশ্ন)। তবে অপশনে 'Listen to my words' থাকলে তা Simple হবে। সঠিক Complex রূপ এটিই।"
+  },
+  {
+    "id": 72,
+    "question": "Transform into Simple: 'He is so weak that he cannot speak.'",
+    "options": ["He is very weak to speak.", "He is weak enough to speak.", "He is too weak to speak.", "He cannot speak for his weakness."],
+    "answer": "He is too weak to speak.",
+    "explanation": "Complex বাক্যের 'so...that...cannot' তুলে Simple করতে 'too...to' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 73,
+    "question": "Transform into Negative: 'I have a few books.'",
+    "options": ["I have not few books.", "I do not have many books.", "I do not have a few books.", "I have no books."],
+    "answer": "I do not have many books.",
+    "explanation": "'A few' (অল্প কিছু) থাকলে Negative করতে 'not many' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 74,
+    "question": "Transform into Negative: 'He has a little money.'",
+    "options": ["He does not have much money.", "He has not a little money.", "He has no money.", "He does not have any money."],
+    "answer": "He does not have much money.",
+    "explanation": "'A little' (অল্প পরিমাণ) থাকলে Negative করতে 'not much' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 75,
+    "question": "Transform into Exclamatory: 'He leads a most unhappy life.'",
+    "options": ["How unhappy life he leads!", "What an unhappy life he leads!", "What unhappy life he leads!", "How an unhappy life he leads!"],
+    "answer": "What an unhappy life he leads!",
+    "explanation": "Assertive বাক্যে 'a most' থাকলে Exclamatory-তে 'What a/an' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 76,
+    "question": "Transform into Assertive: 'How sweet the moonlight sleeps upon this bank!'",
+    "options": ["The moonlight sleeps sweetly upon this bank.", "The moonlight sleeps very sweet upon this bank.", "The moonlight sleeps very sweetly upon this bank.", "What a sweet moonlight sleeps upon this bank."],
+    "answer": "The moonlight sleeps very sweetly upon this bank.",
+    "explanation": "Exclamatory বাক্যের 'How sweet' Assertive-এ 'very sweetly' (Adverb) হয়ে যায়।"
+  },
+  {
+    "id": 77,
+    "question": "Transform into Complex: 'I know the time of his arrival.'",
+    "options": ["I know when he will arrive.", "I know his arrival time.", "I know that he will arrive.", "I know when he arrives."],
+    "answer": "I know when he will arrive.",
+    "explanation": "Noun phrase 'the time of his arrival'-কে Adverb/Noun clause 'when he will arrive'-এ পরিবর্তন করে Complex করা হয়।"
+  },
+  {
+    "id": 78,
+    "question": "Transform into Compound: 'Owing to ill health, he retired from business.'",
+    "options": ["He was in ill health, so he retired from business.", "As he was in ill health, he retired from business.", "He retired from business for ill health.", "He was in ill health and he retired from business."],
+    "answer": "He was in ill health, so he retired from business.",
+    "explanation": "'Owing to' (কারণে) থাকলে Compound বাক্যে 'so' বা 'therefore' (সুতরাং) conjunction ব্যবহৃত হয়।"
+  },
+  {
+    "id": 79,
+    "question": "Transform into Positive: 'Prevention is better than cure.'",
+    "options": ["Cure is worse than prevention.", "Prevention is as good as cure.", "Cure is not as good as prevention.", "Cure is not better than prevention."],
+    "answer": "Cure is not as good as prevention.",
+    "explanation": "Affirmative Comparative-কে Positive করতে শেষের subject আগে আসে, verb-এর পর not বসে এবং as + positive degree + as বসে।"
+  },
+  {
+    "id": 80,
+    "question": "Transform into Negative: 'Always speak the truth.'",
+    "options": ["Do not speak the truth.", "Always do not speak a lie.", "Never tell a lie.", "Never speak the truth."],
+    "answer": "Never tell a lie.",
+    "explanation": "'Always' থাকলে Negative-এ 'Never' বসে এবং 'truth'-এর বিপরীত শব্দ 'lie' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 81,
+    "question": "Transform into Simple: 'We eat so that we may live.'",
+    "options": ["We eat for living.", "We eat and we live.", "We eat to live.", "If we eat, we live."],
+    "answer": "We eat to live.",
+    "explanation": "Complex বাক্যের 'so that' (যাতে) তুলে Simple করতে Infinitive 'to + verb' (উদ্দেশ্য) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 82,
+    "question": "Transform into Complex: 'A rolling stone gathers no moss.'",
+    "options": ["A stone that rolls gathers no moss.", "A stone gathers no moss rolling.", "A rolling stone is gathering no moss.", "Because a stone rolls, it gathers no moss."],
+    "answer": "A stone that rolls gathers no moss.",
+    "explanation": "Simple বাক্যের Present Participle (rolling)-কে Relative Clause (that rolls)-এ রূপান্তর করে Complex করা যায়।"
+  },
+  {
+    "id": 83,
+    "question": "Transform into Compound: 'By working hard, you will prosper.'",
+    "options": ["Work hard and you will prosper.", "If you work hard, you will prosper.", "Work hard or you will not prosper.", "Work hard to prosper."],
+    "answer": "Work hard and you will prosper.",
+    "explanation": "Simple বাক্যের 'By + verb+ing' শর্ত বোঝালে Compound করতে Imperative clause + 'and' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 84,
+    "question": "Transform into Compound: 'Without working hard, you will fail.'",
+    "options": ["Work hard, or you will fail.", "Work hard and you will fail.", "Unless you work hard, you will fail.", "If you do not work hard, you will fail."],
+    "answer": "Work hard, or you will fail.",
+    "explanation": "Simple বাক্যে 'Without + verb+ing' থাকলে Compound করতে 'or' বা 'otherwise' conjunction ব্যবহৃত হয়।"
+  },
+  {
+    "id": 85,
+    "question": "Transform into Simple: 'As the weather was bad, we stayed at home.'",
+    "options": ["The weather was bad, so we stayed at home.", "The weather being bad, we stayed at home.", "We stayed at home because the weather was bad.", "Due to bad weather and we stayed at home."],
+    "answer": "The weather being bad, we stayed at home.",
+    "explanation": "Complex বাক্যে কারণ বোঝালে এবং subject আলাদা হলে (weather, we) Nominative Absolute (The weather being bad) ব্যবহার করে Simple করতে হয়।"
+  },
+  {
+    "id": 86,
+    "question": "Transform into Assertive: 'Who can escape death?'",
+    "options": ["Everybody can escape death.", "None can escape death.", "Someone can escape death.", "Anyone can escape death."],
+    "answer": "None can escape death.",
+    "explanation": "'Who can' (কে পারে? - অর্থাৎ কেউ পারে না) যুক্ত Interrogative বাক্যকে Assertive করতে 'None can' বা 'No one can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 87,
+    "question": "Transform into Exclamatory: 'It is very kind of you to help me.'",
+    "options": ["What a kind of you to help me!", "How kind of you help me!", "What kind of you to help me!", "How kind of you to help me!"],
+    "answer": "How kind of you to help me!",
+    "explanation": "Assertive বাক্যে 'very' থাকলে এবং 'a/an' না থাকলে Exclamatory 'How' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 88,
+    "question": "Transform into Comparative: 'Kalidas is the greatest poet in India.'",
+    "options": ["Kalidas is greater than all poets in India.", "No other poet in India is as great as Kalidas.", "Kalidas is greater than any other poet in India.", "Kalidas is a greater poet in India."],
+    "answer": "Kalidas is greater than any other poet in India.",
+    "explanation": "Superlative-এ 'the + est' থাকলে Comparative করতে 'than any other' বসে।"
+  },
+  {
+    "id": 89,
+    "question": "Transform into Positive: 'Australia is the largest island in the world.'",
+    "options": ["Australia is larger than any other island in the world.", "Very few islands in the world are as large as Australia.", "No island is large as Australia.", "No other island in the world is as large as Australia."],
+    "answer": "No other island in the world is as large as Australia.",
+    "explanation": "Superlative-এ 'the + est' থাকলে Positive করতে 'No other...as...as' বসে।"
+  },
+  {
+    "id": 90,
+    "question": "Transform into Negative: 'Where there is fire, there is smoke.'",
+    "options": ["There is no smoke without fire.", "There is no fire without smoke.", "Where there is no fire, there is no smoke.", "Fire and smoke are not together."],
+    "answer": "There is no fire without smoke.",
+    "explanation": "'Where there is...there is' যুক্ত বাক্যকে Negative করতে 'There is no...without' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 91,
+    "question": "Transform into Affirmative: 'I am not unmindful of my duties.'",
+    "options": ["I am careful of my duties.", "I am mindful of my duties.", "I am always unmindful of my duties.", "I mind my duties."],
+    "answer": "I am mindful of my duties.",
+    "explanation": "Negative বাক্যে double negative (not unmindful) থাকলে তা তুলে দিয়ে Affirmative (mindful) করা হয়।"
+  },
+  {
+    "id": 92,
+    "question": "Transform by changing Adjective to Noun: 'He is successful in his attempt.'",
+    "options": ["He succeeded in his attempt.", "He successfully attempted.", "He got success in his attempt.", "His attempt was successful."],
+    "answer": "He got success in his attempt.",
+    "explanation": "'Successful' (Adjective)-এর Noun ফর্ম হলো 'success'। তাই verb পরিবর্তন করে 'got/achieved success' লিখতে হয়।"
+  },
+  {
+    "id": 93,
+    "question": "Transform into Complex: 'The boy playing in the field is my son.'",
+    "options": ["The boy is playing in the field and he is my son.", "The boy is my son who is playing in the field.", "The boy who is playing in the field is my son.", "As the boy is playing in the field, he is my son."],
+    "answer": "The boy who is playing in the field is my son.",
+    "explanation": "Participle phrase (playing...)-কে Relative clause (who is playing...)-এ পরিবর্তন করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 94,
+    "question": "Transform into Compound: 'Though he tried hard, he failed.'",
+    "options": ["He tried hard but failed.", "He tried hard so he failed.", "He tried hard or he failed.", "He tried hard and failed."],
+    "answer": "He tried hard but failed.",
+    "explanation": "'Though' যুক্ত Complex বাক্যকে Compound করতে 'but' conjunction ব্যবহৃত হয়।"
+  },
+  {
+    "id": 95,
+    "question": "Transform into Negative: 'As soon as the bell rang, the students went out.'",
+    "options": ["As soon as the bell did not ring, the students went out.", "No sooner did the bell rang than the students went out.", "No sooner had the bell rung than the students went out.", "Hardly had the bell rung when the students went out."],
+    "answer": "No sooner had the bell rung than the students went out.",
+    "explanation": "'As soon as' থাকলে Negative-এ 'No sooner had...than' বসে। (লক্ষ্যণীয়: did থাকলে verb V1 হয়, এখানে had আছে তাই V3 (rung) বসেছে)।"
+  },
+  {
+    "id": 96,
+    "question": "Transform into Exclamatory: 'It is a very beautiful scene.'",
+    "options": ["How beautiful scene it is!", "What beautiful scene it is!", "How a beautiful scene it is!", "What a beautiful scene it is!"],
+    "answer": "What a beautiful scene it is!",
+    "explanation": "Assertive বাক্যে 'a very' থাকলে Exclamatory 'What a/an' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 97,
+    "question": "Transform into Assertive: 'Was it not a foolish act?'",
+    "options": ["It was not a foolish act.", "It was a foolish act.", "Was it a foolish act?", "What a foolish act it was!"],
+    "answer": "It was a foolish act.",
+    "explanation": "Negative Interrogative বাক্যকে Assertive করতে not উঠে যায় এবং বাক্যটি হ্যাঁ-বাচক হয়।"
+  },
+  {
+    "id": 98,
+    "question": "Transform into Complex: 'I have no money to spare.'",
+    "options": ["I have no money and I cannot spare.", "I have no money that I can spare.", "As I have no money, I cannot spare.", "I have no money which I spare."],
+    "answer": "I have no money that I can spare.",
+    "explanation": "Infinitive (to spare)-কে Relative clause (that I can spare)-এ পরিবর্তন করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 99,
+    "question": "Transform into Simple: 'He confessed that he was guilty.'",
+    "options": ["He confessed his guilty.", "He confessed to be guilty.", "He confessed of his guilt.", "He confessed his guilt."],
+    "answer": "He confessed his guilt.",
+    "explanation": "Complex বাক্যের Noun clause (that he was guilty)-কে Noun phrase (his guilt)-এ পরিণত করে Simple করা যায়।"
+  },
+  {
+    "id": 100,
+    "question": "Transform into Compound: 'Besides giving us advice, he gave us money.'",
+    "options": ["He not only gave us advice but also gave us money.", "He gave us advice and money.", "He gave us advice as well as money.", "Though he gave us advice, he gave us money."],
+    "answer": "He not only gave us advice but also gave us money.",
+    "explanation": "Simple বাক্যে 'Besides' থাকলে Compound করতে 'not only...but also' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 101,
+    "question": "Transform into Negative: 'I love you.'",
+    "options": ["I am not loving you.", "I do not hate you.", "I do not love you.", "I have no love for you."],
+    "answer": "I do not hate you.",
+    "explanation": "Affirmative বাক্যের মূল শব্দের বিপরীত শব্দ (love -> hate) ব্যবহার করে এবং তার আগে not বসিয়ে Negative করা হয়।"
+  },
+  {
+    "id": 102,
+    "question": "Transform into Affirmative: 'No sooner had he left than it began to rain.'",
+    "options": ["As soon as he had left, it began to rain.", "When he left, it began to rain.", "As soon as he left, it began to rain.", "He left and it began to rain."],
+    "answer": "As soon as he left, it began to rain.",
+    "explanation": "'No sooner had...than' যুক্ত Negative বাক্যকে Affirmative করতে 'As soon as' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 103,
+    "question": "Transform into Negative: 'Every mother loves her child.'",
+    "options": ["No mother loves her child.", "Every mother does not love her child.", "There is no mother but loves her child.", "A mother never loves her child."],
+    "answer": "There is no mother but loves her child.",
+    "explanation": "'Every' যুক্ত বাক্যকে Negative করতে 'There is no ... but' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 104,
+    "question": "Transform into Affirmative: 'He is not as tall as his brother.'",
+    "options": ["His brother is taller than he.", "His brother is as tall as he.", "He is taller than his brother.", "His brother is the tallest."],
+    "answer": "His brother is taller than he.",
+    "explanation": "'not as ... as' যুক্ত Negative (Positive degree) বাক্যকে Affirmative করতে Comparative degree ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 105,
+    "question": "Transform into Negative: 'We must respect our elders.'",
+    "options": ["We cannot respect our elders.", "We must not respect our elders.", "We cannot but respect our elders.", "We should not respect our elders."],
+    "answer": "We cannot but respect our elders.",
+    "explanation": "'must' থাকলে Affirmative থেকে Negative করার সময় 'cannot but' বা 'cannot help + V-ing' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 106,
+    "question": "Transform into Negative: 'Only the brave deserve the fair.'",
+    "options": ["None but the brave deserve the fair.", "Nothing but the brave deserve the fair.", "Not only the brave deserve the fair.", "Nobody deserve the fair."],
+    "answer": "None but the brave deserve the fair.",
+    "explanation": "ব্যক্তি বোঝাতে 'Only' এর পরিবর্তে বাক্যের শুরুতে 'None but' বসে।"
+  },
+  {
+    "id": 107,
+    "question": "Transform into Affirmative: 'I cannot but laugh.'",
+    "options": ["I must laugh.", "I cannot laugh.", "I can laugh.", "I always laugh."],
+    "answer": "I must laugh.",
+    "explanation": "'cannot but' যুক্ত Negative বাক্যকে Affirmative করতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 108,
+    "question": "Transform into Negative: 'As soon as the teacher arrived, the noise stopped.'",
+    "options": ["No sooner did the teacher arrive when the noise stopped.", "Hardly had the teacher arrived than the noise stopped.", "The teacher arrived and the noise did not stop.", "No sooner had the teacher arrived than the noise stopped."],
+    "answer": "No sooner had the teacher arrived than the noise stopped.",
+    "explanation": "'As soon as' থাকলে Negative-এ 'No sooner had... than' বসে।"
+  },
+  {
+    "id": 109,
+    "question": "Transform into Affirmative: 'He left no stone unturned.'",
+    "options": ["He tried every possible means.", "He turned every stone.", "He tried no means.", "He left all stones turned."],
+    "answer": "He tried every possible means.",
+    "explanation": "এটি একটি প্রবাদ। 'left no stone unturned' এর Affirmative অর্থ 'tried every possible means'।"
+  },
+  {
+    "id": 110,
+    "question": "Transform into Negative: 'He is too good to harm anyone.'",
+    "options": ["He is very good so he cannot harm anyone.", "He is so good that he cannot harm anyone.", "He is so good to harm anyone.", "He is not good to harm anyone."],
+    "answer": "He is so good that he cannot harm anyone.",
+    "explanation": "'too...to' যুক্ত বাক্যকে Negative করতে 'so...that + subject + cannot/could not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 111,
+    "question": "Transform into Interrogative: 'Everybody wants to be happy.'",
+    "options": ["Who wants to be happy?", "Does everybody want to be happy?", "Who doesn't wants to be happy?", "Who does not want to be happy?"],
+    "answer": "Who does not want to be happy?",
+    "explanation": "'Everybody' বা 'Everyone' থাকলে Interrogative-এ 'Who does not' বসে।"
+  },
+  {
+    "id": 112,
+    "question": "Transform into Interrogative: 'Nobody trusts a liar.'",
+    "options": ["Who trusts a liar?", "Who does not trust a liar?", "Does nobody trust a liar?", "Can anybody trust a liar?"],
+    "answer": "Who trusts a liar?",
+    "explanation": "'Nobody', 'None' বা 'No one' থাকলে Interrogative করার সময় সরাসরি 'Who' বসে।"
+  },
+  {
+    "id": 113,
+    "question": "Transform into Assertive: 'Can a leopard change its spots?'",
+    "options": ["A leopard can change its spots.", "A leopard never changes its spots.", "Nobody can change leopard spots.", "A leopard cannot change its spots."],
+    "answer": "A leopard cannot change its spots.",
+    "explanation": "প্রশ্নটি একটি Rhetorical Question (অর্থ না-বাচক)। তাই Assertive করার সময় 'cannot' বসে।"
+  },
+  {
+    "id": 114,
+    "question": "Transform into Interrogative: 'Blood is thicker than water.'",
+    "options": ["Is not blood thicker than water?", "Is blood thicker than water?", "Why is blood thicker than water?", "What is thicker than water?"],
+    "answer": "Is not blood thicker than water?",
+    "explanation": "চিরন্তন সত্য বা প্রবাদ বাক্যের Interrogative সবসময় না-বাচক (Negative Interrogative) হয়।"
+  },
+  {
+    "id": 115,
+    "question": "Transform into Assertive: 'Why cry over spilt milk?'",
+    "options": ["You should cry over spilt milk.", "It is useless to cry over spilt milk.", "Do not cry over spilt milk.", "Why to cry over spilt milk."],
+    "answer": "It is useless to cry over spilt milk.",
+    "explanation": "'Why + verb' থাকলে Assertive-এ 'It is useless to + verb' বসে।"
+  },
+  {
+    "id": 116,
+    "question": "Transform into Interrogative: 'I shall never forget you.'",
+    "options": ["Shall I ever forget you?", "Shall I never forget you?", "Will I ever forget you?", "Can I ever forget you?"],
+    "answer": "Shall I ever forget you?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative-এ 'ever' বসে।"
+  },
+  {
+    "id": 117,
+    "question": "Transform into Assertive: 'Is there any place like home?'",
+    "options": ["There is any place like home.", "There is a place like home.", "There is no place like home.", "Home is the best place."],
+    "answer": "There is no place like home.",
+    "explanation": "Interrogative-এ 'any' থাকলে Assertive-এ 'no' হয়।"
+  },
+  {
+    "id": 118,
+    "question": "Transform into Interrogative: 'There is nothing better than a busy life.'",
+    "options": ["Is there nothing better than a busy life?", "Is there anything better than a busy life?", "What is better than a busy life?", "Is a busy life better?"],
+    "answer": "Is there anything better than a busy life?",
+    "explanation": "'nothing' থাকলে Interrogative-এ 'anything' হয় এবং সাহায্যকারী ক্রিয়া বাক্যের শুরুতে আসে।"
+  },
+  {
+    "id": 119,
+    "question": "Transform into Assertive: 'Who can escape death?'",
+    "options": ["Everybody can escape death.", "None can escape death.", "Somebody can escape death.", "Anyone can escape death."],
+    "answer": "None can escape death.",
+    "explanation": "'Who can' দিয়ে Interrogative থাকলে Assertive-এ 'None' বা 'No one' বসে।"
+  },
+  {
+    "id": 120,
+    "question": "Transform into Interrogative: 'He is not a great man.'",
+    "options": ["Is he not a great man?", "Was he a great man?", "Is he a great man?", "How is he a great man?"],
+    "answer": "Is he a great man?",
+    "explanation": "Assertive বাক্যটি না-বাচক (Negative) হলে Interrogative করার সময় তা হ্যাঁ-বাচক (Affirmative) হয়।"
+  },
+  {
+    "id": 121,
+    "question": "Transform into Exclamatory: 'It is a very beautiful picture.'",
+    "options": ["How beautiful picture it is!", "What beautiful picture it is!", "What a beautiful picture it is!", "How a beautiful picture it is!"],
+    "answer": "What a beautiful picture it is!",
+    "explanation": "Assertive বাক্যে 'a very' থাকলে Exclamatory বাক্য 'What a/an' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 122,
+    "question": "Transform into Exclamatory: 'You are a great fool.'",
+    "options": ["How a fool you are!", "What a fool you are!", "What fool you are!", "How great fool you are!"],
+    "answer": "What a fool you are!",
+    "explanation": "Assertive বাক্যে 'a great' (Noun-এর আগে) থাকলে Exclamatory 'What a/an' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 123,
+    "question": "Transform into Assertive: 'How sweet the moonlight sleeps upon this bank!'",
+    "options": ["The moonlight sleeps sweetly upon this bank.", "The moonlight sleeps extremely sweet upon this bank.", "The moonlight sleeps very sweetly upon this bank.", "What a sweet moonlight sleeps upon this bank."],
+    "answer": "The moonlight sleeps very sweetly upon this bank.",
+    "explanation": "Exclamatory বাক্যের 'How sweet' Assertive-এ 'very sweetly' (Adverb) হয়ে যায়।"
+  },
+  {
+    "id": 124,
+    "question": "Transform into Exclamatory: 'I wish I had the wings of a dove.'",
+    "options": ["What wings of a dove I had!", "If I had the wings of a dove!", "How I wish the wings of a dove!", "O that I have the wings of a dove!"],
+    "answer": "If I had the wings of a dove!",
+    "explanation": "Assertive বাক্যে 'I wish' থাকলে Exclamatory বাক্যে 'If', 'Had' বা 'O that' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 125,
+    "question": "Transform into Assertive: 'Alas! I am undone.'",
+    "options": ["It is sad I am undone.", "I am completely undone.", "It is joyful that I am undone.", "It is a matter of sorrow that I am undone."],
+    "answer": "It is a matter of sorrow that I am undone.",
+    "explanation": "'Alas' দুঃখ প্রকাশ করে, তাই Assertive করতে 'It is a matter of sorrow that' বসে।"
+  },
+  {
+    "id": 126,
+    "question": "Transform into Exclamatory: 'The night is very dark.'",
+    "options": ["How dark the night is!", "What a dark night it is!", "How dark night is!", "What dark the night is!"],
+    "answer": "How dark the night is!",
+    "explanation": "বাক্যে 'very' থাকলে এবং 'a/an' না থাকলে Exclamatory বাক্য 'How' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 127,
+    "question": "Transform into Assertive: 'Hurrah! We have won the game.'",
+    "options": ["We have won the game joyfully.", "It is a matter of sorrow that we have won the game.", "We rejoice our win.", "It is a matter of joy that we have won the game."],
+    "answer": "It is a matter of joy that we have won the game.",
+    "explanation": "'Hurrah' আনন্দ প্রকাশ করে, তাই এর পরিবর্তে 'It is a matter of joy that' বসে।"
+  },
+  {
+    "id": 128,
+    "question": "Transform into Exclamatory: 'It is a matter of praise that he has topped the list.'",
+    "options": ["Hurrah! He has topped the list.", "Alas! He has topped the list.", "Oh! He has topped the list.", "Bravo! He has topped the list."],
+    "answer": "Bravo! He has topped the list.",
+    "explanation": "প্রশংসা (praise) বোঝাতে Exclamatory-তে 'Bravo!' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 129,
+    "question": "Transform into Assertive: 'O that I were a child again!'",
+    "options": ["I wish I am a child again.", "I want to be a child again.", "I earnestly wish that I were a child again.", "I am a child again."],
+    "answer": "I earnestly wish that I were a child again.",
+    "explanation": "'O that' বা 'Would that' দিয়ে তীব্র ইচ্ছা প্রকাশ পেলে Assertive-এ 'I earnestly wish' বা 'I wish' বসে।"
+  },
+  {
+    "id": 130,
+    "question": "Transform into Exclamatory: 'He leads a most unhappy life.'",
+    "options": ["How unhappy life he leads!", "What an unhappy life he leads!", "What unhappy life he leads!", "How an unhappy life he leads!"],
+    "answer": "What an unhappy life he leads!",
+    "explanation": "Assertive বাক্যে 'a most' থাকলে Exclamatory-তে 'What a/an' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 131,
+    "question": "Transform into Complex: 'Seeing the police, the thief ran away.'",
+    "options": ["The thief saw the police and ran away.", "The thief ran away because he saw the police.", "As soon as the thief seeing the police, he ran away.", "When the thief saw the police, he ran away."],
+    "answer": "When the thief saw the police, he ran away.",
+    "explanation": "Simple বাক্যের Participle (Seeing)-কে Complex করতে 'When' বা 'As' clause ব্যবহৃত হয়।"
+  },
+  {
+    "id": 132,
+    "question": "Transform into Simple: 'Though he is poor, he is honest.'",
+    "options": ["He is poor but honest.", "In spite of his poverty, he is honest.", "Because of his poverty, he is honest.", "He is honest despite of his poor."],
+    "answer": "In spite of his poverty, he is honest.",
+    "explanation": "'Though/Although' যুক্ত Complex বাক্যকে Simple করতে 'In spite of' বা 'Despite' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 133,
+    "question": "Transform into Compound: 'Besides being a teacher, he is a writer.'",
+    "options": ["He is a teacher and a writer.", "He is not only a teacher but also a writer.", "He is a teacher as well as writer.", "Though he is a teacher, he is a writer."],
+    "answer": "He is not only a teacher but also a writer.",
+    "explanation": "'Besides' থাকলে Compound-এ 'not only...but also' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 134,
+    "question": "Transform into Compound: 'If you do not hurry, you will miss the train.'",
+    "options": ["Hurry, or you will miss the train.", "Hurry and you will miss the train.", "You must hurry but you will miss the train.", "Unless you hurry, you will miss the train."],
+    "answer": "Hurry, or you will miss the train.",
+    "explanation": "শর্তমূলক (If...not) Complex বাক্যকে Compound করতে 'or' বা 'otherwise' Conjunction ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 135,
+    "question": "Transform into Simple: 'He worked hard and passed the exam.'",
+    "options": ["Working hard and he passed the exam.", "Because he worked hard, he passed the exam.", "In spite of working hard, he passed the exam.", "By working hard, he passed the exam."],
+    "answer": "By working hard, he passed the exam.",
+    "explanation": "Compound বাক্যের 'and' যুক্ত সমান্তরাল কাজকে Simple করতে 'By + V-ing' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 136,
+    "question": "Transform into Complex: 'I know his name.'",
+    "options": ["I know what his name.", "I know what his name is.", "I know that his name.", "I know his name is what."],
+    "answer": "I know what his name is.",
+    "explanation": "Noun/Noun phrase (his name)-কে Noun clause (what his name is)-এ পরিবর্তন করে Complex করা হয়।"
+  },
+  {
+    "id": 137,
+    "question": "Transform into Simple: 'The boy who is playing is my brother.'",
+    "options": ["The boy reads is my brother.", "The boy is playing and is my brother.", "The boy is my brother playing.", "The boy playing is my brother."],
+    "answer": "The boy playing is my brother.",
+    "explanation": "Relative clause (who is playing) কে Simple করতে Present Participle (playing) রূপে পরিবর্তন করা হয়।"
+  },
+  {
+    "id": 138,
+    "question": "Transform into Complex: 'Do or die.'",
+    "options": ["Do otherwise die.", "Unless you do not do, you will die.", "If you do not do, you will die.", "If you do, you will die."],
+    "answer": "If you do not do, you will die.",
+    "explanation": "শর্তমূলক Compound বাক্যে 'or' থাকলে Complex করার সময় 'If ... not' বা 'Unless' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 139,
+    "question": "Transform into Compound: 'In spite of his illness, he attended the meeting.'",
+    "options": ["He was ill and attended the meeting.", "As he was ill, he attended the meeting.", "Though he was ill, he attended the meeting.", "He was ill but he attended the meeting."],
+    "answer": "He was ill but he attended the meeting.",
+    "explanation": "'In spite of' (সত্ত্বেও) যুক্ত Simple Sentence-কে Compound করতে 'but' Conjunction ব্যবহার করা হয়।"
+  },
+  {
+    "id": 140,
+    "question": "Transform into Compound: 'As soon as he saw the tiger, he fled.'",
+    "options": ["He saw the tiger and fled at once.", "He saw the tiger so he fled.", "He saw the tiger and fled.", "No sooner had he seen the tiger than he fled."],
+    "answer": "He saw the tiger and fled at once.",
+    "explanation": "'As soon as' যুক্ত Complex বাক্যকে Compound করতে 'and at once' বা 'and immediately' দিয়ে দুটি সমান্তরাল ঘটনা যুক্ত করা হয়।"
+  },
+  {
+    "id": 141,
+    "question": "Transform into Comparative: 'No other metal is as useful as iron.'",
+    "options": ["Iron is the most useful metal.", "Iron is more useful than most other metals.", "Iron is more useful than any other metal.", "Very few metals are as useful as iron."],
+    "answer": "Iron is more useful than any other metal.",
+    "explanation": "'No other ... as + adjective + as' যুক্ত Positive Degree-কে Comparative করতে 'than any other' গঠন ব্যবহৃত হয়।"
+  },
+  {
+    "id": 142,
+    "question": "Transform into Superlative: 'Gold is more precious than any other metal.'",
+    "options": ["Gold is the most precious metal.", "Gold is one of the most precious metals.", "No other metal is as precious as gold.", "Very few metals are as precious as gold."],
+    "answer": "Gold is the most precious metal.",
+    "explanation": "'than any other' যুক্ত Comparative-কে Superlative করতে 'the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 143,
+    "question": "Transform into Positive: 'Kolkata is the largest city in India.'",
+    "options": ["Very few cities in India are as large as Kolkata.", "Kolkata is larger than any other city.", "No other city in India is as large as Kolkata.", "Kolkata is large city in India."],
+    "answer": "No other city in India is as large as Kolkata.",
+    "explanation": "Superlative ডিগ্রিতে 'the + adjective-est' থাকলে Positive ডিগ্রি করার সময় 'No other' দিয়ে বাক্য শুরু হয়।"
+  },
+  {
+    "id": 144,
+    "question": "Transform into Comparative: 'Very few boys in the class are as tall as Ram.'",
+    "options": ["Ram is taller than any other boy in the class.", "Ram is the tallest boy in the class.", "No other boy is as tall as Ram.", "Ram is taller than most other boys in the class."],
+    "answer": "Ram is taller than most other boys in the class.",
+    "explanation": "'Very few...as...as' যুক্ত Positive Degree-কে Comparative করতে 'than most other' গঠন ব্যবহৃত হয়।"
+  },
+  {
+    "id": 145,
+    "question": "Transform into Positive: 'Akbar was one of the greatest kings of India.'",
+    "options": ["No other king of India was as great as Akbar.", "Akbar was greater than most other kings of India.", "Very few kings of India were as great as Akbar.", "Akbar was the greatest king."],
+    "answer": "Very few kings of India were as great as Akbar.",
+    "explanation": "Superlative ডিগ্রিতে 'one of the' থাকলে Positive করার সময় বাক্যের শুরুতে 'Very few' বসে।"
+  },
+  {
+    "id": 146,
+    "question": "Transform into Positive: 'He is stronger than I.'",
+    "options": ["He is as strong as I.", "I am not as strong as he.", "I am as strong as he.", "He is not as strong as I."],
+    "answer": "I am not as strong as he.",
+    "explanation": "Affirmative Comparative-কে Positive করতে শেষের subject টি প্রথমে আসে, verb-এর পর not বসে এবং 'as...as' বসে।"
+  },
+  {
+    "id": 147,
+    "question": "Transform into Positive: 'A wise enemy is better than a foolish friend.'",
+    "options": ["A foolish friend is not as good as a wise enemy.", "A foolish friend is worse than a wise enemy.", "A wise enemy is not as good as a foolish friend.", "A foolish friend is as good as a wise enemy."],
+    "answer": "A foolish friend is not as good as a wise enemy.",
+    "explanation": "Comparative হ্যাঁ-বাচক হওয়ায় Positive না-বাচক (not as...as) হয় এবং শেষের subject (a foolish friend) প্রথমে আসে।"
+  },
+  {
+    "id": 148,
+    "question": "Transform into Comparative: 'Shakespeare is the greatest English poet.'",
+    "options": ["Shakespeare is greater than most other English poets.", "No other English poet is as great as Shakespeare.", "Very few English poets are as great as Shakespeare.", "Shakespeare is greater than any other English poet."],
+    "answer": "Shakespeare is greater than any other English poet.",
+    "explanation": "'the + adjective-est' থাকলে Comparative-এ 'than any other' বসে।"
+  },
+  {
+    "id": 149,
+    "question": "Transform into Superlative: 'Very few flowers are as beautiful as the rose.'",
+    "options": ["The rose is one of the most beautiful flowers.", "The rose is the most beautiful flower.", "The rose is more beautiful than most other flowers.", "No other flower is as beautiful as the rose."],
+    "answer": "The rose is one of the most beautiful flowers.",
+    "explanation": "'Very few' যুক্ত Positive ডিগ্রিকে Superlative করতে 'one of the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 150,
+    "question": "Transform into Superlative: 'Japan is richer than most other countries.'",
+    "options": ["Japan is the richest country.", "Japan is one of the richest countries.", "Very few countries are as rich as Japan.", "No other country is as rich as Japan."],
+    "answer": "Japan is one of the richest countries.",
+    "explanation": "'than most other' থাকলে Superlative-এ 'one of the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 151,
+    "question": "Transform into Negative: 'As soon as he arrived, the match started.'",
+    "options": ["No sooner did he arrived than the match started.", "No sooner had he arrived than the match started.", "Hardly had he arrived than the match started.", "He did not arrive and the match started."],
+    "answer": "No sooner had he arrived than the match started.",
+    "explanation": "'As soon as' থাকলে Negative-এ 'No sooner had... than' বসে।"
+  },
+  {
+    "id": 152,
+    "question": "Transform into Negative: 'Only graduates are eligible for this post.'",
+    "options": ["No one graduates are eligible for this post.", "Not only graduates are eligible for this post.", "None graduates are eligible for this post.", "None but graduates are eligible for this post."],
+    "answer": "None but graduates are eligible for this post.",
+    "explanation": "ব্যক্তি বোঝাতে 'Only' এর পরিবর্তে বাক্যের শুরুতে 'None but' বসে।"
+  },
+  {
+    "id": 153,
+    "question": "Transform into Negative: 'Every rose has a thorn.'",
+    "options": ["There is no rose without a thorn.", "Every rose does not have a thorn.", "No rose has a thorn.", "There is no rose but has a thorn."],
+    "answer": "There is no rose but has a thorn.",
+    "explanation": "'Every' যুক্ত বাক্যকে Negative করতে 'There is no ... but' বা 'There is no ... without' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 154,
+    "question": "Transform into Negative: 'He is always late.'",
+    "options": ["He is not always late.", "He is never on time.", "He is never late.", "He is not on time."],
+    "answer": "He is never on time.",
+    "explanation": "'Always' থাকলে Negative-এ 'never' বসে এবং 'late'-এর বিপরীত শব্দ 'on time' বা 'punctual' ব্যবহৃত হয়। (এখানে 'He is never on time' বা 'never punctual' হবে, তবে অপশনে on time দেওয়া হয়েছে)"
+  },
+  {
+    "id": 155,
+    "question": "Transform into Negative: 'I must go there.'",
+    "options": ["I cannot but go there.", "I cannot help go there.", "I must not go there.", "I cannot go there."],
+    "answer": "I cannot but go there.",
+    "explanation": "'must' থাকলে Negative করতে 'cannot but + V1' অথবা 'cannot help + V-ing' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 156,
+    "question": "Transform into Negative: 'Both Ram and Shyam will come.'",
+    "options": ["Not only Ram but also Shyam will come.", "Ram and Shyam will not come.", "Neither Ram nor Shyam will come.", "Not Ram but Shyam will come."],
+    "answer": "Not only Ram but also Shyam will come.",
+    "explanation": "'Both ... and' যুক্ত বাক্যকে Negative করতে 'Not only ... but also' বসে।"
+  },
+  {
+    "id": 157,
+    "question": "Transform into Affirmative: 'He left no plan untried.'",
+    "options": ["He tried all plan.", "He tried no plan.", "He tried every plan.", "Every plan was tried."],
+    "answer": "He tried every plan.",
+    "explanation": "Negative বাক্যে 'no...untried' (double negative) থাকলে Affirmative-এ 'every...tried' হয়।"
+  },
+  {
+    "id": 158,
+    "question": "Transform into Negative: 'Man is mortal.'",
+    "options": ["Man is not mortal.", "Man is not immortal.", "No man is mortal.", "Man is immortal."],
+    "answer": "Man is not immortal.",
+    "explanation": "Affirmative বাক্যের মূল শব্দের বিপরীত শব্দ (mortal -> immortal) ব্যবহার করে এবং তার আগে not বসিয়ে Negative করা হয়।"
+  },
+  {
+    "id": 159,
+    "question": "Transform into Affirmative: 'I was not sure that it was you.'",
+    "options": ["I was sure that it was you.", "I doubted it was you.", "I was surely doubtful that it was you.", "I was doubtful whether it was you."],
+    "answer": "I was doubtful whether it was you.",
+    "explanation": "'not sure'-এর Affirmative অর্থ হলো 'doubtful'।"
+  },
+  {
+    "id": 160,
+    "question": "Transform into Negative: 'He is too weak to walk.'",
+    "options": ["He is very weak that he cannot walk.", "He is so weak that he cannot walk.", "He is so weak to walk.", "He is not weak to walk."],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "'too...to' যুক্ত বাক্যকে Negative করতে 'so...that + subject + cannot/could not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 161,
+    "question": "Transform into Interrogative: 'Nobody can count the stars.'",
+    "options": ["Who can count the stars?", "Can nobody count the stars?", "Who cannot count the stars?", "Why can count the stars?"],
+    "answer": "Who can count the stars?",
+    "explanation": "'Nobody', 'None' বা 'No one' থাকলে Interrogative করার সময় সরাসরি 'Who' বসে।"
+  },
+  {
+    "id": 162,
+    "question": "Transform into Interrogative: 'There is nothing better than honesty.'",
+    "options": ["Is there nothing better than honesty?", "What is better than honesty?", "Is there anything better than honesty?", "Why is honesty better?"],
+    "answer": "Is there anything better than honesty?",
+    "explanation": "'nothing' থাকলে Interrogative-এ 'anything' হয় এবং সাহায্যকারী ক্রিয়া (Is) বাক্যের শুরুতে আসে।"
+  },
+  {
+    "id": 163,
+    "question": "Transform into Interrogative: 'It does not matter if we lose the game.'",
+    "options": ["Does it matter if we lose the game?", "Why it matters if we lose the game?", "How it matters if we lose the game?", "What though if we lose the game?"],
+    "answer": "What though if we lose the game?",
+    "explanation": "'It does not matter' থাকলে 'What though' বা 'Does it matter' দিয়ে Interrogative করা যায়।"
+  },
+  {
+    "id": 164,
+    "question": "Transform into Assertive: 'Who does not love his country?'",
+    "options": ["Nobody loves his country.", "Somebody loves his country.", "Everybody loves his country.", "Anyone loves his country."],
+    "answer": "Everybody loves his country.",
+    "explanation": "'Who does not' দিয়ে শুরু হওয়া Interrogative বাক্যকে Assertive করতে 'Everybody' বা 'Everyone' বসে।"
+  },
+  {
+    "id": 165,
+    "question": "Transform into Assertive: 'Why cry over spilt milk?'",
+    "options": ["You should cry over spilt milk.", "Do not cry over spilt milk.", "It is useless to cry over spilt milk.", "Why to cry over spilt milk."],
+    "answer": "It is useless to cry over spilt milk.",
+    "explanation": "'Why + verb' থাকলে Assertive-এ 'It is useless to + verb' বসে।"
+  },
+  {
+    "id": 166,
+    "question": "Transform into Interrogative: 'He is a great fool.'",
+    "options": ["Is he not a great fool?", "Is he a great fool?", "Why is he a great fool?", "How is he a great fool?"],
+    "answer": "Is he not a great fool?",
+    "explanation": "Assertive বাক্যটি হ্যাঁ-বাচক (Affirmative) হলে Interrogative করার সময় তা না-বাচক (Negative) হয়।"
+  },
+  {
+    "id": 167,
+    "question": "Transform into Interrogative: 'Everyone knows him.'",
+    "options": ["Who knows him?", "Does everyone knows him?", "Whom does not know him?", "Who does not know him?"],
+    "answer": "Who does not know him?",
+    "explanation": "'Everyone' বা 'Everybody' থাকলে Interrogative-এ 'Who does not / doesn't' বসে।"
+  },
+  {
+    "id": 168,
+    "question": "Transform into Interrogative: 'You cannot please everybody.'",
+    "options": ["Can you please everybody?", "Can you not please everybody?", "Who can please everybody?", "Why please everybody?"],
+    "answer": "Can you please everybody?",
+    "explanation": "Assertive বাক্যটি না-বাচক (Negative) হলে Interrogative করার সময় তা হ্যাঁ-বাচক (Affirmative) হয়।"
+  },
+  {
+    "id": 169,
+    "question": "Transform into Interrogative: 'Blood is thicker than water.'",
+    "options": ["Is blood thicker than water?", "Is not blood thicker than water?", "Why is blood thicker than water?", "What is thicker than water?"],
+    "answer": "Is not blood thicker than water?",
+    "explanation": "চিরন্তন সত্য বা প্রবাদ বাক্যের Interrogative সবসময় না-বাচক (Negative Interrogative) হয়।"
+  },
+  {
+    "id": 170,
+    "question": "Transform into Assertive: 'Is that the way a gentleman should behave?'",
+    "options": ["That is the way a gentleman should behave.", "That is not the way a gentleman should behave.", "A gentleman behaves that way.", "That way a gentleman behaves."],
+    "answer": "That is not the way a gentleman should behave.",
+    "explanation": "Negative অর্থবহ Interrogative বাক্যকে Assertive করলে 'not' যুক্ত হয়।"
+  },
+  {
+    "id": 171,
+    "question": "Transform into Assertive: 'What a beautiful sight it is!'",
+    "options": ["It is beautiful sight.", "The sight is what beautiful.", "How beautiful sight it is.", "It is a very beautiful sight."],
+    "answer": "It is a very beautiful sight.",
+    "explanation": "Exclamatory বাক্যে 'What a' থাকলে Assertive করার সময় subject ও verb আগে আসে এবং 'a very/great/wonderful' ইত্যাদি বসে।"
+  },
+  {
+    "id": 172,
+    "question": "Transform into Assertive: 'How sweetly she sings!'",
+    "options": ["She sings extremely sweet.", "She sings sweetly.", "She sings very sweetly.", "She is singing very sweetly."],
+    "answer": "She sings very sweetly.",
+    "explanation": "Exclamatory বাক্যের 'How' Assertive-এ 'very' (Adverb) হয়ে যায়।"
+  },
+  {
+    "id": 173,
+    "question": "Transform into Assertive: 'Alas! He is undone.'",
+    "options": ["It is sad he is undone.", "It is a matter of sorrow that he is undone.", "He is completely undone.", "It is joyful that he is undone."],
+    "answer": "It is a matter of sorrow that he is undone.",
+    "explanation": "'Alas' দুঃখ প্রকাশ করে, তাই Assertive করতে 'It is a matter of sorrow that' বসে।"
+  },
+  {
+    "id": 174,
+    "question": "Transform into Exclamatory: 'I wish I were a king.'",
+    "options": ["If only I were a king!", "O that I am a king!", "What a king I were!", "How I wish a king!"],
+    "answer": "If only I were a king!",
+    "explanation": "Assertive বাক্যে 'I wish' থাকলে Exclamatory বাক্যে 'If only' বা 'O that' দিয়ে শুরু করতে হয়।"
+  },
+  {
+    "id": 175,
+    "question": "Transform into Exclamatory: 'It is a very dangerous thing.'",
+    "options": ["How dangerous thing it is!", "What dangerous thing it is!", "How a dangerous thing it is!", "What a dangerous thing it is!"],
+    "answer": "What a dangerous thing it is!",
+    "explanation": "Assertive বাক্যে 'a very' থাকলে Exclamatory 'What a/an' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 176,
+    "question": "Transform into Assertive: 'If I had the wings of a dove!'",
+    "options": ["I have the wings of a dove.", "I wish I had the wings of a dove.", "I earnestly desire the wings.", "I had the wings of a dove."],
+    "answer": "I wish I had the wings of a dove.",
+    "explanation": "'If I had...' দিয়ে শুরু হওয়া অবাস্তব ইচ্ছাসূচক বাক্যকে 'I wish I had...' দিয়ে Assertive করা হয়।"
+  },
+  {
+    "id": 177,
+    "question": "Transform into Assertive: 'Hurrah! We have won.'",
+    "options": ["It is a matter of joy that we have won.", "We have won joyfully.", "It is a matter of sorrow that we have won.", "We rejoice our win."],
+    "answer": "It is a matter of joy that we have won.",
+    "explanation": "'Hurrah' আনন্দ প্রকাশ করে, তাই এর পরিবর্তে 'It is a matter of joy that' বসে।"
+  },
+  {
+    "id": 178,
+    "question": "Transform into Exclamatory: 'A little learning is a very dangerous thing.'",
+    "options": ["How dangerous a thing a little learning is!", "What dangerous thing a little learning is!", "How a dangerous thing a little learning is!", "What a dangerous thing a little learning is!"],
+    "answer": "What a dangerous thing a little learning is!",
+    "explanation": "Assertive বাক্যে 'a very' থাকলে Exclamatory বাক্য 'What a/an' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 179,
+    "question": "Transform into Assertive: 'How cold the night is!'",
+    "options": ["The night is very cold.", "The night is cold.", "It is a cold night.", "The night is extremely cold."],
+    "answer": "The night is very cold.",
+    "explanation": "বাক্যে 'very' থাকলে এবং 'a/an' না থাকলে Exclamatory বাক্য 'How' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 180,
+    "question": "Transform into Assertive: 'O for a cup of tea!'",
+    "options": ["I want a cup of tea.", "I have a cup of tea.", "I earnestly desire a cup of tea.", "I wish I have a cup of tea."],
+    "answer": "I earnestly desire a cup of tea.",
+    "explanation": "তীব্র ইচ্ছা বোঝাতে Exclamatory বাক্যে 'O for' থাকলে Assertive-এ 'I earnestly desire' বসে।"
+  },
+  {
+    "id": 181,
+    "question": "Transform into Complex: 'He confessed his guilt.'",
+    "options": ["He confessed of his guilt.", "He confessed what his guilt was.", "He confessed that he was guilty.", "He confessed his guilty."],
+    "answer": "He confessed that he was guilty.",
+    "explanation": "Simple বাক্যের Object হিসেবে থাকা Noun/Noun phrase (his guilt)-কে Noun clause (that he was guilty)-এ পরিবর্তন করে Complex করা হয়।"
+  },
+  {
+    "id": 182,
+    "question": "Transform into Simple: 'Since he was ill, he could not come.'",
+    "options": ["He was ill so he could not come.", "Being ill, he could not come.", "Due to he was ill, he could not come.", "He could not come because of ill."],
+    "answer": "Being ill, he could not come.",
+    "explanation": "Complex বাক্যের 'Since/As/Because' যুক্ত clause-কে Simple করতে Present Participle (Being) ব্যবহার করা হয়।"
+  },
+  {
+    "id": 183,
+    "question": "Transform into Compound: 'In spite of his poverty, he is honest.'",
+    "options": ["Though he is poor, he is honest.", "He is poor so he is honest.", "He is poor but he is honest.", "He is honest in spite of poverty."],
+    "answer": "He is poor but he is honest.",
+    "explanation": "'In spite of' (সত্ত্বেও) যুক্ত Simple Sentence-কে Compound করতে 'but' Conjunction ব্যবহার করা হয়।"
+  },
+  {
+    "id": 184,
+    "question": "Transform into Complex: 'Do or die.'",
+    "options": ["Do otherwise die.", "If you do not do, you will die.", "Unless you do not do, you will die.", "If you do, you will die."],
+    "answer": "If you do not do, you will die.",
+    "explanation": "শর্তমূলক Compound বাক্যে 'or' থাকলে Complex করার সময় 'If ... not' বা 'Unless' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 185,
+    "question": "Transform into Complex: 'I know his birthplace.'",
+    "options": ["I know where is his birthplace.", "I know his place of birth.", "I know where he was born.", "I know that his birthplace."],
+    "answer": "I know where he was born.",
+    "explanation": "Noun phrase (his birthplace)-কে Noun clause (where he was born)-এ পরিবর্তন করে Complex করা হয়।"
+  },
+  {
+    "id": 186,
+    "question": "Transform into Compound: 'Although he is rich, he is unhappy.'",
+    "options": ["He is rich so unhappy.", "He is rich and unhappy.", "Being rich, he is unhappy.", "He is rich but unhappy."],
+    "answer": "He is rich but unhappy.",
+    "explanation": "Complex বাক্যে 'Although/Though' থাকলে Compound-এ 'but' বসে।"
+  },
+  {
+    "id": 187,
+    "question": "Transform into Compound: 'Going to the garden, he plucked a flower.'",
+    "options": ["He went to the garden and plucked a flower.", "He goes to the garden and plucks a flower.", "Going to garden and he plucked a flower.", "He plucked a flower going to the garden."],
+    "answer": "He went to the garden and plucked a flower.",
+    "explanation": "Participle (Going) যুক্ত Simple Sentence-কে Compound করতে 'and' Conjunction দিয়ে দুটি Principal Clause তৈরি করতে হয়।"
+  },
+  {
+    "id": 188,
+    "question": "Transform into Simple: 'The boy who is reading is my brother.'",
+    "options": ["The boy reads is my brother.", "The boy reading is my brother.", "The boy is reading and is my brother.", "The boy is my brother reading."],
+    "answer": "The boy reading is my brother.",
+    "explanation": "Relative clause (who is reading) কে Simple করতে Present Participle (reading) রূপে পরিবর্তন করা হয়।"
+  },
+  {
+    "id": 189,
+    "question": "Transform into Simple: 'He must run fast or he will not catch the train.'",
+    "options": ["He must run fast to catch the train.", "He must run fast for catching the train.", "In case of not running fast, he will not catch the train.", "If he does not run fast, he will not catch."],
+    "answer": "He must run fast to catch the train.",
+    "explanation": "Compound বাক্যের 'or' তুলে Simple করতে Infinitive (to catch) ব্যবহার করা যায়।"
+  },
+  {
+    "id": 190,
+    "question": "Transform into Complex: 'I saw a bird flying.'",
+    "options": ["I saw a flying bird.", "I saw a bird and it was flying.", "I saw a bird which was flying.", "A bird was flying seen by me."],
+    "answer": "I saw a bird which was flying.",
+    "explanation": "Adjective-এর কাজ করা Participle (flying)-কে Complex করার সময় Relative clause (which was flying) ব্যবহার করা হয়।"
+  },
+  {
+    "id": 191,
+    "question": "Transform into Comparative: 'No other boy is as tall as Ram.'",
+    "options": ["Ram is taller than any other boy.", "Ram is taller than all boys.", "Ram is the tallest boy.", "Ram is taller than most other boys."],
+    "answer": "Ram is taller than any other boy.",
+    "explanation": "'No other ... as + adjective + as' যুক্ত Positive Degree-কে Comparative করতে 'than any other' গঠন ব্যবহৃত হয়।"
+  },
+  {
+    "id": 192,
+    "question": "Transform into Superlative: 'Iron is more useful than any other metal.'",
+    "options": ["Iron is most useful metal.", "Iron is the most useful metal.", "Very few metals are as useful as iron.", "No other metal is as useful as iron."],
+    "answer": "Iron is the most useful metal.",
+    "explanation": "'than any other' যুক্ত Comparative-কে Superlative করতে 'the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 193,
+    "question": "Transform into Positive: 'Kolkata is the biggest city in India.'",
+    "options": ["No other city in India is as big as Kolkata.", "Very few cities in India are as big as Kolkata.", "Kolkata is bigger than any other city.", "Kolkata is big city in India."],
+    "answer": "No other city in India is as big as Kolkata.",
+    "explanation": "Superlative ডিগ্রিতে 'the + adjective-est' থাকলে Positive ডিগ্রি করার সময় 'No other' দিয়ে বাক্য শুরু হয়।"
+  },
+  {
+    "id": 194,
+    "question": "Transform into Comparative: 'He is as strong as you.'",
+    "options": ["He is stronger than you.", "You are stronger than he.", "You are not stronger than he.", "He is not stronger than you."],
+    "answer": "You are not stronger than he.",
+    "explanation": "Affirmative 'as...as' যুক্ত Positive Degree-কে Comparative করতে শেষের subject টি প্রথমে আসে, verb-এর পর not বসে এবং comparative রূপ + than বসে।"
+  },
+  {
+    "id": 195,
+    "question": "Transform into Positive: 'A pen is mightier than a sword.'",
+    "options": ["A sword is not mightier than a pen.", "A pen is as mighty as a sword.", "No sword is as mighty as a pen.", "A sword is not as mighty as a pen."],
+    "answer": "A sword is not as mighty as a pen.",
+    "explanation": "Comparative হ্যাঁ-বাচক হওয়ায় Positive না-বাচক (not as...as) হয় এবং শেষের subject প্রথমে আসে।"
+  },
+  {
+    "id": 196,
+    "question": "Transform into Comparative: 'Shakespeare is the greatest dramatist.'",
+    "options": ["Shakespeare is greater than all dramatists.", "No other dramatist is as great as Shakespeare.", "Shakespeare is greater than any other dramatist.", "Very few dramatists are as great as Shakespeare."],
+    "answer": "Shakespeare is greater than any other dramatist.",
+    "explanation": "'the + adjective-est' থাকলে Comparative-এ 'than any other' বসে।"
+  },
+  {
+    "id": 197,
+    "question": "Transform into Positive: 'This tree is older than that one.'",
+    "options": ["That tree is not older than this one.", "This tree is not as old as that one.", "No other tree is as old as this one.", "That tree is not as old as this one."],
+    "answer": "That tree is not as old as this one.",
+    "explanation": "Comparative হ্যাঁ-বাচক হওয়ায় Positive না-বাচক (not as...as) হয় এবং শেষের subject প্রথমে আসে।"
+  },
+  {
+    "id": 198,
+    "question": "Transform into Superlative: 'Very few countries are as rich as America.'",
+    "options": ["America is one of the richest countries.", "America is the richest country.", "America is richer than most other countries.", "No other country is as rich as America."],
+    "answer": "America is one of the richest countries.",
+    "explanation": "'Very few' যুক্ত Positive ডিগ্রিকে Superlative করতে 'one of the + superlative form' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 199,
+    "question": "Transform into Positive: 'He is one of the best boys.'",
+    "options": ["No other boy is as good as he.", "Very few boys are as good as he.", "He is better than most other boys.", "Some boys are as good as he."],
+    "answer": "Very few boys are as good as he.",
+    "explanation": "Superlative ডিগ্রিতে 'one of the' থাকলে Positive করার সময় বাক্যের শুরুতে 'Very few' বসে।"
+  },
+  {
+    "id": 200,
+    "question": "Transform into Superlative: 'Gold is more precious than most other metals.'",
+    "options": ["Gold is the most precious metal.", "Very few metals are as precious as gold.", "No other metal is as precious as gold.", "Gold is one of the most precious metals."],
+    "answer": "Gold is one of the most precious metals.",
+    "explanation": "'than most other' থাকলে Superlative-এ 'one of the + superlative form' ব্যবহৃত হয়।"
+  }
+]

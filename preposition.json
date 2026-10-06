@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "question": "He is addicted ___ smoking.",
+    "options": ["with", "in", "to", "for"],
+    "answer": "to",
+    "explanation": "'Addicted'-এর পর সর্বদা 'to' preposition বসে। এর অর্থ কোনো খারাপ কিছুতে বা নেশায় আসক্ত হওয়া।"
+  },
+  {
+    "id": 2,
+    "question": "She is good ___ mathematics.",
+    "options": ["in", "about", "at", "with"],
+    "answer": "at",
+    "explanation": "কোনো বিষয়ে দক্ষ বা কাঁচা বোঝাতে 'good at' বা 'bad at' ব্যবহৃত হয়, 'in' নয়।"
+  },
+  {
+    "id": 3,
+    "question": "The frog jumped ___ the well.",
+    "options": ["in", "into", "inside", "to"],
+    "answer": "into",
+    "explanation": "বাইরে থেকে ভেতরে গতিশীল অবস্থা (motion) বোঝাতে 'into' বসে।"
+  },
+  {
+    "id": 4,
+    "question": "His grandfather died ___ cholera.",
+    "options": ["of", "from", "by", "with"],
+    "answer": "of",
+    "explanation": "কোনো রোগে মারা গেলে 'die of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 5,
+    "question": "The man died ___ overeating.",
+    "options": ["of", "from", "by", "for"],
+    "answer": "from",
+    "explanation": "কোনো কারণ বা অতিরিক্ত কিছু করার ফলে (যেমন বেশি খাওয়া, কাজ) মারা গেলে 'die from' বসে।"
+  },
+  {
+    "id": 6,
+    "question": "The snake was killed by him ___ a stick.",
+    "options": ["by", "with", "from", "in"],
+    "answer": "with",
+    "explanation": "কোনো বস্তুর বা যন্ত্রের সাহায্যে কাজ করা বোঝালে 'with' বসে (যেমন- with a stick)। আর ব্যক্তির দ্বারা বোঝালে 'by' বসে।"
+  },
+  {
+    "id": 7,
+    "question": "I have been living here ___ 2015.",
+    "options": ["from", "since", "for", "in"],
+    "answer": "since",
+    "explanation": "নির্দিষ্ট সময় বা Point of time বোঝাতে Present Perfect Continuous Tense-এ 'since' বসে।"
+  },
+  {
+    "id": 8,
+    "question": "He has been ill ___ five days.",
+    "options": ["from", "since", "for", "in"],
+    "answer": "for",
+    "explanation": "সময়ের ব্যাপ্তি বা Period of time (যেমন- পাঁচ দিন, দু'মাস) বোঝাতে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 9,
+    "question": "She prefers tea ___ coffee.",
+    "options": ["than", "over", "to", "for"],
+    "answer": "to",
+    "explanation": "দুটি জিনিসের মধ্যে একটিকে বেশি পছন্দ করা বোঝাতে Prefer-এর পর সর্বদা 'to' বসে, 'than' নয়।"
+  },
+  {
+    "id": 10,
+    "question": "I congratulate you ___ your grand success.",
+    "options": ["for", "on", "about", "at"],
+    "answer": "on",
+    "explanation": "কাউকে অভিনন্দন জানানোর ক্ষেত্রে Congratulate-এর পর 'on' preposition বসে।"
+  },
+  {
+    "id": 11,
+    "question": "Children are usually fond ___ sweets.",
+    "options": ["for", "with", "of", "in"],
+    "answer": "of",
+    "explanation": "কোনো কিছুর প্রতি অনুরাগী বা প্রিয় বোঝাতে 'fond of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 12,
+    "question": "You can always rely ___ me.",
+    "options": ["on", "at", "in", "with"],
+    "answer": "on",
+    "explanation": "নির্ভর করা বা ভরসা করা অর্থে 'rely on' বা 'rely upon' বসে।"
+  },
+  {
+    "id": 13,
+    "question": "He insisted ___ my going there.",
+    "options": ["in", "on", "for", "about"],
+    "answer": "on",
+    "explanation": "কোনো বিষয়ে জেদ করা বা জোর দেওয়া বোঝাতে Insist-এর পর 'on' বসে।"
+  },
+  {
+    "id": 14,
+    "question": "My uncle deals ___ rice.",
+    "options": ["in", "with", "for", "about"],
+    "answer": "in",
+    "explanation": "ব্যবসা করা অর্থে 'deal in' ব্যবহৃত হয় (যেমন- deal in rice, sugar)।"
+  },
+  {
+    "id": 15,
+    "question": "He does not know how to deal ___ customers.",
+    "options": ["in", "with", "to", "about"],
+    "answer": "with",
+    "explanation": "কারো সাথে আচরণ করা বা কোনো পরিস্থিতি সামলানো অর্থে 'deal with' বসে।"
+  },
+  {
+    "id": 16,
+    "question": "A miser cannot part ___ his money.",
+    "options": ["from", "with", "away", "for"],
+    "answer": "with",
+    "explanation": "কোনো বস্তু বা জিনিস থেকে আলাদা হওয়া বোঝাতে 'part with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 17,
+    "question": "She wept bitterly when she parted ___ her parents.",
+    "options": ["from", "with", "away", "off"],
+    "answer": "from",
+    "explanation": "কোনো ব্যক্তির থেকে আলাদা হওয়া বোঝাতে 'part from' বসে।"
+  },
+  {
+    "id": 18,
+    "question": "The man is blind ___ one eye.",
+    "options": ["of", "to", "in", "with"],
+    "answer": "of",
+    "explanation": "শারীরিকভাবে অন্ধ বোঝাতে 'blind of' (বা blind in) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 19,
+    "question": "A father is often blind ___ the faults of his son.",
+    "options": ["of", "to", "in", "about"],
+    "answer": "to",
+    "explanation": "দোষের প্রতি অন্ধ বা উদাসীন বোঝাতে 'blind to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 20,
+    "question": "I completely agree ___ you.",
+    "options": ["to", "with", "on", "about"],
+    "answer": "with",
+    "explanation": "কোনো ব্যক্তির সাথে একমত হওয়া বোঝাতে 'agree with' বসে।"
+  },
+  {
+    "id": 21,
+    "question": "He did not agree ___ my proposal.",
+    "options": ["to", "with", "on", "for"],
+    "answer": "to",
+    "explanation": "কোনো প্রস্তাবে (proposal) একমত হওয়া বোঝাতে 'agree to' বসে।"
+  },
+  {
+    "id": 22,
+    "question": "The teacher was angry ___ the student.",
+    "options": ["at", "with", "on", "to"],
+    "answer": "with",
+    "explanation": "কোনো ব্যক্তির উপর রাগ করা বোঝালে 'angry with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 23,
+    "question": "I am angry ___ your rude behavior.",
+    "options": ["at", "with", "on", "for"],
+    "answer": "at",
+    "explanation": "কারো আচরণের (behavior/conduct) উপর রাগ বোঝালে 'angry at' বসে।"
+  },
+  {
+    "id": 24,
+    "question": "You should apply ___ the Principal for a leave.",
+    "options": ["to", "for", "with", "at"],
+    "answer": "to",
+    "explanation": "কোনো ব্যক্তির কাছে আবেদন করা বোঝালে 'apply to' বসে।"
+  },
+  {
+    "id": 25,
+    "question": "He has applied ___ the post of a clerk.",
+    "options": ["to", "for", "with", "in"],
+    "answer": "for",
+    "explanation": "কোনো পদের (post) জন্য আবেদন করা বোঝালে 'apply for' বসে।"
+  },
+  {
+    "id": 26,
+    "question": "What are you looking ___?",
+    "options": ["at", "in", "to", "on"],
+    "answer": "at",
+    "explanation": "কোনো কিছুর দিকে তাকানো অর্থে 'look at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 27,
+    "question": "I am looking ___ my lost keys.",
+    "options": ["at", "for", "into", "after"],
+    "answer": "for",
+    "explanation": "কোনো কিছু খোঁজা (search) অর্থে 'look for' বসে।"
+  },
+  {
+    "id": 28,
+    "question": "The police are looking ___ the matter.",
+    "options": ["at", "for", "into", "after"],
+    "answer": "into",
+    "explanation": "কোনো ঘটনার তদন্ত (investigate) করা অর্থে 'look into' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 29,
+    "question": "She looks ___ her old parents.",
+    "options": ["at", "for", "into", "after"],
+    "answer": "after",
+    "explanation": "কারো দেখাশোনা বা যত্ন নেওয়া (take care of) অর্থে 'look after' বসে।"
+  },
+  {
+    "id": 30,
+    "question": "The committee consists ___ five members.",
+    "options": ["of", "with", "in", "by"],
+    "answer": "of",
+    "explanation": "কোনো কিছু দিয়ে গঠিত হওয়া বোঝাতে 'consist of' বসে।"
+  },
+  {
+    "id": 31,
+    "question": "He has been suffering ___ fever for three days.",
+    "options": ["with", "from", "by", "of"],
+    "answer": "from",
+    "explanation": "রোগে বা কোনো কারণে কষ্ট ভোগ করা বোঝাতে 'suffer from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 32,
+    "question": "We are proud ___ our country.",
+    "options": ["of", "in", "for", "about"],
+    "answer": "of",
+    "explanation": "গর্বিত হওয়া (Adjective) বোঝাতে 'proud of' বসে।"
+  },
+  {
+    "id": 33,
+    "question": "He takes pride ___ his wealth.",
+    "options": ["of", "in", "for", "about"],
+    "answer": "in",
+    "explanation": "গর্ব করা (Noun form- pride) বোঝাতে 'pride in' বা 'take pride in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 34,
+    "question": "The heavy rain prevented me ___ going to school.",
+    "options": ["to", "from", "for", "with"],
+    "answer": "from",
+    "explanation": "কাউকে কোনো কাজ থেকে বিরত রাখা বা বাধা দেওয়া বোঝাতে 'prevent from' বসে। এরপর Verb-এর সাথে 'ing' যুক্ত হয়।"
+  },
+  {
+    "id": 35,
+    "question": "You should abstain ___ smoking.",
+    "options": ["from", "to", "with", "for"],
+    "answer": "from",
+    "explanation": "খারাপ কিছু থেকে বিরত থাকা বোঝাতে 'abstain from' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 36,
+    "question": "Darjeeling is famous ___ its tea.",
+    "options": ["for", "in", "about", "with"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর জন্য বিখ্যাত হওয়া বোঝাতে 'famous for' বসে।"
+  },
+  {
+    "id": 37,
+    "question": "The fact is known ___ everyone.",
+    "options": ["by", "to", "for", "with"],
+    "answer": "to",
+    "explanation": "Passive voice-এ 'know'-এর পর 'by' না বসে 'to' preposition বসে।"
+  },
+  {
+    "id": 38,
+    "question": "He is junior ___ me by two years.",
+    "options": ["than", "from", "to", "of"],
+    "answer": "to",
+    "explanation": "Junior, Senior, Superior, Inferior - এই ল্যাটিন তুলনামূলক শব্দগুলোর পর 'than' না বসে 'to' বসে।"
+  },
+  {
+    "id": 39,
+    "question": "This cloth is superior ___ that one.",
+    "options": ["than", "from", "to", "of"],
+    "answer": "to",
+    "explanation": "গুণের দিক থেকে উন্নত বোঝাতে Superior ব্যবহৃত হয় এবং এরপর সর্বদা 'to' বসে।"
+  },
+  {
+    "id": 40,
+    "question": "Distribute the sweets ___ the two brothers.",
+    "options": ["among", "between", "in", "with"],
+    "answer": "between",
+    "explanation": "নির্দিষ্ট দুজনের মধ্যে কোনো কিছু ভাগ করে দেওয়া বোঝালে 'between' বসে।"
+  },
+  {
+    "id": 41,
+    "question": "Distribute the books ___ all the students.",
+    "options": ["among", "between", "in", "with"],
+    "answer": "among",
+    "explanation": "দুইয়ের বেশি ব্যক্তি বা বস্তুর মধ্যে ভাগ করে দেওয়া বোঝালে 'among' বসে।"
+  },
+  {
+    "id": 42,
+    "question": "He sat ___ me in the class.",
+    "options": ["beside", "besides", "by", "at"],
+    "answer": "beside",
+    "explanation": "কারো ঠিক পাশে বসা বা অবস্থান করা বোঝাতে 'beside' বসে।"
+  },
+  {
+    "id": 43,
+    "question": "___ a car, he has a motorbike.",
+    "options": ["Beside", "Besides", "Except", "With"],
+    "answer": "Besides",
+    "explanation": "'তাছাড়াও' বা 'ইন এডিশন টু' (in addition to) বোঝাতে 'Besides' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 44,
+    "question": "We went to Kolkata ___ bus.",
+    "options": ["on", "by", "in", "with"],
+    "answer": "by",
+    "explanation": "যাতায়াতের মাধ্যম (bus, train, car) বোঝালে তার আগে 'by' বসে।"
+  },
+  {
+    "id": 45,
+    "question": "He comes to school ___ foot.",
+    "options": ["by", "on", "with", "in"],
+    "answer": "on",
+    "explanation": "পায়ে হেঁটে কোথাও যাওয়া বোঝালে সর্বদা 'on foot' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 46,
+    "question": "They live ___ Delhi.",
+    "options": ["at", "in", "on", "into"],
+    "answer": "in",
+    "explanation": "বড় শহর, রাজ্য বা দেশের নামের আগে 'in' বসে।"
+  },
+  {
+    "id": 47,
+    "question": "He lives ___ Hanskhali.",
+    "options": ["in", "at", "on", "by"],
+    "answer": "at",
+    "explanation": "তুলনামূলক ছোট জায়গা, গ্রাম বা নির্দিষ্ট স্থানের আগে 'at' বসে।"
+  },
+  {
+    "id": 48,
+    "question": "Sita was married ___ Ram.",
+    "options": ["with", "to", "by", "for"],
+    "answer": "to",
+    "explanation": "Passive voice-এ 'married'-এর পর 'with' নয়, 'to' বসে।"
+  },
+  {
+    "id": 49,
+    "question": "I am not familiar ___ this software.",
+    "options": ["to", "with", "about", "in"],
+    "answer": "with",
+    "explanation": "কোনো বিষয় বা বস্তুর সাথে পরিচিত বোঝাতে 'familiar with' বসে। (তবে কোনো ব্যক্তির কাছে পরিচিত বোঝালে familiar to বসে)।"
+  },
+  {
+    "id": 50,
+    "question": "He is highly capable ___ doing this hard work.",
+    "options": ["for", "of", "in", "to"],
+    "answer": "of",
+    "explanation": "সক্ষমতা বোঝাতে 'capable'-এর পর 'of' preposition বসে।"
+  },
+  {
+    "id": 51,
+    "question": "He is accused ___ murder.",
+    "options": ["of", "for", "with", "by"],
+    "answer": "of",
+    "explanation": "কোনো অপরাধে অভিযুক্ত হওয়া বোঝাতে 'accused'-এর পর 'of' preposition বসে।"
+  },
+  {
+    "id": 52,
+    "question": "The hunter aimed ___ the flying bird.",
+    "options": ["on", "at", "to", "for"],
+    "answer": "at",
+    "explanation": "কোনো নির্দিষ্ট লক্ষ্যবস্তুর দিকে তাক করা বা লক্ষ্য স্থির করা বোঝাতে 'aim at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 53,
+    "question": "You should avail yourself ___ this golden opportunity.",
+    "options": ["with", "for", "of", "to"],
+    "answer": "of",
+    "explanation": "কোনো সুযোগ গ্রহণ করা বা কাজে লাগানো অর্থে 'avail'-এর পর reflexive pronoun (myself, yourself) বসে এবং তারপর সর্বদা 'of' বসে।"
+  },
+  {
+    "id": 54,
+    "question": "I am fully aware ___ the current situation.",
+    "options": ["about", "of", "in", "with"],
+    "answer": "of",
+    "explanation": "কোনো বিষয় সম্পর্কে সচেতন বা অবগত হওয়া বোঝাতে 'aware of' ব্যবহৃত হয়, 'aware about' নয়।"
+  },
+  {
+    "id": 55,
+    "question": "Do you believe ___ ghosts?",
+    "options": ["in", "on", "about", "for"],
+    "answer": "in",
+    "explanation": "কোনো কিছুর অস্তিত্ব বা ক্ষমতায় বিশ্বাস রাখা বোঝাতে 'believe in' বসে (যেমন- believe in God)।"
+  },
+  {
+    "id": 56,
+    "question": "This beautiful house belongs ___ me.",
+    "options": ["with", "for", "to", "in"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর মালিকানা বা অধিকারভুক্ত হওয়া বোঝাতে 'belong to' বসে।"
+  },
+  {
+    "id": 57,
+    "question": "Beware ___ pickpockets.",
+    "options": ["from", "of", "against", "with"],
+    "answer": "of",
+    "explanation": "কোনো বিপদ বা ক্ষতিকর কিছু থেকে সতর্ক থাকা বোঝাতে 'beware of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 58,
+    "question": "He always boasts ___ his wealth.",
+    "options": ["for", "about", "of", "in"],
+    "answer": "of",
+    "explanation": "অহংকার করা বা বড়াই করা বোঝাতে 'boast'-এর পর 'of' preposition বসে।"
+  },
+  {
+    "id": 59,
+    "question": "The man was charged ___ theft.",
+    "options": ["for", "with", "of", "against"],
+    "answer": "with",
+    "explanation": "কোনো অপরাধে অভিযুক্ত করা অর্থে 'charge'-এর পর 'with' বসে। (তবে Noun হিসেবে বসলে 'charge of' হয়)।"
+  },
+  {
+    "id": 60,
+    "question": "She complained ___ a severe headache.",
+    "options": ["of", "about", "for", "with"],
+    "answer": "of",
+    "explanation": "কোনো শারীরিক কষ্ট বা রোগের অভিযোগ করা বোঝাতে 'complain of' বসে।"
+  },
+  {
+    "id": 61,
+    "question": "I complained ___ him to the Principal.",
+    "options": ["about", "against", "on", "for"],
+    "answer": "against",
+    "explanation": "কারো বিরুদ্ধে নালিশ করা বোঝাতে 'complain against' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 62,
+    "question": "He is highly confident ___ his success.",
+    "options": ["for", "about", "of", "in"],
+    "answer": "of",
+    "explanation": "কোনো বিষয়ে আত্মবিশ্বাসী বা নিশ্চিত হওয়া বোঝাতে 'confident'-এর পর 'of' বসে।"
+  },
+  {
+    "id": 63,
+    "question": "You must conform ___ the rules of the institution.",
+    "options": ["with", "to", "in", "by"],
+    "answer": "to",
+    "explanation": "নিয়ম বা আইন মেনে চলা বোঝাতে 'conform to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 64,
+    "question": "I will compensate him ___ the heavy loss.",
+    "options": ["for", "with", "to", "against"],
+    "answer": "for",
+    "explanation": "কোনো ক্ষতির জন্য ক্ষতিপূরণ দেওয়া বোঝাতে 'compensate for' বসে।"
+  },
+  {
+    "id": 65,
+    "question": "The doctor cured him ___ malaria.",
+    "options": ["from", "of", "with", "by"],
+    "answer": "of",
+    "explanation": "রোগ থেকে কাউকে সুস্থ করে তোলা অর্থে Verb হিসেবে 'cure'-এর পর 'of' বসে।"
+  },
+  {
+    "id": 66,
+    "question": "There is no cure ___ AIDS yet.",
+    "options": ["for", "of", "against", "to"],
+    "answer": "for",
+    "explanation": "রোগের ঔষধ বা প্রতিষেধক অর্থে Noun হিসেবে 'cure'-এর পর 'for' বসে।"
+  },
+  {
+    "id": 67,
+    "question": "The manager turned a deaf ear ___ my requests.",
+    "options": ["for", "at", "to", "on"],
+    "answer": "to",
+    "explanation": "কারো কথায় কর্ণপাত না করা বা বধির হওয়া (রূপক অর্থে) বোঝাতে 'deaf to' বসে।"
+  },
+  {
+    "id": 68,
+    "question": "The poor farmer was deprived ___ his land.",
+    "options": ["from", "of", "off", "with"],
+    "answer": "of",
+    "explanation": "কাউকে কোনো অধিকার বা সম্পত্তি থেকে বঞ্চিত করা বোঝাতে 'deprive of' বসে।"
+  },
+  {
+    "id": 69,
+    "question": "Do not despair ___ success.",
+    "options": ["for", "of", "about", "in"],
+    "answer": "of",
+    "explanation": "কোনো কিছু থেকে হতাশ হওয়া বোঝাতে 'despair of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 70,
+    "question": "This pen differs ___ that one in color.",
+    "options": ["with", "from", "to", "in"],
+    "answer": "from",
+    "explanation": "কোনো বস্তু অপর একটি বস্তু থেকে আলাদা বোঝাতে 'differ from' বসে।"
+  },
+  {
+    "id": 71,
+    "question": "I differ ___ you on this political issue.",
+    "options": ["with", "from", "to", "on"],
+    "answer": "with",
+    "explanation": "কোনো বিষয়ে অন্য কোনো ব্যক্তির সাথে মতবিরোধ হওয়া বোঝাতে 'differ with' বসে।"
+  },
+  {
+    "id": 72,
+    "question": "The property was divided ___ four equal parts.",
+    "options": ["in", "into", "among", "to"],
+    "answer": "into",
+    "explanation": "কোনো কিছুকে কয়েক খণ্ডে বিভক্ত করা বোঝাতে 'divide into' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 73,
+    "question": "He is eligible ___ the post of a sub-inspector.",
+    "options": ["to", "for", "of", "in"],
+    "answer": "for",
+    "explanation": "কোনো পদের জন্য যোগ্য হওয়া বোঝাতে 'eligible for' বসে।"
+  },
+  {
+    "id": 74,
+    "question": "The dangerous prisoner escaped ___ the jail.",
+    "options": ["from", "off", "out", "by"],
+    "answer": "from",
+    "explanation": "কোথাও থেকে পালিয়ে যাওয়া বা মুক্তি পাওয়া বোঝাতে 'escape from' বসে।"
+  },
+  {
+    "id": 75,
+    "question": "Fresh air and pure water are essential ___ health.",
+    "options": ["for", "to", "with", "in"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর জন্য অপরিহার্য বা অত্যন্ত প্রয়োজনীয় বোঝাতে 'essential to' (বা for) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 76,
+    "question": "He was exempted ___ paying the late fee.",
+    "options": ["from", "for", "to", "with"],
+    "answer": "from",
+    "explanation": "কোনো নিয়ম, কর বা শাস্তি থেকে রেহাই বা ছাড় দেওয়া বোঝাতে 'exempt from' বসে।"
+  },
+  {
+    "id": 77,
+    "question": "Cows feed ___ grass.",
+    "options": ["with", "on", "in", "by"],
+    "answer": "on",
+    "explanation": "কোনো কিছু খেয়ে বেঁচে থাকা বা জীবন ধারণ করা বোঝাতে 'feed on' বসে।"
+  },
+  {
+    "id": 78,
+    "question": "The glass is filled ___ pure water.",
+    "options": ["by", "of", "with", "in"],
+    "answer": "with",
+    "explanation": "কোনো পাত্র কিছু দিয়ে পূর্ণ থাকা বোঝাতে 'filled with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 79,
+    "question": "He is physically fit ___ the rigorous job.",
+    "options": ["for", "to", "in", "with"],
+    "answer": "for",
+    "explanation": "কোনো কাজের জন্য উপযুক্ত বোঝাতে 'fit for' বসে।"
+  },
+  {
+    "id": 80,
+    "question": "I am deeply grateful ___ you.",
+    "options": ["for", "to", "with", "towards"],
+    "answer": "to",
+    "explanation": "কোনো ব্যক্তির কাছে কৃতজ্ঞ থাকা বোঝাতে 'grateful to' বসে।"
+  },
+  {
+    "id": 81,
+    "question": "I am grateful to you ___ your timely help.",
+    "options": ["for", "about", "on", "in"],
+    "answer": "for",
+    "explanation": "কোনো কাজের জন্য বা সাহায্যের জন্য কৃতজ্ঞ থাকা বোঝাতে 'grateful for' বসে।"
+  },
+  {
+    "id": 82,
+    "question": "The man was found guilty ___ theft.",
+    "options": ["for", "of", "with", "in"],
+    "answer": "of",
+    "explanation": "কোনো অপরাধে দোষী সাব্যস্ত হওয়া বোঝাতে 'guilty of' বসে।"
+  },
+  {
+    "id": 83,
+    "question": "We should always hope ___ the best.",
+    "options": ["for", "to", "of", "in"],
+    "answer": "for",
+    "explanation": "ভালো কিছুর আশা করা বোঝাতে 'hope for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 84,
+    "question": "He is completely ignorant ___ the new rules.",
+    "options": ["about", "of", "for", "in"],
+    "answer": "of",
+    "explanation": "কোনো বিষয়ে অজ্ঞ বা না জানা থাকা বোঝাতে 'ignorant of' বসে।"
+  },
+  {
+    "id": 85,
+    "question": "I am deeply indebted ___ you for your kindness.",
+    "options": ["for", "with", "to", "in"],
+    "answer": "to",
+    "explanation": "কারো কাছে ঋণী বা কৃতজ্ঞ থাকা বোঝাতে 'indebted to' বসে।"
+  },
+  {
+    "id": 86,
+    "question": "The police will inquire ___ the matter thoroughly.",
+    "options": ["about", "into", "for", "on"],
+    "answer": "into",
+    "explanation": "কোনো ঘটনার তদন্ত করা অর্থে 'inquire into' বসে (investigate-এর সমার্থক)।"
+  },
+  {
+    "id": 87,
+    "question": "She is naturally jealous ___ my recent success.",
+    "options": ["for", "of", "with", "about"],
+    "answer": "of",
+    "explanation": "কারো প্রতি ঈর্ষান্বিত হওয়া বোঝাতে 'jealous of' বসে।"
+  },
+  {
+    "id": 88,
+    "question": "The dog jumped ___ the fence.",
+    "options": ["on", "over", "above", "in"],
+    "answer": "over",
+    "explanation": "কোনো কিছুর উপর দিয়ে লাফিয়ে পার হওয়া বোঝাতে 'jump over' বসে।"
+  },
+  {
+    "id": 89,
+    "question": "Someone is knocking ___ the front door.",
+    "options": ["in", "on", "at", "to"],
+    "answer": "at",
+    "explanation": "দরজায় কড়া নাড়া বোঝাতে সর্বদা 'knock at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 90,
+    "question": "We should not laugh ___ the poor.",
+    "options": ["on", "at", "for", "to"],
+    "answer": "at",
+    "explanation": "কাউকে উপহাস করা বা ব্যঙ্গ করে হাসা বোঝাতে 'laugh at' বসে।"
+  },
+  {
+    "id": 91,
+    "question": "You must listen ___ what your teachers say.",
+    "options": ["at", "to", "for", "on"],
+    "answer": "to",
+    "explanation": "মনোযোগ দিয়ে কিছু শোনা বোঝাতে 'listen'-এর পর সর্বদা 'to' বসে।"
+  },
+  {
+    "id": 92,
+    "question": "Sachin has no match ___ playing cricket.",
+    "options": ["for", "in", "with", "to"],
+    "answer": "for",
+    "explanation": "কারো সমকক্ষ বা তুল্য কেউ নেই বোঝাতে 'match for' বসে।"
+  },
+  {
+    "id": 93,
+    "question": "The manager strongly objected ___ my proposal.",
+    "options": ["against", "to", "on", "for"],
+    "answer": "to",
+    "explanation": "কোনো কিছুতে আপত্তি জানানো বা অসম্মত হওয়া বোঝাতে 'object to' বসে।"
+  },
+  {
+    "id": 94,
+    "question": "Open your textbook ___ page 50.",
+    "options": ["at", "on", "in", "to"],
+    "answer": "at",
+    "explanation": "বইয়ের নির্দিষ্ট কোনো পাতা খুলতে বলা হলে 'open at' বসে।"
+  },
+  {
+    "id": 95,
+    "question": "The leader is very popular ___ his followers.",
+    "options": ["among", "with", "to", "for"],
+    "answer": "with",
+    "explanation": "কোনো নির্দিষ্ট শ্রেণির মানুষের কাছে জনপ্রিয় বোঝাতে 'popular with' বসে (যেমন- popular with the students/followers)।"
+  },
+  {
+    "id": 96,
+    "question": "He was strictly prohibited ___ entering the building.",
+    "options": ["to", "from", "for", "in"],
+    "answer": "from",
+    "explanation": "কাউকে কোনো কাজ করা থেকে নিষেধ করা বা আটকাতে 'prohibit from' বসে। এরপর Verb+ing হয়।"
+  },
+  {
+    "id": 97,
+    "question": "The headmaster presided ___ the annual meeting.",
+    "options": ["on", "over", "in", "at"],
+    "answer": "over",
+    "explanation": "সভাপতিত্ব করা বা কোনো সভা পরিচালনা করা বোঝাতে 'preside over' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 98,
+    "question": "Are you ready ___ the upcoming test?",
+    "options": ["to", "for", "with", "about"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর জন্য প্রস্তুত হওয়া বোঝাতে 'ready for' বসে।"
+  },
+  {
+    "id": 99,
+    "question": "The businessman was reduced ___ poverty.",
+    "options": ["in", "into", "to", "with"],
+    "answer": "to",
+    "explanation": "খারাপ অবস্থার সম্মুখীন হওয়া বা কোনো দুর্দশায় পতিত হওয়া বোঝাতে 'reduced to' বসে (যেমন- reduced to tears/poverty)।"
+  },
+  {
+    "id": 100,
+    "question": "He is related ___ me by blood.",
+    "options": ["with", "to", "by", "for"],
+    "answer": "to",
+    "explanation": "কারো সাথে সম্পর্কযুক্ত হওয়া বোঝাতে 'related to' ব্যবহৃত হয়, 'related with' নয়।"
+  },
+  {
+    "id": 101,
+    "question": "Please remind me ___ the upcoming meeting.",
+    "options": ["about", "of", "for", "on"],
+    "answer": "of",
+    "explanation": "কাউকে কোনো বিষয়ে মনে করিয়ে দেওয়া বা স্মরণ করানো বোঝাতে 'remind'-এর পর 'of' preposition বসে।"
+  },
+  {
+    "id": 102,
+    "question": "The police are searching ___ the missing boy.",
+    "options": ["about", "for", "in", "after"],
+    "answer": "for",
+    "explanation": "কোনো কিছু খোঁজা বা তল্লাশি করা অর্থে 'search for' ব্যবহৃত হয়। (তবে শুধু 'search' verb হিসেবে বসলে অনেক সময় preposition বসে না, কিন্তু এখানে খোঁজার উদ্দেশ্য বোঝাতে 'for' বসেছে)।"
+  },
+  {
+    "id": 103,
+    "question": "The patient is serious, please send ___ a doctor immediately.",
+    "options": ["to", "for", "in", "with"],
+    "answer": "for",
+    "explanation": "কাউকে ডেকে পাঠানো (বিশেষ করে ডাক্তার বা সাহায্যকারী) অর্থে 'send for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 104,
+    "question": "We should always sympathize ___ the poor and needy.",
+    "options": ["for", "with", "towards", "to"],
+    "answer": "with",
+    "explanation": "কারো প্রতি সহানুভূতিশীল হওয়া বোঝাতে 'sympathize with' বসে।"
+  },
+  {
+    "id": 105,
+    "question": "She has no taste ___ classical music.",
+    "options": ["in", "for", "of", "about"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর প্রতি রুচি বা আগ্রহ বোঝাতে 'taste for' বসে।"
+  },
+  {
+    "id": 106,
+    "question": "Always trust ___ God and do the right.",
+    "options": ["on", "in", "to", "with"],
+    "answer": "in",
+    "explanation": "ঈশ্বরের প্রতি বা কারো উপর অগাধ বিশ্বাস রাখা বোঝাতে 'trust in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 107,
+    "question": "This reference book is very useful ___ me.",
+    "options": ["for", "to", "with", "in"],
+    "answer": "to",
+    "explanation": "কোনো জিনিস কোনো 'ব্যক্তির' কাছে উপকারী বা দরকারি বোঝালে 'useful to' বসে।"
+  },
+  {
+    "id": 108,
+    "question": "This sharp tool is useful ___ cutting hard wood.",
+    "options": ["for", "to", "in", "with"],
+    "answer": "for",
+    "explanation": "কোনো 'উদ্দেশ্যে' বা কাজের জন্য উপকারী বোঝালে 'useful for' বসে।"
+  },
+  {
+    "id": 109,
+    "question": "The citizens were warned ___ the approaching storm.",
+    "options": ["against", "of", "about", "for"],
+    "answer": "of",
+    "explanation": "কোনো বিপদ সম্পর্কে আগে থেকে সতর্ক করে দেওয়া বোঝাতে 'warn of' (বা warn against) বসে।"
+  },
+  {
+    "id": 110,
+    "question": "The brave soldier did not yield ___ the enemy.",
+    "options": ["to", "before", "in", "for"],
+    "answer": "to",
+    "explanation": "কারো কাছে বশ্যতা স্বীকার করা বা আত্মসমর্পণ করা (surrender) বোঝাতে 'yield to' বসে।"
+  },
+  {
+    "id": 111,
+    "question": "He is very zealous ___ his new business project.",
+    "options": ["in", "for", "about", "of"],
+    "answer": "for",
+    "explanation": "কোনো বিষয়ে প্রবল উৎসাহী বা উদ্দীপনাপূর্ণ বোঝাতে 'zealous for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 112,
+    "question": "I am not well acquainted ___ that gentleman.",
+    "options": ["to", "with", "about", "by"],
+    "answer": "with",
+    "explanation": "কারো বা কোনো কিছুর সাথে পরিচিত থাকা বোঝাতে 'acquainted with' বসে।"
+  },
+  {
+    "id": 113,
+    "question": "He was admitted ___ class ten in that school.",
+    "options": ["in", "to", "into", "at"],
+    "answer": "to",
+    "explanation": "স্কুল, কলেজ বা ক্লাসে ভর্তি হওয়া বোঝাতে 'admitted to' বসে। (হাসপাতালে ভর্তি বোঝাতেও admitted to বসে)।"
+  },
+  {
+    "id": 114,
+    "question": "The little child is afraid ___ the dark.",
+    "options": ["from", "of", "with", "in"],
+    "answer": "of",
+    "explanation": "কোনো কিছুতে ভীত হওয়া বা ভয় পাওয়া বোঝাতে 'afraid of' বসে।"
+  },
+  {
+    "id": 115,
+    "question": "He apologized ___ the teacher for coming late.",
+    "options": ["to", "for", "with", "before"],
+    "answer": "to",
+    "explanation": "কোনো 'ব্যক্তির' কাছে ক্ষমা চাওয়া বোঝাতে 'apologize to' বসে।"
+  },
+  {
+    "id": 116,
+    "question": "He apologized to his friend ___ his rude behavior.",
+    "options": ["to", "for", "about", "on"],
+    "answer": "for",
+    "explanation": "কোনো 'ভুল কাজের' জন্য ক্ষমা চাওয়া বোঝাতে 'apologize for' বসে।"
+  },
+  {
+    "id": 117,
+    "question": "The sick man has a good appetite ___ food now.",
+    "options": ["in", "for", "to", "with"],
+    "answer": "for",
+    "explanation": "খাবারের প্রতি খিদে বা রুচি বোঝাতে 'appetite for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 118,
+    "question": "I assure you ___ my full support in this matter.",
+    "options": ["of", "for", "about", "with"],
+    "answer": "of",
+    "explanation": "কাউকে কোনো বিষয়ে আশ্বস্ত করা বা নিশ্চয়তা দেওয়া বোঝাতে 'assure'-এর পর 'of' বসে।"
+  },
+  {
+    "id": 119,
+    "question": "We were completely astonished ___ his sudden failure.",
+    "options": ["with", "at", "on", "in"],
+    "answer": "at",
+    "explanation": "কোনো কিছুতে বিস্মিত বা অবাক হওয়া বোঝাতে 'astonished at' (বা surprised at) বসে।"
+  },
+  {
+    "id": 120,
+    "question": "Do not attach too much importance ___ this silly matter.",
+    "options": ["for", "to", "on", "with"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর সাথে জুড়ে দেওয়া বা গুরুত্ব আরোপ করা বোঝাতে 'attach to' বসে।"
+  },
+  {
+    "id": 121,
+    "question": "You should strictly attend ___ your lessons.",
+    "options": ["on", "to", "in", "at"],
+    "answer": "to",
+    "explanation": "মনোযোগ দেওয়া (pay attention) বোঝাতে 'attend to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 122,
+    "question": "The prisoner begged ___ mercy before the judge.",
+    "options": ["for", "to", "of", "in"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর জন্য ভিক্ষা বা প্রার্থনা করা বোঝাতে 'beg for' বসে।"
+  },
+  {
+    "id": 123,
+    "question": "The express train is bound ___ New Delhi.",
+    "options": ["to", "for", "towards", "at"],
+    "answer": "for",
+    "explanation": "কোনো নির্দিষ্ট গন্তব্যের উদ্দেশ্যে রওনা দেওয়া বোঝাতে 'bound for' বসে।"
+  },
+  {
+    "id": 124,
+    "question": "Hearing the sad news, the girl burst ___ tears.",
+    "options": ["in", "out", "into", "with"],
+    "answer": "into",
+    "explanation": "হঠাৎ কান্নায় ভেঙে পড়া বোঝাতে 'burst into tears' বসে। (তবে হঠাৎ হেসে ফেললে 'burst out laughing' হয়)।"
+  },
+  {
+    "id": 125,
+    "question": "The manager is currently busy ___ some important work.",
+    "options": ["in", "with", "for", "on"],
+    "answer": "with",
+    "explanation": "কোনো কাজে ব্যস্ত থাকা বোঝাতে 'busy with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 126,
+    "question": "You must take proper care ___ your health.",
+    "options": ["for", "of", "about", "in"],
+    "answer": "of",
+    "explanation": "যত্ন নেওয়া অর্থে 'take care'-এর পর সর্বদা 'of' বসে।"
+  },
+  {
+    "id": 127,
+    "question": "I do not care ___ his negative opinion.",
+    "options": ["of", "for", "about", "to"],
+    "answer": "for",
+    "explanation": "কোনো কিছুকে গ্রাহ্য করা বা পরোয়া করা অর্থে 'care for' বসে।"
+  },
+  {
+    "id": 128,
+    "question": "He is absolutely certain ___ his grand success.",
+    "options": ["about", "of", "for", "in"],
+    "answer": "of",
+    "explanation": "কোনো বিষয়ে নিশ্চিত হওয়া বোঝাতে 'certain of' (বা sure of) বসে।"
+  },
+  {
+    "id": 129,
+    "question": "The frightened baby was clinging ___ its mother.",
+    "options": ["with", "to", "on", "in"],
+    "answer": "to",
+    "explanation": "ভয়ে বা শক্ত করে কাউকে/কিছুকে আঁকড়ে ধরা বোঝাতে 'cling to' বসে।"
+  },
+  {
+    "id": 130,
+    "question": "My house is very close ___ the railway station.",
+    "options": ["from", "to", "with", "near"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর খুব নিকটে বা কাছাকাছি অবস্থান করা বোঝাতে 'close to' বসে।"
+  },
+  {
+    "id": 131,
+    "question": "You must comply ___ the rules of the library.",
+    "options": ["to", "with", "in", "by"],
+    "answer": "with",
+    "explanation": "কোনো নিয়ম বা অনুরোধ মেনে চলা বোঝাতে 'comply with' বসে।"
+  },
+  {
+    "id": 132,
+    "question": "Anger is often compared ___ fire.",
+    "options": ["with", "to", "as", "like"],
+    "answer": "to",
+    "explanation": "দুটি সম্পূর্ণ ভিন্ন ধর্মী জিনিসের মধ্যে তুলনা (যেমন- রাগের সাথে আগুন) বোঝালে 'compare to' বসে।"
+  },
+  {
+    "id": 133,
+    "question": "Rabindranath can be compared ___ Shakespeare.",
+    "options": ["with", "to", "for", "by"],
+    "answer": "with",
+    "explanation": "দুটি সমধর্মী বা একই জাতীয় ব্যক্তি/বস্তুর মধ্যে তুলনা (যেমন- দুই কবির মধ্যে) বোঝালে 'compare with' বসে।"
+  },
+  {
+    "id": 134,
+    "question": "We have to compete ___ thousands of other students.",
+    "options": ["to", "with", "against", "for"],
+    "answer": "with",
+    "explanation": "কারো সাথে প্রতিযোগিতা করা বোঝাতে 'compete with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 135,
+    "question": "The notorious murderer was condemned ___ death.",
+    "options": ["for", "to", "with", "of"],
+    "answer": "to",
+    "explanation": "কাউকে চরম দণ্ড বা মৃত্যুদণ্ড দেওয়া বোঝাতে 'condemned to' বসে।"
+  },
+  {
+    "id": 136,
+    "question": "He has been confined ___ bed due to severe illness.",
+    "options": ["in", "to", "on", "with"],
+    "answer": "to",
+    "explanation": "অসুস্থতার কারণে শয্যাশায়ী হওয়া বা কোনো নির্দিষ্ট জায়গায় সীমাবদ্ধ থাকা বোঝাতে 'confined to' বসে।"
+  },
+  {
+    "id": 137,
+    "question": "My father gave his consent ___ the marriage proposal.",
+    "options": ["for", "to", "on", "with"],
+    "answer": "to",
+    "explanation": "কোনো প্রস্তাবে সম্মতি দেওয়া বা রাজি হওয়া বোঝাতে 'consent to' বসে।"
+  },
+  {
+    "id": 138,
+    "question": "His actions are quite contrary ___ his words.",
+    "options": ["from", "to", "with", "against"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর বিপরীত বা উল্টো হওয়া বোঝাতে 'contrary to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 139,
+    "question": "Every citizen should contribute ___ the nation's development.",
+    "options": ["for", "in", "to", "towards"],
+    "answer": "to",
+    "explanation": "কোনো ভালো কাজে বা ফাণ্ডে অবদান রাখা বোঝাতে 'contribute to' বসে।"
+  },
+  {
+    "id": 140,
+    "question": "He was convicted ___ murder by the high court.",
+    "options": ["for", "of", "with", "in"],
+    "answer": "of",
+    "explanation": "আইনিভাবে কোনো অপরাধে দোষী সাব্যস্ত হওয়া বোঝাতে 'convicted of' বসে।"
+  },
+  {
+    "id": 141,
+    "question": "You can always count ___ my help in difficult times.",
+    "options": ["in", "on", "for", "with"],
+    "answer": "on",
+    "explanation": "কারো উপর নির্ভর করা বা ভরসা করা বোঝাতে 'count on' (বা depend on) বসে।"
+  },
+  {
+    "id": 142,
+    "question": "Mother Teresa dedicated her entire life ___ the service of the poor.",
+    "options": ["for", "to", "in", "with"],
+    "answer": "to",
+    "explanation": "কোনো মহৎ উদ্দেশ্যে জীবন উৎসর্গ করা বোঝাতে 'dedicate to' বসে।"
+  },
+  {
+    "id": 143,
+    "question": "The student is deficient ___ English grammar.",
+    "options": ["in", "of", "for", "with"],
+    "answer": "in",
+    "explanation": "কোনো বিষয়ে দুর্বলতা বা ঘাটতি থাকা বোঝাতে 'deficient in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 144,
+    "question": "The cruel boy takes great delight ___ teasing the stray dogs.",
+    "options": ["for", "on", "in", "with"],
+    "answer": "in",
+    "explanation": "কোনো কাজ করে আনন্দ পাওয়া বোঝাতে 'delight in' বসে।"
+  },
+  {
+    "id": 145,
+    "question": "Your final success depends ___ your hard work.",
+    "options": ["in", "on", "for", "with"],
+    "answer": "on",
+    "explanation": "কোনো কিছুর উপর নির্ভরশীল হওয়া বোঝাতে 'depend on' বসে।"
+  },
+  {
+    "id": 146,
+    "question": "The flood victims are destitute ___ all belongings.",
+    "options": ["from", "of", "with", "in"],
+    "answer": "of",
+    "explanation": "সবকিছু থেকে বঞ্চিত বা নিঃস্ব হওয়া বোঝাতে 'destitute of' বসে।"
+  },
+  {
+    "id": 147,
+    "question": "Swami Vivekananda devoted his life ___ the welfare of humanity.",
+    "options": ["for", "to", "in", "towards"],
+    "answer": "to",
+    "explanation": "নিজেকে কোনো কাজে বা সেবায় নিয়োজিত করা বোঝাতে 'devote to' বসে।"
+  },
+  {
+    "id": 148,
+    "question": "The great leader died ___ harness while serving the nation.",
+    "options": ["on", "in", "with", "for"],
+    "answer": "in",
+    "explanation": "কর্মরত অবস্থায় মারা যাওয়া বোঝাতে 'die in harness' একটি বহুল প্রচলিত phrase।"
+  },
+  {
+    "id": 149,
+    "question": "I completely disagree ___ you on this controversial point.",
+    "options": ["to", "with", "on", "about"],
+    "answer": "with",
+    "explanation": "কোনো ব্যক্তির সাথে দ্বিমত পোষণ করা বা অমত হওয়া বোঝাতে 'disagree with' বসে।"
+  },
+  {
+    "id": 150,
+    "question": "Everyone was disgusted ___ his bad behaviour at the party.",
+    "options": ["with", "at", "for", "on"],
+    "answer": "at",
+    "explanation": "কারো আচার-আচরণ বা কোনো জিনিসে বিরক্ত হওয়া বোঝাতে 'disgusted at' বসে। (তবে কোনো ব্যক্তির উপর বিরক্ত হলে disgusted with হয়)।"
+  },
+  {
+    "id": 151,
+    "question": "He is naturally endowed ___ many great talents.",
+    "options": ["with", "by", "in", "for"],
+    "answer": "with",
+    "explanation": "জন্মগতভাবে বা প্রাকৃতিকভাবে কোনো গুণ বা প্রতিভার অধিকারী হওয়া বোঝাতে 'endowed with' বসে।"
+  },
+  {
+    "id": 152,
+    "question": "My sister is engaged ___ a doctor.",
+    "options": ["with", "to", "by", "in"],
+    "answer": "to",
+    "explanation": "কারো সাথে বাগদান বা বিবাহ স্থির হওয়া বোঝাতে 'engaged to' বসে।"
+  },
+  {
+    "id": 153,
+    "question": "He is currently engaged ___ some urgent official work.",
+    "options": ["with", "to", "in", "for"],
+    "answer": "in",
+    "explanation": "কোনো কাজ বা ব্যবসায় লিপ্ত বা ব্যস্ত থাকা বোঝাতে 'engaged in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 154,
+    "question": "As a citizen, you are entitled ___ free medical care.",
+    "options": ["for", "to", "with", "of"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর অধিকারী বা দাবিদার হওয়া বোঝাতে 'entitled to' বসে।"
+  },
+  {
+    "id": 155,
+    "question": "He is not equal ___ the task given to him.",
+    "options": ["to", "for", "with", "in"],
+    "answer": "to",
+    "explanation": "কোনো কাজের যোগ্য বা সমকক্ষ হওয়া বোঝাতে 'equal to' বসে।"
+  },
+  {
+    "id": 156,
+    "question": "She excels ___ painting and singing.",
+    "options": ["at", "in", "with", "for"],
+    "answer": "in",
+    "explanation": "কোনো কাজে বা বিষয়ে উৎকর্ষ লাভ করা বা খুব ভালো হওয়া বোঝাতে 'excel in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 157,
+    "question": "His name is familiar ___ almost everyone in the town.",
+    "options": ["with", "to", "by", "for"],
+    "answer": "to",
+    "explanation": "কোনো 'ব্যক্তির' কাছে পরিচিত হওয়া বোঝালে 'familiar to' বসে। (অন্যদিকে, কোনো 'বিষয়ের' সাথে পরিচিত বোঝালে familiar with হয়)।"
+  },
+  {
+    "id": 158,
+    "question": "Cancer is often fatal ___ human life.",
+    "options": ["for", "to", "against", "in"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর পক্ষে মারাত্মক বা প্রাণঘাতী হওয়া বোঝাতে 'fatal to' বসে।"
+  },
+  {
+    "id": 159,
+    "question": "The old servant was very faithful ___ his master.",
+    "options": ["with", "to", "for", "in"],
+    "answer": "to",
+    "explanation": "কারো প্রতি বিশ্বস্ত বা অনুগত হওয়া বোঝাতে 'faithful to' বসে।"
+  },
+  {
+    "id": 160,
+    "question": "We should not be false ___ our friends.",
+    "options": ["with", "to", "for", "in"],
+    "answer": "to",
+    "explanation": "কারো সাথে বেইমানি করা বা অবিশ্বস্ত হওয়া বোঝাতে 'false to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 161,
+    "question": "The weather is favourable ___ growing tea.",
+    "options": ["for", "to", "in", "with"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর জন্য অনুকূল হওয়া বোঝাতে 'favourable for' বসে। (তবে কোনো ব্যক্তির পক্ষে অনুকূল বোঝালে favourable to হয়)।"
+  },
+  {
+    "id": 162,
+    "question": "They are fearful ___ losing the match.",
+    "options": ["about", "of", "for", "in"],
+    "answer": "of",
+    "explanation": "কোনো বিষয়ে ভীত বা শঙ্কিত হওয়া বোঝাতে 'fearful of' বসে।"
+  },
+  {
+    "id": 163,
+    "question": "No one in this world is entirely free ___ cares and worries.",
+    "options": ["from", "of", "with", "about"],
+    "answer": "from",
+    "explanation": "কোনো কিছু (যেমন চিন্তা, রোগ, ত্রুটি) থেকে মুক্ত থাকা বোঝাতে 'free from' বসে।"
+  },
+  {
+    "id": 164,
+    "question": "The basket is full ___ fresh apples.",
+    "options": ["with", "of", "in", "by"],
+    "answer": "of",
+    "explanation": "কোনো কিছু দিয়ে পূর্ণ হওয়া বোঝাতে 'full of' বসে (যেখানে filled-এর পর with বসে)।"
+  },
+  {
+    "id": 165,
+    "question": "You should guard ___ evil temptations.",
+    "options": ["from", "against", "with", "to"],
+    "answer": "against",
+    "explanation": "কোনো খারাপ কিছু থেকে সতর্ক থাকা বা প্রতিরোধ করা বোঝাতে 'guard against' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 166,
+    "question": "Can you guess ___ her real age?",
+    "options": ["on", "at", "about", "for"],
+    "answer": "at",
+    "explanation": "কোনো কিছু অনুমান করার চেষ্টা করা অর্থে 'guess at' বসে।"
+  },
+  {
+    "id": 167,
+    "question": "He is the sole heir ___ his father's vast property.",
+    "options": ["of", "to", "for", "in"],
+    "answer": "to",
+    "explanation": "উত্তরাধিকারী হওয়া বোঝাতে 'heir' (উচ্চারণ: এয়ার)-এর পর 'to' বসে।"
+  },
+  {
+    "id": 168,
+    "question": "Do not hide anything ___ your doctor or lawyer.",
+    "options": ["to", "from", "with", "against"],
+    "answer": "from",
+    "explanation": "কারো কাছ থেকে কিছু গোপন করা বা লুকোনো বোঝাতে 'hide from' বসে।"
+  },
+  {
+    "id": 169,
+    "question": "His illness hindered him ___ doing the hard work.",
+    "options": ["to", "from", "for", "in"],
+    "answer": "from",
+    "explanation": "কাউকে কোনো কাজ করতে বাধা দেওয়া বা প্রতিহত করা বোঝাতে 'hinder from' বসে (prevent from-এর মতো)।"
+  },
+  {
+    "id": 170,
+    "question": "The speaker hinted ___ some major changes in the policy.",
+    "options": ["about", "at", "on", "for"],
+    "answer": "at",
+    "explanation": "কোনো কিছুর ইঙ্গিত দেওয়া বা ইশারা করা বোঝাতে 'hint at' বসে।"
+  },
+  {
+    "id": 171,
+    "question": "You should not impose your ideas ___ others.",
+    "options": ["to", "on", "in", "with"],
+    "answer": "on",
+    "explanation": "কারো ওপর কিছু (যেমন নিয়ম, ধারণা বা কর) জোর করে চাপিয়ে দেওয়া বোঝাতে 'impose on' (বা impose upon) বসে।"
+  },
+  {
+    "id": 172,
+    "question": "I am inclined ___ believe his story.",
+    "options": ["to", "for", "with", "in"],
+    "answer": "to",
+    "explanation": "কোনো বিষয়ের প্রতি ঝোঁক বা প্রবণতা থাকা বোঝাতে 'inclined to' বসে।"
+  },
+  {
+    "id": 173,
+    "question": "The area is heavily infected ___ dengue virus.",
+    "options": ["by", "with", "in", "of"],
+    "answer": "with",
+    "explanation": "কোনো রোগ বা জীবাণু দ্বারা সংক্রামিত হওয়া বোঝাতে 'infected with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 174,
+    "question": "This event happened prior ___ the First World War.",
+    "options": ["than", "from", "to", "of"],
+    "answer": "to",
+    "explanation": "পূর্বে বা আগে বোঝাতে 'prior'-এর পর 'than' না বসে সর্বদা 'to' বসে।"
+  },
+  {
+    "id": 175,
+    "question": "The man was proved innocent ___ the crime.",
+    "options": ["from", "of", "about", "for"],
+    "answer": "of",
+    "explanation": "কোনো অপরাধ থেকে নির্দোষ প্রমাণিত হওয়া বোঝাতে 'innocent of' বসে।"
+  },
+  {
+    "id": 176,
+    "question": "I inquired ___ him about the shortest route to the station.",
+    "options": ["to", "of", "from", "with"],
+    "answer": "of",
+    "explanation": "কারো কাছ থেকে বা কোনো ব্যক্তির কাছে কিছু জিজ্ঞাসা করা বোঝাতে 'inquire of' বসে।"
+  },
+  {
+    "id": 177,
+    "question": "You should not interfere ___ my personal matters.",
+    "options": ["with", "in", "into", "on"],
+    "answer": "in",
+    "explanation": "অন্যের বিষয় বা ব্যাপারে হস্তক্ষেপ করা বোঝাতে 'interfere in' বসে।"
+  },
+  {
+    "id": 178,
+    "question": "Do not interfere ___ the machinery.",
+    "options": ["in", "with", "at", "to"],
+    "answer": "with",
+    "explanation": "কোনো যন্ত্রপাতি বা ব্যক্তির কাজের সাথে নাক গলানো বা বাধা দেওয়া বোঝাতে 'interfere with' বসে।"
+  },
+  {
+    "id": 179,
+    "question": "They invited me ___ their daughter's wedding.",
+    "options": ["in", "for", "to", "at"],
+    "answer": "to",
+    "explanation": "কোনো অনুষ্ঠানে আমন্ত্রণ জানানো বোঝাতে 'invite to' বসে (যেমন- invite to dinner/party)।"
+  },
+  {
+    "id": 180,
+    "question": "He was deeply involved ___ the conspiracy.",
+    "options": ["with", "in", "into", "for"],
+    "answer": "in",
+    "explanation": "কোনো কাজ, ঘটনা বা অপরাধে জড়িত থাকা বোঝাতে 'involved in' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 181,
+    "question": "When he was offered the well-paying job, he jumped ___ the offer.",
+    "options": ["on", "at", "to", "for"],
+    "answer": "at",
+    "explanation": "হাতে পাওয়া কোনো সুযোগ বা প্রস্তাবকে সানন্দে এবং তৎক্ষণাৎ গ্রহণ করা বোঝাতে 'jump at' বসে।"
+  },
+  {
+    "id": 182,
+    "question": "Do not jump ___ a conclusion without knowing the facts.",
+    "options": ["in", "to", "at", "on"],
+    "answer": "to",
+    "explanation": "তাড়াহুড়ো করে কোনো সিদ্ধান্তে উপনীত হওয়া বোঝাতে 'jump to a conclusion' বহুল প্রচলিত।"
+  },
+  {
+    "id": 183,
+    "question": "Hard work is the ultimate key ___ success.",
+    "options": ["of", "to", "for", "in"],
+    "answer": "to",
+    "explanation": "সাফল্যের চাবিকাঠি বোঝাতে 'key to' বসে, 'key of' নয়।"
+  },
+  {
+    "id": 184,
+    "question": "We should be kind ___ the street animals.",
+    "options": ["for", "to", "with", "towards"],
+    "answer": "to",
+    "explanation": "কারো প্রতি দয়ালু হওয়া বোঝাতে 'kind to' বসে।"
+  },
+  {
+    "id": 185,
+    "question": "The candidate is lacking ___ basic communication skills.",
+    "options": ["of", "in", "with", "about"],
+    "answer": "in",
+    "explanation": "Adjective হিসেবে 'lacking'-এর পর 'in' বসে (কোনো কিছুর অভাব থাকা)। তবে Noun হিসেবে 'lack'-এর পর 'of' বসে (যেমন- lack of money)।"
+  },
+  {
+    "id": 186,
+    "question": "It is useless to lament ___ the dead.",
+    "options": ["for", "over", "on", "about"],
+    "answer": "for",
+    "explanation": "কারো জন্য বা কোনো ক্ষতির জন্য শোক প্রকাশ করা বা বিলাপ করা বোঝাতে 'lament for' বসে।"
+  },
+  {
+    "id": 187,
+    "question": "The tired old man was leaning ___ the wall.",
+    "options": ["on", "at", "against", "in"],
+    "answer": "against",
+    "explanation": "কোনো কিছুতে (যেমন দেওয়াল, গাছ) হেলান দিয়ে থাকা বোঝাতে 'lean against' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 188,
+    "question": "If you break the law, you will be liable ___ severe punishment.",
+    "options": ["for", "to", "with", "of"],
+    "answer": "to",
+    "explanation": "কোনো শাস্তির যোগ্য বা দণ্ডনীয় হওয়া বোঝাতে 'liable to' বসে।"
+  },
+  {
+    "id": 189,
+    "question": "He is legally liable ___ the debts of his deceased brother.",
+    "options": ["to", "for", "about", "with"],
+    "answer": "for",
+    "explanation": "কোনো দেনা বা কাজের জন্য আইনিভাবে দায়ী থাকা বোঝাতে 'liable for' বসে।"
+  },
+  {
+    "id": 190,
+    "question": "The exile longed ___ his motherland.",
+    "options": ["to", "for", "about", "after"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর জন্য প্রবল আকাঙ্ক্ষা বা তীব্র ইচ্ছা প্রকাশ করা বোঝাতে 'long for' বসে।"
+  },
+  {
+    "id": 191,
+    "question": "A soldier must be strictly loyal ___ his country.",
+    "options": ["with", "to", "for", "in"],
+    "answer": "to",
+    "explanation": "কোনো ব্যক্তি বা দেশের প্রতি অনুগত থাকা বোঝাতে 'loyal to' বসে।"
+  },
+  {
+    "id": 192,
+    "question": "Hearing the insult, he was almost mad ___ anger.",
+    "options": ["in", "of", "with", "by"],
+    "answer": "with",
+    "explanation": "রাগে বা যন্ত্রণায় উন্মত্ত হওয়া বা পাগলপ্রায় অবস্থা বোঝাতে 'mad with' ব্যবহৃত হয় (যেমন- mad with pain/anger)।"
+  },
+  {
+    "id": 193,
+    "question": "This beautiful table is made ___ pure teak wood.",
+    "options": ["of", "from", "by", "with"],
+    "answer": "of",
+    "explanation": "কোনো জিনিস তৈরি হওয়ার পর যদি তার মূল উপাদানকে চেনা যায় (ভৌত পরিবর্তন), তবে 'made of' বসে।"
+  },
+  {
+    "id": 194,
+    "question": "Paper is made ___ wood and bamboo.",
+    "options": ["of", "from", "by", "with"],
+    "answer": "from",
+    "explanation": "কোনো জিনিস তৈরি হওয়ার পর যদি তার মূল উপাদানকে আর চেনা না যায় (রাসায়নিক পরিবর্তন), তবে 'made from' বসে।"
+  },
+  {
+    "id": 195,
+    "question": "There is no urgent need ___ money right now.",
+    "options": ["of", "for", "in", "to"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর প্রয়োজনীয়তা বা দরকার বোঝাতে Noun হিসেবে 'need'-এর পর 'for' বসে।"
+  },
+  {
+    "id": 196,
+    "question": "The watchman was fired because he was neglectful ___ his duties.",
+    "options": ["in", "to", "of", "about"],
+    "answer": "of",
+    "explanation": "নিজের কর্তব্যে অবহেলা বা গাফিলতি করা বোঝাতে 'neglectful of' বসে।"
+  },
+  {
+    "id": 197,
+    "question": "Students should always be obedient ___ their teachers.",
+    "options": ["with", "to", "for", "towards"],
+    "answer": "to",
+    "explanation": "কারো বাধ্য বা অনুগত থাকা বোঝাতে 'obedient to' বসে।"
+  },
+  {
+    "id": 198,
+    "question": "Hearing the tragic news, she was overcome ___ deep sorrow.",
+    "options": ["by", "with", "in", "from"],
+    "answer": "with",
+    "explanation": "দুঃখ, আনন্দ বা কোনো আবেগ দ্বারা অভিভূত হওয়া বোঝাতে 'overcome with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 199,
+    "question": "Death is preferable ___ disgrace.",
+    "options": ["than", "from", "to", "over"],
+    "answer": "to",
+    "explanation": "দুটি জিনিসের মধ্যে একটিকে বেশি শ্রেয় বা পছন্দসই মনে হলে 'preferable'-এর পর 'to' বসে, 'than' নয়।"
+  },
+  {
+    "id": 200,
+    "question": "The judge should not be partial ___ any of the parties.",
+    "options": ["with", "for", "to", "in"],
+    "answer": "to",
+    "explanation": "কারো প্রতি পক্ষপাতিত্ব করা বা পক্ষপাতদুষ্ট হওয়া বোঝাতে 'partial to' বসে।"
+  },
+  {
+    "id": 201,
+    "question": "The weary traveler sat ___ the shade of the tree.",
+    "options": ["under", "below", "in", "beneath"],
+    "answer": "in",
+    "explanation": "গাছের নিচে বসা বোঝালে 'under the tree' হয়, কিন্তু গাছের 'ছায়ায়' (shade) বসা বোঝালে সর্বদা 'in the shade' ব্যবহৃত হয়। এটি পরীক্ষায় আসা একটি অত্যন্ত কমন ট্রিক।"
+  },
+  {
+    "id": 202,
+    "question": "The train arrived at the station exactly ___ time.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "on",
+    "explanation": "নির্ধারিত সময়ে বা কাঁটায়-কাঁটায় ঠিক সময়ে (punctual) কোনো কিছু ঘটা বোঝাতে 'on time' বসে।"
+  },
+  {
+    "id": 203,
+    "question": "We must reach the exam hall ___ time.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "in",
+    "explanation": "নির্ধারিত সময়ের কিছুটা আগে বা নির্দিষ্ট সময়ের মধ্যে (যাতে দেরি না হয়) পৌঁছানো বোঝাতে 'in time' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 204,
+    "question": "A beautiful chandelier is hanging ___ the dining table.",
+    "options": ["on", "over", "above", "up"],
+    "answer": "over",
+    "explanation": "কোনো কিছুর ঠিক লম্বালম্বি উপরে (vertically above) শূন্যে অবস্থান করা বোঝালে 'over' বসে।"
+  },
+  {
+    "id": 205,
+    "question": "The water level of the river is ___ the danger mark.",
+    "options": ["over", "above", "on", "up"],
+    "answer": "above",
+    "explanation": "কোনো নির্দিষ্ট স্তর (level), সীমা বা মাপকাঠির উপরে অবস্থান করা বোঝালে 'above' বসে।"
+  },
+  {
+    "id": 206,
+    "question": "His performance in the last match was ___ average.",
+    "options": ["under", "below", "beneath", "down"],
+    "answer": "below",
+    "explanation": "কোনো নির্দিষ্ট মান বা স্তরের (level/standard) নিচে বোঝাতে 'below' বসে।"
+  },
+  {
+    "id": 207,
+    "question": "The scared cat is hiding ___ the bed.",
+    "options": ["below", "under", "beneath", "in"],
+    "answer": "under",
+    "explanation": "কোনো কিছুর নিচে ঢাকা অবস্থায় বা সরাসরি নিচে (vertically below) অবস্থান করা বোঝাতে 'under' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 208,
+    "question": "They found a hidden treasure ___ the ground.",
+    "options": ["under", "below", "beneath", "underneath"],
+    "answer": "beneath",
+    "explanation": "মাটির বা কোনো তলের একদম গভীরে বা নিচে (যেখানে তল স্পর্শ করে থাকে) বোঝাতে 'beneath' বা 'underneath' বসে।"
+  },
+  {
+    "id": 209,
+    "question": "Can you swim ___ the river to reach the other side?",
+    "options": ["along", "through", "across", "over"],
+    "answer": "across",
+    "explanation": "কোনো কিছুর (যেমন রাস্তা, নদী) এক পাশ থেকে অন্য পাশে পার হওয়া বোঝাতে 'across' বসে।"
+  },
+  {
+    "id": 210,
+    "question": "We enjoyed a long walk ___ the sea beach.",
+    "options": ["across", "through", "along", "by"],
+    "answer": "along",
+    "explanation": "রাস্তা, নদী বা সমুদ্র সৈকতের ধার বরাবর (সমান্তরালভাবে) হাঁটা বা এগিয়ে চলা বোঝাতে 'along' বসে।"
+  },
+  {
+    "id": 211,
+    "question": "The train passed ___ a dark tunnel.",
+    "options": ["across", "through", "into", "in"],
+    "answer": "through",
+    "explanation": "কোনো ঘেরা জায়গার (যেমন টানেল, জঙ্গল, পাইপ) ভেতর দিয়ে এক প্রান্ত থেকে অন্য প্রান্তে যাওয়া বোঝাতে 'through' বসে।"
+  },
+  {
+    "id": 212,
+    "question": "The mad dog ran ___ the little boy.",
+    "options": ["to", "towards", "at", "on"],
+    "answer": "towards",
+    "explanation": "কোনো নির্দিষ্ট দিকে (in the direction of) ছুটে যাওয়া বা অগ্রসর হওয়া বোঝাতে 'towards' বসে।"
+  },
+  {
+    "id": 213,
+    "question": "He dived ___ the swimming pool.",
+    "options": ["in", "into", "inside", "under"],
+    "answer": "into",
+    "explanation": "বাইরে থেকে ভেতরে প্রবেশ করা বা গতিশীল অবস্থা (motion) বোঝাতে 'into' বসে।"
+  },
+  {
+    "id": 214,
+    "question": "The monkey jumped ___ the branch of the tree.",
+    "options": ["on", "onto", "over", "above"],
+    "answer": "onto",
+    "explanation": "লাফিয়ে কোনো তলের (surface) উপরে গিয়ে পড়া বা বসা (গতি বোঝাতে) 'onto' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 215,
+    "question": "The rider lost control and fell ___ the horse.",
+    "options": ["from", "off", "out of", "down"],
+    "answer": "off",
+    "explanation": "কোনো তল বা স্থান থেকে বিচ্ছিন্ন হওয়া বা নিচে পড়ে যাওয়া বোঝাতে 'off' বসে (যেমন fall off a tree/horse)।"
+  },
+  {
+    "id": 216,
+    "question": "She took her laptop ___ her bag.",
+    "options": ["from", "off", "out of", "outside"],
+    "answer": "out of",
+    "explanation": "ভেতর থেকে বাইরে বের করে আনা বোঝাতে 'out of' ব্যবহৃত হয় ('into'-র ঠিক বিপরীত)।"
+  },
+  {
+    "id": 217,
+    "question": "The earth moves ___ the sun.",
+    "options": ["round", "around", "about", "over"],
+    "answer": "around",
+    "explanation": "কোনো কিছুর চারদিকে ঘোরা বা প্রদক্ষিণ করা বোঝাতে 'around' বা 'round' বসে।"
+  },
+  {
+    "id": 218,
+    "question": "He walked ___ the post office without stopping.",
+    "options": ["across", "past", "through", "by"],
+    "answer": "past",
+    "explanation": "কোনো কিছুকে পাশ কাটিয়ে বা অতিক্রম করে এগিয়ে যাওয়া বোঝাতে 'past' বসে।"
+  },
+  {
+    "id": 219,
+    "question": "You must submit the assignment ___ next Monday.",
+    "options": ["in", "on", "by", "within"],
+    "answer": "by",
+    "explanation": "নির্দিষ্ট সময়ের (Deadline) আগে বা ওই সময়ের মধ্যে কাজ শেষ করা বোঝাতে 'by' বসে।"
+  },
+  {
+    "id": 220,
+    "question": "I will return your money ___ a week.",
+    "options": ["in", "by", "within", "during"],
+    "answer": "within",
+    "explanation": "একটি নির্দিষ্ট সময়সীমার (period of time) ভেতরে বোঝাতে 'within' বসে (যেমন এক সপ্তাহের ভেতরে)।"
+  },
+  {
+    "id": 221,
+    "question": "He fell asleep ___ the meeting.",
+    "options": ["in", "while", "during", "for"],
+    "answer": "during",
+    "explanation": "কোনো ঘটনা চলাকালীন বা কোনো নির্দিষ্ট সময়কাল জুড়ে বোঝাতে 'during' বসে।"
+  },
+  {
+    "id": 222,
+    "question": "It rained heavily ___ the night.",
+    "options": ["during", "in", "throughout", "over"],
+    "answer": "throughout",
+    "explanation": "সম্পূর্ণ সময়কাল ধরে বা 'সারা' সময় জুড়ে (from beginning to end) বোঝাতে 'throughout' বসে।"
+  },
+  {
+    "id": 223,
+    "question": "Please wait here ___ I return.",
+    "options": ["for", "up to", "until", "by"],
+    "answer": "until",
+    "explanation": "কোনো নির্দিষ্ট সময় 'পর্যন্ত' বোঝাতে Time preposition হিসেবে 'until' (বা till) বসে।"
+  },
+  {
+    "id": 224,
+    "question": "He was born ___ the 15th of August.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "on",
+    "explanation": "দিন (Day) বা নির্দিষ্ট তারিখের (Date) আগে সর্বদা 'on' বসে।"
+  },
+  {
+    "id": 225,
+    "question": "We celebrate our Independence Day ___ August.",
+    "options": ["on", "in", "at", "during"],
+    "answer": "in",
+    "explanation": "মাস (Month), বছর (Year) বা ঋতুর (Season) নামের আগে সর্বদা 'in' বসে।"
+  },
+  {
+    "id": 226,
+    "question": "The old man is sitting ___ an armchair.",
+    "options": ["on", "in", "at", "over"],
+    "answer": "in",
+    "explanation": "হাতল-ওয়ালা চেয়ারে (armchair) বসা বোঝালে 'in' বসে। কারণ ব্যক্তিটি চেয়ারের কাঠামোর মধ্যে আবদ্ধ থাকে। (তবে হাতল-বিহীন সাধারণ চেয়ার হলে 'on' বসে)।"
+  },
+  {
+    "id": 227,
+    "question": "I am waiting for you ___ the bus stop.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "at",
+    "explanation": "কোনো নির্দিষ্ট পয়েন্ট বা ছোট জায়গা (যেমন bus stop, station, corner) বোঝাতে 'at' বসে।"
+  },
+  {
+    "id": 228,
+    "question": "My uncle works ___ a farm.",
+    "options": ["in", "on", "at", "inside"],
+    "answer": "on",
+    "explanation": "খামার বা চাষের জমি (farm) বোঝালে তার আগে 'in' না বসে সর্বদা 'on' (on a farm) বসে।"
+  },
+  {
+    "id": 229,
+    "question": "Look at yourself ___ the mirror.",
+    "options": ["at", "on", "in", "into"],
+    "answer": "in",
+    "explanation": "আয়নার 'ভেতরে' প্রতিবিম্ব দেখা যায়, তাই আয়নায় দেখা বোঝাতে 'in the mirror' বসে।"
+  },
+  {
+    "id": 230,
+    "question": "The sun disappeared ___ the dark clouds.",
+    "options": ["under", "below", "behind", "after"],
+    "answer": "behind",
+    "explanation": "কোনো কিছুর পেছনে বা আড়ালে বোঝাতে 'behind' বসে।"
+  },
+  {
+    "id": 231,
+    "question": "There is a big mango tree ___ my house.",
+    "options": ["before", "in front of", "ahead", "facing"],
+    "answer": "in front of",
+    "explanation": "কোনো কিছুর ঠিক সামনে অবস্থান করা বোঝাতে 'in front of' বসে।"
+  },
+  {
+    "id": 232,
+    "question": "Come and sit ___ me.",
+    "options": ["besides", "beside", "by", "near"],
+    "answer": "beside",
+    "explanation": "কারো ঠিক পাশে বসা বোঝাতে 'beside' বসে (S ছাড়া)।"
+  },
+  {
+    "id": 233,
+    "question": "___ being a good doctor, he is a great writer.",
+    "options": ["Beside", "Besides", "Except", "Without"],
+    "answer": "Besides",
+    "explanation": "'তাছাড়াও' বা 'এর পাশাপাশি' (in addition to) বোঝাতে 'Besides' (S যুক্ত) বসে।"
+  },
+  {
+    "id": 234,
+    "question": "Place the center table ___ the two sofas.",
+    "options": ["among", "between", "in middle", "center"],
+    "answer": "between",
+    "explanation": "দুটি বস্তু বা ব্যক্তির মাঝখানে অবস্থান করা বোঝাতে 'between' বসে।"
+  },
+  {
+    "id": 235,
+    "question": "The thief quickly vanished ___ the crowd.",
+    "options": ["between", "among", "in", "into"],
+    "answer": "among",
+    "explanation": "দুইয়ের বেশি মানুষ বা জিনিসের মাঝখানে বোঝাতে 'among' বসে।"
+  },
+  {
+    "id": 236,
+    "question": "He leaned the ladder ___ the wall.",
+    "options": ["on", "at", "against", "over"],
+    "answer": "against",
+    "explanation": "কোনো কিছুর গায়ে হেলান দিয়ে রাখা বা ঠেস দেওয়া বোঝাতে 'against' বসে।"
+  },
+  {
+    "id": 237,
+    "question": "The strict teacher caught the boy ___ the ear.",
+    "options": ["with", "by", "from", "on"],
+    "answer": "by",
+    "explanation": "কারো হাত, কান, কলার ইত্যাদি ধরে টানা বা ধরা বোঝাতে 'by' বসে (যেমন- caught him by the arm)।"
+  },
+  {
+    "id": 238,
+    "question": "You should write your answers ___ ink.",
+    "options": ["with", "by", "in", "from"],
+    "answer": "in",
+    "explanation": "খুবই গুরুত্বপূর্ণ নিয়ম: কলম দিয়ে লেখা বোঝালে 'with a pen' হয়, কিন্তু কালি দিয়ে লেখা বোঝালে 'in ink' বা 'in pencil' বসে।"
+  },
+  {
+    "id": 239,
+    "question": "What is the time ___ your watch?",
+    "options": ["in", "on", "by", "at"],
+    "answer": "by",
+    "explanation": "কারো ঘড়িতে কটা বাজে, তা জিজ্ঞেস করতে বা বলতে সর্বদা 'by your watch' বসে, 'in' নয়।"
+  },
+  {
+    "id": 240,
+    "question": "___ his immense wealth, he is very unhappy.",
+    "options": ["Instead of", "Because of", "In spite of", "By dint of"],
+    "answer": "In spite of",
+    "explanation": "দুটি বিপরীত অবস্থার মধ্যে তুলনা করতে 'সত্ত্বেও' অর্থে 'In spite of' (বা Despite) বসে। (Despite-এর পর of বসে না)।"
+  },
+  {
+    "id": 241,
+    "question": "The cricket match was cancelled ___ heavy rain.",
+    "options": ["in spite of", "because of", "instead of", "with a view to"],
+    "answer": "because of",
+    "explanation": "কোনো কারণ বা 'কারণে' বোঝাতে 'because of' বা 'owing to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 242,
+    "question": "The school will remain closed ___ the local festival.",
+    "options": ["on account of", "in lieu of", "in spite of", "by dint of"],
+    "answer": "on account of",
+    "explanation": "'কারণে' বা 'উপলক্ষে' বোঝাতে Phrasal preposition হিসেবে 'on account of' বসে।"
+  },
+  {
+    "id": 243,
+    "question": "He gave me a bank cheque ___ cash.",
+    "options": ["in spite of", "on behalf of", "in lieu of", "with a view to"],
+    "answer": "in lieu of",
+    "explanation": "কোনো কিছুর 'পরিবর্তে' (in place of) বোঝাতে 'in lieu of' বা 'instead of' বসে।"
+  },
+  {
+    "id": 244,
+    "question": "He succeeded in the tough exam ___ his hard work.",
+    "options": ["by dint of", "in spite of", "on account of", "instead of"],
+    "answer": "by dint of",
+    "explanation": "কোনো কিছুর 'জোরে' বা 'সাহায্যে' (by means of) বোঝাতে 'by dint of' বসে।"
+  },
+  {
+    "id": 245,
+    "question": "You must submit the project ___ the new guidelines.",
+    "options": ["in front of", "in accordance with", "in lieu of", "on behalf of"],
+    "answer": "in accordance with",
+    "explanation": "কোনো নিয়ম বা নির্দেশ 'অনুসারে' (according to) বোঝাতে 'in accordance with' বসে।"
+  },
+  {
+    "id": 246,
+    "question": "I am receiving this award ___ my entire team.",
+    "options": ["on behalf of", "in spite of", "instead of", "by dint of"],
+    "answer": "on behalf of",
+    "explanation": "কারো 'পক্ষে' বা 'প্রতিনিধি হিসেবে' কিছু করা বোঝাতে 'on behalf of' বসে।"
+  },
+  {
+    "id": 247,
+    "question": "___ heavy fog, the morning flight was delayed.",
+    "options": ["In spite of", "Owing to", "Instead of", "With a view to"],
+    "answer": "Owing to",
+    "explanation": "কোনো কারণে (Due to/Because of) বোঝাতে বাক্যের শুরুতে সাধারণত 'Owing to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 248,
+    "question": "We should use paper bags ___ plastic bags to save nature.",
+    "options": ["in spite of", "on behalf of", "instead of", "because of"],
+    "answer": "instead of",
+    "explanation": "একটির 'পরিবর্তে' অন্যটি ব্যবহার করা বোঝাতে 'instead of' বসে।"
+  },
+  {
+    "id": 249,
+    "question": "He went to Delhi ___ finding a better job.",
+    "options": ["in spite of", "owing to", "with a view to", "on account of"],
+    "answer": "with a view to",
+    "explanation": "কোনো 'উদ্দেশ্যে' বোঝাতে 'with a view to' বসে। মনে রাখবেন, এর পর সবসময় Verb-এর সাথে 'ing' যুক্ত হয় (যেমন- finding)।"
+  },
+  {
+    "id": 250,
+    "question": "The boy was standing ___ the door.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "at",
+    "explanation": "দরজার ঠিক সামনে বা কাছে দাঁড়ানো বোঝাতে 'at the door' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 251,
+    "question": "He usually goes to the office ___ bus.",
+    "options": ["in", "on", "by", "with"],
+    "answer": "by",
+    "explanation": "যাতায়াতের সাধারণ মাধ্যম (Transport) বোঝালে by বসে (যেমন- by bus, by train, by car)। তবে মাঝে কোনো Article (a/an/the) থাকলে নিয়ম বদলে যায়।"
+  },
+  {
+    "id": 252,
+    "question": "He arrived at the airport ___ a taxi.",
+    "options": ["by", "in", "on", "with"],
+    "answer": "in",
+    "explanation": "গাড়ির (Car/Taxi) আগে Article (a/the) বা Possessive (my/his) থাকলে 'in' বসে। (যেমন- in a taxi, in my car)। বাসে বা ট্রেনে যাতায়াত বোঝালে 'on a bus' বা 'on a train' হয়।"
+  },
+  {
+    "id": 253,
+    "question": "The meeting is scheduled ___ Friday morning.",
+    "options": ["in", "on", "at", "during"],
+    "answer": "on",
+    "explanation": "সাধারণত 'morning'-এর আগে 'in' (in the morning) বসে, কিন্তু নির্দিষ্ট কোনো বারের নাম (Friday) যুক্ত থাকলে সর্বদা 'on' বসে (on Friday morning)।"
+  },
+  {
+    "id": 254,
+    "question": "The stars twinkle brightly ___ night.",
+    "options": ["in", "on", "at", "during"],
+    "answer": "at",
+    "explanation": "দিনের নির্দিষ্ট কিছু অংশের আগে 'at' বসে (যেমন- at night, at noon, at dawn, at dusk)। তবে morning, afternoon, evening-এর আগে 'in the' বসে।"
+  },
+  {
+    "id": 255,
+    "question": "Please write your full name ___ the top of the page.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "at",
+    "explanation": "কোনো পৃষ্ঠার নির্দিষ্ট অংশ বা বিন্দু (Point) বোঝাতে 'at' বসে (যেমন- at the top, at the bottom)।"
+  },
+  {
+    "id": 256,
+    "question": "He is currently ___ duty and cannot take your call.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "on",
+    "explanation": "কর্মরত অবস্থা বোঝাতে সর্বদা 'on duty' ব্যবহৃত হয়। (ছুটিতে থাকলে 'on leave' বা 'off duty' হয়)।"
+  },
+  {
+    "id": 257,
+    "question": "The old wooden house is ___ fire.",
+    "options": ["in", "on", "under", "with"],
+    "answer": "on",
+    "explanation": "কোনো কিছুতে আগুন লাগা বা জ্বলন্ত অবস্থা বোঝাতে 'on fire' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 258,
+    "question": "She has been ___ a strict diet for three months.",
+    "options": ["in", "on", "under", "at"],
+    "answer": "on",
+    "explanation": "খাদ্যনিয়ন্ত্রণের মধ্যে থাকা বা ডায়েট করা বোঝাতে 'on a diet' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 259,
+    "question": "We watched the live cricket match ___ television.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "on",
+    "explanation": "ইলেকট্রনিক মাধ্যম যেমন টিভি, রেডিও, ইন্টারনেট ইত্যাদির মাধ্যমে কিছু দেখা বা শোনা বোঝাতে 'on' বসে (on television, on the radio, on the internet)।"
+  },
+  {
+    "id": 260,
+    "question": "I spoke to the manager ___ the telephone.",
+    "options": ["in", "on", "by", "over"],
+    "answer": "over",
+    "explanation": "টেলিফোন বা ফোনে কথা বলা বোঝাতে 'over the telephone' বা 'on the telephone' দুটিই ঠিক। তবে যোগাযোগের মাধ্যম হিসেবে over বেশি প্রচলিত।"
+  },
+  {
+    "id": 261,
+    "question": "In India, people always drive ___ the left side of the road.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "on",
+    "explanation": "রাস্তার নির্দিষ্ট কোনো দিক (ডান দিক বা বাঁ দিক) বোঝাতে 'on' বসে (on the left, on the right)।"
+  },
+  {
+    "id": 262,
+    "question": "Can you quickly translate this Bengali paragraph ___ English?",
+    "options": ["in", "into", "to", "for"],
+    "answer": "into",
+    "explanation": "এক ভাষা থেকে অন্য ভাষায় রূপান্তর বা অনুবাদ করা বোঝাতে 'translate into' বসে।"
+  },
+  {
+    "id": 263,
+    "question": "The entire situation is now ___ our control.",
+    "options": ["out of", "beyond", "over", "above"],
+    "answer": "beyond",
+    "explanation": "নিয়ন্ত্রণের বাইরে বা নাগালের বাইরে চলে যাওয়া বোঝাতে 'beyond control' বা 'out of control' বসে। অপশনে beyond সবচেয়ে মানানসই।"
+  },
+  {
+    "id": 264,
+    "question": "Keep all these medicines ___ the reach of small children.",
+    "options": ["out of", "beyond", "away from", "off"],
+    "answer": "out of",
+    "explanation": "নাগালের বাইরে রাখা বোঝাতে 'out of reach' একটি নির্দিষ্ট ফ্রেজ। ঔষধের গায়ে এটি প্রায়শই লেখা থাকে।"
+  },
+  {
+    "id": 265,
+    "question": "Everyone attended the grand party ___ Rahul.",
+    "options": ["except", "besides", "without", "unless"],
+    "answer": "except",
+    "explanation": "'ব্যতীত' বা 'ছাড়া' (বাদ দিয়ে) বোঝাতে 'except' বসে। রাহুল ছাড়া বাকি সবাই এসেছিল।"
+  },
+  {
+    "id": 266,
+    "question": "He was trembling ___ fear when he saw the ghost.",
+    "options": ["in", "with", "from", "of"],
+    "answer": "with",
+    "explanation": "ভয়ে কাঁপা বা শীতে কাঁপা বোঝাতে 'tremble with fear' বা 'shiver with cold' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 267,
+    "question": "I prefer taking my morning tea ___ sugar.",
+    "options": ["except", "without", "lacking", "out of"],
+    "answer": "without",
+    "explanation": "কোনো কিছু 'ছাড়া' বা 'ব্যতিরেকে' (যেমন চিনি ছাড়া চা) বোঝাতে 'without' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 268,
+    "question": "The patient is currently ___ observation in the ICU.",
+    "options": ["in", "under", "on", "at"],
+    "answer": "under",
+    "explanation": "কারো তত্ত্বাবধানে বা নজরদারিতে থাকা বোঝাতে 'under observation' বা 'under treatment' বসে।"
+  },
+  {
+    "id": 269,
+    "question": "You must drive your car ___ the speed limit.",
+    "options": ["in", "within", "under", "below"],
+    "answer": "within",
+    "explanation": "কোনো নির্দিষ্ট সীমার মধ্যে (Limit) থাকা বোঝাতে 'within' বসে (যেমন- within the speed limit)।"
+  },
+  {
+    "id": 270,
+    "question": "I am writing this email ___ our conversation yesterday.",
+    "options": ["with reference to", "in spite of", "on behalf of", "due to"],
+    "answer": "with reference to",
+    "explanation": "আগের কোনো ঘটনার 'সূত্র ধরে' বা 'প্রসঙ্গে' কিছু বলা বা লেখা বোঝাতে Phrasal preposition 'with reference to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 271,
+    "question": "The poor beggar was standing ___ the corner of the street.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "at",
+    "explanation": "রাস্তার মোড় বা কোণ বোঝাতে 'at the corner' বসে। (তবে ঘরের কোণ বোঝালে 'in the corner' হয়)।"
+  },
+  {
+    "id": 272,
+    "question": "He threw a stone ___ the aggressive street dog.",
+    "options": ["on", "to", "at", "towards"],
+    "answer": "at",
+    "explanation": "কাউকে আঘাত করার উদ্দেশ্যে লক্ষ্য করে কিছু ছোঁড়া বোঝাতে 'throw at' বসে। (তবে ক্যাচ ধরার জন্য ছোঁড়া বোঝালে 'throw to' হয়)।"
+  },
+  {
+    "id": 273,
+    "question": "The flight will take off exactly ___ schedule.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "on",
+    "explanation": "নির্ধারিত সময়সূচি অনুযায়ী চলা বোঝাতে 'on schedule' ব্যবহৃত হয়। (দেরিতে চললে behind schedule)।"
+  },
+  {
+    "id": 274,
+    "question": "William Shakespeare lived ___ the 16th century.",
+    "options": ["on", "in", "during", "at"],
+    "answer": "in",
+    "explanation": "শতাব্দী (Century), দশক (Decade) বা যুগের আগে সর্বদা 'in' বসে।"
+  },
+  {
+    "id": 275,
+    "question": "He has a beautiful flat ___ the third floor of this building.",
+    "options": ["in", "on", "at", "above"],
+    "answer": "on",
+    "explanation": "বিল্ডিংয়ের নির্দিষ্ট তলা বা ফ্লোর বোঝাতে সর্বদা 'on' বসে (on the ground floor, on the third floor)।"
+  },
+  {
+    "id": 276,
+    "question": "A beautiful painting is hanging ___ the wall.",
+    "options": ["in", "on", "at", "over"],
+    "answer": "on",
+    "explanation": "দেওয়ালের গায়ে কোনো কিছু ঝোলানো বা লাগানো থাকা বোঝাতে 'on the wall' বসে।"
+  },
+  {
+    "id": 277,
+    "question": "He lives ___ 15, Park Street, Kolkata.",
+    "options": ["in", "on", "at", "by"],
+    "answer": "at",
+    "explanation": "রাস্তার নামের আগে সাধারণত on বা in বসে, কিন্তু নির্দিষ্ট ঠিকানা বা বাড়ির নম্বর উল্লেখ থাকলে তার আগে 'at' বসে।"
+  },
+  {
+    "id": 278,
+    "question": "Please draw a straight line ___ the blank page.",
+    "options": ["through", "across", "along", "over"],
+    "answer": "across",
+    "explanation": "পৃষ্ঠার এক প্রান্ত থেকে অন্য প্রান্তে দাগ টানা বোঝাতে 'across' বসে।"
+  },
+  {
+    "id": 279,
+    "question": "The honest man stood calmly ___ the chaos.",
+    "options": ["between", "among", "amid", "within"],
+    "answer": "amid",
+    "explanation": "কোনো গোলমাল, কোলাহল বা পরিস্থিতির মাঝখানে (in the middle of something abstract/uncountable) বোঝাতে 'amid' বা 'amidst' বসে।"
+  },
+  {
+    "id": 280,
+    "question": "He acts exactly ___ his manager's strict instructions.",
+    "options": ["according to", "in spite of", "on behalf of", "due to"],
+    "answer": "according to",
+    "explanation": "কারো নির্দেশ, নিয়ম বা কথা 'অনুসারে' কাজ করা বোঝাতে 'according to' (বা in accordance with) বসে।"
+  },
+  {
+    "id": 281,
+    "question": "The bridge was collapsed ___ heavy flood.",
+    "options": ["due to", "in lieu of", "in spite of", "instead of"],
+    "answer": "due to",
+    "explanation": "কোনো নির্দিষ্ট 'কারণে' কিছু ঘটা বোঝাতে 'due to' (বা because of/owing to) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 282,
+    "question": "He climbed ___ the tall ladder to repair the roof.",
+    "options": ["up", "on", "over", "above"],
+    "answer": "up",
+    "explanation": "মই বা সিঁড়ি বেয়ে ওপরের দিকে ওঠা বোঝাতে 'climb up' বসে। (নিচে নামলে climb down)।"
+  },
+  {
+    "id": 283,
+    "question": "Please keep your dirty shoes ___ the carpet.",
+    "options": ["off", "out of", "away", "from"],
+    "answer": "off",
+    "explanation": "কোনো তল বা স্থান থেকে দূরে রাখা বা না মাড়ানো বোঝাতে 'keep off' ব্যবহৃত হয় (যেমন- keep off the grass)।"
+  },
+  {
+    "id": 284,
+    "question": "I heard this shocking news ___ a close friend of mine.",
+    "options": ["by", "from", "through", "with"],
+    "answer": "through",
+    "explanation": "কোনো মাধ্যম বা ব্যক্তির 'মারফত' খবর পাওয়া বোঝাতে 'through' বসে। (from-ও হয়, তবে through বেশি appropriate মাধ্যম বোঝাতে)।"
+  },
+  {
+    "id": 285,
+    "question": "This sweet box is to be shared between you and ___.",
+    "options": ["I", "me", "my", "mine"],
+    "answer": "me",
+    "explanation": "Preposition (এখানে between)-এর পর সর্বদা Pronoun-এর Objective form (me, him, her, them) বসে। 'I' বসবে না।"
+  },
+  {
+    "id": 286,
+    "question": "There is a deep river flowing ___ the old bridge.",
+    "options": ["below", "under", "beneath", "underneath"],
+    "answer": "under",
+    "explanation": "ব্রিজের ঠিক নিচ দিয়ে (vertically below এবং একটি ফাঁকা স্থান রেখে) নদী বয়ে যাওয়া বোঝাতে 'under the bridge' বসে।"
+  },
+  {
+    "id": 287,
+    "question": "The fresh apples were brought directly ___ Kashmir.",
+    "options": ["by", "from", "of", "in"],
+    "answer": "from",
+    "explanation": "কোনো স্থান থেকে উৎপত্তি বা উৎস (Origin/Source) বোঝাতে 'from' বসে।"
+  },
+  {
+    "id": 288,
+    "question": "He has been an active member ___ this sports club for years.",
+    "options": ["in", "of", "for", "with"],
+    "answer": "of",
+    "explanation": "কোনো সংগঠন বা দলের অংশ (Part) বা সদস্য হওয়া বোঝাতে 'member of' বসে।"
+  },
+  {
+    "id": 289,
+    "question": "The meeting was suddenly called ___ by the authorities.",
+    "options": ["out", "off", "up", "away"],
+    "answer": "off",
+    "explanation": "কোনো সভা, ধর্মঘট বা ইভেন্ট বাতিল করা (Cancel) বোঝাতে 'call off' (Phrasal Verb/Preposition) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 290,
+    "question": "He woke up suddenly ___ the middle of the night.",
+    "options": ["at", "in", "on", "during"],
+    "answer": "in",
+    "explanation": "সাধারণত 'at night' হয়, কিন্তু 'the middle of the night' বা নির্দিষ্ট কোনো রাতের বর্ণনা থাকলে 'in' বসে।"
+  },
+  {
+    "id": 291,
+    "question": "The dog was tied ___ a thick rope.",
+    "options": ["with", "by", "in", "to"],
+    "answer": "with",
+    "explanation": "কোনো বস্তু বা দড়ির সাহায্যে বাঁধা বা কাজ করা বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 292,
+    "question": "The dog was tied ___ a tree.",
+    "options": ["with", "by", "to", "on"],
+    "answer": "to",
+    "explanation": "খুবই গুরুত্বপূর্ণ: দড়ি 'দিয়ে' বাঁধলে 'with', কিন্তু গাছ বা খুঁটির 'সাথে' জুড়ে রাখা বোঝালে 'tied to' বসে।"
+  },
+  {
+    "id": 293,
+    "question": "I am writing this letter ___ a fountain pen.",
+    "options": ["by", "with", "in", "from"],
+    "answer": "with",
+    "explanation": "কলম বা পেন্সিল একটি Instrument বা যন্ত্র। যন্ত্রের সাহায্যে কাজ করা বোঝালে 'with' বসে। (তবে কালিতে লেখা বোঝালে in ink হয়)।"
+  },
+  {
+    "id": 294,
+    "question": "He cut the apple into two halves ___ a sharp knife.",
+    "options": ["by", "with", "from", "in"],
+    "answer": "with",
+    "explanation": "ছুরি (knife) একটি যন্ত্র, তাই এর আগে 'with' বসবে।"
+  },
+  {
+    "id": 295,
+    "question": "I have known him ___ a long time.",
+    "options": ["since", "for", "from", "during"],
+    "answer": "for",
+    "explanation": "A long time বা দীর্ঘ সময় একটি Period of time (সময়ের ব্যাপ্তি)। তাই Present Perfect tense-এ এর আগে 'for' বসে, 'since' নয়।"
+  },
+  {
+    "id": 296,
+    "question": "We must strictly abide ___ the traffic rules.",
+    "options": ["with", "by", "in", "to"],
+    "answer": "by",
+    "explanation": "কোনো নিয়ম বা আইন মেনে চলা বোঝাতে 'abide by' বসে। এটি পরীক্ষায় আসা অত্যন্ত কমন একটি প্রশ্ন।"
+  },
+  {
+    "id": 297,
+    "question": "He is not completely blind ___ his son's faults.",
+    "options": ["of", "to", "in", "with"],
+    "answer": "to",
+    "explanation": "কারো দোষের প্রতি অন্ধ বা উদাসীন বোঝাতে 'blind to' বসে। (চোখে অন্ধ হলে blind of/in হয়)।"
+  },
+  {
+    "id": 298,
+    "question": "She usually goes to the local market ___ foot.",
+    "options": ["by", "on", "in", "with"],
+    "answer": "on",
+    "explanation": "পায়ে হেঁটে কোথাও যাওয়া বোঝাতে সর্বদা 'on foot' বসে। 'by foot' সম্পূর্ণ ভুল।"
+  },
+  {
+    "id": 299,
+    "question": "The river flows gently ___ the dense forest.",
+    "options": ["through", "across", "along", "over"],
+    "answer": "through",
+    "explanation": "ঘন জঙ্গলের 'ভেতর দিয়ে' বয়ে যাওয়া বোঝাতে 'through' বসে। (মাঠের এক পাশ থেকে অন্য পাশে হলে across হতো)।"
+  },
+  {
+    "id": 300,
+    "question": "He was absent ___ the class yesterday.",
+    "options": ["from", "in", "at", "to"],
+    "answer": "from",
+    "explanation": "কোথাও অনুপস্থিত থাকা বোঝাতে 'absent' শব্দটির পর সর্বদা 'from' preposition বসে।"
+  },
+  {
+    "id": 301,
+    "question": "He entered ___ the room without permission.",
+    "options": ["into", "in", "to", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "ভৌতিক কোনো স্থানে (যেমন- room, building) প্রবেশ করা বোঝালে 'enter'-এর পর কোনো Preposition বসে না। (তবে কোনো চুক্তি বা ব্যবসায় প্রবেশ করা বোঝালে 'enter into' বসে)।"
+  },
+  {
+    "id": 302,
+    "question": "I have ordered ___ a cup of coffee.",
+    "options": ["for", "to", "about", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "Verb হিসেবে 'order'-এর পর কোনো Preposition (যেমন- for) বসে না। সঠিক বাক্য: I have ordered a cup of coffee."
+  },
+  {
+    "id": 303,
+    "question": "We discussed ___ the matter thoroughly.",
+    "options": ["about", "on", "over", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "Verb হিসেবে 'discuss' বা 'describe'-এর পর কখনোই 'about' বসে না। এটি পরীক্ষায় আসা অন্যতম সাধারণ একটি ভুল।"
+  },
+  {
+    "id": 304,
+    "question": "She closely resembles ___ her mother.",
+    "options": ["to", "with", "after", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "কারো মতো দেখতে হওয়া বা সাদৃশ্য থাকা অর্থে 'resemble'-এর পর 'to' বা 'with' বসে না।"
+  },
+  {
+    "id": 305,
+    "question": "They reached ___ the station at 9 PM.",
+    "options": ["at", "to", "in", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "'Reach'-এর পর কোনো গন্তব্য থাকলে মাঝে কোনো Preposition (যেমন at/to) বসে না। (তবে 'arrive' থাকলে at/in বসে)।"
+  },
+  {
+    "id": 306,
+    "question": "The brave soldiers attacked ___ the enemy camp.",
+    "options": ["on", "at", "against", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "Verb হিসেবে 'attack'-এর পর 'on' বা অন্য কোনো Preposition বসে না। (তবে Noun হিসেবে 'attack on' হয়)।"
+  },
+  {
+    "id": 307,
+    "question": "The two countries entered ___ a peace agreement.",
+    "options": ["in", "into", "with", "No preposition"],
+    "answer": "into",
+    "explanation": "ভৌতিক স্থানে প্রবেশ না বুঝিয়ে কোনো চুক্তি (agreement), আলোচনা বা সম্পর্কে আবদ্ধ হওয়া বোঝালে 'enter into' বসে।"
+  },
+  {
+    "id": 308,
+    "question": "Ram married ___ Sita.",
+    "options": ["with", "to", "by", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "Active Voice-এ 'marry' verb-টির পর কোনো Preposition বসে না। (Passive Voice-এ 'was married to' হয়)।"
+  },
+  {
+    "id": 309,
+    "question": "The committee comprises ___ ten members.",
+    "options": ["of", "with", "in", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "'Consist of' মানে যা, 'Comprise' মানেও তাই। তাই Active Voice-এ 'comprise'-এর পর 'of' বসে না।"
+  },
+  {
+    "id": 310,
+    "question": "He attended the meeting despite ___ his illness.",
+    "options": ["of", "with", "for", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "'In spite of' এবং 'Despite' উভয়ের অর্থ 'সত্ত্বেও'। 'In spite'-এর পর 'of' বসে, কিন্তু 'Despite'-এর পর কখনোই 'of' বসে না।"
+  },
+  {
+    "id": 311,
+    "question": "I am awaiting ___ your reply.",
+    "options": ["for", "to", "on", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "'Wait for' = 'Await'। তাই 'await'-এর পর পুনরায় 'for' ব্যবহার করা সম্পূর্ণ ভুল।"
+  },
+  {
+    "id": 312,
+    "question": "The police are investigating ___ the murder case.",
+    "options": ["into", "about", "for", "No preposition"],
+    "answer": "No preposition",
+    "explanation": "'Look into' মানে তদন্ত করা, কিন্তু 'investigate' শব্দটির পর 'into' বসে না।"
+  },
+  {
+    "id": 313,
+    "question": "The depressed man died ___ suicide.",
+    "options": ["of", "from", "by", "No preposition"],
+    "answer": "by",
+    "explanation": "রোগে মারা গেলে 'die of', কিন্তু আত্মহত্যা (suicide) বা কোনো হিংসাত্মক ঘটনায় (violence) মারা গেলে 'die by' বসে।"
+  },
+  {
+    "id": 314,
+    "question": "Netaji Subhas Chandra Bose died ___ his country.",
+    "options": ["of", "for", "by", "in"],
+    "answer": "for",
+    "explanation": "দেশের জন্য বা কোনো মহৎ উদ্দেশ্যে আত্মত্যাগ করে মারা গেলে 'die for' বসে।"
+  },
+  {
+    "id": 315,
+    "question": "He corresponds ___ his foreign friends regularly.",
+    "options": ["to", "with", "for", "No preposition"],
+    "answer": "with",
+    "explanation": "কারো সাথে চিঠিপত্র বা ইমেইলের মাধ্যমে যোগাযোগ রাখা বোঝালে 'correspond with' বসে।"
+  },
+  {
+    "id": 316,
+    "question": "His actions do not correspond ___ his words.",
+    "options": ["to", "with", "on", "for"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর সাথে অন্য কোনো কিছুর মিল থাকা বা সামঞ্জস্য থাকা বোঝালে 'correspond to' বসে।"
+  },
+  {
+    "id": 317,
+    "question": "You must reconcile yourself ___ your current circumstances.",
+    "options": ["with", "to", "in", "for"],
+    "answer": "to",
+    "explanation": "কোনো খারাপ পরিস্থিতি বা ভাগ্যের সাথে নিজেকে মানিয়ে নেওয়া বা মেনে নেওয়া বোঝাতে 'reconcile to' বসে।"
+  },
+  {
+    "id": 318,
+    "question": "He has finally reconciled ___ his old enemy.",
+    "options": ["to", "with", "on", "No preposition"],
+    "answer": "with",
+    "explanation": "কোনো ব্যক্তির (বা শত্রুর) সাথে বিবাদ মিটিয়ে পুনরায় বন্ধু হওয়া বোঝাতে 'reconcile with' বসে।"
+  },
+  {
+    "id": 319,
+    "question": "I am fully confident ___ my success in the exam.",
+    "options": ["of", "about", "for", "in"],
+    "answer": "of",
+    "explanation": "Adjective হিসেবে 'confident'-এর পর সর্বদা 'of' বসে।"
+  },
+  {
+    "id": 320,
+    "question": "I have full confidence ___ his abilities.",
+    "options": ["of", "about", "for", "in"],
+    "answer": "in",
+    "explanation": "Noun হিসেবে 'confidence'-এর পর 'in' বসে (যেমন- believe in, trust in)।"
+  },
+  {
+    "id": 321,
+    "question": "She is very fond ___ listening to classical music.",
+    "options": ["of", "for", "in", "No preposition"],
+    "answer": "of",
+    "explanation": "Adjective হিসেবে 'fond'-এর পর 'of' বসে (অর্থ- প্রিয় বা অনুরাগী)।"
+  },
+  {
+    "id": 322,
+    "question": "She has a great fondness ___ classical music.",
+    "options": ["of", "for", "in", "with"],
+    "answer": "for",
+    "explanation": "Noun হিসেবে 'fondness'-এর পর 'for' বসে।"
+  },
+  {
+    "id": 323,
+    "question": "I am proud ___ my motherland.",
+    "options": ["of", "in", "for", "about"],
+    "answer": "of",
+    "explanation": "Adjective হিসেবে 'proud'-এর পর 'of' বসে।"
+  },
+  {
+    "id": 324,
+    "question": "I take pride ___ my motherland.",
+    "options": ["of", "in", "for", "about"],
+    "answer": "in",
+    "explanation": "Noun হিসেবে 'pride' ব্যবহৃত হলে তার আগে 'take' এবং পরে 'in' বসে (take pride in)।"
+  },
+  {
+    "id": 325,
+    "question": "She prides herself ___ her beauty.",
+    "options": ["of", "in", "on", "for"],
+    "answer": "on",
+    "explanation": "খুবই গুরুত্বপূর্ণ: Verb হিসেবে 'pride' ব্যবহৃত হলে তারপরে Reflexive Pronoun (herself/himself) এবং তারপর 'on' বসে (pride oneself on)।"
+  },
+  {
+    "id": 326,
+    "question": "The two neighbouring countries are currently ___ war.",
+    "options": ["in", "at", "on", "No preposition"],
+    "answer": "at",
+    "explanation": "যুদ্ধরত বা শান্ত অবস্থায় থাকা (Condition/State) বোঝাতে 'at war' বা 'at peace' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 327,
+    "question": "The new bridge is still ___ construction.",
+    "options": ["in", "on", "under", "at"],
+    "answer": "under",
+    "explanation": "কোনো কাজ চলছে বা নির্মাণাধীন আছে বোঝাতে 'under construction' বা 'under repair' বসে।"
+  },
+  {
+    "id": 328,
+    "question": "He broke the expensive vase ___ purpose.",
+    "options": ["in", "with", "on", "No preposition"],
+    "answer": "on",
+    "explanation": "ইচ্ছে করে বা উদ্দেশ্যপ্রণোদিতভাবে কিছু করা বোঝাতে ফ্রেজ হিসেবে সর্বদা 'on purpose' (intentionally) বসে।"
+  },
+  {
+    "id": 329,
+    "question": "I took your umbrella ___ mistake.",
+    "options": ["in", "with", "on", "by"],
+    "answer": "by",
+    "explanation": "ভুলবশত বা ভুল করে কিছু হয়ে গেলে 'by mistake' বসে ('in mistake' নয়)।"
+  },
+  {
+    "id": 330,
+    "question": "The factory workers are ___ strike demanding a pay hike.",
+    "options": ["in", "at", "on", "under"],
+    "answer": "on",
+    "explanation": "ধর্মঘট বা হরতালে থাকা বোঝাতে 'on strike' বসে।"
+  },
+  {
+    "id": 331,
+    "question": "The elevator is completely ___ order today.",
+    "options": ["out of", "beyond", "off", "without"],
+    "answer": "out of",
+    "explanation": "কোনো মেশিন বা যন্ত্র বিকল হয়ে যাওয়া বা খারাপ থাকা বোঝাতে 'out of order' বসে।"
+  },
+  {
+    "id": 332,
+    "question": "The poor farmer is heavily ___ debt.",
+    "options": ["under", "in", "on", "with"],
+    "answer": "in",
+    "explanation": "ঋণের দায়ে থাকা বা দেনায় ডুবে থাকা বোঝাতে 'in debt' (উচ্চারণ- ইন ডেট) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 333,
+    "question": "The dangerous criminal is still ___ large.",
+    "options": ["in", "at", "on", "out"],
+    "answer": "at",
+    "explanation": "অধরা থাকা বা পলাতক থাকা বোঝাতে Idiomatic phrase হিসেবে 'at large' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 334,
+    "question": "I am eagerly looking forward ___ meeting you.",
+    "options": ["to", "for", "at", "No preposition"],
+    "answer": "to",
+    "explanation": "'Look forward to' একটি অত্যন্ত গুরুত্বপূর্ণ Phrasal Verb, যার অর্থ অধীর আগ্রহে অপেক্ষা করা। এরপরে সব সময় Verb-এর সাথে 'ing' যুক্ত হয় (meeting)।"
+  },
+  {
+    "id": 335,
+    "question": "I cannot put up ___ his bad behaviour anymore.",
+    "options": ["to", "with", "on", "No preposition"],
+    "answer": "with",
+    "explanation": "সহ্য করা বা মেনে নেওয়া বোঝাতে (Tolerate) 'put up with' ফ্রেজাল ভার্বটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 336,
+    "question": "We should never look down ___ the poor.",
+    "options": ["at", "on", "upon", "for"],
+    "answer": "upon",
+    "explanation": "কাউকে অবজ্ঞা করা, ঘৃণা করা বা ছোটো চোখে দেখা (Despise) বোঝাতে 'look down upon' বসে।"
+  },
+  {
+    "id": 337,
+    "question": "They have run out ___ pure drinking water.",
+    "options": ["of", "from", "with", "off"],
+    "answer": "of",
+    "explanation": "ভাণ্ডার ফুরিয়ে যাওয়া বা নিঃশেষ হয়ে যাওয়া (Exhausted) বোঝাতে 'run out of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 338,
+    "question": "He worked hard to make up ___ the lost time.",
+    "options": ["for", "to", "with", "No preposition"],
+    "answer": "for",
+    "explanation": "ক্ষতিপূরণ করা বা ঘাটতি মেটানো (Compensate) বোঝাতে 'make up for' বসে।"
+  },
+  {
+    "id": 339,
+    "question": "We must do away ___ these outdated laws.",
+    "options": ["from", "with", "of", "to"],
+    "answer": "with",
+    "explanation": "রদ করা, বাতিল করা বা চিরতরে মুছে ফেলা (Abolish) বোঝাতে 'do away with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 340,
+    "question": "What are you talking ___?",
+    "options": ["about", "for", "to", "with"],
+    "answer": "about",
+    "explanation": "ইংরেজিতে অনেক সময় বাক্যের শেষে Preposition বসে। 'তুমি কী বিষয়ে কথা বলছ?' - এটি বোঝাতে 'talking about' বসে।"
+  },
+  {
+    "id": 341,
+    "question": "This is the very book I was looking ___.",
+    "options": ["at", "for", "into", "after"],
+    "answer": "for",
+    "explanation": "বাক্যের শেষে Preposition-এর ব্যবহার: 'আমি এই বইটাই খুঁজছিলাম।' খোঁজা অর্থে 'look for'।"
+  },
+  {
+    "id": 342,
+    "question": "Who are you waiting ___?",
+    "options": ["for", "to", "at", "with"],
+    "answer": "for",
+    "explanation": "কারো জন্য অপেক্ষা করা অর্থে 'wait for'। প্রশ্নবোধক বাক্যে 'for' শব্দটি বাক্যের একদম শেষে বসেছে।"
+  },
+  {
+    "id": 343,
+    "question": "His reckless behaviour admits ___ no excuse.",
+    "options": ["of", "to", "for", "in"],
+    "answer": "of",
+    "explanation": "খুবই গুরুত্বপূর্ণ: কোনো কিছুর সুযোগ বা অবকাশ না রাখা বোঝাতে 'admit of' বসে। (যেমন- 'এর কোনো ক্ষমা নেই')।"
+  },
+  {
+    "id": 344,
+    "question": "I am quite familiar ___ this software.",
+    "options": ["to", "with", "about", "in"],
+    "answer": "with",
+    "explanation": "কোনো 'বস্তু বা বিষয়ের' সাথে পরিচিত থাকা বোঝালে 'familiar with' বসে।"
+  },
+  {
+    "id": 345,
+    "question": "His name is familiar ___ everybody in the village.",
+    "options": ["to", "with", "about", "for"],
+    "answer": "to",
+    "explanation": "কোনো 'ব্যক্তির' কাছে পরিচিত হওয়া বোঝালে 'familiar to' বসে।"
+  },
+  {
+    "id": 346,
+    "question": "He is blind ___ one eye.",
+    "options": ["in", "to", "of", "with"],
+    "answer": "in",
+    "explanation": "শারীরিকভাবে অন্ধ হওয়া বোঝাতে 'blind in' বা 'blind of' বসে (দুটিই সঠিক, তবে আধুনিক ইংরেজিতে in বেশি প্রচলিত)।"
+  },
+  {
+    "id": 347,
+    "question": "A mother is often blind ___ her child's faults.",
+    "options": ["in", "to", "of", "for"],
+    "answer": "to",
+    "explanation": "দোষত্রুটির প্রতি অন্ধ হওয়া বা দেখেও না দেখার ভান করা (উদাসীন) বোঝাতে সর্বদা 'blind to' বসে।"
+  },
+  {
+    "id": 348,
+    "question": "His refusal to answer the question was tantamount ___ an admission of guilt.",
+    "options": ["with", "to", "for", "of"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর সমান বা সমতুল্য হওয়া (Equal in effect) বোঝাতে 'tantamount'-এর পর 'to' বসে।"
+  },
+  {
+    "id": 349,
+    "question": "The old woman is completely devoid ___ common sense.",
+    "options": ["from", "of", "with", "in"],
+    "answer": "of",
+    "explanation": "কোনো কিছু বর্জিত বা কোনো কিছুর অভাব থাকা (Lacking) বোঝাতে 'devoid'-এর পর 'of' বসে।"
+  },
+  {
+    "id": 350,
+    "question": "He is highly susceptible ___ cold.",
+    "options": ["to", "for", "in", "of"],
+    "answer": "to",
+    "explanation": "সহজেই আক্রান্ত হওয়া বা সংবেদনশীল হওয়া (যেমন- ঠাণ্ডা লাগার ধাত) বোঝাতে 'susceptible'-এর পর 'to' বসে (prone to-এর সমার্থক)।"
+  },
+  {
+    "id": 351,
+    "question": "He is not accustomed ___ such hard work.",
+    "options": ["with", "to", "for", "in"],
+    "answer": "to",
+    "explanation": "কোনো কিছুতে 'অভ্যস্ত হওয়া' (used to) বোঝাতে 'accustomed'-এর পর সর্বদা 'to' বসে।"
+  },
+  {
+    "id": 352,
+    "question": "The judge finally acquitted him ___ the murder charge.",
+    "options": ["from", "of", "with", "for"],
+    "answer": "of",
+    "explanation": "কাউকে আইনিভাবে 'বেকসুর খালাস দেওয়া' বা অভিযোগ থেকে মুক্তি দেওয়া বোঝাতে 'acquit'-এর পর 'of' বসে।"
+  },
+  {
+    "id": 353,
+    "question": "She is totally averse ___ taking any risk in business.",
+    "options": ["from", "against", "to", "for"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর প্রতি 'বিমুখ' বা 'অনিচ্ছুক' (disinclined) বোঝাতে 'averse'-এর পর 'to' বসে।"
+  },
+  {
+    "id": 354,
+    "question": "Our country is currently beset ___ many economic problems.",
+    "options": ["with", "by", "in", "of"],
+    "answer": "with",
+    "explanation": "কোনো সমস্যা বা বিপদে 'জর্জরিত' বা 'ঘেরাও হয়ে থাকা' বোঝাতে 'beset'-এর পর 'with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 355,
+    "question": "Walking in fresh air is conducive ___ good health.",
+    "options": ["for", "to", "in", "with"],
+    "answer": "to",
+    "explanation": "কোনো কিছুর পক্ষে 'সহায়ক' বা 'উপযোগী' (helpful) বোঝাতে 'conducive'-এর পর 'to' বসে।"
+  },
+  {
+    "id": 356,
+    "question": "He has decided to dispose ___ his old furniture.",
+    "options": ["off", "of", "out", "away"],
+    "answer": "of",
+    "explanation": "খুবই কমন একটি ভুল! কোনো কিছু 'বিক্রি করে বিদায় করা' বোঝাতে 'dispose'-এর পর একটি মাত্র 'f' যুক্ত 'of' বসে, কখনোই 'off' বসে না।"
+  },
+  {
+    "id": 357,
+    "question": "In the modern age, we cannot dispense ___ the use of mobile phones.",
+    "options": ["with", "of", "off", "from"],
+    "answer": "with",
+    "explanation": "কোনো কিছুকে 'বাদ দিয়ে চলা' বা 'পরিহার করা' বোঝাতে 'dispense with' বসে।"
+  },
+  {
+    "id": 358,
+    "question": "After graduation, he embarked ___ a new business venture.",
+    "options": ["in", "into", "on", "for"],
+    "answer": "on",
+    "explanation": "কোনো নতুন কাজ, প্রজেক্ট বা ব্যবসায় 'হাত দেওয়া' বা 'শুরু করা' বোঝাতে 'embark on' (বা upon) বসে।"
+  },
+  {
+    "id": 359,
+    "question": "The abandoned house is heavily infested ___ rats and snakes.",
+    "options": ["by", "with", "in", "of"],
+    "answer": "with",
+    "explanation": "কোনো ক্ষতিকর প্রাণী বা পোকা-মাকড় দ্বারা 'উপদ্রুত' বা 'ভরে থাকা' বোঝাতে 'infested with' বসে।"
+  },
+  {
+    "id": 360,
+    "question": "The brave soldier refused to succumb ___ his severe injuries.",
+    "options": ["to", "before", "in", "under"],
+    "answer": "to",
+    "explanation": "আঘাত, রোগ বা প্রলোভনের কাছে 'বশ্যতা স্বীকার করা' বা 'মারা যাওয়া' বোঝাতে 'succumb to' (yield to-এর সমার্থক) বসে।"
+  },
+  {
+    "id": 361,
+    "question": "The word 'Democracy' is derived ___ the Greek language.",
+    "options": ["of", "from", "by", "in"],
+    "answer": "from",
+    "explanation": "কোনো নির্দিষ্ট 'উৎস থেকে আসা' বা 'উদ্ভূত হওয়া' বোঝাতে 'derived from' বসে।"
+  },
+  {
+    "id": 362,
+    "question": "You should strictly desist ___ doing such illegal activities.",
+    "options": ["to", "from", "for", "in"],
+    "answer": "from",
+    "explanation": "কোনো কাজ থেকে 'বিরত থাকা' বোঝাতে 'desist from' বসে। (abstain from বা refrain from-এর সমার্থক)।"
+  },
+  {
+    "id": 363,
+    "question": "The researcher pored ___ the old manuscripts for hours.",
+    "options": ["in", "on", "over", "through"],
+    "answer": "over",
+    "explanation": "কোনো বই বা লেখা 'গভীর মনোযোগ দিয়ে পড়া' বোঝাতে Phrasal verb 'pore over' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 364,
+    "question": "When all plans failed, they had to resort ___ violence.",
+    "options": ["in", "to", "for", "with"],
+    "answer": "to",
+    "explanation": "বাধ্য হয়ে কোনো খারাপ 'পথ অবলম্বন করা' বা 'আশ্রয় নেওয়া' বোঝাতে 'resort to' বসে।"
+  },
+  {
+    "id": 365,
+    "question": "The political prisoner yearned ___ his lost freedom.",
+    "options": ["to", "for", "after", "about"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর জন্য 'তীব্র আকাঙ্ক্ষা করা' (crave) বোঝাতে 'yearn for' (বা long for) বসে।"
+  },
+  {
+    "id": 366,
+    "question": "He was completely oblivious ___ the danger ahead.",
+    "options": ["about", "of", "to", "for"],
+    "answer": "of",
+    "explanation": "কোনো বিষয় সম্পর্কে 'সম্পূর্ণ অসচেতন থাকা' বা 'ভুলে থাকা' (unaware) বোঝাতে 'oblivious of' বসে।"
+  },
+  {
+    "id": 367,
+    "question": "The villagers do not have easy access ___ pure drinking water.",
+    "options": ["for", "to", "in", "of"],
+    "answer": "to",
+    "explanation": "কোনো জায়গায় প্রবেশ বা কোনো কিছু ব্যবহারের 'সুযোগ বা অধিকার' বোঝাতে 'access'-এর পর 'to' বসে।"
+  },
+  {
+    "id": 368,
+    "question": "She is highly adept ___ solving complex mathematical puzzles.",
+    "options": ["in", "at", "with", "for"],
+    "answer": "in",
+    "explanation": "কোনো কাজে 'খুবই দক্ষ' বা 'পটু' (expert/skilled) বোঝাতে 'adept in' (বা adept at) বসে। (উভয়ই সঠিক, তবে 'in' বেশি প্রচলিত)।"
+  },
+  {
+    "id": 369,
+    "question": "This local college is affiliated ___ the University of Calcutta.",
+    "options": ["with", "to", "under", "by"],
+    "answer": "to",
+    "explanation": "কোনো শিক্ষাপ্রতিষ্ঠান অন্য কোনো বোর্ড বা ইউনিভার্সিটির 'অধিভুক্ত' হওয়া বোঝাতে 'affiliated to' বসে।"
+  },
+  {
+    "id": 370,
+    "question": "The local leader is affiliated ___ a major national party.",
+    "options": ["to", "with", "in", "by"],
+    "answer": "with",
+    "explanation": "খুবই গুরুত্বপূর্ণ পার্থক্য: কোনো রাজনৈতিক দল বা সংগঠনের সাথে 'যুক্ত হওয়া' বোঝালে 'affiliated with' বসে।"
+  },
+  {
+    "id": 371,
+    "question": "The passengers alighted ___ the bus at the next stop.",
+    "options": ["from", "off", "down", "out"],
+    "answer": "from",
+    "explanation": "বাস, ট্রেন বা কোনো যানবাহন থেকে 'নেমে যাওয়া' (get down) বোঝাতে 'alight from' বসে।"
+  },
+  {
+    "id": 372,
+    "question": "The minister was promptly apprised ___ the critical situation.",
+    "options": ["about", "of", "with", "on"],
+    "answer": "of",
+    "explanation": "কাউকে কোনো বিষয়ে 'অবহিত করা' বা 'জানানো' (inform) বোঝাতে 'apprise of' বসে।"
+  },
+  {
+    "id": 373,
+    "question": "The President has finally given his assent ___ the new bill.",
+    "options": ["for", "to", "on", "with"],
+    "answer": "to",
+    "explanation": "কোনো প্রস্তাব বা বিলে 'সরকারিভাবে সম্মতি দেওয়া' বোঝাতে 'assent to' বসে।"
+  },
+  {
+    "id": 374,
+    "question": "The doctor cautioned him ___ eating too much junk food.",
+    "options": ["from", "against", "for", "about"],
+    "answer": "against",
+    "explanation": "কোনো ক্ষতিকর কাজ করা থেকে 'সতর্ক করে দেওয়া' বোঝাতে 'caution against' বসে।"
+  },
+  {
+    "id": 375,
+    "question": "Your rigid ideas are not compatible ___ the modern world.",
+    "options": ["to", "with", "for", "in"],
+    "answer": "with",
+    "explanation": "কোনো কিছুর সাথে 'সামঞ্জস্যপূর্ণ' বা 'মানানসই' হওয়া বোঝাতে 'compatible with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 376,
+    "question": "A good manager should never connive ___ the mistakes of his employees.",
+    "options": ["with", "at", "in", "on"],
+    "answer": "at",
+    "explanation": "কারো ভুল বা অপরাধ 'দেখেও না দেখার ভান করা' বা পরোক্ষভাবে প্রশ্রয় দেওয়া বোঝাতে 'connive at' বসে।"
+  },
+  {
+    "id": 377,
+    "question": "He is not a serious artist; he only dabbles ___ painting.",
+    "options": ["with", "in", "on", "at"],
+    "answer": "in",
+    "explanation": "কোনো কাজে বা শখে 'ভাসা-ভাসা যুক্ত থাকা' বা সিরিয়াসলি না করা বোঝাতে 'dabble in' বসে।"
+  },
+  {
+    "id": 378,
+    "question": "The truth of the matter finally dawned ___ him.",
+    "options": ["in", "upon", "at", "on"],
+    "answer": "on",
+    "explanation": "হঠাৎ করে কোনো কিছু 'উপলব্ধি হওয়া' বা 'মাথায় আসা' বোঝাতে 'dawn on' (বা dawn upon) বসে।"
+  },
+  {
+    "id": 379,
+    "question": "His harsh remarks were highly derogatory ___ her reputation.",
+    "options": ["for", "to", "against", "about"],
+    "answer": "to",
+    "explanation": "কারো সম্মানের পক্ষে 'হানিকর' বা 'অবমাননাকর' বোঝাতে 'derogatory to' বসে।"
+  },
+  {
+    "id": 380,
+    "question": "I entrusted my faithful servant ___ my laptop.",
+    "options": ["to", "with", "for", "on"],
+    "answer": "with",
+    "explanation": "কাউকে কোনো জিনিসের 'দায়িত্ব দেওয়া' বোঝালে 'entrust a PERSON with a THING' হয়।"
+  },
+  {
+    "id": 381,
+    "question": "I entrusted my laptop ___ my faithful servant.",
+    "options": ["to", "with", "for", "on"],
+    "answer": "to",
+    "explanation": "পার্থক্যটি লক্ষ্য করুন: কোনো জিনিস কারো ' দায়িত্বে দেওয়া' বোঝালে 'entrust a THING to a PERSON' হয়।"
+  },
+  {
+    "id": 382,
+    "question": "The children were totally fascinated ___ the magic show.",
+    "options": ["by", "with", "in", "of"],
+    "answer": "by",
+    "explanation": "কোনো ব্যক্তি বা ঘটনার দ্বারা 'মুগ্ধ হওয়া' বোঝাতে 'fascinated by' বসে। (তবে কোনো বস্তুর ক্ষেত্রে fascinated with-ও বসে)।"
+  },
+  {
+    "id": 383,
+    "question": "Risk is always inherent ___ any new business startup.",
+    "options": ["to", "with", "in", "of"],
+    "answer": "in",
+    "explanation": "কোনো কিছুর মধ্যে 'সহজাত' বা 'অন্তর্নিহিত' থাকা বোঝাতে 'inherent in' বসে।"
+  },
+  {
+    "id": 384,
+    "question": "It is not a good habit to jeer ___ a defeated opponent.",
+    "options": ["on", "at", "for", "to"],
+    "answer": "at",
+    "explanation": "কাউকে বিদ্রূপ করা বা 'উপহাস করা' (mock/laugh at) বোঝাতে 'jeer at' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 385,
+    "question": "The host requested the guests to partake ___ the grand feast.",
+    "options": ["in", "of", "with", "from"],
+    "answer": "of",
+    "explanation": "খাবার বা পানীয় গ্রহণে 'অংশগ্রহণ করা' বোঝাতে 'partake of' (food/drink) বসে। (তবে কোনো ইভেন্টে অংশ নেওয়া বোঝালে partake in হয়)।"
+  },
+  {
+    "id": 386,
+    "question": "This strange custom is peculiar ___ this particular tribe.",
+    "options": ["with", "for", "to", "in"],
+    "answer": "to",
+    "explanation": "কোনো নির্দিষ্ট ব্যক্তি, জাতি বা স্থানের জন্য 'স্বতন্ত্র' বা 'বিশেষ' (unique) বোঝাতে 'peculiar to' বসে।"
+  },
+  {
+    "id": 387,
+    "question": "Your arguments do not pertain ___ the subject we are discussing.",
+    "options": ["with", "to", "on", "for"],
+    "answer": "to",
+    "explanation": "কোনো বিষয়ের সাথে 'প্রাসঙ্গিক হওয়া' বা 'যুক্ত থাকা' (relate to) বোঝাতে 'pertain to' বসে।"
+  },
+  {
+    "id": 388,
+    "question": "The brave boy suddenly plunged ___ the freezing river to save the dog.",
+    "options": ["in", "into", "under", "through"],
+    "answer": "into",
+    "explanation": "জলে 'ঝাঁপ দেওয়া' বা কোনো কাজে হঠাৎ ঝাঁপিয়ে পড়া বোঝাতে 'plunge into' বসে (into-র গতিশীলতা)।"
+  },
+  {
+    "id": 389,
+    "question": "I finally prevailed ___ him to join our upcoming tour.",
+    "options": ["over", "upon", "against", "with"],
+    "answer": "upon",
+    "explanation": "কাউকে কোনো কাজে 'রাজি করানো' (persuade) বোঝাতে 'prevail on/upon' বসে। (তবে কারো বিরুদ্ধে জয়লাভ করা বোঝালে prevail over/against হয়)।"
+  },
+  {
+    "id": 390,
+    "question": "We all rejoiced ___ his sudden promotion in the office.",
+    "options": ["on", "at", "for", "with"],
+    "answer": "at",
+    "explanation": "কারো সাফল্যে বা কোনো ঘটনায় 'আনন্দ উল্লাস করা' বোঝাতে 'rejoice at' বসে।"
+  },
+  {
+    "id": 391,
+    "question": "Such dishonest proposals are completely repugnant ___ me.",
+    "options": ["for", "against", "to", "with"],
+    "answer": "to",
+    "explanation": "কোনো কিছু কারো কাছে 'চরম বিরক্তিকর' বা 'বিরোধী' (offensive/distasteful) মনে হলে 'repugnant to' বসে।"
+  },
+  {
+    "id": 392,
+    "question": "You have no right to trespass ___ my private property.",
+    "options": ["in", "into", "on", "against"],
+    "answer": "on",
+    "explanation": "কারো জমি, বাড়ি বা ব্যক্তিগত বিষয়ে 'অনধিকার প্রবেশ করা' বোঝাতে 'trespass on' বসে। (তবে আইনের বিরুদ্ধে গেলে trespass against)।"
+  },
+  {
+    "id": 393,
+    "question": "Many strong candidates will vie ___ each other for the single post.",
+    "options": ["to", "with", "against", "for"],
+    "answer": "with",
+    "explanation": "কারো সাথে তীব্র 'প্রতিযোগিতা করা' (compete) বোঝাতে 'vie with' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 394,
+    "question": "They lit a huge fire to ward ___ the wild animals.",
+    "options": ["away", "out", "off", "from"],
+    "answer": "off",
+    "explanation": "বিপদ, রোগ বা আক্রমণকে 'তাড়িয়ে দেওয়া' বা 'প্রতিহত করা' বোঝাতে Phrasal verb 'ward off' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 395,
+    "question": "His complete silence on this matter amounts ___ a direct refusal.",
+    "options": ["for", "to", "of", "in"],
+    "answer": "to",
+    "explanation": "কোনো কাজ বা কথার 'সমতুল্য হওয়া' (equivalent to) বোঝাতে 'amount to' বসে।"
+  },
+  {
+    "id": 396,
+    "question": "We are legally bound ___ the terms of this contract.",
+    "options": ["with", "to", "by", "in"],
+    "answer": "by",
+    "explanation": "কোনো আইন, প্রমিস বা চুক্তির দ্বারা 'আবদ্ধ থাকা' বোঝাতে 'bound by' বসে।"
+  },
+  {
+    "id": 397,
+    "question": "The sick patient had a strange craving ___ sour fruits.",
+    "options": ["for", "of", "to", "about"],
+    "answer": "for",
+    "explanation": "কোনো কিছুর প্রতি 'তীব্র আকাঙ্ক্ষা' (desire) বোঝাতে Noun হিসেবে 'craving'-এর পর 'for' বসে।"
+  },
+  {
+    "id": 398,
+    "question": "The present king is descended ___ an ancient royal family.",
+    "options": ["from", "of", "by", "through"],
+    "answer": "from",
+    "explanation": "কোনো বংশ বা পূর্বপুরুষ থেকে 'বংশোদ্ভূত হওয়া' বোঝাতে 'descend'-এর পর সর্বদা 'from' বসে।"
+  },
+  {
+    "id": 399,
+    "question": "The prince became deeply enamoured ___ the beautiful village girl.",
+    "options": ["with", "of", "by", "for"],
+    "answer": "of",
+    "explanation": "কারো 'প্রেমে পড়া' বা কারো রূপে 'মুগ্ধ হওয়া' বোঝাতে 'enamoured'-এর পর 'of' বসে (উচ্চারণ: ইনামরড অফ)।"
+  },
+  {
+    "id": 400,
+    "question": "Old people and infants are highly vulnerable ___ this new virus.",
+    "options": ["to", "for", "against", "with"],
+    "answer": "to",
+    "explanation": "সহজেই রোগ বা বিপদে 'আক্রান্ত হওয়ার যোগ্য' বা 'সংবেদনশীল' বোঝাতে 'vulnerable to' (বা susceptible to) বসে।"
+  },
+  {
+    "id": 401,
+    "question": "He goes ___ the office ___ 9 AM ___ bus every day.",
+    "options": ["to, at, by", "in, on, with", "towards, in, on", "at, by, on"],
+    "answer": "to, at, by",
+    "explanation": "প্রথম শূন্যস্থানে গন্তব্যের দিকে যাওয়া বোঝাতে 'to' বসবে। দ্বিতীয় শূন্যস্থানে নির্দিষ্ট সময়ের (9 AM) আগে 'at' বসবে। তৃতীয় শূন্যস্থানে যাতায়াতের মাধ্যম (bus) বোঝাতে 'by' বসবে।"
+  },
+  {
+    "id": 402,
+    "question": "The great poet was born ___ a small village ___ West Bengal ___ the year 1900.",
+    "options": ["in, at, on", "at, in, in", "in, in, on", "at, at, in"],
+    "answer": "at, in, in",
+    "explanation": "প্রথম শূন্যস্থানে ছোট জায়গা বা গ্রামের নামের আগে 'at' বসবে। দ্বিতীয় শূন্যস্থানে বড় জায়গা বা রাজ্যের (West Bengal) আগে 'in' বসবে। তৃতীয় শূন্যস্থানে বছর বা সালের (year) আগে 'in' বসবে।"
+  },
+  {
+    "id": 403,
+    "question": "She has been suffering ___ severe fever ___ Monday and is now confined ___ bed.",
+    "options": ["with, from, in", "from, for, on", "from, since, to", "of, since, in"],
+    "answer": "from, since, to",
+    "explanation": "প্রথম শূন্যস্থানে রোগে ভোগা বোঝাতে 'suffer from' বসবে। দ্বিতীয় শূন্যস্থানে নির্দিষ্ট সময় (Point of time) থেকে শুরু বোঝাতে 'since' বসবে। তৃতীয় শূন্যস্থানে শয্যাশায়ী বোঝাতে 'confined to' বসবে।"
+  },
+  {
+    "id": 404,
+    "question": "The man was accused ___ murder, convicted ___ the crime, and condemned ___ death.",
+    "options": ["for, for, to", "of, of, to", "with, of, for", "of, for, by"],
+    "answer": "of, of, to",
+    "explanation": "প্রথম শূন্যস্থানে অভিযুক্ত হওয়া বোঝাতে 'accused of' বসবে। দ্বিতীয় শূন্যস্থানে দোষী সাব্যস্ত হওয়া বোঝাতে 'convicted of' বসবে। তৃতীয় শূন্যস্থানে চরম সাজা বা মৃত্যুদণ্ড পাওয়া বোঝাতে 'condemned to' বসবে।"
+  },
+  {
+    "id": 405,
+    "question": "___ spite of his illness, he went ___ the local market ___ foot.",
+    "options": ["In, to, on", "Despite, towards, by", "In, in, by", "On, to, with"],
+    "answer": "In, to, on",
+    "explanation": "প্রথম শূন্যস্থানে 'সত্ত্বেও' বোঝাতে 'In spite of' (বা Despite) বসে, তাই এখানে 'In' হবে। দ্বিতীয় শূন্যস্থানে গন্তব্যের আগে 'to' বসবে। তৃতীয় শূন্যস্থানে পায়ে হেঁটে যাওয়া বোঝাতে সর্বদা 'on foot' বসে।"
+  },
+  {
+    "id": 406,
+    "question": "He readily agreed ___ my proposal, but was very angry ___ me ___ my rude behaviour.",
+    "options": ["with, on, for", "to, with, at", "on, at, for", "to, at, with"],
+    "answer": "to, with, at",
+    "explanation": "প্রথম শূন্যস্থানে কোনো প্রস্তাবে রাজি হওয়া বোঝাতে 'agreed to' বসবে। দ্বিতীয় শূন্যস্থানে কোনো ব্যক্তির ওপর রাগ বোঝাতে 'angry with' বসবে। তৃতীয় শূন্যস্থানে কারো আচরণের ওপর রাগ বোঝাতে 'angry at' বসবে।"
+  },
+  {
+    "id": 407,
+    "question": "The frightened cat jumped ___ the wall, ran ___ the road and hid ___ the bed.",
+    "options": ["on, along, below", "over, across, under", "above, through, in", "upon, on, beneath"],
+    "answer": "over, across, under",
+    "explanation": "প্রথম শূন্যস্থানে দেওয়ালের ওপর দিয়ে লাফানো বোঝাতে 'jump over' বসবে। দ্বিতীয় শূন্যস্থানে রাস্তা পার হওয়া বোঝাতে 'run across' বসবে। তৃতীয় শূন্যস্থানে বিছানার নিচে লুকোনো বোঝাতে 'hide under' বসবে।"
+  },
+  {
+    "id": 408,
+    "question": "Please write the answers ___ ink ___ the blank page and submit the paper ___ Monday.",
+    "options": ["with, in, on", "in, on, by", "by, over, at", "with, on, within"],
+    "answer": "in, on, by",
+    "explanation": "প্রথম শূন্যস্থানে কালিতে লেখা বোঝাতে 'in ink' বসবে (with a pen হয়, কিন্তু in ink হয়)। দ্বিতীয় শূন্যস্থানে পৃষ্ঠার ওপরে বোঝাতে 'on' বসবে। তৃতীয় শূন্যস্থানে নির্দিষ্ট সময়ের (Deadline) আগে জমা দেওয়া বোঝাতে 'by' বসবে।"
+  },
+  {
+    "id": 409,
+    "question": "His grandfather died ___ cholera, but his uncle died ___ a car accident ___ Monday morning.",
+    "options": ["from, by, in", "of, in, on", "of, by, at", "from, in, on"],
+    "answer": "of, in, on",
+    "explanation": "প্রথম শূন্যস্থানে রোগে মারা যাওয়া বোঝাতে 'died of' বসবে। দ্বিতীয় শূন্যস্থানে দুর্ঘটনায় মারা যাওয়া বোঝাতে 'died in' বসবে। তৃতীয় শূন্যস্থানে নির্দিষ্ট দিনের সকালে (Monday morning) বোঝাতে 'on' বসবে।"
+  },
+  {
+    "id": 410,
+    "question": "I have been waiting ___ my friend ___ the bus stop ___ two hours.",
+    "options": ["for, at, for", "about, in, since", "for, on, since", "to, at, for"],
+    "answer": "for, at, for",
+    "explanation": "প্রথম শূন্যস্থানে কারো জন্য অপেক্ষা করা বোঝাতে 'wait for' বসবে। দ্বিতীয় শূন্যস্থানে নির্দিষ্ট ছোট জায়গা বোঝাতে 'at the bus stop' বসবে। তৃতীয় শূন্যস্থানে সময়ের ব্যাপ্তি (Period of time) বোঝাতে 'for two hours' বসবে।"
+  },
+  {
+    "id": 411,
+    "question": "She prefers green tea ___ coffee and usually buys it ___ a grocery shop ___ the street corner.",
+    "options": ["to, from, at", "than, by, on", "over, from, in", "to, by, at"],
+    "answer": "to, from, at",
+    "explanation": "প্রথম শূন্যস্থানে একটির থেকে অন্যটি বেশি পছন্দ করা বোঝাতে 'prefers to' বসবে। দ্বিতীয় শূন্যস্থানে দোকান 'থেকে' কেনা বোঝাতে 'from' বসবে। তৃতীয় শূন্যস্থানে রাস্তার মোড়ে বা কোণে বোঝাতে 'at the street corner' বসবে।"
+  },
+  {
+    "id": 412,
+    "question": "The police officer is ___ duty today, so you must speak ___ him ___ the telephone.",
+    "options": ["in, with, by", "on, to, over", "at, to, on", "on, with, through"],
+    "answer": "on, to, over",
+    "explanation": "প্রথম শূন্যস্থানে কর্মরত অবস্থা বোঝাতে 'on duty' বসবে। দ্বিতীয় শূন্যস্থানে কারো সাথে কথা বলা বোঝাতে 'speak to' বসবে। তৃতীয় শূন্যস্থানে ফোনের মাধ্যমে কথা বলা বোঝাতে 'over the telephone' (বা on) বসবে।"
+  },
+  {
+    "id": 413,
+    "question": "Distribute the sweets ___ the two brothers and the books ___ all the students ___ the class.",
+    "options": ["among, between, at", "between, among, in", "in, among, inside", "between, to, in"],
+    "answer": "between, among, in",
+    "explanation": "প্রথম শূন্যস্থানে দুজনের মধ্যে ভাগ করা বোঝাতে 'between' বসবে। দ্বিতীয় শূন্যস্থানে দুইয়ের বেশি বা সকলের মধ্যে ভাগ করা বোঝাতে 'among' বসবে। তৃতীয় শূন্যস্থানে ক্লাসের ভেতরে বোঝাতে 'in' বসবে।"
+  },
+  {
+    "id": 414,
+    "question": "He is completely blind ___ his left eye and also blind ___ his son's faults ___ a large extent.",
+    "options": ["of, of, by", "in, to, to", "with, for, to", "in, on, in"],
+    "answer": "in, to, to",
+    "explanation": "প্রথম শূন্যস্থানে শারীরিকভাবে অন্ধ বোঝাতে 'blind in' (বা of) বসবে। দ্বিতীয় শূন্যস্থানে দোষের প্রতি অন্ধ বা উদাসীন বোঝাতে 'blind to' বসবে। তৃতীয় শূন্যস্থানে 'ব্যাপকভাবে' বোঝাতে ফ্রেজ হিসেবে 'to a large extent' বসবে।"
+  },
+  {
+    "id": 415,
+    "question": "He is engaged ___ social work, ___ addition ___ teaching ___ the local high school.",
+    "options": ["with, of, in, at", "in, in, to, at", "to, with, on, in", "in, for, at, in"],
+    "answer": "in, in, to, at",
+    "explanation": "প্রথম শূন্যস্থানে কাজে লিপ্ত থাকা বোঝাতে 'engaged in' বসবে। দ্বিতীয় ও তৃতীয় শূন্যস্থানে 'অতিরিক্ত হিসেবে' বোঝাতে 'in addition to' ফ্রেজটি বসবে। চতুর্থ শূন্যস্থানে নির্দিষ্ট প্রতিষ্ঠানে (বিদ্যালয়ে) বোঝাতে 'at' বসবে।"
+  },
+  {
+    "id": 416,
+    "question": "He goes ___ the office ___ 9 AM ___ bus ___ weekdays.",
+    "options": ["to, at, by, on", "towards, in, on, at", "at, by, with, on", "to, in, by, in"],
+    "answer": "to, at, by, on",
+    "explanation": "গন্তব্যের আগে 'to', নির্দিষ্ট সময়ের আগে 'at', যাতায়াতের মাধ্যমের আগে 'by', এবং সপ্তাহের দিনগুলির (weekdays/Sunday) আগে 'on' বসে।"
+  },
+  {
+    "id": 417,
+    "question": "The bird flew ___ the room, hovered ___ the table, perched ___ the window sill, and looked ___ the garden.",
+    "options": ["in, above, at, into", "into, over, on, at", "through, on, over, to", "inside, on, upon, towards"],
+    "answer": "into, over, on, at",
+    "explanation": "বাইরে থেকে ভেতরে গতিশীলতা বোঝাতে 'into', শূন্যে ভাসমান বোঝাতে 'over', কার্নিশ স্পর্শ করে বসা বোঝাতে 'on', এবং নির্দিষ্ট দিকে তাকানো বোঝাতে 'look at' বসে।"
+  },
+  {
+    "id": 418,
+    "question": "I am indebted ___ you ___ your timely help ___ this critical situation ___ the hospital.",
+    "options": ["to, for, in, at", "with, about, on, in", "for, to, at, near", "to, on, into, inside"],
+    "answer": "to, for, in, at",
+    "explanation": "কারো কাছে ঋণী বোঝাতে 'indebted to', কোনো কাজের জন্য ঋণী বোঝাতে 'for', পরিস্থিতির মধ্যে বোঝাতে 'in', এবং নির্দিষ্ট ছোট জায়গার (hospital) আগে 'at' বসে।"
+  },
+  {
+    "id": 419,
+    "question": "She complained ___ the manager ___ the rude clerk ___ the counter ___ the morning.",
+    "options": ["with, about, on, at", "against, to, by, in", "to, against, at, in", "to, about, in, on"],
+    "answer": "to, against, at, in",
+    "explanation": "কারো কাছে অভিযোগ করা বোঝাতে 'complain to', কারো বিরুদ্ধে বোঝালে 'against', নির্দিষ্ট কাউন্টারে বোঝাতে 'at', এবং সকালে বোঝাতে 'in the morning' বসে।"
+  },
+  {
+    "id": 420,
+    "question": "The man is known ___ me ___ his honesty, but he is notorious ___ his bad temper ___ his colleagues.",
+    "options": ["by, about, of, between", "to, by, for, in", "to, for, for, among", "with, for, in, with"],
+    "answer": "to, for, for, among",
+    "explanation": "Passive voice-এ 'known to', গুণের জন্য পরিচিত হলে 'known for', কুখ্যাতির জন্য 'notorious for', এবং অনেকের মাঝে বোঝাতে 'among' বসে।"
+  },
+  {
+    "id": 421,
+    "question": "He jumped ___ the river to save the child ___ drowning, putting his own life ___ risk ___ a winter morning.",
+    "options": ["in, of, in, in", "into, from, at, on", "into, of, on, at", "inside, from, in, during"],
+    "answer": "into, from, at, on",
+    "explanation": "জলে ঝাঁপ দেওয়া বোঝাতে 'jump into', বিপদ থেকে বাঁচানো বোঝাতে 'save from', বিপদের মুখে বোঝাতে 'at risk', এবং নির্দিষ্ট কোনো সকাল বোঝাতে 'on' (on a winter morning) বসে।"
+  },
+  {
+    "id": 422,
+    "question": "Please translate this passage ___ English ___ Bengali ___ the help of a dictionary ___ an hour.",
+    "options": ["of, to, by, in", "from, to, through, at", "from, into, with, within", "in, into, by, on"],
+    "answer": "from, into, with, within",
+    "explanation": "ভাষা থেকে বোঝাতে 'from', অন্য ভাষায় রূপান্তর বোঝাতে 'into', কোনো কিছুর সাহায্যে বোঝাতে 'with the help of', এবং নির্দিষ্ট সময়ের মধ্যে কাজ শেষ করা বোঝাতে 'within' বসে।"
+  },
+  {
+    "id": 423,
+    "question": "The rich man was reduced ___ poverty, died ___ hunger ___ the age of sixty, and was buried ___ the village.",
+    "options": ["in, from, in, at", "into, by, on, inside", "to, of, at, in", "to, from, at, on"],
+    "answer": "to, of, at, in",
+    "explanation": "দরিদ্রতায় পতিত হওয়া বোঝাতে 'reduced to', অনাহারে মারা যাওয়া বোঝাতে 'died of', নির্দিষ্ট বয়সে বোঝাতে 'at the age', এবং গ্রামের মধ্যে বোঝাতে 'in the village' বসে।"
+  },
+  {
+    "id": 424,
+    "question": "He deals ___ rice, but does not know how to deal ___ angry customers ___ his shop ___ Sunday.",
+    "options": ["with, in, in, at", "in, with, on, in", "about, to, at, on", "in, with, at, on"],
+    "answer": "in, with, at, on",
+    "explanation": "ব্যবসা করা বোঝাতে 'deal in', মানুষের সাথে আচরণ করা বোঝাতে 'deal with', দোকানে বোঝাতে 'at his shop', এবং বারের নামের আগে 'on' বসে।"
+  },
+  {
+    "id": 425,
+    "question": "You should apologize ___ the teacher ___ your absence ___ the class ___ Monday.",
+    "options": ["with, about, in, in", "to, for, from, on", "to, on, of, at", "before, for, at, by"],
+    "answer": "to, for, from, on",
+    "explanation": "কারো কাছে ক্ষমা চাওয়া বোঝাতে 'apologize to', ভুলের জন্য ক্ষমা চাওয়া বোঝাতে 'for', কোনো জায়গা থেকে অনুপস্থিত থাকা বোঝাতে 'absence from', এবং বারের আগে 'on' বসে।"
+  },
+  {
+    "id": 426,
+    "question": "He was sitting ___ the shade of a tree, absorbed ___ deep thought ___ his future ___ the evening.",
+    "options": ["under, in, of, at", "in, in, about, in", "beneath, with, on, during", "in, into, for, on"],
+    "answer": "in, in, about, in",
+    "explanation": "গাছের 'ছায়ায়' বসা বোঝাতে 'in the shade', মগ্ন থাকা বোঝাতে 'absorbed in', কোনো বিষয়ে ভাবা বোঝাতে 'thought about', এবং সন্ধ্যায় বোঝাতে 'in the evening' বসে।"
+  },
+  {
+    "id": 427,
+    "question": "The lion suddenly sprang ___ the deer, tore it ___ pieces ___ its sharp teeth, and dragged it ___ the cave.",
+    "options": ["on, in, by, in", "upon, into, with, into", "at, into, by, inside", "over, to, with, through"],
+    "answer": "upon, into, with, into",
+    "explanation": "শিকারের ওপর লাফিয়ে পড়া বোঝাতে 'spring upon', টুকরো করা বোঝাতে 'tear into', যন্ত্র বা দাঁতের সাহায্যে বোঝাতে 'with', এবং গুহার ভেতরে টেনে নেওয়া বোঝাতে 'dragged into' বসে।"
+  },
+  {
+    "id": 428,
+    "question": "I am familiar ___ this area, as my house is adjacent ___ the post office ___ Park Street ___ Kolkata.",
+    "options": ["to, with, at, in", "with, to, on, in", "with, beside, in, at", "about, to, on, near"],
+    "answer": "with, to, on, in",
+    "explanation": "কোনো জায়গার সাথে পরিচিত বোঝাতে 'familiar with', সংলগ্ন বোঝাতে 'adjacent to', রাস্তার নামের আগে 'on', এবং বড় শহরের আগে 'in' বসে।"
+  },
+  {
+    "id": 429,
+    "question": "He was born ___ poor parents, rose ___ prominence ___ dint of hard work, and contributed ___ society.",
+    "options": ["in, in, with, for", "of, to, by, to", "to, into, on, towards", "from, at, by, in"],
+    "answer": "of, to, by, to",
+    "explanation": "পিতা-মাতার সন্তান হিসেবে জন্মানো বোঝাতে 'born of', খ্যাতির শিখরে ওঠা বোঝাতে 'rose to', পরিশ্রমের জোরে বোঝাতে 'by dint of', এবং অবদান রাখা বোঝাতে 'contributed to' বসে।"
+  },
+  {
+    "id": 430,
+    "question": "The teacher congratulated him ___ his success, warned him ___ being overconfident, and advised him ___ focus ___ his studies.",
+    "options": ["on, against, to, on", "for, about, for, in", "at, of, on, about", "on, for, at, into"],
+    "answer": "on, against, to, on",
+    "explanation": "সাফল্যে অভিনন্দন বোঝাতে 'congratulate on', সতর্ক করা বোঝাতে 'warn against', ইনফিনিটিভ Verb হিসেবে 'to focus', এবং কোনো বিষয়ে লক্ষ্য স্থির করা বোঝাতে 'focus on' বসে।"
+  },
+  {
+    "id": 431,
+    "question": "They parted ___ their friends ___ tears ___ their eyes ___ the railway station.",
+    "options": ["with, with, on, in", "from, with, in, at", "from, in, at, inside", "away, with, inside, on"],
+    "answer": "from, with, in, at",
+    "explanation": "ব্যক্তির থেকে আলাদা হওয়া বোঝাতে 'part from', সাথে বোঝাতে 'with tears', চোখে বোঝাতে 'in their eyes', এবং ছোট জায়গায় বোঝাতে 'at the station' বসে।"
+  },
+  {
+    "id": 432,
+    "question": "He is quite adept ___ playing the guitar, which he bought ___ a high price ___ the local market ___ cash.",
+    "options": ["at, with, in, with", "in, at, from, in", "with, on, from, by", "in, for, at, on"],
+    "answer": "in, at, from, in",
+    "explanation": "দক্ষতা বোঝাতে 'adept in', মূল্যে কেনা বোঝাতে 'at a price', বাজার থেকে কেনা বোঝাতে 'from the market', এবং নগদে কেনা বোঝাতে 'in cash' বসে।"
+  },
+  {
+    "id": 433,
+    "question": "The patient is suffering ___ a rare disease, is currently ___ treatment ___ the city hospital, and hopes ___ a quick recovery.",
+    "options": ["of, in, in, to", "from, under, at, for", "with, on, at, about", "from, in, inside, on"],
+    "answer": "from, under, at, for",
+    "explanation": "রোগে ভোগা বোঝাতে 'suffer from', চিকিৎসার অধীনে বোঝাতে 'under', নির্দিষ্ট হাসপাতালে বোঝাতে 'at', এবং আশা করা বোঝাতে 'hope for' বসে।"
+  },
+  {
+    "id": 434,
+    "question": "Look ___ the word ___ the dictionary if you are ignorant ___ its meaning ___ English.",
+    "options": ["for, inside, about, of", "up, in, of, in", "at, in, for, on", "up, from, of, to"],
+    "answer": "up, in, of, in",
+    "explanation": "শব্দ খোঁজা বোঝাতে 'look up', বইয়ের ভেতরে বোঝাতে 'in the dictionary', অজ্ঞ থাকা বোঝাতে 'ignorant of', এবং ইংরেজি ভাষায় বোঝাতে 'in English' বসে।"
+  },
+  {
+    "id": 435,
+    "question": "I have no objection ___ your going there, but beware ___ pickpockets ___ the crowd ___ the fair.",
+    "options": ["against, from, among, in", "to, of, in, at", "for, of, inside, on", "to, about, in, near"],
+    "answer": "to, of, in, at",
+    "explanation": "আপত্তি থাকা অর্থে 'objection to', সতর্ক থাকা অর্থে 'beware of', ভিড়ের মধ্যে বোঝাতে 'in the crowd', এবং মেলায় বোঝাতে 'at the fair' বসে।"
+  },
+  {
+    "id": 436,
+    "question": "The property was divided ___ the three brothers, who were always fighting ___ themselves ___ minor issues ___ home.",
+    "options": ["between, among, on, in", "among, among, over, at", "among, between, for, inside", "between, with, about, at"],
+    "answer": "among, among, over, at",
+    "explanation": "দুইয়ের বেশি জনের মধ্যে বোঝাতে 'among', নিজেদের মধ্যে লড়াই বোঝাতে 'fight among', কোনো বিষয় নিয়ে তর্ক বোঝাতে 'fight over', এবং বাড়িতে বোঝাতে 'at home' বসে।"
+  },
+  {
+    "id": 437,
+    "question": "He was acquitted ___ the charge ___ theft, released ___ jail yesterday, and returned ___ his village.",
+    "options": ["from, of, out of, in", "of, of, from, to", "of, for, from, back", "with, of, of, towards"],
+    "answer": "of, of, from, to",
+    "explanation": "মুক্তি পাওয়া বোঝাতে 'acquitted of', চুরির অভিযোগ বোঝাতে 'charge of', জেল থেকে ছাড়া পাওয়া বোঝাতে 'released from', এবং গ্রামে ফেরা বোঝাতে 'returned to' বসে।"
+  },
+  {
+    "id": 438,
+    "question": "My house is close ___ the river, and we often go ___ a walk ___ its banks ___ the evening.",
+    "options": ["by, for, beside, on", "to, for, along, in", "near, to, across, at", "to, on, on, during"],
+    "answer": "to, for, along, in",
+    "explanation": "কাছাকাছি থাকা বোঝাতে 'close to', হাঁটতে যাওয়া বোঝাতে 'go for a walk', নদীর পাড় বরাবর হাঁটা বোঝাতে 'along its banks', এবং সন্ধ্যায় বোঝাতে 'in the evening' বসে।"
+  },
+  {
+    "id": 439,
+    "question": "He differs ___ you ___ this point, as his views are contrary ___ yours ___ many ways.",
+    "options": ["from, at, with, by", "with, on, to, in", "to, in, against, on", "with, about, from, for"],
+    "answer": "with, on, to, in",
+    "explanation": "ব্যক্তির সাথে মতবিরোধ বোঝাতে 'differ with', কোনো পয়েন্টে বোঝাতে 'on', বিপরীত বোঝাতে 'contrary to', এবং অনেক দিক থেকে বোঝাতে 'in many ways' বসে।"
+  },
+  {
+    "id": 440,
+    "question": "Do not boast ___ your wealth, because it is of no use ___ a man ___ his deathbed ___ the end.",
+    "options": ["about, for, in, at", "of, to, on, in", "for, with, at, by", "of, to, in, on"],
+    "answer": "of, to, on, in",
+    "explanation": "অহংকার করা বোঝাতে 'boast of', কারো কাছে দরকারী নয় বোঝাতে 'of no use to', মৃত্যুশয্যায় বোঝাতে 'on his deathbed', এবং পরিশেষে বোঝাতে 'in the end' বসে।"
+  },
+  {
+    "id": 441,
+    "question": "The old man is blind ___ one eye, deaf ___ the advice ___ his doctor, and dependent ___ his son.",
+    "options": ["of, for, from, to", "in, to, of, on", "to, to, by, upon", "in, of, of, on"],
+    "answer": "in, to, of, on",
+    "explanation": "শারীরিকভাবে অন্ধ বোঝাতে 'blind in', উপদেশের প্রতি বধির বোঝাতে 'deaf to', ডাক্তারের (র) বোঝাতে 'of', এবং নির্ভরশীল বোঝাতে 'dependent on' বসে।"
+  },
+  {
+    "id": 442,
+    "question": "The letter was written ___ blood ___ a piece of cloth, tied ___ a stone, and thrown ___ the river.",
+    "options": ["with, in, with, in", "in, on, to, into", "by, over, at, across", "in, upon, with, inside"],
+    "answer": "in, on, to, into",
+    "explanation": "কালি বা রক্তে লেখা বোঝাতে 'in blood', কাপড়ের ওপর বোঝাতে 'on', কোনো কিছুর সাথে বাঁধা বোঝাতে 'tied to', এবং গতিশীলভাবে জলে ফেলা বোঝাতে 'thrown into' বসে।"
+  },
+  {
+    "id": 443,
+    "question": "He is completely engrossed ___ his studies to prepare ___ the exam scheduled ___ next week ___ the university.",
+    "options": ["with, to, on, in", "into, for, in, on", "in, for, for, at", "in, about, at, inside"],
+    "answer": "in, for, for, at",
+    "explanation": "পড়াশোনায় নিমগ্ন থাকা বোঝাতে 'engrossed in', প্রস্তুতি নেওয়া বোঝাতে 'prepare for', নির্ধারিত বোঝাতে 'scheduled for', এবং নির্দিষ্ট প্রতিষ্ঠানে বোঝাতে 'at' বসে।"
+  },
+  {
+    "id": 444,
+    "question": "I am tired ___ this boring job, wish to apply ___ a new position ___ a reputed company, and hope ___ the best.",
+    "options": ["from, to, at, to", "of, for, in, for", "with, for, on, about", "of, about, inside, for"],
+    "answer": "of, for, in, for",
+    "explanation": "ক্লান্ত হওয়া বোঝাতে 'tired of', আবেদন করা বোঝাতে 'apply for', কোম্পানিতে বোঝাতে 'in', এবং আশা করা বোঝাতে 'hope for' বসে।"
+  },
+  {
+    "id": 445,
+    "question": "The bridge built ___ the river collapsed ___ the heavy pressure ___ the floodwater ___ the night.",
+    "options": ["above, beneath, from, in", "across, in, by, at", "over, under, of, during", "on, below, of, on"],
+    "answer": "over, under, of, during",
+    "explanation": "নদীর ওপর সেতু বোঝাতে 'built over' (বা across), চাপের নিচে ভাঙা বোঝাতে 'collapsed under', জলের চাপ বোঝাতে 'pressure of', এবং রাতের বেলা চলাকালীন বোঝাতে 'during the night' বসে।"
+  },
+  {
+    "id": 446,
+    "question": "Do not interfere ___ my personal affairs, or I will complain ___ you ___ the police ___ the station.",
+    "options": ["with, about, at, in", "in, against, to, at", "into, on, with, near", "in, to, before, by"],
+    "answer": "in, against, to, at",
+    "explanation": "হস্তক্ষেপ করা বোঝাতে 'interfere in', কারো বিরুদ্ধে নালিশ বোঝাতে 'against', পুলিশের কাছে বোঝাতে 'to', এবং নির্দিষ্ট পুলিশ স্টেশনে বোঝাতে 'at' বসে।"
+  },
+  {
+    "id": 447,
+    "question": "The thief broke ___ the house ___ the dead of night, escaped ___ the back door, and ran ___ the forest.",
+    "options": ["in, at, by, along", "into, at, from, inside", "into, in, through, towards", "inside, during, across, to"],
+    "answer": "into, in, through, towards",
+    "explanation": "জোর করে ঢোকা বোঝাতে 'break into', গভীর রাতে বোঝাতে ফ্রেজ 'in the dead of night', পেছনের দরজা দিয়ে পালানো বোঝাতে 'escaped through', এবং জঙ্গলের দিকে পালানো বোঝাতে 'towards' বসে।"
+  },
+  {
+    "id": 448,
+    "question": "He has been absent ___ school ___ Monday due to a severe pain ___ his stomach ___ the morning.",
+    "options": ["to, for, inside, since", "from, from, at, on", "from, since, in, in", "in, since, on, during"],
+    "answer": "from, since, in, in",
+    "explanation": "অনুপস্থিত বোঝাতে 'absent from', নির্দিষ্ট সময় থেকে বোঝাতে 'since Monday', পেটে ব্যথা বোঝাতে 'in his stomach', এবং সকালে বোঝাতে 'in the morning' বসে।"
+  },
+  {
+    "id": 449,
+    "question": "The manager has full authority ___ the department, and everyone must act ___ accordance ___ his orders ___ all times.",
+    "options": ["on, by, to, on", "over, in, with, at", "about, in, to, in", "over, with, of, by"],
+    "answer": "over, in, with, at",
+    "explanation": "কর্তৃত্ব বোঝাতে 'authority over', নির্দেশ অনুযায়ী বোঝাতে 'in accordance with', এবং সবসময় বোঝাতে ফ্রেজ 'at all times' বসে।"
+  },
+  {
+    "id": 450,
+    "question": "You must rely ___ your own efforts rather than depending ___ others ___ success ___ life.",
+    "options": ["upon, at, to, on", "in, upon, about, inside", "on, with, for, throughout", "on, on, for, in"],
+    "answer": "on, on, for, in",
+    "explanation": "নির্ভর করা বোঝাতে 'rely on' এবং 'depend on', সাফল্যের জন্য বোঝাতে 'for success', এবং জীবনে বোঝাতে 'in life' বসে।"
+  },
+  {
+    "id": 451,
+    "question": "He was accused ___ theft, brought ___ the judge, sentenced ___ prison, and kept ___ a dark cell.",
+    "options": ["of, before, to, in", "for, to, in, inside", "with, before, into, at", "of, near, for, on"],
+    "answer": "of, before, to, in",
+    "explanation": "অভিযুক্ত বোঝাতে 'accused of', বিচারকের সামনে পেশ করা বোঝাতে 'brought before', সাজা দেওয়া বোঝাতে 'sentenced to', এবং সেলের ভেতরে বোঝাতে 'kept in' বসে।"
+  },
+  {
+    "id": 452,
+    "question": "I agree ___ you ___ this matter, but I cannot agree ___ your proposal ___ any circumstances.",
+    "options": ["to, in, with, in", "with, on, to, under", "with, about, with, on", "to, on, to, at"],
+    "answer": "with, on, to, under",
+    "explanation": "ব্যক্তির সাথে একমত বোঝাতে 'agree with', কোনো বিষয়ে বোঝাতে 'on this matter', প্রস্তাবে রাজি হওয়া বোঝাতে 'agree to', এবং 'যেকোনো পরিস্থিতিতে' বোঝাতে ফ্রেজ 'under any circumstances' বসে।"
+  },
+  {
+    "id": 453,
+    "question": "The train departs ___ platform 1 ___ 8 PM, passes ___ a long tunnel, and arrives ___ Delhi.",
+    "options": ["from, at, through, in", "at, in, across, to", "from, on, into, at", "off, at, inside, in"],
+    "answer": "from, at, through, in",
+    "explanation": "কোনো স্থান থেকে রওনা দেওয়া বোঝাতে 'departs from', নির্দিষ্ট সময়ের আগে 'at', টানেলের ভেতর দিয়ে যাওয়া বোঝাতে 'through', এবং বড় শহরে পৌঁছানো বোঝাতে 'arrives in' বসে।"
+  },
+  {
+    "id": 454,
+    "question": "She is good ___ mathematics, weak ___ English, fond ___ reading, and averse ___ sports.",
+    "options": ["in, in, for, from", "at, in, of, to", "at, at, of, against", "in, at, about, to"],
+    "answer": "at, in, of, to",
+    "explanation": "কোনো বিষয়ে দক্ষ বোঝাতে 'good at', কাঁচা বোঝাতে 'weak in', অনুরাগী বোঝাতে 'fond of', এবং কোনো কিছুতে বিমুখ বা অনিচ্ছুক বোঝাতে 'averse to' বসে।"
+  },
+  {
+    "id": 455,
+    "question": "___ spite of the rain, he went ___ ___ a walk ___ an umbrella.",
+    "options": ["In, out, for, without", "Despite, out, to, lacking", "In, outside, for, except", "On, away, on, without"],
+    "answer": "In, out, for, without",
+    "explanation": "'সত্ত্বেও' বোঝাতে 'In spite of', বাইরে যাওয়া বোঝাতে 'went out', হাঁটার উদ্দেশ্যে বোঝাতে 'for a walk', এবং ছাতা ছাড়া বোঝাতে 'without' বসে।"
+  },
+  {
+    "id": 456,
+    "question": "He was deprived ___ his property, driven ___ his house, forced ___ exile, and left ___ die.",
+    "options": ["from, out of, in, for", "of, from, into, to", "of, out of, in, to", "from, away, to, for"],
+    "answer": "of, from, into, to",
+    "explanation": "বঞ্চিত হওয়া বোঝাতে 'deprived of', বাড়ি থেকে তাড়ানো বোঝাতে 'driven from' (বা out of), নির্বাসনে বাধ্য করা বোঝাতে 'forced into', এবং মরতে ছেড়ে দেওয়া বোঝাতে 'left to' (Infinitive) বসে।"
+  },
+  {
+    "id": 457,
+    "question": "The man was cured ___ malaria ___ the doctor, who treated him ___ great care ___ the hospital.",
+    "options": ["from, by, with, in", "of, by, with, at", "of, through, in, inside", "from, with, by, at"],
+    "answer": "of, by, with, at",
+    "explanation": "রোগ থেকে সুস্থ হওয়া বোঝাতে 'cured of', ব্যক্তির দ্বারা বোঝাতে 'by the doctor', যত্ন সহকারে বোঝাতে 'with great care', এবং নির্দিষ্ট হাসপাতালে বোঝাতে 'at the hospital' বসে।"
+  },
+  {
+    "id": 458,
+    "question": "___ behalf of my team, I apologize ___ you ___ the delay ___ the project.",
+    "options": ["In, to, about, of", "On, with, for, in", "On, to, for, in", "At, before, for, regarding"],
+    "answer": "On, to, for, in",
+    "explanation": "কারো পক্ষে বা প্রতিনিধি হয়ে বোঝাতে 'On behalf of', ব্যক্তির কাছে ক্ষমা চাওয়া বোঝাতে 'apologize to', ভুলের জন্য ক্ষমা বোঝাতে 'for the delay', এবং প্রজেক্টের কাজে বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 459,
+    "question": "We are proud ___ our country, devoted ___ its progress, ready ___ sacrifices, and united ___ enemies.",
+    "options": ["for, for, to, with", "of, to, for, against", "of, in, for, towards", "about, to, to, against"],
+    "answer": "of, to, for, against",
+    "explanation": "গর্বিত বোঝাতে 'proud of', নিবেদিত প্রাণ বোঝাতে 'devoted to', প্রস্তুত বোঝাতে 'ready for', এবং শত্রুর বিরুদ্ধে একজোট বোঝাতে 'united against' বসে।"
+  },
+  {
+    "id": 460,
+    "question": "The book is placed ___ the table, ___ the lamp, ___ the window, and ___ the room.",
+    "options": ["on, beside, under, across", "at, near, below, inside", "on, besides, beneath, through", "over, by, under, in"],
+    "answer": "on, beside, under, across",
+    "explanation": "টেবিলের ওপর স্পর্শ করে থাকা বোঝাতে 'on', ঠিক পাশে বোঝাতে 'beside', জানালার নিচে বোঝাতে 'under', এবং ঘরের ওপারে বা অপর প্রান্তে বোঝাতে 'across the room' বসে।"
+  },
+  {
+    "id": 461,
+    "question": "He died ___ his country ___ the battle, fighting ___ the enemies ___ great courage.",
+    "options": ["of, in, with, by", "for, in, against, with", "for, at, against, by", "from, inside, with, in"],
+    "answer": "for, in, against, with",
+    "explanation": "মহৎ উদ্দেশ্যে প্রাণ দেওয়া বোঝাতে 'died for', যুদ্ধে বোঝাতে 'in the battle', শত্রুর বিরুদ্ধে লড়া বোঝাতে 'fighting against', এবং সাহসের সাথে বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 462,
+    "question": "I have been looking ___ my keys ___ morning, searching ___ the drawers, and looking ___ the bed.",
+    "options": ["for, from, in, below", "for, since, through, under", "at, since, inside, beneath", "about, for, through, under"],
+    "answer": "for, since, through, under",
+    "explanation": "খোঁজা বোঝাতে 'looking for', নির্দিষ্ট সময় থেকে (Point of time) বোঝাতে 'since', ড্রয়ারের ভেতর তন্নতন্ন করে খোঁজা বোঝাতে 'through', এবং বিছানার নিচে বোঝাতে 'under' বসে।"
+  },
+  {
+    "id": 463,
+    "question": "He is married ___ a doctor, lives ___ Mumbai, goes to work ___ train, and returns ___ night.",
+    "options": ["with, in, by, in", "to, at, on, at", "to, in, by, at", "with, in, in, during"],
+    "answer": "to, in, by, at",
+    "explanation": "বিবাহিত বোঝাতে 'married to' (Passive form), বড় শহরে বোঝাতে 'in', যাতায়াতের মাধ্যম বোঝাতে 'by train', এবং রাতের বেলা বোঝাতে সর্বদা 'at night' বসে।"
+  },
+  {
+    "id": 464,
+    "question": "She was born ___ a rich family, endowed ___ many talents, succeeded ___ dint of hard work, and became famous ___ the world.",
+    "options": ["of, by, with, in", "in, with, by, throughout", "to, with, on, across", "in, of, by, over"],
+    "answer": "in, with, by, throughout",
+    "explanation": "পরিবারে জন্মানো বোঝাতে 'born in', গুণাবলীতে পূর্ণ বোঝাতে 'endowed with', পরিশ্রমে জোরে বোঝাতে 'by dint of', এবং বিশ্বজুড়ে বোঝাতে 'throughout the world' বসে।"
+  },
+  {
+    "id": 465,
+    "question": "You must abstain ___ smoking, refrain ___ drinking, stick ___ a healthy diet, and focus ___ your health.",
+    "options": ["from, from, to, on", "from, against, with, at", "to, from, by, on", "from, of, to, in"],
+    "answer": "from, from, to, on",
+    "explanation": "বিরত থাকা বোঝাতে 'abstain from' এবং 'refrain from', কোনো নিয়মে লেগে থাকা বোঝাতে 'stick to', এবং মনোযোগ দেওয়া বোঝাতে 'focus on' বসে।"
+  },
+  {
+    "id": 466,
+    "question": "The thief climbed ___ the wall, crept ___ the house, stole the jewelry ___ the safe, and escaped ___ the window.",
+    "options": ["on, in, out of, from", "over, into, from, through", "above, inside, of, by", "up, into, off, across"],
+    "answer": "over, into, from, through",
+    "explanation": "দেওয়াল টপকানো বোঝাতে 'climbed over', চুপিচুপি ঢোকা বোঝাতে 'crept into', সিন্দুক থেকে চুরি করা বোঝাতে 'from', এবং জানালার ভেতর দিয়ে পালানো বোঝাতে 'escaped through' বসে।"
+  },
+  {
+    "id": 467,
+    "question": "The patient was operated ___ ___ the surgeon ___ a tumor ___ his brain.",
+    "options": ["upon, by, of, in", "on, by, for, in", "on, with, for, inside", "at, by, about, on"],
+    "answer": "on, by, for, in",
+    "explanation": "অস্ত্রোপচার করা বোঝাতে 'operated on' (বা upon), সার্জেনের দ্বারা বোঝাতে 'by', টিউমারের জন্য বোঝাতে 'for', এবং মস্তিষ্কে বোঝাতে 'in his brain' বসে।"
+  },
+  {
+    "id": 468,
+    "question": "He takes pride ___ his wealth, is proud ___ his sons, boasts ___ his achievements, and looks down ___ the poor.",
+    "options": ["of, of, about, to", "in, of, of, upon", "on, in, for, at", "in, about, of, on"],
+    "answer": "in, of, of, upon",
+    "explanation": "গর্ব করা বোঝাতে Noun হিসেবে 'take pride in', Adjective হিসেবে 'proud of', বড়াই করা বোঝাতে 'boast of', এবং অবজ্ঞা করা বোঝাতে Phrasal verb 'look down upon' বসে।"
+  },
+  {
+    "id": 469,
+    "question": "We travelled ___ Kolkata ___ Delhi ___ air ___ two hours.",
+    "options": ["from, to, by, within", "to, from, in, in", "from, towards, on, for", "from, to, through, at"],
+    "answer": "from, to, by, within",
+    "explanation": "উৎস বোঝাতে 'from', গন্তব্য বোঝাতে 'to', আকাশপথে যাতায়াত বোঝাতে 'by air', এবং নির্দিষ্ট সময়সীমার ভেতরে কাজ শেষ করা বোঝাতে 'within two hours' বসে।"
+  },
+  {
+    "id": 470,
+    "question": "He is eligible ___ the post, highly qualified ___ this field, experienced ___ such tasks, and dedicated ___ his duty.",
+    "options": ["to, for, in, for", "for, in, with, to", "for, at, about, in", "to, in, for, towards"],
+    "answer": "for, in, with, to",
+    "explanation": "পদের যোগ্য বোঝাতে 'eligible for', কোনো ক্ষেত্রে যোগ্যতাসম্পন্ন বোঝাতে 'qualified in', কাজে অভিজ্ঞ বোঝাতে 'experienced with' (বা in), এবং নিবেদিত প্রাণ বোঝাতে 'dedicated to' বসে।"
+  },
+  {
+    "id": 471,
+    "question": "The meeting was presided ___ ___ the chairman, who spoke ___ the budget ___ an hour.",
+    "options": ["over, by, about, for", "on, with, on, during", "at, by, over, in", "over, from, regarding, since"],
+    "answer": "over, by, about, for",
+    "explanation": "সভাপতিত্ব করা বোঝাতে 'presided over', ব্যক্তির দ্বারা বোঝাতে 'by', কোনো বিষয়ে বলা বোঝাতে 'spoke about', এবং এক ঘণ্টা ধরে (Period of time) বোঝাতে 'for' বসে।"
+  },
+  {
+    "id": 472,
+    "question": "She parted ___ her parents ___ a heavy heart, got ___ the train, and headed ___ the city.",
+    "options": ["with, in, on, to", "from, with, into, towards", "from, by, inside, for", "with, with, into, towards"],
+    "answer": "from, with, into, towards",
+    "explanation": "ব্যক্তির থেকে আলাদা হওয়া বোঝাতে 'part from', ভারাক্রান্ত হৃদয় নিয়ে বোঝাতে 'with', ট্রেনে ওঠা বোঝাতে 'got into', এবং শহরের দিকে রওনা হওয়া বোঝাতে 'headed towards' বসে।"
+  },
+  {
+    "id": 473,
+    "question": "Look ___ the blackboard, listen ___ the teacher, write ___ ink, and complete the work ___ time.",
+    "options": ["to, to, with, on", "at, to, in, on", "at, at, in, in", "on, to, by, on"],
+    "answer": "at, to, in, on",
+    "explanation": "তাকানো বোঝাতে 'look at', কথা শোনা বোঝাতে 'listen to', কালিতে লেখা বোঝাতে সর্বদা 'in ink', এবং কাঁটায়-কাঁটায় ঠিক সময়ে বোঝাতে 'on time' বসে।"
+  },
+  {
+    "id": 474,
+    "question": "According ___ the rules, you are liable ___ the damage, answerable ___ the boss, and bound ___ the contract.",
+    "options": ["to, for, to, by", "with, to, for, in", "to, about, with, to", "by, for, to, with"],
+    "answer": "to, for, to, by",
+    "explanation": "নিয়মানুসারে বোঝাতে 'According to', কোনো ক্ষতির জন্য দায়ী বোঝাতে 'liable for', কারো কাছে জবাবদিহি করতে বাধ্য বোঝাতে 'answerable to', এবং চুক্তিতে আবদ্ধ বোঝাতে 'bound by' বসে।"
+  },
+  {
+    "id": 475,
+    "question": "He was ignorant ___ the facts, indifferent ___ the warnings, involved ___ the crime, and condemned ___ death.",
+    "options": ["about, for, in, to", "of, to, in, to", "of, towards, with, for", "in, about, into, at"],
+    "answer": "of, to, in, to",
+    "explanation": "অজ্ঞ থাকা বোঝাতে 'ignorant of', উদাসীন থাকা বোঝাতে 'indifferent to', অপরাধে জড়িত বোঝাতে 'involved in', এবং মৃত্যুদণ্ড পাওয়া বোঝাতে 'condemned to' বসে।"
+  },
+  {
+    "id": 476,
+    "question": "The cat sat ___ the mat, stared ___ the mouse, pounced ___ it, and ran ___ the hole.",
+    "options": ["in, at, on, inside", "on, at, upon, into", "upon, to, over, in", "on, towards, at, through"],
+    "answer": "on, at, upon, into",
+    "explanation": "মাদুর ছুঁয়ে বসা বোঝাতে 'sat on', একদৃষ্টে তাকানো বোঝাতে 'stare at', লাফিয়ে পড়া বোঝাতে 'pounced upon', এবং গর্তের ভেতর দৌড়ে ঢোকা বোঝাতে 'ran into' বসে।"
+  },
+  {
+    "id": 477,
+    "question": "He is superior ___ me ___ strength, but junior ___ me ___ five years.",
+    "options": ["than, in, than, by", "to, in, to, by", "to, by, to, of", "over, in, to, for"],
+    "answer": "to, in, to, by",
+    "explanation": "ল্যাটিন অ্যাডজেক্টিভ (superior/junior)-এর পর 'to' বসে, শক্তিতে বোঝাতে 'in strength', এবং পাঁচ বছরের ছোট বোঝাতে ব্যবধান হিসেবে 'by five years' বসে।"
+  },
+  {
+    "id": 478,
+    "question": "The house is infested ___ rats, full ___ dust, devoid ___ furniture, and unfit ___ living.",
+    "options": ["by, of, from, for", "with, of, of, for", "with, with, of, to", "in, of, off, for"],
+    "answer": "with, of, of, for",
+    "explanation": "উপদ্রুত বোঝাতে 'infested with', পূর্ণ বোঝাতে 'full of', অভাব বা বর্জিত বোঝাতে 'devoid of', এবং অনুপযুক্ত বোঝাতে 'unfit for' বসে।"
+  },
+  {
+    "id": 479,
+    "question": "I prefer milk ___ tea, usually drink it ___ the morning, ___ a silver cup, ___ my breakfast.",
+    "options": ["than, in, in, with", "to, in, from, with", "over, during, by, at", "to, on, out of, for"],
+    "answer": "to, in, from, with",
+    "explanation": "একটির চেয়ে অন্যটি বেশি পছন্দ করা বোঝাতে 'prefer to', সকালে বোঝাতে 'in the morning', কাপ থেকে পান করা বোঝাতে 'from a cup', এবং ব্রেকফাস্টের সাথে বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 480,
+    "question": "We sympathize ___ the poor, feel pity ___ them, contribute ___ their welfare, and work ___ their upliftment.",
+    "options": ["for, for, in, for", "with, for, to, towards", "to, on, towards, for", "with, about, for, on"],
+    "answer": "with, for, to, towards",
+    "explanation": "সমবেদনা জানানো বোঝাতে 'sympathize with', করুণা করা বোঝাতে 'pity for', অবদান রাখা বোঝাতে 'contribute to', এবং কোনো লক্ষ্যের দিকে কাজ করা বোঝাতে 'work towards' বসে।"
+  },
+  {
+    "id": 481,
+    "question": "He was prevented ___ entering the hall, charged ___ trespassing, brought ___ the magistrate, and fined ___ his offense.",
+    "options": ["to, of, to, for", "from, with, before, for", "from, for, in front of, of", "against, with, before, on"],
+    "answer": "from, with, before, for",
+    "explanation": "বাধা দেওয়া বোঝাতে 'prevented from', অভিযুক্ত করা বোঝাতে 'charged with', ম্যাজিস্ট্রেটের সামনে পেশ করা বোঝাতে 'brought before', এবং অপরাধের জন্য জরিমানা বোঝাতে 'fined for' বসে।"
+  },
+  {
+    "id": 482,
+    "question": "The water flows ___ the bridge, ___ the banks, ___ the valley, and falls ___ the sea.",
+    "options": ["below, along, in, to", "under, along, through, into", "beneath, beside, across, in", "under, by, past, into"],
+    "answer": "under, along, through, into",
+    "explanation": "ব্রিজের নিচ দিয়ে বোঝাতে 'under', পাড় বরাবর বোঝাতে 'along', উপত্যকার ভেতর দিয়ে বোঝাতে 'through', এবং সমুদ্রে পতিত হওয়া (গতিশীলতা) বোঝাতে 'falls into' বসে।"
+  },
+  {
+    "id": 483,
+    "question": "___ the request ___ his mother, he gave ___ smoking ___ good.",
+    "options": ["On, of, up, for", "At, of, up, for", "By, from, off, in", "With, of, away, to"],
+    "answer": "At, of, up, for",
+    "explanation": "কারো অনুরোধে বোঝাতে 'At the request of', অভ্যাস ত্যাগ করা বোঝাতে Phrasal verb 'gave up', এবং 'চিরতরে' বোঝাতে Idiom 'for good' বসে।"
+  },
+  {
+    "id": 484,
+    "question": "He is blind ___ his own faults, deaf ___ advice, prone ___ making mistakes, and destined ___ failure.",
+    "options": ["of, to, of, to", "to, to, to, for", "in, for, to, to", "to, against, in, for"],
+    "answer": "to, to, to, for",
+    "explanation": "দোষের প্রতি উদাসীন বোঝাতে 'blind to', কথার অবাধ্য বোঝাতে 'deaf to', প্রবণতা বোঝাতে 'prone to', এবং ভাগ্যে নির্ধারিত বোঝাতে 'destined for' বসে।"
+  },
+  {
+    "id": 485,
+    "question": "Compare Akbar ___ Aurangzeb, but compare anger ___ fire, ___ a poem, ___ a famous poet.",
+    "options": ["to, with, on, from", "with, to, in, by", "with, with, inside, of", "to, to, in, by"],
+    "answer": "with, to, in, by",
+    "explanation": "সমজাতীয় তুলনা বোঝাতে 'compare with', অসম তুলনা বোঝাতে 'compare to', কবিতার মধ্যে বোঝাতে 'in', এবং কবির দ্বারা রচিত বোঝাতে 'by' বসে।"
+  },
+  {
+    "id": 486,
+    "question": "Do not meddle ___ my affairs, rely ___ your own skills, aim ___ success, and persist ___ your efforts.",
+    "options": ["with, in, for, on", "in, on, at, in", "into, upon, to, with", "about, on, for, in"],
+    "answer": "in, on, at, in",
+    "explanation": "নাক গলানো বোঝাতে 'meddle in', নির্ভর করা বোঝাতে 'rely on', লক্ষ্য স্থির করা বোঝাতে 'aim at', এবং কোনো কাজে লেগে থাকা বোঝাতে 'persist in' বসে।"
+  },
+  {
+    "id": 487,
+    "question": "The boy was leaning ___ the door, holding a book ___ his hand, reading ___ the light ___ a candle.",
+    "options": ["on, on, in, of", "against, in, by, of", "at, with, under, from", "over, inside, with, by"],
+    "answer": "against, in, by, of",
+    "explanation": "দরজায় হেলান দেওয়া বোঝাতে 'leaning against', হাতে ধরা বোঝাতে 'in his hand', মোমবাতির আলোয় পড়া বোঝাতে 'reading by the light', এবং মোমবাতির (র) বোঝাতে 'of' বসে।"
+  },
+  {
+    "id": 488,
+    "question": "He entered ___ an agreement ___ the company ___ Monday ___ 10 AM.",
+    "options": ["in, with, on, at", "into, with, on, at", "into, to, in, by", "No preposition, with, on, at"],
+    "answer": "into, with, on, at",
+    "explanation": "কোনো চুক্তিতে আবদ্ধ হওয়া বোঝাতে 'enter into' (ঘরে প্রবেশ হলে preposition বসে না), কোম্পানির সাথে বোঝাতে 'with', বারের আগে 'on', এবং নির্দিষ্ট সময়ের আগে 'at' বসে।"
+  },
+  {
+    "id": 489,
+    "question": "We should be loyal ___ our nation, abide ___ its laws, fight ___ corruption, and strive ___ excellence.",
+    "options": ["with, in, with, to", "to, by, against, for", "for, by, against, towards", "to, with, on, for"],
+    "answer": "to, by, against, for",
+    "explanation": "অনুগত থাকা বোঝাতে 'loyal to', নিয়ম মেনে চলা বোঝাতে 'abide by', দুর্নীতির বিরুদ্ধে লড়া বোঝাতে 'fight against', এবং শ্রেষ্ঠত্বের জন্য চেষ্টা করা বোঝাতে 'strive for' বসে।"
+  },
+  {
+    "id": 490,
+    "question": "The treasure was hidden ___ the ground, ___ a big stone, ___ the old banyan tree, ___ the forest.",
+    "options": ["under, below, near, at", "beneath, under, near, in", "in, beneath, by, inside", "below, beneath, beside, through"],
+    "answer": "beneath, under, near, in",
+    "explanation": "মাটির একদম নিচে (তল স্পর্শ করে) বোঝাতে 'beneath', পাথরের নিচে (ঢাকা) বোঝাতে 'under', গাছের কাছে বোঝাতে 'near', এবং জঙ্গলের বিশাল এলাকার মধ্যে বোঝাতে 'in' বসে।"
+  },
+  {
+    "id": 491,
+    "question": "He was admitted ___ the hospital, operated ___ immediately, recovered ___ the illness, and discharged ___ a week.",
+    "options": ["in, on, of, in", "to, upon, from, within", "into, upon, from, by", "at, on, of, after"],
+    "answer": "to, upon, from, within",
+    "explanation": "হাসপাতালে ভর্তি বোঝাতে 'admitted to', অস্ত্রোপচার বোঝাতে 'operated upon' (বা on), অসুস্থতা থেকে সেরে ওঠা বোঝাতে 'recovered from', এবং এক সপ্তাহের মধ্যে ছাড়া পাওয়া বোঝাতে 'within' বসে।"
+  },
+  {
+    "id": 492,
+    "question": "I was astonished ___ his behavior, disappointed ___ his performance, concerned ___ his future, and sorry ___ his parents.",
+    "options": ["at, with, about, for", "with, at, for, about", "by, with, for, to", "at, in, about, for"],
+    "answer": "at, with, about, for",
+    "explanation": "আচরণে অবাক হওয়া বোঝাতে 'astonished at', পারফরম্যান্সে হতাশ হওয়া বোঝাতে 'disappointed with', ভবিষ্যৎ নিয়ে চিন্তিত বোঝাতে 'concerned about', এবং বাবা-মায়ের জন্য দুঃখিত বোঝাতে 'sorry for' বসে।"
+  },
+  {
+    "id": 493,
+    "question": "He was born ___ the 5th ___ July ___ the year 1990 ___ a small clinic.",
+    "options": ["in, of, in, in", "on, of, in, at", "on, of, on, at", "at, in, in, inside"],
+    "answer": "on, of, in, at",
+    "explanation": "তারিখের আগে 'on', মাসের (র) বোঝাতে 'of', সালের আগে 'in', এবং ছোট জায়গার (ক্লিনিক) আগে 'at' বসে।"
+  },
+  {
+    "id": 494,
+    "question": "The letter was sent ___ post, addressed ___ the manager, written ___ plain paper, ___ a red pen.",
+    "options": ["by, to, on, with", "via, for, in, by", "by, to, in, with", "through, at, on, by"],
+    "answer": "by, to, on, with",
+    "explanation": "ডাকযোগে পাঠানো বোঝাতে 'by post', কাউকে উদ্দেশ্য করে লেখা বোঝাতে 'addressed to', কাগজের ওপর বোঝাতে 'on', এবং কলম (যন্ত্র) দিয়ে লেখা বোঝাতে 'with' বসে।"
+  },
+  {
+    "id": 495,
+    "question": "___ to heavy rain, the match was called ___, resulting ___ huge loss ___ the organizers.",
+    "options": ["Due, off, to, to", "Owing, off, in, for", "According, out, in, of", "Owing, away, into, for"],
+    "answer": "Owing, off, in, for",
+    "explanation": "কারণে বোঝাতে 'Owing to' (Due to-ও হয়, কিন্তু বাক্যের শুরুতে সাধারণত Owing to বসে), বাতিল হওয়া বোঝাতে 'called off', ফলে পরিণত হওয়া বোঝাতে 'resulting in', এবং আয়োজকদের জন্য বোঝাতে 'for' বসে।"
+  },
+  {
+    "id": 496,
+    "question": "He is suffering ___ a fever, so call ___ a doctor, buy medicines ___ the pharmacy, and put him ___ a liquid diet.",
+    "options": ["of, for, at, in", "from, in, from, on", "from, out, at, into", "with, up, from, on"],
+    "answer": "from, in, from, on",
+    "explanation": "জ্বরে ভোগা বোঝাতে 'suffering from', ডাক্তার ডেকে আনা বোঝাতে Phrasal verb 'call in', ফার্মেসি থেকে কেনা বোঝাতে 'from', এবং ডায়েটে রাখা বোঝাতে 'put on a diet' বসে।"
+  },
+  {
+    "id": 497,
+    "question": "The ship was bound ___ England, sailed ___ the Atlantic, encountered a storm ___ the way, and sank ___ the ocean.",
+    "options": ["to, in, in, in", "for, across, on, into", "towards, over, on, under", "for, through, by, inside"],
+    "answer": "for, across, on, into",
+    "explanation": "গন্তব্যের উদ্দেশ্যে রওনা হওয়া বোঝাতে 'bound for', মহাসাগর পার হওয়া বোঝাতে 'sailed across', যাওয়ার পথে বোঝাতে 'on the way', এবং সাগরে ডুবে যাওয়া (গতি) বোঝাতে 'sank into' বসে।"
+  },
+  {
+    "id": 498,
+    "question": "You must guard ___ bad habits, abstain ___ evil company, reflect ___ your mistakes, and apologize ___ them.",
+    "options": ["from, from, about, to", "against, from, on, for", "against, against, on, about", "for, from, at, for"],
+    "answer": "against, from, on, for",
+    "explanation": "খারাপ কিছু থেকে সতর্ক থাকা বোঝাতে 'guard against', বিরত থাকা বোঝাতে 'abstain from', নিজের ভুলের ওপর গভীরভাবে চিন্তা করা বোঝাতে 'reflect on', এবং ভুলের জন্য ক্ষমা চাওয়া বোঝাতে 'apologize for' বসে।"
+  },
+  {
+    "id": 499,
+    "question": "The dog ran ___ the cat, jumped ___ the fence, dashed ___ the bushes, and hid ___ the car.",
+    "options": ["behind, on, in, below", "after, over, through, under", "towards, above, across, beneath", "after, across, into, in"],
+    "answer": "after, over, through, under",
+    "explanation": "পিছনে ধাওয়া করা বোঝাতে 'ran after', বেড়া টপকানো বোঝাতে 'jumped over', ঝোপের ভেতর দিয়ে প্রবল বেগে যাওয়া বোঝাতে 'dashed through', এবং গাড়ির নিচে লুকোনো বোঝাতে 'hid under' বসে।"
+  },
+  {
+    "id": 500,
+    "question": "He will return ___ an hour, so please wait ___ him ___ the lobby, sitting ___ that sofa.",
+    "options": ["in, for, in, in", "within, for, at, on", "after, about, near, at", "by, to, inside, over"],
+    "answer": "within, for, at, on",
+    "explanation": "এক ঘণ্টার মধ্যে বোঝাতে 'within', কারো জন্য অপেক্ষা বোঝাতে 'wait for', লবিতে (পয়েন্ট) বোঝাতে 'at the lobby', এবং হাতল-ছাড়া সোফায় (তল স্পর্শ করে) বসা বোঝাতে 'on' বসে।"
+  }
+]

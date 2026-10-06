@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "What kind of sentence is the following?<br>The sun rises in the east.",
+    "options": ["Assertive sentence", "Imperative sentence", "Exclamatory sentence", "Interrogative sentence"],
+    "answer": "Assertive sentence",
+    "explanation": "যে বাক্যে কোনো সাধারণ বিবৃতি বা ঘটনা প্রকাশ করা হয়, তাকে Assertive (বিবৃতিমূলক) sentence বলে। এখানে একটি সাধারণ চিরন্তন সত্য ঘটনা বর্ণনা করা হয়েছে।"
+  },
+  {
+    "id": 2,
+    "question": "Identify the type of sentence.<br>Please give me a glass of water.",
+    "options": ["Assertive sentence", "Imperative sentence", "Optative sentence", "Complex sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "যে বাক্যে আদেশ, অনুরোধ বা উপদেশ বোঝায় তাকে Imperative Sentence বলে। 'Please' শব্দটি দিয়ে এখানে অনুরোধ বোঝানো হয়েছে।"
+  },
+  {
+    "id": 3,
+    "question": "Choose the correct sentence type.<br>How beautiful the flower is!",
+    "options": ["Compound sentence", "Interrogative sentence", "Exclamatory sentence", "Assertive sentence"],
+    "answer": "Exclamatory sentence",
+    "explanation": "বিস্ময়, আনন্দ, দুঃখ ইত্যাদি তীব্র আবেগ প্রকাশ করতে Exclamatory sentence ব্যবহৃত হয়। বাক্যের শেষে বিস্ময়সূচক চিহ্ন (!) রয়েছে এবং এটি আবেগ প্রকাশ করছে।"
+  },
+  {
+    "id": 4,
+    "question": "What type of sentence is this?<br>May God bless you.",
+    "options": ["Imperative sentence", "Simple sentence", "Exclamatory sentence", "Optative sentence"],
+    "answer": "Optative sentence",
+    "explanation": "যে বাক্যে মনের ইচ্ছা, আশীর্বাদ বা প্রার্থনা প্রকাশ পায় তাকে Optative sentence বলে। 'May' দিয়ে শুরু হওয়া এই বাক্যটি একটি প্রার্থনা।"
+  },
+  {
+    "id": 5,
+    "question": "Identify the type of sentence.<br>He is poor, but he is honest.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Optative sentence"],
+    "answer": "Compound sentence",
+    "explanation": "Compound sentence-এ একাধিক Principal Clause Coordinating Conjunction (যেমন- and, but, or) দ্বারা যুক্ত থাকে। এখানে 'but' দিয়ে দুটি স্বাধীন বাক্য যুক্ত হয়েছে।"
+  },
+  {
+    "id": 6,
+    "question": "What kind of sentence is the following?<br>Though he is rich, he is unhappy.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Assertive sentence"],
+    "answer": "Complex sentence",
+    "explanation": "Complex sentence-এ একটি Principal Clause এবং এক বা একাধিক Subordinate Clause থাকে। 'Though' দিয়ে শুরু হওয়া অংশটি Subordinate Clause।"
+  },
+  {
+    "id": 7,
+    "question": "Identify the sentence type.<br>Seeing the police, the thief ran away.",
+    "options": ["Complex sentence", "Compound sentence", "Simple sentence", "Interrogative sentence"],
+    "answer": "Simple sentence",
+    "explanation": "Simple sentence-এ একটিমাত্র Subject এবং একটিমাত্র Finite verb (সমাপিকা ক্রিয়া) থাকে। এখানে 'ran' হলো একমাত্র Finite verb, আর 'Seeing' হলো Participle।"
+  },
+  {
+    "id": 8,
+    "question": "Choose the correct sentence type.<br>Does he know the answer?",
+    "options": ["Assertive sentence", "Imperative sentence", "Optative sentence", "Interrogative sentence"],
+    "answer": "Interrogative sentence",
+    "explanation": "যে বাক্যে কোনো প্রশ্ন জিজ্ঞাসা করা হয়, তাকে Interrogative (প্রশ্নবোধক) sentence বলে। বাক্যটি Auxiliary verb 'Does' দিয়ে শুরু হয়েছে।"
+  },
+  {
+    "id": 9,
+    "question": "Change the following into a Complex sentence.<br>He confessed his crime.",
+    "options": ["He confessed that he was guilty.", "He confessed his guilt.", "He was guilty and he confessed.", "His crime was confessed by him."],
+    "answer": "He confessed that he was guilty.",
+    "explanation": "Simple sentence-এর 'his crime' অংশটিকে Noun Clause 'that he was guilty' তে পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct Compound sentence for:<br>Besides being a teacher, he is a writer.",
+    "options": ["He is a teacher as well as a writer.", "He is not only a teacher but also a writer.", "Although he is a teacher, he is a writer.", "He is a writer because he is a teacher."],
+    "answer": "He is not only a teacher but also a writer.",
+    "explanation": "'Besides' যুক্ত Simple sentence-কে Compound করতে 'not only... but also' বা 'and' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 11,
+    "question": "Identify the type of sentence.<br>Do or die.",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Assertive sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি Imperative clause 'or' (Coordinating conjunction) দ্বারা যুক্ত হয়েছে, তাই এটি Compound sentence।"
+  },
+  {
+    "id": 12,
+    "question": "What kind of sentence is the following?<br>I know the place where he was born.",
+    "options": ["Compound sentence", "Simple sentence", "Imperative sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "এখানে 'where he was born' হলো একটি Adjective Clause যা Principal clause 'I know the place'-এর সাথে যুক্ত হয়ে Complex sentence গঠন করেছে।"
+  },
+  {
+    "id": 13,
+    "question": "What kind of sentence is the following?<br>I am sure of my success.",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Exclamatory sentence"],
+    "answer": "Simple sentence",
+    "explanation": "এই বাক্যে মাত্র একটি Subject 'I' এবং একটি Finite verb 'am' রয়েছে। তাই এটি একটি Simple sentence।"
+  },
+  {
+    "id": 14,
+    "question": "Transform into an Assertive sentence.<br>Who does not love his motherland?",
+    "options": ["Nobody loves his motherland.", "Everyone loves his motherland.", "Someone loves his motherland.", "Anyone loves his motherland."],
+    "answer": "Everyone loves his motherland.",
+    "explanation": "Interrogative বাক্যে 'Who does not' থাকলে Assertive করার সময় 'Everyone' বা 'Everybody' বসাতে হয়।"
+  },
+  {
+    "id": 15,
+    "question": "Transform into an Exclamatory sentence.<br>It is a very beautiful scene.",
+    "options": ["Is it a beautiful scene!", "How a beautiful scene it is!", "What a beautiful scene it is!", "It is beautiful, isn't it!"],
+    "answer": "What a beautiful scene it is!",
+    "explanation": "Assertive বাক্যে 'a very' থাকলে Exclamatory করার সময় 'What a/an' ব্যবহৃত হয় এবং Adjective-এর পর Subject ও Verb শেষে বসে।"
+  },
+  {
+    "id": 16,
+    "question": "Identify the type of sentence.<br>Let us go for a picnic.",
+    "options": ["Assertive sentence", "Interrogative sentence", "Optative sentence", "Imperative sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "'Let' দিয়ে শুরু হওয়া বাক্যগুলি প্রস্তাব (proposal) বা অনুমতি বোঝায়, যা Imperative sentence-এর অন্তর্ভুক্ত।"
+  },
+  {
+    "id": 17,
+    "question": "What kind of sentence is the following?<br>He went to London to pursue higher studies.",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Interrogative sentence"],
+    "answer": "Simple sentence",
+    "explanation": "'to pursue' হলো Infinitive (Non-finite verb)। বাক্যে একটিমাত্র Finite verb 'went' থাকায় এটি Simple sentence।"
+  },
+  {
+    "id": 18,
+    "question": "Identify the type of sentence.<br>As soon as he saw the tiger, he fled.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Optative sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'As soon as' একটি Subordinating conjunction যা Adverbial Clause তৈরি করে। তাই এটি Complex sentence।"
+  },
+  {
+    "id": 19,
+    "question": "Transform into a Negative sentence without changing the meaning.<br>He is always punctual.",
+    "options": ["He is never punctual.", "He is not punctual.", "He is never late.", "He is sometimes late."],
+    "answer": "He is never late.",
+    "explanation": "অর্থের পরিবর্তন না করে Negative করতে হলে 'always'-এর পরিবর্তে 'never' এবং 'punctual'-এর বিপরীত শব্দ 'late' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 20,
+    "question": "Transform into an Affirmative sentence.<br>None but the brave deserve the fair.",
+    "options": ["Everyone deserves the fair.", "Only the brave deserves the fair.", "The brave never deserve the fair.", "Only the brave deserve the fair."],
+    "answer": "Only the brave deserve the fair.",
+    "explanation": "Negative বাক্যে ব্যক্তির ক্ষেত্রে 'None but' থাকলে Affirmative করার সময় তার পরিবর্তে 'Only' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 21,
+    "question": "What kind of sentence is the following?<br>If you work hard, you will pass.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Imperative sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'If' হলো একটি Subordinating conjunction যা শর্তমূলক Clause তৈরি করে, তাই এটি একটি Complex sentence।"
+  },
+  {
+    "id": 22,
+    "question": "Identify the type of sentence.<br>Listen to me, otherwise you will fail.",
+    "options": ["Simple sentence", "Compound sentence", "Complex sentence", "Assertive sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন বাক্য (Principal Clause) 'otherwise' (Coordinating conjunction) দ্বারা যুক্ত হওয়ায় এটি Compound sentence।"
+  },
+  {
+    "id": 23,
+    "question": "Identify the sentence type.<br>In spite of his hard work, he failed.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Assertive sentence"],
+    "answer": "Simple sentence",
+    "explanation": "'In spite of' একটি Prepositional phrase। বাক্যে কেবল একটি সমাপিকা ক্রিয়া (failed) থাকায় এটি Simple sentence।"
+  },
+  {
+    "id": 24,
+    "question": "What kind of a sentence is the following?<br>The moon was bright and we could see our way.",
+    "options": ["Complex sentence", "Simple sentence", "Exclamatory sentence", "Compound sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন বাক্য 'and' (Coordinating conjunction) দ্বারা যুক্ত হয়েছে। তাই এটি একটি Compound sentence।"
+  },
+  {
+    "id": 25,
+    "question": "Choose the correct Negative form.<br>As soon as the bell rang, the students went into the class.",
+    "options": ["No sooner had the bell rung than the students went into the class.", "No sooner did the bell rang than the students went into the class.", "No sooner had the bell rung when the students went into the class.", "No sooner the bell rang than the students went into the class."],
+    "answer": "No sooner had the bell rung than the students went into the class.",
+    "explanation": "'As soon as' যুক্ত বাক্যকে Negative করতে 'No sooner had + Subject + V3... than' স্ট্রাকচার ব্যবহৃত হয়।"
+  },
+  {
+    "id": 26,
+    "question": "Identify the type of sentence.<br>May our Prime Minister live long.",
+    "options": ["Imperative sentence", "Optative sentence", "Assertive sentence", "Exclamatory sentence"],
+    "answer": "Optative sentence",
+    "explanation": "এই বাক্যের মাধ্যমে একটি ইচ্ছা বা প্রার্থনা প্রকাশ করা হয়েছে। 'May' দিয়ে শুরু হওয়া প্রার্থনামূলক বাক্য Optative হয়।"
+  },
+  {
+    "id": 27,
+    "question": "What kind of sentence is the following?<br>He is too weak to walk.",
+    "options": ["Complex sentence", "Compound sentence", "Simple sentence", "Exclamatory sentence"],
+    "answer": "Simple sentence",
+    "explanation": "এখানে একটি Subject 'He' এবং একটি Finite verb 'is' আছে। 'to walk' হলো Infinitive। তাই এটি Simple sentence।"
+  },
+  {
+    "id": 28,
+    "question": "Change into a Complex sentence.<br>He is too weak to walk.",
+    "options": ["He is so weak but he cannot walk.", "He is very weak and he cannot walk.", "Because he is weak, he cannot walk.", "He is so weak that he cannot walk."],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "'too... to' যুক্ত Simple sentence-কে Complex করতে 'so... that' এবং Tense অনুযায়ী 'cannot/could not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 29,
+    "question": "Change into an Interrogative sentence.<br>There is no use of this statue.",
+    "options": ["What is the use of this statue?", "Is there use of this statue?", "Why is the use of this statue?", "How is the use of this statue?"],
+    "answer": "What is the use of this statue?",
+    "explanation": "'There is no use' দিয়ে শুরু হওয়া Assertive বাক্যকে Interrogative করতে 'What is the use' ফ্রেজটি ব্যবহার করা হয়।"
+  },
+  {
+    "id": 30,
+    "question": "Identify the sentence type.<br>Alas! The great leader is no more.",
+    "options": ["Optative sentence", "Exclamatory sentence", "Assertive sentence", "Imperative sentence"],
+    "answer": "Exclamatory sentence",
+    "explanation": "বাক্যটিতে 'Alas!' শব্দের মাধ্যমে গভীর দুঃখ বা শোক প্রকাশ পেয়েছে, তাই এটি Exclamatory sentence।"
+  },
+  {
+    "id": 31,
+    "question": "Transform into an Assertive sentence.<br>Were I a king!",
+    "options": ["I was a king.", "I am a king.", "I wish I were a king.", "If I was a king."],
+    "answer": "I wish I were a king.",
+    "explanation": "অবাস্তব কল্পনা বা আকাঙ্ক্ষা বোঝাতে 'Were I...' দিয়ে শুরু হওয়া বাক্যকে Assertive করতে 'I wish I were...' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 32,
+    "question": "Identify the type of sentence.<br>He must work hard to make up for lost time.",
+    "options": ["Complex sentence", "Compound sentence", "Exclamatory sentence", "Simple sentence"],
+    "answer": "Simple sentence",
+    "explanation": "বাক্যে একটিমাত্র Finite verb 'must work' এবং একটি উদ্দেশ্যমূলক Infinitive 'to make up' রয়েছে, তাই এটি Simple sentence।"
+  },
+  {
+    "id": 33,
+    "question": "Transform into a Compound sentence.<br>Going to the office, I started working.",
+    "options": ["I went to the office and started working.", "When I went to the office, I started working.", "I started working because I went to the office.", "I went to the office so I started working."],
+    "answer": "I went to the office and started working.",
+    "explanation": "Participle (Going) যুক্ত Simple sentence-কে Compound করতে 'and' দিয়ে দুটি সমাপিকা ক্রিয়া (went এবং started) যুক্ত করা হয়।"
+  },
+  {
+    "id": 34,
+    "question": "What kind of sentence is the following?<br>A barking dog seldom bites.",
+    "options": ["Compound sentence", "Simple sentence", "Complex sentence", "Imperative sentence"],
+    "answer": "Simple sentence",
+    "explanation": "'barking' হলো Present Participle যা Adjective হিসেবে কাজ করছে। বাক্যে একটিমাত্র Finite verb (bites) থাকায় এটি Simple sentence।"
+  },
+  {
+    "id": 35,
+    "question": "Choose the correct Complex form of:<br>A barking dog seldom bites.",
+    "options": ["A dog barks and seldom bites.", "A dog is barking and seldom bites.", "A dog that barks seldom bites.", "A dog seldom bites if it barks."],
+    "answer": "A dog that barks seldom bites.",
+    "explanation": "Simple sentence-এর Adjective 'barking'-কে Adjective clause 'that barks'-এ পরিণত করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 36,
+    "question": "Identify the sentence type.<br>I have no money that I can lend you.",
+    "options": ["Simple sentence", "Compound sentence", "Imperative sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'that I can lend you' হলো একটি Relative বা Adjective clause যা Principal clause-এর সাথে যুক্ত হয়ে Complex sentence তৈরি করেছে।"
+  },
+  {
+    "id": 37,
+    "question": "What kind of sentence is the following?<br>Tell me where you live.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Exclamatory sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'where you live' হলো একটি Noun Clause যা Principal clause 'Tell me'-এর Object হিসেবে কাজ করে Complex sentence গঠন করেছে।"
+  },
+  {
+    "id": 38,
+    "question": "Identify the type of sentence.<br>Work hard and you will succeed.",
+    "options": ["Simple sentence", "Compound sentence", "Complex sentence", "Optative sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি Principal Clause 'and' (Coordinating conjunction) দ্বারা যুক্ত হওয়ায় এটি Compound sentence।"
+  },
+  {
+    "id": 39,
+    "question": "Transform into a Complex sentence.<br>Without your help, I will fail.",
+    "options": ["Unless you help me and I will fail.", "I will fail if you help me.", "If you do not help me, I will fail.", "You help me or I will fail."],
+    "answer": "If you do not help me, I will fail.",
+    "explanation": "'Without' যুক্ত Simple sentence-কে Complex করতে শর্তমূলক ক্লজ 'If... do not' বা 'Unless' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 40,
+    "question": "Change into a Negative sentence.<br>Every rose has a thorn.",
+    "options": ["No rose has a thorn.", "There is a rose but has no thorn.", "Every rose does not have a thorn.", "There is no rose but has a thorn."],
+    "answer": "There is no rose but has a thorn.",
+    "explanation": "Affirmative বাক্যে 'Every' থাকলে Negative করার সময় 'There is no... but' স্ট্রাকচার ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 41,
+    "question": "Transform into an Assertive sentence.<br>How sweetly the bird sings!",
+    "options": ["The bird sings very sweetly.", "The bird sings sweetly.", "The bird is singing sweetly.", "Does the bird sing sweetly?"],
+    "answer": "The bird sings very sweetly.",
+    "explanation": "Exclamatory বাক্যে 'How' থাকলে Assertive করার সময় Adverb-এর পূর্বে 'very' বসে এবং Subject ও Verb প্রথমে আসে।"
+  },
+  {
+    "id": 42,
+    "question": "What kind of sentence is the following?<br>The boy who is wearing a red shirt is my brother.",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Imperative sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'who is wearing a red shirt' হলো একটি Adjective Clause যা 'The boy'-কে মডিফাই করে Complex sentence গঠন করেছে।"
+  },
+  {
+    "id": 43,
+    "question": "Identify the type of sentence.<br>He failed, but he tried again.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Interrogative sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন বাক্য Coordinating conjunction 'but' দ্বারা যুক্ত হয়েছে, তাই এটি Compound sentence।"
+  },
+  {
+    "id": 44,
+    "question": "Choose the correct Simple sentence for:<br>He is so proud that he will not ask for help.",
+    "options": ["He is proud and will not ask for help.", "Being proud he will not ask for help.", "Because he is proud he will not ask for help.", "He is too proud to ask for help."],
+    "answer": "He is too proud to ask for help.",
+    "explanation": "Complex sentence-এ 'so... that' (Negative অর্থে) থাকলে Simple করার সময় 'too... to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 45,
+    "question": "Transform into an Affirmative sentence.<br>He is not a bad player.",
+    "options": ["He is a good player.", "He is the best player.", "He plays well.", "He is a better player."],
+    "answer": "He is a good player.",
+    "explanation": "Negative থেকে Affirmative করার সময় 'not' তুলে দিয়ে মূল শব্দের বিপরীত শব্দ (bad-এর বিপরীত good) বসাতে হয়।"
+  },
+  {
+    "id": 46,
+    "question": "What kind of sentence is the following?<br>Don't make a noise in the class.",
+    "options": ["Optative sentence", "Imperative sentence", "Assertive sentence", "Exclamatory sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "এই বাক্যে একটি আদেশ বা নিষেধ করা হয়েছে এবং Subject (You) উহ্য রয়েছে, তাই এটি Imperative sentence।"
+  },
+  {
+    "id": 47,
+    "question": "Identify the sentence type.<br>Because he was ill, he could not attend the meeting.",
+    "options": ["Simple sentence", "Compound sentence", "Complex sentence", "Assertive sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'Because' হলো একটি Subordinating conjunction যা কারণ দর্শায় এবং এটি যুক্ত ক্লজটি Complex sentence তৈরি করে।"
+  },
+  {
+    "id": 48,
+    "question": "Transform into a Simple sentence.<br>Because he was ill, he could not attend the meeting.",
+    "options": ["He was ill and could not attend the meeting.", "He could not attend the meeting for his illness.", "As he was ill, he could not attend the meeting.", "Owing to his illness, he could not attend the meeting."],
+    "answer": "Owing to his illness, he could not attend the meeting.",
+    "explanation": "'Because' যুক্ত Complex sentence-কে Simple করতে 'Owing to', 'Due to' বা 'Because of' ফ্রেজ ব্যবহার করা হয়।"
+  },
+  {
+    "id": 49,
+    "question": "What kind of sentence is the following?<br>Would that I were a millionaire!",
+    "options": ["Optative sentence", "Assertive sentence", "Imperative sentence", "Interrogative sentence"],
+    "answer": "Optative sentence",
+    "explanation": "'Would that' দিয়ে শুরু হওয়া বাক্য গভীর ইচ্ছা বা আকাঙ্ক্ষা প্রকাশ করে, যা Optative sentence-এর অন্তর্ভুক্ত।"
+  },
+  {
+    "id": 50,
+    "question": "Identify the type of sentence.<br>What a terrible noise they are making!",
+    "options": ["Assertive sentence", "Exclamatory sentence", "Imperative sentence", "Optative sentence"],
+    "answer": "Exclamatory sentence",
+    "explanation": "'What a' দিয়ে শুরু হয়ে বাক্যের শেষে বিস্ময়সূচক চিহ্ন (!) রয়েছে এবং এটি আবেগ প্রকাশ করছে, তাই এটি Exclamatory sentence।"
+  },
+  {
+    "id": 51,
+    "question": "Transform into an Affirmative sentence.<br>No sooner had I reached the station than the train left.",
+    "options": ["As soon as I reached the station, the train left.", "The train left before I reached the station.", "When I reached the station, the train left.", "Hardly had I reached the station when the train left."],
+    "answer": "As soon as I reached the station, the train left.",
+    "explanation": "Negative বাক্যে 'No sooner had... than' থাকলে, তাকে Affirmative (হ্যাঁ-বাচক) করতে 'As soon as' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 52,
+    "question": "Transform into a Simple sentence.<br>I know that he is honest.",
+    "options": ["I know he is an honest man.", "I know him to be honest.", "I am knowing his honesty.", "He is honest which I know."],
+    "answer": "I know him to be honest.",
+    "explanation": "Complex বাক্যের Noun clause 'that he is honest'-কে Infinitive phrase 'him to be honest'-এ পরিবর্তন করে বাক্যটিকে Simple করা হয়েছে।"
+  },
+  {
+    "id": 53,
+    "question": "Transform into a Negative sentence without changing the meaning.<br>He is the best boy in the class.",
+    "options": ["He is not the best boy in the class.", "No other boy in the class is better than him.", "No other boy in the class is as good as he.", "Very few boys in the class are as good as he."],
+    "answer": "No other boy in the class is as good as he.",
+    "explanation": "Superlative degree-কে অর্থের পরিবর্তন না করে Negative করতে Positive degree (No other... as... as) ব্যবহার করা হয়।"
+  },
+  {
+    "id": 54,
+    "question": "Transform into an Interrogative sentence.<br>There is nothing better than honesty.",
+    "options": ["Is nothing better than honesty?", "What is better than honesty?", "Is there something better than honesty?", "Is there anything better than honesty?"],
+    "answer": "Is there anything better than honesty?",
+    "explanation": "Assertive বাক্যে 'nothing' থাকলে Interrogative করার সময় তা 'anything'-এ পরিবর্তিত হয় এবং Auxiliary verb প্রথমে আসে।"
+  },
+  {
+    "id": 55,
+    "question": "Transform into an Assertive sentence.<br>Why cry over spilt milk?",
+    "options": ["It is useless to cry over spilt milk.", "We should cry over spilt milk.", "Everyone cries over spilt milk.", "Crying over spilt milk is good."],
+    "answer": "It is useless to cry over spilt milk.",
+    "explanation": "Interrogative বাক্যে 'Why + V1' দিয়ে শুরু হলে Assertive করার সময় 'It is useless to + V1' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 56,
+    "question": "Transform into an Exclamatory sentence.<br>I wish I had the wings of a dove.",
+    "options": ["How I wish for the wings of a dove!", "Had I the wings of a dove!", "What wings of a dove I have!", "Oh, I have the wings of a dove!"],
+    "answer": "Had I the wings of a dove!",
+    "explanation": "অবাস্তব ইচ্ছা বোঝাতে Assertive বাক্যের 'I wish I had'-কে Exclamatory করার সময় 'Had I' দিয়ে বাক্য শুরু করে শেষে বিস্ময় চিহ্ন (!) বসানো হয়।"
+  },
+  {
+    "id": 57,
+    "question": "Change into a Complex sentence.<br>A dead man tells no tales.",
+    "options": ["A man tells no tales when dead.", "A man telling no tales is dead.", "A man who is dead tells no tales.", "A dead man does not tell any tales."],
+    "answer": "A man who is dead tells no tales.",
+    "explanation": "Simple sentence-এর Adjective 'dead'-কে Relative clause 'who is dead'-এ পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 58,
+    "question": "Change into a Compound sentence.<br>By working hard, you will succeed.",
+    "options": ["If you work hard, you will succeed.", "You must work hard to succeed.", "Working hard makes you succeed.", "Work hard and you will succeed."],
+    "answer": "Work hard and you will succeed.",
+    "explanation": "'By + V-ing' যুক্ত Simple sentence-কে Compound করতে Imperative clause-এর সাথে 'and' যুক্ত করে পরের অংশটি লিখতে হয়।"
+  },
+  {
+    "id": 59,
+    "question": "Identify the type of sentence (functionally).<br>Let him do whatever he likes.",
+    "options": ["Imperative sentence", "Optative sentence", "Assertive sentence", "Exclamatory sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "'Let' দিয়ে শুরু হওয়া বাক্য যা অনুমতি বা প্রস্তাব বোঝায়, তা কার্যগতভাবে Imperative sentence।"
+  },
+  {
+    "id": 60,
+    "question": "Identify the sentence type based on structure.<br>I did not go there because I was ill.",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Compound-Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'Because' হলো একটি Subordinating conjunction যা কারণ নির্দেশক Dependent clause তৈরি করে, তাই এটি Complex sentence।"
+  },
+  {
+    "id": 61,
+    "question": "Identify the sentence type based on structure.<br>The way was long and the night was dark.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Assertive sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি Principal clause 'and' (Coordinating conjunction) দ্বারা যুক্ত হওয়ায় এটি Compound sentence।"
+  },
+  {
+    "id": 62,
+    "question": "What kind of sentence is the following?<br>Having finished the work, he went home.",
+    "options": ["Complex sentence", "Compound sentence", "Optative sentence", "Simple sentence"],
+    "answer": "Simple sentence",
+    "explanation": "'Having finished' হলো Perfect Participle। বাক্যে মাত্র একটি Finite verb (went) থাকায় এটি Simple sentence।"
+  },
+  {
+    "id": 63,
+    "question": "Change into a Complex sentence.<br>He is too dull to understand.",
+    "options": ["He is so dull that he cannot understand.", "He is very dull and cannot understand.", "Because he is dull, he cannot understand.", "He is dull so he cannot understand."],
+    "answer": "He is so dull that he cannot understand.",
+    "explanation": "'too... to' যুক্ত Simple sentence-কে Complex করতে 'so... that' এবং Subject-এর পর Tense অনুযায়ী 'cannot/could not' বসাতে হয়।"
+  },
+  {
+    "id": 64,
+    "question": "Transform into a Negative sentence.<br>Only a fool could have done this.",
+    "options": ["A fool could not have done this.", "None but a fool could have done this.", "Not only a fool could have done this.", "Everyone but a fool could have done this."],
+    "answer": "None but a fool could have done this.",
+    "explanation": "ব্যক্তির ক্ষেত্রে Affirmative বাক্যে 'Only' থাকলে Negative করার সময় তার পরিবর্তে বাক্যের শুরুতে 'None but' বসাতে হয়।"
+  },
+  {
+    "id": 65,
+    "question": "Transform into an Assertive sentence.<br>Who can change his skin?",
+    "options": ["Everybody can change his skin.", "Someone can change his skin.", "None can change his skin.", "Anyone can change his skin."],
+    "answer": "None can change his skin.",
+    "explanation": "'Who can' দিয়ে শুরু হওয়া প্রশ্নবোধক বাক্য যা অসম্ভব কিছু বোঝায়, তাকে Assertive করতে 'None can' বা 'Nobody can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 66,
+    "question": "Transform into an Interrogative sentence.<br>I never drink tea.",
+    "options": ["Do I never drink tea?", "Did I ever drink tea?", "Why do I drink tea?", "Do I ever drink tea?"],
+    "answer": "Do I ever drink tea?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative করার সময় তা 'ever'-এ পরিণত হয় এবং Auxiliary verb (Do) বাক্যের প্রথমে বসে।"
+  },
+  {
+    "id": 67,
+    "question": "Transform into an Affirmative sentence without changing meaning.<br>He left no stone unturned.",
+    "options": ["He tried every possible means.", "He left every stone.", "He turned some stones.", "He avoided turning stones."],
+    "answer": "He tried every possible means.",
+    "explanation": "'He left no stone unturned' একটি প্রবাদ যার অর্থ 'সব রকম চেষ্টা করা'। এর Affirmative রূপ হলো 'He tried every possible means'।"
+  },
+  {
+    "id": 68,
+    "question": "Change into a Simple sentence.<br>He was glad when he heard the news.",
+    "options": ["He heard the news and was glad.", "He was glad to hear the news.", "Hearing the news he was being glad.", "Because he heard the news, he was glad."],
+    "answer": "He was glad to hear the news.",
+    "explanation": "'when he heard' (Adverbial clause)-কে Infinitive phrase 'to hear'-এ পরিবর্তন করে বাক্যটিকে Simple করা হয়েছে।"
+  },
+  {
+    "id": 69,
+    "question": "Change into a Compound sentence.<br>If you do not run, you will not catch the bus.",
+    "options": ["Unless you run, you will not catch the bus.", "In case of not running, you will miss the bus.", "Run or you will not catch the bus.", "Run to catch the bus."],
+    "answer": "Run or you will not catch the bus.",
+    "explanation": "শর্তমূলক নেগেটিভ (If... not) Complex বাক্যকে Compound করতে Imperative clause-এর সাথে 'or' যুক্ত করা হয়।"
+  },
+  {
+    "id": 70,
+    "question": "What type of sentence is the following?<br>Had I been a king, I would have helped you.",
+    "options": ["Simple sentence", "Compound sentence", "Optative sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "এটি একটি Conditional sentence (Condition Type 3), যেখানে 'If I had been' এর পরিবর্তে 'Had I been' ব্যবহৃত হয়েছে। এটি একটি Complex sentence।"
+  },
+  {
+    "id": 71,
+    "question": "Identify the type of sentence.<br>O that I were young again!",
+    "options": ["Optative sentence", "Imperative sentence", "Assertive sentence", "Compound sentence"],
+    "answer": "Optative sentence",
+    "explanation": "'O that', 'Would that' ইত্যাদি দিয়ে শুরু হওয়া বাক্য মনের তীব্র আকাঙ্ক্ষা বা ইচ্ছা প্রকাশ করে, তাই এটি Optative sentence-এর অন্তর্ভুক্ত।"
+  },
+  {
+    "id": 72,
+    "question": "Transform into a Complex sentence.<br>Listen to your teacher.",
+    "options": ["Listen to the teacher who teaches you.", "Listen to what your teacher says.", "You should listen to your teacher.", "Listen to your teacher's words."],
+    "answer": "Listen to what your teacher says.",
+    "explanation": "'your teacher'-কে Noun clause 'what your teacher says'-এ পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 73,
+    "question": "Change into a Simple sentence.<br>The man who is standing there is my uncle.",
+    "options": ["The man is standing there and he is my uncle.", "My uncle is the man standing there.", "The man standing there is my uncle.", "The man there is standing my uncle."],
+    "answer": "The man standing there is my uncle.",
+    "explanation": "Relative clause 'who is standing there'-কে Present Participle phrase 'standing there'-এ পরিবর্তন করে Simple sentence করা হয়েছে।"
+  },
+  {
+    "id": 74,
+    "question": "Change into a Compound sentence.<br>Seeing the bear, the traveler climbed up a tree.",
+    "options": ["The traveler saw the bear to climb a tree.", "As the traveler saw the bear, he climbed a tree.", "The traveler seeing the bear climbed a tree.", "The traveler saw the bear and climbed up a tree."],
+    "answer": "The traveler saw the bear and climbed up a tree.",
+    "explanation": "Participle 'Seeing'-কে Finite verb 'saw' করে এবং দুটি কাজের মাঝে Coordinating conjunction 'and' বসিয়ে Compound করা হয়েছে।"
+  },
+  {
+    "id": 75,
+    "question": "Change into a Negative sentence.<br>As soon as he came, he made objections.",
+    "options": ["No sooner had he come than he made objections.", "No sooner did he come when he made objections.", "No sooner had he came than he made objections.", "As soon as he did not come, he made objections."],
+    "answer": "No sooner had he come than he made objections.",
+    "explanation": "'As soon as' যুক্ত বাক্যকে Negative করতে 'No sooner had + subject + V3 + than' স্ট্রাকচারটি নিখুঁতভাবে ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 76,
+    "question": "Transform into an Affirmative sentence.<br>No one can deny that he is honest.",
+    "options": ["Someone can deny that he is honest.", "Everyone admits that he is honest.", "Everybody denies that he is honest.", "He is honest and none can deny."],
+    "answer": "Everyone admits that he is honest.",
+    "explanation": "অর্থ ঠিক রেখে Affirmative করতে 'No one'-এর জায়গায় 'Everyone' এবং 'deny'-এর বিপরীত শব্দ 'admits' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 77,
+    "question": "Transform into an Assertive sentence.<br>What a piece of work is man!",
+    "options": ["Man is a piece of work.", "How wonderful is man!", "Man is a wonderful piece of work.", "A man is working wonderfully."],
+    "answer": "Man is a wonderful piece of work.",
+    "explanation": "Exclamatory বাক্যকে Assertive করার সময় Subject (Man) ও Verb (is) প্রথমে আসে এবং Noun-এর পূর্বে 'wonderful' বা 'great' বসে।"
+  },
+  {
+    "id": 78,
+    "question": "Change into an Interrogative sentence.<br>Everybody wants to be happy.",
+    "options": ["Does everybody wants to be happy?", "Who wants to be happy?", "Everybody does not want to be happy?", "Who does not want to be happy?"],
+    "answer": "Who does not want to be happy?",
+    "explanation": "Assertive বাক্যে 'Everybody' থাকলে Interrogative করার সময় তা 'Who does not' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 79,
+    "question": "Transform into a Simple sentence.<br>Although he was wealthy, he was a miser.",
+    "options": ["In spite of his wealth, he was a miser.", "He was wealthy but he was a miser.", "Being wealthy, he was a miser.", "Because of his wealth, he was a miser."],
+    "answer": "In spite of his wealth, he was a miser.",
+    "explanation": "Complex বাক্যে 'Although/Though' থাকলে Simple করার সময় বৈপরীত্য বোঝাতে 'In spite of' বা 'Despite' ফ্রেজ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 80,
+    "question": "Change into a Complex sentence.<br>A rolling stone gathers no moss.",
+    "options": ["A stone rolling gathers no moss.", "A stone that rolls gathers no moss.", "A stone is rolling and gathers no moss.", "If a stone rolls it gathers no moss."],
+    "answer": "A stone that rolls gathers no moss.",
+    "explanation": "Adjective (rolling)-কে Relative clause (that rolls) দ্বারা পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 81,
+    "question": "Change into a Compound sentence.<br>Besides being beautiful, she is intelligent.",
+    "options": ["She is beautiful and so intelligent.", "She is beautiful as well as intelligent.", "She is not only beautiful but also intelligent.", "She is beautiful because she is intelligent."],
+    "answer": "She is not only beautiful but also intelligent.",
+    "explanation": "Simple বাক্যে 'Besides' থাকলে Compound করার সময় 'not only... but also' বা 'and' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 82,
+    "question": "Identify the sentence type based on structure.<br>We eat that we may live.",
+    "options": ["Simple sentence", "Compound sentence", "Compound-Complex sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "এখানে 'that' (যাতে) একটি Subordinating conjunction যা উদ্দেশ্যমূলক Dependent clause গঠন করেছে, তাই এটি Complex sentence।"
+  },
+  {
+    "id": 83,
+    "question": "Identify the sentence type based on structure.<br>Go away and don't come back.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Imperative sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি Imperative clause Coordinating conjunction 'and' দ্বারা যুক্ত হয়েছে, তাই গঠনগত দিক থেকে এটি Compound sentence।"
+  },
+  {
+    "id": 84,
+    "question": "What kind of sentence is the following?<br>He was sorry to hear of your father's death.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Exclamatory sentence"],
+    "answer": "Simple sentence",
+    "explanation": "এই বাক্যে একটিমাত্র Finite verb (was) রয়েছে। 'to hear' হলো Infinitive। তাই এটি একটি Simple sentence।"
+  },
+  {
+    "id": 85,
+    "question": "Transform into a Negative sentence.<br>He is greater than I.",
+    "options": ["I am greater than he.", "He is not greater than I.", "I am not as great as he.", "I am not so great as him."],
+    "answer": "I am not as great as he.",
+    "explanation": "Comparative degree-কে Negative করতে Positive degree (not as... as) ব্যবহার করা হয় এবং দ্বিতীয় Subject (I) প্রথমে আসে।"
+  },
+  {
+    "id": 86,
+    "question": "Transform into an Affirmative sentence.<br>I did not fail to notice him.",
+    "options": ["I failed to notice him.", "I hardly noticed him.", "I avoided noticing him.", "I noticed him."],
+    "answer": "I noticed him.",
+    "explanation": "Negative বাক্যে 'did not fail to' থাকলে Affirmative করার সময় সেটি তুলে দিয়ে মূল Verb-এর Past form (noticed) বসাতে হয়।"
+  },
+  {
+    "id": 87,
+    "question": "Transform into an Assertive sentence.<br>Oh for a drop of water!",
+    "options": ["I strongly desire a drop of water.", "I have a drop of water.", "Do I have a drop of water?", "What a drop of water!"],
+    "answer": "I strongly desire a drop of water.",
+    "explanation": "'Oh for...' দিয়ে শুরু হওয়া Exclamatory বাক্যকে Assertive করতে 'I strongly desire' বা 'I earnestly wish for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 88,
+    "question": "Change into an Interrogative sentence.<br>It does not matter if we fail.",
+    "options": ["Does it matter if we fail?", "What does it matter if we fail?", "Why does it matter if we fail?", "How does it matter if we fail?"],
+    "answer": "What does it matter if we fail?",
+    "explanation": "'It does not matter'-এর পরিবর্তে 'What does it matter' ব্যবহার করে বাক্যটিকে সহজেই Interrogative করা যায়।"
+  },
+  {
+    "id": 89,
+    "question": "Change into a Simple sentence.<br>I have a dog which is very faithful.",
+    "options": ["I have a dog and it is very faithful.", "My dog is being very faithful.", "I have a very faithful dog.", "A faithful dog I have."],
+    "answer": "I have a very faithful dog.",
+    "explanation": "Relative clause 'which is very faithful'-কে Adjective 'faithful'-এ পরিণত করে Simple sentence করা হয়েছে।"
+  },
+  {
+    "id": 90,
+    "question": "Change into a Complex sentence.<br>I expect him to arrive by the next train.",
+    "options": ["I expect his arrival by the next train.", "He will arrive by the next train and I expect it.", "I expect him arriving by the next train.", "I expect that he will arrive by the next train."],
+    "answer": "I expect that he will arrive by the next train.",
+    "explanation": "Infinitive phrase 'him to arrive'-কে Noun clause 'that he will arrive'-এ পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 91,
+    "question": "Change into a Compound sentence.<br>Owing to ill health, he retired from business.",
+    "options": ["He was in ill health, therefore he retired from business.", "He retired from business because he was in ill health.", "Being in ill health, he retired from business.", "As he was in ill health, he retired from business."],
+    "answer": "He was in ill health, therefore he retired from business.",
+    "explanation": "কারণ নির্দেশক Simple sentence-কে Compound করতে 'so', 'and so' বা 'therefore' (Coordinating conjunction) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 92,
+    "question": "Identify the type of sentence.<br>Can a leopard change its spots?",
+    "options": ["Assertive sentence", "Interrogative sentence", "Optative sentence", "Imperative sentence"],
+    "answer": "Interrogative sentence",
+    "explanation": "যেহেতু বাক্যটিতে প্রশ্ন জিজ্ঞাসা করা হয়েছে এবং শেষে প্রশ্নবোধক চিহ্ন (?) রয়েছে, তাই এটি Interrogative sentence।"
+  },
+  {
+    "id": 93,
+    "question": "Identify the sentence type based on structure.<br>Whatever you do, do it well.",
+    "options": ["Simple sentence", "Compound sentence", "Complex sentence", "Compound-Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'Whatever you do' হলো একটি Subordinate Noun/Adverbial Clause, তাই এটি কাঠামোগতভাবে Complex sentence।"
+  },
+  {
+    "id": 94,
+    "question": "What kind of sentence is the following?<br>He is the man whom we all respect.",
+    "options": ["Simple sentence", "Compound sentence", "Optative sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'whom we all respect' হলো একটি Relative/Adjective clause যা Principal clause-এর সাথে যুক্ত হয়ে Complex sentence তৈরি করেছে।"
+  },
+  {
+    "id": 95,
+    "question": "Transform into a Negative sentence.<br>Every cloud has a silver lining.",
+    "options": ["There is no cloud without a silver lining.", "No cloud has a silver lining.", "Every cloud does not have a silver lining.", "There is no silver lining in the cloud."],
+    "answer": "There is no cloud without a silver lining.",
+    "explanation": "Affirmative বাক্যে 'Every' থাকলে Negative করার সময় 'There is no... without' ব্যবহার করে অর্থের সমতা বজায় রাখা যায়।"
+  },
+  {
+    "id": 96,
+    "question": "Transform into an Affirmative sentence.<br>There is no rule but has some exceptions.",
+    "options": ["Rules do not have exceptions.", "Every rule has some exceptions.", "Some rules have no exceptions.", "Only rules have exceptions."],
+    "answer": "Every rule has some exceptions.",
+    "explanation": "'There is no... but' যুক্ত Negative বাক্যকে Affirmative করার সময় 'Every' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 97,
+    "question": "Transform into an Assertive sentence.<br>Long live our President!",
+    "options": ["Our President is long-living.", "Our President lives long.", "We pray that our President may live long.", "Does our President live long?"],
+    "answer": "We pray that our President may live long.",
+    "explanation": "প্রার্থনামূলক Optative বাক্যকে Assertive করতে 'We pray that' বা 'I wish that' দিয়ে বাক্য শুরু করতে হয়।"
+  },
+  {
+    "id": 98,
+    "question": "Transform into an Interrogative sentence.<br>Their glory can never fade.",
+    "options": ["Can their glory never fade?", "Why can their glory fade?", "How can their glory fade?", "When can their glory fade?"],
+    "answer": "When can their glory fade?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative করার সময় তা 'when' (বা ever) দিয়ে পরিবর্তিত হয়।"
+  },
+  {
+    "id": 99,
+    "question": "Change into a Simple sentence.<br>As the weather was fine, we went out for a walk.",
+    "options": ["The weather being fine, we went out for a walk.", "The weather was fine and we went out for a walk.", "We went out for a walk because the weather was fine.", "When the weather was fine, we went out for a walk."],
+    "answer": "The weather being fine, we went out for a walk.",
+    "explanation": "Complex বাক্যের কারণ নির্দেশক clause-কে Nominative Absolute (The weather being fine) ফ্রেজে পরিবর্তন করে Simple করা হয়েছে।"
+  },
+  {
+    "id": 100,
+    "question": "Change into a Complex sentence.<br>To tell the truth, I forgot all about it.",
+    "options": ["Telling the truth, I forgot all about it.", "I confess that I forgot all about it.", "I forgot all about it and it is the truth.", "I forgot all about it to tell the truth."],
+    "answer": "I confess that I forgot all about it.",
+    "explanation": "Infinitive ফ্রেজ 'To tell the truth'-কে Principal Clause 'I confess' এবং Noun Clause 'that I forgot all about it' দিয়ে Complex করা হয়েছে।"
+  },
+  {
+    "id": 101,
+    "question": "Transform into an Exclamatory sentence.<br>You are a great fool.",
+    "options": ["What a fool you are!", "How a fool you are!", "What fool you are!", "How great fool you are!"],
+    "answer": "What a fool you are!",
+    "explanation": "Assertive বাক্যে Noun-এর পূর্বে 'a great' থাকলে Exclamatory করার সময় বাক্যের শুরুতে 'What a' বসে।"
+  },
+  {
+    "id": 102,
+    "question": "Change into a Complex sentence.<br>On seeing the teacher, the students stood up.",
+    "options": ["The students saw the teacher and stood up.", "As soon as the students saw the teacher, they stood up.", "Seeing the teacher, the students were standing up.", "The teacher being seen, the students stood up."],
+    "answer": "As soon as the students saw the teacher, they stood up.",
+    "explanation": "Simple বাক্যে 'On seeing' বা Participle থাকলে তাকে Complex করতে 'As soon as' বা 'When' যুক্ত Subordinate Clause ব্যবহার করা হয়।"
+  },
+  {
+    "id": 103,
+    "question": "Identify the type of sentence.<br>What a pity!",
+    "options": ["Assertive sentence", "Imperative sentence", "Exclamatory sentence", "Optative sentence"],
+    "answer": "Exclamatory sentence",
+    "explanation": "বাক্যটির শেষে বিস্ময়সূচক চিহ্ন (!) রয়েছে এবং এটি তীব্র আবেগ বা হতাশা প্রকাশ করছে, তাই এটি Exclamatory sentence।"
+  },
+  {
+    "id": 104,
+    "question": "Transform into an Affirmative sentence.<br>He is not so dull as you.",
+    "options": ["You are dull as him.", "You are not duller than him.", "He is duller than you.", "You are duller than he."],
+    "answer": "You are duller than he.",
+    "explanation": "Negative Positive degree-কে Affirmative Comparative degree-তে পরিণত করতে দ্বিতীয় Subject (you) প্রথমে বসে এবং 'duller than' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 105,
+    "question": "Transform into a Compound sentence.<br>In spite of his old age, he walks fast.",
+    "options": ["He is old but he walks fast.", "Though he is old, he walks fast.", "He is old and walks fast.", "Because he is old, he walks fast."],
+    "answer": "He is old but he walks fast.",
+    "explanation": "'In spite of' যুক্ত Simple sentence-কে Compound করতে Coordinating Conjunction 'but' ব্যবহার করে বৈপরীত্য প্রকাশ করা হয়।"
+  },
+  {
+    "id": 106,
+    "question": "Change into a Simple sentence.<br>I know what his intention is.",
+    "options": ["I know his intentional.", "I know his intention.", "His intention is known to me.", "I know what he intends."],
+    "answer": "I know his intention.",
+    "explanation": "Complex বাক্যের Noun clause 'what his intention is'-কে শুধুমাত্র Noun 'his intention'-এ পরিণত করে বাক্যটিকে Simple করা হয়েছে।"
+  },
+  {
+    "id": 107,
+    "question": "Transform into an Interrogative sentence.<br>There is nothing wrong with it.",
+    "options": ["Is there something wrong with it?", "Is nothing wrong with it?", "Is there anything wrong with it?", "What is wrong with it?"],
+    "answer": "Is there anything wrong with it?",
+    "explanation": "Assertive বাক্যে 'nothing' থাকলে Interrogative করার সময় তা 'anything'-এ পরিবর্তিত হয় এবং Auxiliary verb বাক্যের শুরুতে আসে।"
+  },
+  {
+    "id": 108,
+    "question": "Transform into a Complex sentence.<br>Do or die.",
+    "options": ["If you do, you will die.", "Unless you do not do, you will die.", "Do and you will die.", "If you do not do, you will die."],
+    "answer": "If you do not do, you will die.",
+    "explanation": "'or' যুক্ত Compound বাক্যকে Complex করতে শর্তমূলক ক্লজ 'If... do not' বা 'Unless' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 109,
+    "question": "Identify the type of sentence.<br>God save the King!",
+    "options": ["Optative sentence", "Exclamatory sentence", "Imperative sentence", "Assertive sentence"],
+    "answer": "Optative sentence",
+    "explanation": "এই বাক্যে ঈশ্বরের কাছে প্রার্থনা করা হয়েছে। ইচ্ছা বা প্রার্থনা বোঝানো বাক্যগুলি Optative sentence।"
+  },
+  {
+    "id": 110,
+    "question": "Change into a Negative sentence.<br>As soon as the thief saw the police, he ran away.",
+    "options": ["No sooner the thief saw the police than he ran away.", "No sooner had the thief seen the police than he ran away.", "No sooner did the thief saw the police than he ran away.", "No sooner had the thief seen the police when he ran away."],
+    "answer": "No sooner had the thief seen the police than he ran away.",
+    "explanation": "'As soon as' যুক্ত বাক্যকে Negative করতে 'No sooner had + subject + V3... than' স্ট্রাকচারটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 111,
+    "question": "Transform into a Negative sentence.<br>Only the evening star has appeared.",
+    "options": ["None but the evening star have appeared.", "Not only the evening star has appeared.", "Nothing but the evening star has appeared.", "None but the evening star has appeared."],
+    "answer": "Nothing but the evening star has appeared.",
+    "explanation": "বস্তুর ক্ষেত্রে 'Only' থাকলে Negative করার সময় তার পরিবর্তে 'Nothing but' ব্যবহৃত হয়। (evening star বস্তুবাচক)।"
+  },
+  {
+    "id": 112,
+    "question": "Transform into a Complex sentence.<br>A blind man cannot see.",
+    "options": ["A man who blind cannot see.", "A man being blind cannot see.", "A man cannot see if he is blind.", "A man who is blind cannot see."],
+    "answer": "A man who is blind cannot see.",
+    "explanation": "Simple বাক্যের Adjective 'blind'-কে Relative Clause 'who is blind'-এ পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 113,
+    "question": "Transform into a Simple sentence.<br>He took his hat and left the room.",
+    "options": ["Taking his hat, he left the room.", "He left the room taking his hat.", "Having taking his hat, he left the room.", "Taking his hat and he left the room."],
+    "answer": "Taking his hat, he left the room.",
+    "explanation": "Compound বাক্যের প্রথম Finite verb 'took'-কে Present Participle 'Taking'-এ পরিবর্তন করে Simple sentence করা হয়েছে।"
+  },
+  {
+    "id": 114,
+    "question": "Identify the sentence type based on structure.<br>I called him, but he gave me no answer.",
+    "options": ["Simple sentence", "Compound sentence", "Complex sentence", "Assertive sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন (Principal) ক্লজ Coordinating Conjunction 'but' দ্বারা যুক্ত হয়েছে, তাই এটি Compound sentence।"
+  },
+  {
+    "id": 115,
+    "question": "Transform into an Exclamatory sentence.<br>I wish I had a car.",
+    "options": ["How I wish I had a car!", "What a car I had!", "If only I had a car!", "I wish to have a car!"],
+    "answer": "If only I had a car!",
+    "explanation": "'I wish' দিয়ে শুরু হওয়া Assertive বাক্যকে Exclamatory করতে 'If only', 'O that' বা 'Had I' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 116,
+    "question": "Transform into a Compound sentence.<br>As he was ill, he did not attend school.",
+    "options": ["He did not attend school for he was ill.", "Because he was ill, he did not attend school.", "He being ill did not attend school.", "He was ill, so he did not attend school."],
+    "answer": "He was ill, so he did not attend school.",
+    "explanation": "কারণ-নির্দেশক Complex বাক্যকে Compound করতে Coordinating Conjunction 'so' বা 'therefore' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 117,
+    "question": "Identify the type of sentence.<br>Please do not smoke here.",
+    "options": ["Imperative sentence", "Assertive sentence", "Optative sentence", "Exclamatory sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "'Please' দিয়ে অনুরোধ বোঝানো হয়েছে এবং Subject (You) উহ্য রয়েছে, তাই এটি Imperative sentence।"
+  },
+  {
+    "id": 118,
+    "question": "Transform into an Affirmative sentence.<br>He did not fail to attend the class.",
+    "options": ["He failed to attend the class.", "He attended the class.", "He always attended the class.", "He was attending the class."],
+    "answer": "He attended the class.",
+    "explanation": "Negative বাক্যে 'did not fail to' থাকলে Affirmative করার সময় তা তুলে দিয়ে মূল Verb-এর Past form (attended) বসাতে হয়।"
+  },
+  {
+    "id": 119,
+    "question": "Transform into an Assertive sentence.<br>Who does not know Mahatma Gandhi?",
+    "options": ["Someone knows Mahatma Gandhi.", "Nobody knows Mahatma Gandhi.", "Everybody knows Mahatma Gandhi.", "Anyone knows Mahatma Gandhi."],
+    "answer": "Everybody knows Mahatma Gandhi.",
+    "explanation": "Interrogative বাক্যে 'Who does not' থাকলে Assertive করার সময় 'Everybody' বা 'Everyone' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 120,
+    "question": "Change into a Complex sentence.<br>The boy reading a book is my brother.",
+    "options": ["The boy is reading a book and is my brother.", "The boy reads a book who is my brother.", "The boy who reading a book is my brother.", "The boy who is reading a book is my brother."],
+    "answer": "The boy who is reading a book is my brother.",
+    "explanation": "Present Participle phrase 'reading a book'-কে Relative Clause 'who is reading a book'-এ পরিবর্তন করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 121,
+    "question": "Change into a Simple sentence.<br>We must eat, or we cannot live.",
+    "options": ["We must eat to live.", "We must eat so that we can live.", "We must eat and live.", "If we do not eat, we cannot live."],
+    "answer": "We must eat to live.",
+    "explanation": "Compound বাক্যে উদ্দেশ্য বোঝাতে 'or' থাকলে Simple করার সময় Infinitive 'to + verb' (to live) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 122,
+    "question": "Identify the sentence type based on structure.<br>Although it was raining, they played football.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Interrogative sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'Although' একটি Subordinating Conjunction যা Dependent Clause তৈরি করে, তাই এটি Complex sentence।"
+  },
+  {
+    "id": 123,
+    "question": "Transform into an Assertive sentence.<br>Alas! We have lost the match.",
+    "options": ["We have lost the match with sorrow.", "It is a joy that we have lost the match.", "It is a matter of sorrow that we have lost the match.", "We are sorry for losing the match."],
+    "answer": "It is a matter of sorrow that we have lost the match.",
+    "explanation": "'Alas!' যুক্ত Exclamatory বাক্যকে Assertive করতে 'It is a matter of sorrow that' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 124,
+    "question": "Transform into an Assertive sentence.<br>May you live long.",
+    "options": ["You may live long.", "You will live long.", "I pray that you may lived long.", "I wish that you may live long."],
+    "answer": "I wish that you may live long.",
+    "explanation": "Optative বাক্যকে Assertive করতে বাক্যের শুরুতে 'I wish that' বা 'I pray that' ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 125,
+    "question": "Transform into a Complex sentence.<br>He bought his uncle's factory.",
+    "options": ["He bought the factory which belonged to his uncle.", "He bought the factory of his uncle.", "The factory of his uncle was bought by him.", "He bought the factory and it belonged to his uncle."],
+    "answer": "He bought the factory which belonged to his uncle.",
+    "explanation": "'his uncle's factory' অংশটিকে Adjective Clause 'which belonged to his uncle'-এ পরিবর্তন করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 126,
+    "question": "Transform into a Complex sentence.<br>Spare the rod and spoil the child.",
+    "options": ["If you spare the rod, the child will be spoiled.", "If you spare the rod, you will spoil the child.", "Spare the rod or you will spoil the child.", "You spare the rod to spoil the child."],
+    "answer": "If you spare the rod, you will spoil the child.",
+    "explanation": "Imperative + and যুক্ত Compound বাক্যকে Complex করতে শর্তমূলক ক্লজ 'If you...' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 127,
+    "question": "What type of sentence is this?<br>How cold it is today!",
+    "options": ["Assertive sentence", "Imperative sentence", "Exclamatory sentence", "Interrogative sentence"],
+    "answer": "Exclamatory sentence",
+    "explanation": "'How' দিয়ে শুরু হওয়া বাক্য যা বিস্ময় বা তীব্র অনুভূতি প্রকাশ করে এবং শেষে (!) থাকে, তা Exclamatory sentence।"
+  },
+  {
+    "id": 128,
+    "question": "Transform into an Affirmative sentence.<br>None but a coward would flee from duty.",
+    "options": ["Everyone would flee from duty.", "A coward may flee from duty.", "Only the cowards flee from duty.", "Only a coward would flee from duty."],
+    "answer": "Only a coward would flee from duty.",
+    "explanation": "Negative বাক্যে ব্যক্তির ক্ষেত্রে 'None but' থাকলে Affirmative করার সময় তার পরিবর্তে 'Only' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 129,
+    "question": "Change into a Simple sentence.<br>I was glad that I heard of your success.",
+    "options": ["I was glad to hear of your success.", "I heard of your success and was glad.", "Hearing your success I was being glad.", "I was glad hearing of your success."],
+    "answer": "I was glad to hear of your success.",
+    "explanation": "Complex বাক্যের Noun clause 'that I heard...'-কে Infinitive phrase 'to hear...'-এ পরিণত করে Simple করা হয়েছে।"
+  },
+  {
+    "id": 130,
+    "question": "Change into a Compound sentence.<br>Seeing the snake, the boy shouted.",
+    "options": ["The boy saw the snake so he shouted.", "The boy saw the snake and shouted.", "When the boy saw the snake, he shouted.", "The boy was seeing the snake and shouted."],
+    "answer": "The boy saw the snake and shouted.",
+    "explanation": "Participle (Seeing) যুক্ত Simple বাক্যকে Compound করতে 'and' দিয়ে দুটি সমাপিকা ক্রিয়া (saw and shouted) যুক্ত করা হয়।"
+  },
+  {
+    "id": 131,
+    "question": "Transform into a Complex sentence.<br>The sun having set, we returned home.",
+    "options": ["We returned home after the sun setting.", "The sun set and we returned home.", "When the sun set, we returned home.", "As soon as the sun setting, we returned home."],
+    "answer": "When the sun set, we returned home.",
+    "explanation": "Nominative Absolute 'The sun having set'-কে Adverbial clause 'When the sun set'-এ পরিবর্তন করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 132,
+    "question": "Identify the sentence type based on structure.<br>Go and wash your face.",
+    "options": ["Complex sentence", "Simple sentence", "Optative sentence", "Compound sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি Imperative clause 'and' (Coordinating conjunction) দ্বারা যুক্ত হওয়ায় গঠনগত দিক থেকে এটি Compound sentence।"
+  },
+  {
+    "id": 133,
+    "question": "Identify the sentence type based on structure.<br>All that glitters is not gold.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Imperative sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'that glitters' হলো একটি Relative Clause যা Subject 'All'-কে মডিফাই করে। তাই এটি একটি Complex sentence।"
+  },
+  {
+    "id": 134,
+    "question": "Change into an Interrogative sentence.<br>I can never forget your kindness.",
+    "options": ["Can I never forget your kindness?", "Can I ever forget your kindness?", "How can I forget your kindness?", "Will I ever forget your kindness?"],
+    "answer": "Can I ever forget your kindness?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative করার সময় তা 'ever' হয়ে যায় এবং Auxiliary verb (Can) বাক্যের প্রথমে আসে।"
+  },
+  {
+    "id": 135,
+    "question": "Transform into an Assertive sentence.<br>Was he not a great leader?",
+    "options": ["He was not a great leader.", "He is a great leader.", "He was a great leader.", "A great leader he was."],
+    "answer": "He was a great leader.",
+    "explanation": "Negative Interrogative বাক্যকে Assertive করতে Auxiliary verb-টি Subject-এর পরে যায় এবং 'not' উঠে যায়।"
+  },
+  {
+    "id": 136,
+    "question": "Transform into a Negative sentence.<br>Everybody makes mistakes.",
+    "options": ["Nobody makes mistakes.", "Everybody does not make mistakes.", "There is nobody who makes mistakes.", "There is nobody who does not make mistakes."],
+    "answer": "There is nobody who does not make mistakes.",
+    "explanation": "Affirmative বাক্যে 'Everybody' থাকলে Negative করার সময় 'There is nobody who does not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 137,
+    "question": "Change into a Simple sentence.<br>He is so weak that he cannot speak.",
+    "options": ["He is too weak to speak.", "He is very weak to speak.", "Being weak he cannot speak.", "He is enough weak to speak."],
+    "answer": "He is too weak to speak.",
+    "explanation": "Complex বাক্যে 'so... that + cannot' থাকলে Simple করার সময় 'too... to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 138,
+    "question": "Change into a Compound sentence.<br>In spite of his riches, he is unhappy.",
+    "options": ["Though he is rich, he is unhappy.", "He is rich, but he is unhappy.", "He is rich and unhappy.", "He is unhappy because he is rich."],
+    "answer": "He is rich, but he is unhappy.",
+    "explanation": "'In spite of' যুক্ত বৈপরীত্যমূলক Simple বাক্যকে Compound করতে Coordinating Conjunction 'but' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 139,
+    "question": "Change into a Complex sentence.<br>I believe in his honesty.",
+    "options": ["I believe that he has honesty.", "I believe him to be honest.", "I believe that he is honest.", "His honesty is believed by me."],
+    "answer": "I believe that he is honest.",
+    "explanation": "Simple বাক্যের ফ্রেজ 'his honesty'-কে Noun clause 'that he is honest'-এ পরিবর্তন করে Complex করা হয়েছে।"
+  },
+  {
+    "id": 140,
+    "question": "Identify the type of sentence.<br>Be quiet.",
+    "options": ["Assertive sentence", "Interrogative sentence", "Exclamatory sentence", "Imperative sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "এই বাক্যের মাধ্যমে একটি আদেশ দেওয়া হয়েছে এবং Subject (You) উহ্য রয়েছে, তাই এটি Imperative sentence।"
+  },
+  {
+    "id": 141,
+    "question": "Identify the sentence type based on structure.<br>He worked hard, but he failed.",
+    "options": ["Compound sentence", "Simple sentence", "Complex sentence", "Exclamatory sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন (Principal) ক্লজ Coordinating Conjunction 'but' দ্বারা যুক্ত হওয়ায় এটি Compound sentence।"
+  },
+  {
+    "id": 142,
+    "question": "Change into a Negative sentence.<br>As soon as the sun rose, the fog dispersed.",
+    "options": ["No sooner the sun rose than the fog dispersed.", "No sooner had the sun risen than the fog dispersed.", "No sooner did the sun rose than the fog dispersed.", "As soon as the sun did not rise, the fog dispersed."],
+    "answer": "No sooner had the sun risen than the fog dispersed.",
+    "explanation": "'As soon as' যুক্ত বাক্যকে Negative করতে 'No sooner had + subject + V3 + than' স্ট্রাকচারটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 143,
+    "question": "Transform into a Negative sentence.<br>Only a miracle can save him.",
+    "options": ["Nothing a miracle can save him.", "Nobody but a miracle can save him.", "Nothing but a miracle can save him.", "None but a miracle can save him."],
+    "answer": "Nothing but a miracle can save him.",
+    "explanation": "'Only'-এর পরে বস্তুবাচক শব্দ (miracle) থাকলে Negative করার সময় তার পরিবর্তে 'Nothing but' বসে।"
+  },
+  {
+    "id": 144,
+    "question": "Identify the type of sentence.<br>May God have mercy on us.",
+    "options": ["Exclamatory sentence", "Imperative sentence", "Assertive sentence", "Optative sentence"],
+    "answer": "Optative sentence",
+    "explanation": "যে বাক্যের মাধ্যমে প্রার্থনা বা আশীর্বাদ প্রকাশ পায়, তাকে Optative sentence বলে। 'May' দিয়ে বাক্যটি শুরু হয়েছে।"
+  },
+  {
+    "id": 145,
+    "question": "Change into a Simple sentence.<br>Tell me what your name is.",
+    "options": ["Tell me your name.", "Tell me your name is what.", "Your name tell me.", "Tell me about your name."],
+    "answer": "Tell me your name.",
+    "explanation": "Complex বাক্যের Noun Clause 'what your name is'-কে শুধু Object (your name) হিসেবে ব্যবহার করে বাক্যটিকে Simple করা হয়েছে।"
+  },
+  {
+    "id": 146,
+    "question": "Transform into a Complex sentence.<br>The time of his arrival is uncertain.",
+    "options": ["When will he arrive is uncertain.", "When he will arrive is uncertain.", "His arrival time is uncertain.", "When he arrives is uncertain."],
+    "answer": "When he will arrive is uncertain.",
+    "explanation": "'The time of his arrival' অংশটিকে Noun Clause 'When he will arrive'-এ পরিণত করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 147,
+    "question": "Transform into a Compound sentence.<br>Coming to me, he delivered the message.",
+    "options": ["He delivered the message to me.", "When he came to me, he delivered the message.", "He came to me and delivered the message.", "He came to me to deliver the message."],
+    "answer": "He came to me and delivered the message.",
+    "explanation": "Participle (Coming) যুক্ত Simple বাক্যকে Compound করতে 'and' দ্বারা দুটি সমাপিকা ক্রিয়া (came এবং delivered) যুক্ত করা হয়।"
+  },
+  {
+    "id": 148,
+    "question": "Transform into an Assertive sentence.<br>Who does not wish to be happy?",
+    "options": ["Nobody wishes to be happy.", "Someone wishes to be happy.", "Anyone wishes to be happy.", "Everybody wishes to be happy."],
+    "answer": "Everybody wishes to be happy.",
+    "explanation": "Interrogative বাক্যে 'Who does not' থাকলে Assertive করার সময় তার পরিবর্তে 'Everybody' বা 'Everyone' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 149,
+    "question": "Transform into an Exclamatory sentence.<br>It is a very terrible storm.",
+    "options": ["What a terrible storm it is!", "How a terrible storm it is!", "What terrible storm it is!", "How terrible storm it is!"],
+    "answer": "What a terrible storm it is!",
+    "explanation": "Assertive বাক্যে 'a very' থাকলে Exclamatory করার সময় বাক্যের শুরুতে 'What a' বসে।"
+  },
+  {
+    "id": 150,
+    "question": "Identify the sentence type based on structure.<br>I do not know where he has gone.",
+    "options": ["Compound sentence", "Complex sentence", "Simple sentence", "Interrogative sentence"],
+    "answer": "Complex sentence",
+    "explanation": "এখানে 'where he has gone' হলো একটি Subordinate Noun Clause। একটি Principal এবং একটি Subordinate Clause থাকায় এটি Complex sentence।"
+  },
+  {
+    "id": 151,
+    "question": "Change into a Complex sentence.<br>A lost moment is lost forever.",
+    "options": ["A moment that is lost is lost forever.", "A moment is lost and it is forever.", "A lost moment being lost forever.", "If a moment is lost it is forever."],
+    "answer": "A moment that is lost is lost forever.",
+    "explanation": "Simple বাক্যের Adjective (lost)-কে Relative Clause 'that is lost'-এ পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 152,
+    "question": "Change into a Simple sentence.<br>He is poor, yet he is happy.",
+    "options": ["Though he is poor, he is happy.", "In spite of being poor, he is happy.", "Because he is poor, he is happy.", "He is poor but happy."],
+    "answer": "In spite of being poor, he is happy.",
+    "explanation": "বৈপরীত্যমূলক Compound বাক্যকে (yet যুক্ত) Simple করতে 'In spite of' বা 'Despite' ফ্রেজ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 153,
+    "question": "Transform into an Assertive sentence.<br>Is this the way to treat your brother?",
+    "options": ["This is a way to treat your brother.", "Is this not the way to treat your brother?", "This is not the way to treat your brother.", "You should treat your brother this way."],
+    "answer": "This is not the way to treat your brother.",
+    "explanation": "Affirmative Interrogative বাক্যকে Assertive করতে হলে সেটি Negative Assertive হয়ে যায় (Is this -> This is not)।"
+  },
+  {
+    "id": 154,
+    "question": "Transform into a Negative sentence.<br>He is always late.",
+    "options": ["He is not always late.", "He is never late.", "He is sometimes on time.", "He is never on time."],
+    "answer": "He is never on time.",
+    "explanation": "'always'-এর পরিবর্তে 'never' এবং 'late'-এর বিপরীতার্থক শব্দ 'on time' (বা punctual) ব্যবহার করে অর্থের সমতা রাখা হয়েছে।"
+  },
+  {
+    "id": 155,
+    "question": "Change into a Compound sentence.<br>To his surprise, he won the first prize.",
+    "options": ["He won the first prize, and he was surprised.", "Winning the first prize surprised him.", "As he won the first prize, he was surprised.", "He was surprised to win the first prize."],
+    "answer": "He won the first prize, and he was surprised.",
+    "explanation": "Simple বাক্যের 'To his surprise' অংশটিকে একটি স্বাধীন ক্লজ করে এবং Coordinating conjunction 'and' দিয়ে যুক্ত করে Compound করা হয়েছে।"
+  },
+  {
+    "id": 156,
+    "question": "Identify the sentence type based on structure.<br>Do you know where he lives?",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Compound-Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'where he lives' হলো একটি Subordinate Noun Clause। একটি Principal ও একটি Subordinate Clause থাকায় এটি Complex sentence।"
+  },
+  {
+    "id": 157,
+    "question": "Transform into an Exclamatory sentence.<br>The moonlight is very beautiful.",
+    "options": ["What a beautiful moonlight it is!", "The moonlight is how beautiful!", "How beautiful the moonlight is!", "Is the moonlight very beautiful!"],
+    "answer": "How beautiful the moonlight is!",
+    "explanation": "Assertive বাক্যে 'very + Adjective' থাকলে Exclamatory করার সময় বাক্যের শুরুতে 'How' বসে এবং শেষে বিস্ময় চিহ্ন বসে।"
+  },
+  {
+    "id": 158,
+    "question": "Change into an Interrogative sentence.<br>Their glory can never fade.",
+    "options": ["Can their glory fade?", "Why their glory fade?", "How can their glory never fade?", "When can their glory fade?"],
+    "answer": "When can their glory fade?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative করার সময় তা 'when' (বা ever) দিয়ে পরিবর্তিত হয় এবং Auxiliary verb আগে আসে।"
+  },
+  {
+    "id": 159,
+    "question": "Transform into an Affirmative sentence.<br>No one could deny his genius.",
+    "options": ["Everyone accepted his genius.", "Someone could deny his genius.", "Everybody denied his genius.", "Everyone could not deny his genius."],
+    "answer": "Everyone accepted his genius.",
+    "explanation": "Negative বাক্যের 'No one'-এর পরিবর্তে 'Everyone' এবং 'deny' (অস্বীকার করা)-এর বিপরীত শব্দ 'accepted' (মেনে নিয়েছিল) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 160,
+    "question": "Transform into a Negative sentence.<br>Only graduates are eligible.",
+    "options": ["Not only graduates are eligible.", "None but graduates are eligible.", "All graduates are not eligible.", "Everyone but graduates are eligible."],
+    "answer": "None but graduates are eligible.",
+    "explanation": "ব্যক্তির ক্ষেত্রে Affirmative বাক্যে 'Only' থাকলে Negative করার সময় তার পরিবর্তে বাক্যের শুরুতে 'None but' বসে।"
+  },
+  {
+    "id": 161,
+    "question": "Identify the type of sentence.<br>O that I were a bird!",
+    "options": ["Assertive sentence", "Imperative sentence", "Optative sentence", "Exclamatory sentence"],
+    "answer": "Optative sentence",
+    "explanation": "যে বাক্যে কোনো গভীর আকাঙ্ক্ষা বা ইচ্ছা প্রকাশ পায় (যেমন O that, Would that), তাকে Optative sentence বলে।"
+  },
+  {
+    "id": 162,
+    "question": "Change into a Simple sentence.<br>As he was ill, he did not come.",
+    "options": ["He did not come as he was ill.", "He was ill and did not come.", "He did not come when he was ill.", "Because of his illness, he did not come."],
+    "answer": "Because of his illness, he did not come.",
+    "explanation": "Complex বাক্যের কারণ নির্দেশক clause-কে 'Because of' বা 'Owing to' যুক্ত ফ্রেজে পরিণত করে Simple করা হয়েছে।"
+  },
+  {
+    "id": 163,
+    "question": "Change into a Complex sentence.<br>He is too weak to walk.",
+    "options": ["He is so weak that he cannot walk.", "He is weak and cannot walk.", "Because he is weak, he cannot walk.", "He is too weak so he cannot walk."],
+    "answer": "He is so weak that he cannot walk.",
+    "explanation": "Simple বাক্যে 'too... to' থাকলে Complex করার সময় 'so... that' এবং Subject-এর পরে 'cannot/could not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 164,
+    "question": "Change into a Compound sentence.<br>By punishing the thief, the king showed his justice.",
+    "options": ["The king punished the thief for justice.", "The king punished the thief and showed his justice.", "Punishing the thief, the king showed justice.", "Since the king punished the thief, he showed justice."],
+    "answer": "The king punished the thief and showed his justice.",
+    "explanation": "Participle/Gerund ফ্রেজটিকে একটি স্বাধীন ক্লজ করে এবং 'and' দিয়ে পরের ক্লজটির সাথে যুক্ত করে Compound করা হয়েছে।"
+  },
+  {
+    "id": 165,
+    "question": "Identify the sentence type based on structure.<br>He tried hard, but he did not succeed.",
+    "options": ["Simple sentence", "Complex sentence", "Compound sentence", "Assertive sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন (Principal) ক্লজ Coordinating Conjunction 'but' দ্বারা যুক্ত হয়েছে, তাই এটি Compound sentence।"
+  },
+  {
+    "id": 166,
+    "question": "Identify the sentence type based on structure.<br>Since you are tired, you should rest.",
+    "options": ["Compound sentence", "Simple sentence", "Optative sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'Since' হলো একটি Subordinating Conjunction যা কারণ দর্শায় এবং এটি যুক্ত ক্লজটি Complex sentence গঠন করে।"
+  },
+  {
+    "id": 167,
+    "question": "Transform into an Assertive sentence.<br>What a beautiful flower the rose is!",
+    "options": ["The rose is a very beautiful flower.", "The rose is a beautiful flower.", "A beautiful flower the rose is.", "The rose is very beautiful."],
+    "answer": "The rose is a very beautiful flower.",
+    "explanation": "Exclamatory বাক্যকে Assertive করতে Subject (The rose) ও Verb (is) প্রথমে আসে এবং Adjective-এর পূর্বে 'very' বসে।"
+  },
+  {
+    "id": 168,
+    "question": "Transform into an Affirmative sentence.<br>He left no plan untried.",
+    "options": ["He tried some plans.", "He tried every plan.", "He left every plan.", "He tried no plan."],
+    "answer": "He tried every plan.",
+    "explanation": "Negative বাক্যের 'no' এবং 'untried'-কে পরিবর্তন করে 'every' এবং 'tried' ব্যবহার করার মাধ্যমে অর্থের সমতা বজায় রাখা হয়েছে।"
+  },
+  {
+    "id": 169,
+    "question": "Change into an Interrogative sentence.<br>Everybody loves his motherland.",
+    "options": ["Who loves his motherland?", "Does everybody love his motherland?", "Who does not love his motherland?", "Whom does everybody love?"],
+    "answer": "Who does not love his motherland?",
+    "explanation": "Assertive বাক্যে 'Everybody' থাকলে Interrogative করার সময় তা 'Who does not'-এ পরিবর্তিত হয়।"
+  },
+  {
+    "id": 170,
+    "question": "Transform into a Negative sentence.<br>As soon as he saw me, he ran away.",
+    "options": ["No sooner the he saw me than he ran away.", "No sooner did he see me when he ran away.", "As soon as he did not see me, he ran away.", "No sooner had he seen me than he ran away."],
+    "answer": "No sooner had he seen me than he ran away.",
+    "explanation": "Affirmative বাক্যে 'As soon as' থাকলে Negative করার সময় 'No sooner had + Sub + V3 + than' স্ট্রাকচার ব্যবহৃত হয়।"
+  },
+  {
+    "id": 171,
+    "question": "Transform into a Simple sentence.<br>He confessed that he was guilty.",
+    "options": ["He confessed his guilt.", "He confessed that he had guilt.", "He was guilty and he confessed.", "His guilt was confessed by him."],
+    "answer": "He confessed his guilt.",
+    "explanation": "Complex বাক্যের Noun clause 'that he was guilty'-কে 'his guilt' নাউন ফ্রেজে পরিণত করে বাক্যটিকে Simple করা হয়েছে।"
+  },
+  {
+    "id": 172,
+    "question": "Transform into a Compound sentence.<br>Hearing the noise, the boy woke up.",
+    "options": ["The boy waking up heard the noise.", "The boy heard the noise and woke up.", "When the boy heard the noise, he woke up.", "Because of the noise, the boy woke up."],
+    "answer": "The boy heard the noise and woke up.",
+    "explanation": "Participle (Hearing)-কে Finite verb (heard) করে এবং দুটি কাজের মাঝে 'and' বসিয়ে Compound করা হয়েছে।"
+  },
+  {
+    "id": 173,
+    "question": "Change into a Complex sentence.<br>I saw a wounded bird.",
+    "options": ["I saw a bird seeing wounded.", "I saw a bird who was wounded.", "I saw a bird that was wounded.", "I saw a bird and it was wounded."],
+    "answer": "I saw a bird that was wounded.",
+    "explanation": "Adjective 'wounded'-কে Relative Clause 'that was wounded' দ্বারা পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 174,
+    "question": "Identify the type of sentence.<br>May you get the job!",
+    "options": ["Assertive sentence", "Imperative sentence", "Exclamatory sentence", "Optative sentence"],
+    "answer": "Optative sentence",
+    "explanation": "ইচ্ছা, আশীর্বাদ বা প্রার্থনা বোঝাতে 'May' দিয়ে বাক্য শুরু হলে সেটি Optative sentence হয়।"
+  },
+  {
+    "id": 175,
+    "question": "Identify the type of sentence.<br>Stop writing.",
+    "options": ["Imperative sentence", "Simple sentence", "Assertive sentence", "Exclamatory sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "এই বাক্যের মাধ্যমে একটি আদেশ দেওয়া হয়েছে এবং Subject (You) উহ্য রয়েছে, তাই এটি Imperative sentence।"
+  },
+  {
+    "id": 176,
+    "question": "Transform into a Negative sentence.<br>Where there is fire, there is smoke.",
+    "options": ["Where there is fire, there is no smoke.", "There is no fire without smoke.", "Fire and smoke are not there.", "Every fire has no smoke."],
+    "answer": "There is no fire without smoke.",
+    "explanation": "চিরন্তন সত্যকে Negative করতে 'There is no... without' স্ট্রাকচার ব্যবহার করা হয়, যাতে অর্থের পরিবর্তন না ঘটে।"
+  },
+  {
+    "id": 177,
+    "question": "Change into a Simple sentence.<br>If you do not run fast, you will miss the train.",
+    "options": ["You do not run fast to miss the train.", "Unless you run fast, you will miss the train.", "Without running fast, you will miss the train.", "Run fast or you will miss the train."],
+    "answer": "Without running fast, you will miss the train.",
+    "explanation": "শর্তমূলক Negative ক্লজ (If... not) থাকলে Simple করার সময় 'Without + V-ing' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 178,
+    "question": "Change into a Complex sentence.<br>Spare the rod and spoil the child.",
+    "options": ["Spare the rod to spoil the child.", "Because you spare the rod, you spoil the child.", "Sparring the rod spoils the child.", "If you spare the rod, you will spoil the child."],
+    "answer": "If you spare the rod, you will spoil the child.",
+    "explanation": "Imperative + and যুক্ত Compound বাক্যকে Complex করতে শর্তমূলক ক্লজ 'If you...' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 179,
+    "question": "Transform into an Affirmative sentence.<br>I did not fail to attend the meeting.",
+    "options": ["I attended the meeting.", "I failed to attend the meeting.", "I did attend the meeting.", "I must attend the meeting."],
+    "answer": "I attended the meeting.",
+    "explanation": "Negative বাক্যে 'did not fail to' থাকলে Affirmative করার সময় তা তুলে দিয়ে মূল Verb-এর Past form (attended) বসাতে হয়।"
+  },
+  {
+    "id": 180,
+    "question": "Transform into an Exclamatory sentence.<br>I wish I were young again.",
+    "options": ["How young I was!", "O that I were young again!", "What a young again I am!", "Young again I were!"],
+    "answer": "O that I were young again!",
+    "explanation": "অবাস্তব ইচ্ছা বোঝাতে Assertive বাক্যের 'I wish'-কে Exclamatory করার সময় 'O that', 'Would that' বা 'If only' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 181,
+    "question": "Change into an Interrogative sentence.<br>I can never repay your debt.",
+    "options": ["Can I ever repay your debt?", "Will I never repay your debt?", "How can I ever repay your debt?", "Why can I never repay your debt?"],
+    "answer": "How can I ever repay your debt?",
+    "explanation": "Assertive বাক্যে 'never' থাকলে Interrogative করার সময় তা 'ever' হয়ে যায় এবং Auxiliary verb (can) বাক্যের প্রথমে আসে। 'How can' ব্যবহার করলে বাক্যটি আরও সুমধুর হয়।"
+  },
+  {
+    "id": 182,
+    "question": "Identify the sentence type based on structure.<br>I know the man who came here.",
+    "options": ["Compound sentence", "Simple sentence", "Assertive sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'who came here' হলো একটি Relative Clause যা Principal clause-এর সাথে যুক্ত হয়ে Complex sentence তৈরি করেছে।"
+  },
+  {
+    "id": 183,
+    "question": "Transform into an Assertive sentence.<br>Why cry over spilt milk?",
+    "options": ["It is useless to cry over spilt milk.", "You should cry over spilt milk.", "Everyone cries over spilt milk.", "Why to cry over spilt milk?"],
+    "answer": "It is useless to cry over spilt milk.",
+    "explanation": "Interrogative বাক্যে 'Why + V1' দিয়ে শুরু হলে Assertive করার সময় 'It is useless to + V1' ফ্রেজ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 184,
+    "question": "Transform into a Compound sentence.<br>He was rejected owing to his poor health.",
+    "options": ["Because of his poor health, he was rejected.", "His health was poor, therefore he was rejected.", "As his health was poor, he was rejected.", "He was rejected for his poor health."],
+    "answer": "His health was poor, therefore he was rejected.",
+    "explanation": "কারণ নির্দেশক Simple বাক্যকে Compound করতে Coordinating Conjunction 'therefore' বা 'so' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 185,
+    "question": "Transform into a Complex sentence.<br>Without your help, I shall fail.",
+    "options": ["Unless you help me, I shall fail.", "Without you help me, I shall fail.", "If you do not help me, I shall fail.", "Help me or I shall fail."],
+    "answer": "If you do not help me, I shall fail.",
+    "explanation": "'Without' যুক্ত Simple বাক্যকে Complex করতে শর্তমূলক ক্লজ 'If... do not' (বা Unless) ব্যবহার করা হয়।"
+  },
+  {
+    "id": 186,
+    "question": "Change into a Simple sentence.<br>I have no money that I can lend you.",
+    "options": ["I have no money for lending you.", "I have no money that is lent to you.", "I have no money lending to you.", "I have no money to lend you."],
+    "answer": "I have no money to lend you.",
+    "explanation": "Relative clause 'that I can lend you'-কে Infinitive 'to lend you'-এ পরিবর্তন করে Simple sentence করা হয়েছে।"
+  },
+  {
+    "id": 187,
+    "question": "Transform into a Negative sentence.<br>He is greater than me.",
+    "options": ["I am not as great as he.", "I am greater than he.", "He is not greater than me.", "I am not greater than he."],
+    "answer": "I am not as great as he.",
+    "explanation": "Comparative degree-কে Negative করতে Positive degree (not as... as) ব্যবহার করা হয় এবং দ্বিতীয় Subject (I) প্রথমে আসে।"
+  },
+  {
+    "id": 188,
+    "question": "Identify the type of sentence.<br>How beautiful the night is!",
+    "options": ["Assertive sentence", "Exclamatory sentence", "Optative sentence", "Imperative sentence"],
+    "answer": "Exclamatory sentence",
+    "explanation": "'How' দিয়ে শুরু হয়ে বাক্যের শেষে বিস্ময়সূচক চিহ্ন (!) রয়েছে এবং এটি আবেগ প্রকাশ করছে, তাই এটি Exclamatory sentence।"
+  },
+  {
+    "id": 189,
+    "question": "Identify the type of sentence.<br>Always speak the truth.",
+    "options": ["Assertive sentence", "Interrogative sentence", "Imperative sentence", "Optative sentence"],
+    "answer": "Imperative sentence",
+    "explanation": "বাক্যটির মাধ্যমে একটি উপদেশ দেওয়া হয়েছে এবং Subject (You) উহ্য রয়েছে, তাই এটি Imperative sentence।"
+  },
+  {
+    "id": 190,
+    "question": "Transform into an Affirmative sentence.<br>There is no mother but loves her child.",
+    "options": ["Every mother has a child.", "A mother loves her child.", "No mother loves her child.", "Every mother loves her child."],
+    "answer": "Every mother loves her child.",
+    "explanation": "'There is no... but' যুক্ত Negative বাক্যকে Affirmative করার সময় বাক্যের শুরুতে 'Every' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 191,
+    "question": "Transform into a Simple sentence.<br>He took his hat and went out.",
+    "options": ["Taking his hat, he went out.", "He took his hat to go out.", "As he took his hat, he went out.", "Having his hat, he went out."],
+    "answer": "Taking his hat, he went out.",
+    "explanation": "Compound বাক্যের প্রথম Finite verb 'took'-কে Present Participle 'Taking'-এ পরিবর্তন করে Simple sentence করা হয়েছে।"
+  },
+  {
+    "id": 192,
+    "question": "Transform into a Complex sentence.<br>Listen and you will understand.",
+    "options": ["Listening, you will understand.", "If you listen, you will understand.", "Listen to understand.", "Listen and understand."],
+    "answer": "If you listen, you will understand.",
+    "explanation": "Imperative + and যুক্ত Compound বাক্যকে Complex করতে শর্তমূলক ক্লজ 'If you...' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 193,
+    "question": "Transform into a Compound sentence.<br>Going to the office, he started his work.",
+    "options": ["He went to the office and he started his work.", "When he went to the office, he started his work.", "He went to the office and started his work.", "As soon as he went to the office, he started his work."],
+    "answer": "He went to the office and started his work.",
+    "explanation": "Participle (Going)-কে Finite verb (went) করে এবং দুটি কাজের মাঝে 'and' বসিয়ে Compound করা হয়েছে।"
+  },
+  {
+    "id": 194,
+    "question": "Change into a Negative sentence.<br>Every rose has a thorn.",
+    "options": ["No rose has a thorn.", "Every rose without a thorn.", "There is a rose without a thorn.", "There is no rose without a thorn."],
+    "answer": "There is no rose without a thorn.",
+    "explanation": "Affirmative বাক্যে 'Every' থাকলে Negative করার সময় 'There is no... without' বা 'There is no... but' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 195,
+    "question": "Transform into an Assertive sentence.<br>Were I a bird!",
+    "options": ["I wish I were a bird.", "I was a bird.", "I wish I was a bird.", "I am a bird."],
+    "answer": "I wish I were a bird.",
+    "explanation": "অবাস্তব কল্পনা বোঝাতে 'Were I...' দিয়ে শুরু হওয়া বাক্যকে Assertive করতে 'I wish I were...' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 196,
+    "question": "Transform into an Interrogative sentence.<br>It is no use asking him.",
+    "options": ["What is the use asking him?", "Is it any use asking him?", "Why is it no use asking him?", "Does it use asking him?"],
+    "answer": "Is it any use asking him?",
+    "explanation": "'It is no use' যুক্ত Assertive বাক্যকে Interrogative করতে 'Is it any use' বা 'What is the use' ফ্রেজ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 197,
+    "question": "Identify the sentence type based on structure.<br>Listen to me, or you will fail.",
+    "options": ["Complex sentence", "Simple sentence", "Compound sentence", "Imperative sentence"],
+    "answer": "Compound sentence",
+    "explanation": "দুটি স্বাধীন (Principal) ক্লজ Coordinating Conjunction 'or' দ্বারা যুক্ত হওয়ায় এটি Compound sentence।"
+  },
+  {
+    "id": 198,
+    "question": "Identify the sentence type based on structure.<br>I did not go because I was busy.",
+    "options": ["Simple sentence", "Compound sentence", "Assertive sentence", "Complex sentence"],
+    "answer": "Complex sentence",
+    "explanation": "'because' হলো একটি Subordinating Conjunction যা কারণ দর্শায় এবং এটি যুক্ত ক্লজটি Complex sentence গঠন করে।"
+  },
+  {
+    "id": 199,
+    "question": "Change into a Complex sentence.<br>A dead man tells no tales.",
+    "options": ["A man who is dead tells no tales.", "A dead man does not tell any tales.", "A man telling no tales is dead.", "A man tells no tales when dead."],
+    "answer": "A man who is dead tells no tales.",
+    "explanation": "Adjective (dead)-কে Relative Clause (who is dead) দ্বারা পরিবর্তন করে বাক্যটিকে Complex করা হয়েছে।"
+  },
+  {
+    "id": 200,
+    "question": "Change into a Simple sentence.<br>I hope that I shall win a prize.",
+    "options": ["I hope winning a prize.", "I hope to win a prize.", "I hope of winning a prize.", "I hope that a prize is won by me."],
+    "answer": "I hope to win a prize.",
+    "explanation": "Complex বাক্যের Noun Clause 'that I shall win a prize'-কে Infinitive phrase 'to win a prize'-এ পরিবর্তন করে Simple করা হয়েছে।"
+  }
+]

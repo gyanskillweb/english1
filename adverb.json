@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct word to fill in the blank: He runs ______.",
+    "options": ["fast", "fastly", "faster", "fastest"],
+    "answer": "fast",
+    "explanation": "'Fast' শব্দটি Adjective এবং Adverb উভয় হিসেবেই ব্যবহৃত হয়। ইংরেজিতে 'fastly' বলে কোনো শব্দ নেই। তাই 'fast' সঠিক উত্তর।"
+  },
+  {
+    "id": 2,
+    "question": "She is ______ weak to walk without support.",
+    "options": ["too", "very", "much", "so"],
+    "answer": "too",
+    "explanation": "ইংরেজিতে 'too ... to' structure ব্যবহৃত হয় নেতিবাচক অর্থ প্রকাশ করতে। এর অর্থ হলো সে এতোটাই দুর্বল যে হাঁটতে পারে না। তাই 'too' বসবে।"
+  },
+  {
+    "id": 3,
+    "question": "He works ______, so he is unlikely to pass the exam.",
+    "options": ["hard", "hardly", "harder", "hardest"],
+    "answer": "hardly",
+    "explanation": "'Hardly' একটি negative adverb, যার অর্থ 'কদাচিৎ' বা 'প্রায় না'। সে প্রায় পড়াশোনাই করে না, তাই তার পাস করার সম্ভাবনা কম। 'Hard' মানে কঠোরভাবে, যা এখানে অর্থের সাথে মেলে না।"
+  },
+  {
+    "id": 4,
+    "question": "No sooner had he seen the police ______ he ran away.",
+    "options": ["when", "than", "then", "before"],
+    "answer": "than",
+    "explanation": "নিয়ম অনুযায়ী 'No sooner'-এর সাথে সবসময় conjunction হিসেবে 'than' ব্যবহৃত হয়। 'when' ব্যবহৃত হয় 'hardly' বা 'scarcely'-এর ক্ষেত্রে।"
+  },
+  {
+    "id": 5,
+    "question": "I am ______ glad to meet you after such a long time.",
+    "options": ["too", "much", "very", "enough"],
+    "answer": "very",
+    "explanation": "Positive degree-র adjective (যেমন- glad, happy, good) এর আগে সাধারণত 'very' বসে। 'much' বসে comparative degree-র আগে।"
+  },
+  {
+    "id": 6,
+    "question": "He is strong ______ to lift the heavy box.",
+    "options": ["very", "too", "much", "enough"],
+    "answer": "enough",
+    "explanation": "'Enough' শব্দটি যে adjective বা adverb-কে modify করে, ঠিক তার পরে বসে। এখানে 'strong' adjective-এর পরে 'enough' বসবে (strong enough)।"
+  },
+  {
+    "id": 7,
+    "question": "Scarcely had she finished reading ______ the doorbell rang.",
+    "options": ["then", "than", "when", "while"],
+    "answer": "when",
+    "explanation": "'Scarcely' এবং 'Hardly'-এর পর conjunction হিসেবে 'when' বসে। 'No sooner' এর সাথে 'than' বসে।"
+  },
+  {
+    "id": 8,
+    "question": "He behaved ______ in the meeting.",
+    "options": ["cowardly", "in a cowardly manner", "coward", "as a coward"],
+    "answer": "in a cowardly manner",
+    "explanation": "'Coward' বা 'miser' হলো Noun। এদের Adjective form হলো 'cowardly'। কিন্তু বাক্যে 'behaved' verb-কে modify করার জন্য Adverb দরকার, যা হলো 'in a cowardly manner'।"
+  },
+  {
+    "id": 9,
+    "question": "It is ______ cold today to go outside.",
+    "options": ["very", "too", "much", "so"],
+    "answer": "too",
+    "explanation": "বাক্যের শেষে 'to go outside' (infinitive) থাকায় এখানে 'too ... to' structure হবে। তাই 'too' বসবে।"
+  },
+  {
+    "id": 10,
+    "question": "The patient is feeling ______ better today.",
+    "options": ["very", "too", "much", "so"],
+    "answer": "much",
+    "explanation": "'Better' হলো 'good'-এর comparative degree। Comparative degree-র আগে 'much' ব্যবহৃত হয়, 'very' নয়।"
+  },
+  {
+    "id": 11,
+    "question": "These flowers smell ______.",
+    "options": ["sweet", "sweetly", "sweetness", "more sweet"],
+    "answer": "sweet",
+    "explanation": "Verbs of sensation (smell, taste, feel, look, seem) এর পর adverb-এর পরিবর্তে adjective বসে। তাই 'sweetly' না হয়ে 'sweet' হবে।"
+  },
+  {
+    "id": 12,
+    "question": "I have ______ seen such a beautiful picture before.",
+    "options": ["never", "ever", "always", "often"],
+    "answer": "never",
+    "explanation": "বাক্যের অর্থের ওপর ভিত্তি করে 'never' (কখনো না) বসবে। বাক্যটির অর্থ: 'আমি এর আগে এমন সুন্দর ছবি কখনো দেখিনি'।"
+  },
+  {
+    "id": 13,
+    "question": "Have you seen him ______?",
+    "options": ["late", "lately", "later", "latest"],
+    "answer": "lately",
+    "explanation": "'Lately' মানে 'সম্প্রতি' (recently)। Present Perfect Tense-এ 'সম্প্রতি' বোঝাতে 'lately' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 14,
+    "question": "He always comes ______ to school.",
+    "options": ["late", "lately", "later", "lateness"],
+    "answer": "late",
+    "explanation": "এখানে 'late' adverb of time হিসেবে ব্যবহৃত হয়েছে যার অর্থ 'দেরিতে'। 'Lately' মানে সম্প্রতি, যা এখানে বসলে বাক্যের অর্থ মিলবে না।"
+  },
+  {
+    "id": 15,
+    "question": "He plays tennis ______.",
+    "options": ["good", "well", "better", "best"],
+    "answer": "well",
+    "explanation": "'Good' হলো adjective এবং 'well' হলো adverb। 'plays' verb-কে modify করার জন্য adverb 'well' বসবে।"
+  },
+  {
+    "id": 16,
+    "question": "She is ______ intelligent.",
+    "options": ["much", "very", "too", "so"],
+    "answer": "very",
+    "explanation": "Positive degree 'intelligent'-এর আগে 'very' বসে। 'too' সাধারণত নেতিবাচক অর্থে বা 'too...to' structure-এ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 17,
+    "question": "Seldom ______ seen such a cruel man.",
+    "options": ["I have", "have I", "I had", "did I have"],
+    "answer": "have I",
+    "explanation": "বাক্য যদি negative adverb (Seldom, Hardly, Never, Scarcely) দিয়ে শুরু হয়, তাহলে Inversion (verb + subject) হয়। তাই 'have I' সঠিক।"
+  },
+  {
+    "id": 18,
+    "question": "The man was ______ injured in the accident.",
+    "options": ["serious", "seriously", "seriousness", "more serious"],
+    "answer": "seriously",
+    "explanation": "Verb 'injured'-কে modify করার জন্য adverb of manner 'seriously' (গুরুতরভাবে) বসবে।"
+  },
+  {
+    "id": 19,
+    "question": "I am ______ waiting for his reply.",
+    "options": ["eager", "eagerly", "eagerness", "most eager"],
+    "answer": "eagerly",
+    "explanation": "'waiting' verb-টিকে modify করার জন্য adverb of manner 'eagerly' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 20,
+    "question": "He has been working ______ all day.",
+    "options": ["hard", "hardly", "harder", "hardest"],
+    "answer": "hard",
+    "explanation": "'Work hard' মানে কঠোর পরিশ্রম করা। 'Hardly' মানে প্রায় না। সারাদিন কঠোর পরিশ্রম করার অর্থে 'hard' বসবে।"
+  },
+  {
+    "id": 21,
+    "question": "She is ______ interested in classical music.",
+    "options": ["much", "very", "too", "enough"],
+    "answer": "very",
+    "explanation": "Past participle (যেমন interested, tired) যেগুলি adjective এর মতো কাজ করে, তাদের আগে সাধারণত 'very' বসে।"
+  },
+  {
+    "id": 22,
+    "question": "This story book is ______ interesting.",
+    "options": ["much", "very", "too", "enough"],
+    "answer": "very",
+    "explanation": "Present Participle (V+ing) যখন adjective হিসেবে কাজ করে তখন তার আগে 'very' বসে, 'much' নয়।"
+  },
+  {
+    "id": 23,
+    "question": "My father ______ goes for a morning walk.",
+    "options": ["daily", "always", "sometimes", "seldom"],
+    "answer": "always",
+    "explanation": "Habitual action বোঝাতে present indefinite tense-এ 'always' ব্যবহৃত হয়। বাক্যের গঠন অনুযায়ী Adverb of frequency 'always' subject এবং verb এর মাঝে বসেছে।"
+  },
+  {
+    "id": 24,
+    "question": "He speaks English ______ than his brother.",
+    "options": ["fluent", "fluently", "more fluently", "most fluently"],
+    "answer": "more fluently",
+    "explanation": "দুটি ব্যক্তির মধ্যে তুলনা করা হচ্ছে, তাই comparative adverb 'more fluently' বসবে।"
+  },
+  {
+    "id": 25,
+    "question": "We should ______ tell a lie.",
+    "options": ["always", "never", "often", "sometimes"],
+    "answer": "never",
+    "explanation": "অর্থপূর্ণ বাক্য গঠন করার জন্য 'never' (কখনো না) বসবে। 'আমাদের কখনো মিথ্যা বলা উচিত নয়'।"
+  },
+  {
+    "id": 26,
+    "question": "They were ______ tired after the long journey.",
+    "options": ["much", "very", "too", "enough"],
+    "answer": "very",
+    "explanation": "Past participle 'tired'-এর আগে 'very' বসে। এটি Grammar-এর একটি সাধারণ exception।"
+  },
+  {
+    "id": 27,
+    "question": "The news is ______ good to be true.",
+    "options": ["very", "too", "so", "much"],
+    "answer": "too",
+    "explanation": "এটি একটি প্রবাদপ্রতিম বাক্য। 'too ... to' structure ব্যবহৃত হয়েছে। খবরটি এতোটাই ভালো যে সত্যি বলে বিশ্বাস করা কঠিন।"
+  },
+  {
+    "id": 28,
+    "question": "I know him ______ well.",
+    "options": ["quite", "quiet", "quietly", "quitting"],
+    "answer": "quite",
+    "explanation": "'Quite' মানে 'পুরোপুরি' বা 'বেশ'। 'well' adverb-টিকে modify করার জন্য 'quite' ব্যবহৃত হবে। 'quiet' মানে শান্ত।"
+  },
+  {
+    "id": 29,
+    "question": "He ______ failed the examination.",
+    "options": ["nearly", "near", "nearness", "more near"],
+    "answer": "nearly",
+    "explanation": "'Nearly' একটি adverb যার অর্থ 'প্রায়' (almost)। সে প্রায় ফেল করে গিয়েছিল অর্থে 'nearly' বসবে।"
+  },
+  {
+    "id": 30,
+    "question": "It is ______ cold to go for a walk.",
+    "options": ["bitter", "bitterly", "bitterness", "more bitter"],
+    "answer": "bitterly",
+    "explanation": "'Cold' adjective-কে modify করার জন্য adverb 'bitterly' (তীব্রভাবে) বসবে। 'Bitterly cold' একটি প্রচলিত phrase।"
+  },
+  {
+    "id": 31,
+    "question": "He solved the math problem ______.",
+    "options": ["quick", "quickly", "quicker", "quickness"],
+    "answer": "quickly",
+    "explanation": "Verb 'solved'-কে modify করার জন্য adverb of manner 'quickly' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 32,
+    "question": "The manager spoke to him ______.",
+    "options": ["angry", "angrily", "anger", "angryly"],
+    "answer": "angrily",
+    "explanation": "Verb 'spoke'-কে modify করার জন্য 'angry' (adjective)-এর adverb form 'angrily' বসবে।"
+  },
+  {
+    "id": 33,
+    "question": "I am ______ sorry for the mistake.",
+    "options": ["awful", "awfully", "awfulness", "awfuly"],
+    "answer": "awfully",
+    "explanation": "'Sorry' adjective-কে modify করার জন্য adverb 'awfully' (অত্যন্ত/ভীষণভাবে) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 34,
+    "question": "Please handle the glass carefully, it breaks ______.",
+    "options": ["easy", "easily", "easier", "easiness"],
+    "answer": "easily",
+    "explanation": "Verb 'breaks'-কে modify করার জন্য adverb of manner 'easily' বসবে।"
+  },
+  {
+    "id": 35,
+    "question": "You should ______ do your homework.",
+    "options": ["regular", "regularly", "regularity", "more regular"],
+    "answer": "regularly",
+    "explanation": "Verb 'do'-কে modify করতে adverb of frequency/manner 'regularly' (নিয়মিতভাবে) বসবে।"
+  },
+  {
+    "id": 36,
+    "question": "She dances very ______.",
+    "options": ["graceful", "gracefully", "grace", "graced"],
+    "answer": "gracefully",
+    "explanation": "Verb 'dances'-কে modify করার জন্য adverb 'gracefully' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 37,
+    "question": "I ______ agree with your proposal.",
+    "options": ["full", "fully", "fullness", "most full"],
+    "answer": "fully",
+    "explanation": "Verb 'agree'-কে modify করার জন্য adverb 'fully' (সম্পূর্ণরূপে) বসবে।"
+  },
+  {
+    "id": 38,
+    "question": "The sun is shining ______ today.",
+    "options": ["bright", "brightly", "brightness", "brighter"],
+    "answer": "brightly",
+    "explanation": "Verb 'shining'-কে modify করার জন্য adverb 'brightly' বসবে।"
+  },
+  {
+    "id": 39,
+    "question": "They were ______ married.",
+    "options": ["happy", "happily", "happiness", "happier"],
+    "answer": "happily",
+    "explanation": "Adjective/participle 'married'-কে modify করার জন্য adverb 'happily' বসবে।"
+  },
+  {
+    "id": 40,
+    "question": "He was ______ injured in the blast.",
+    "options": ["fatal", "fatally", "fatality", "fatalness"],
+    "answer": "fatally",
+    "explanation": "Verb/participle 'injured'-কে modify করতে adverb 'fatally' (মারাত্মকভাবে) বসবে।"
+  },
+  {
+    "id": 41,
+    "question": "She is ______ the best student in the class.",
+    "options": ["undoubted", "undoubtedly", "undoubt", "undoubting"],
+    "answer": "undoubtedly",
+    "explanation": "পুরো বাক্য বা statement-কে জোর দিতে sentence adverb হিসেবে 'undoubtedly' (নিঃসন্দেহে) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 42,
+    "question": "He has ______ finished the work.",
+    "options": ["just", "justly", "justice", "justified"],
+    "answer": "just",
+    "explanation": "Present perfect tense-এ 'just' (এইমাত্র) adverb of time হিসেবে auxiliary verb এবং main verb এর মাঝে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 43,
+    "question": "The train is ______ on time.",
+    "options": ["usual", "usually", "usualness", "most usual"],
+    "answer": "usually",
+    "explanation": "Adverb of frequency 'usually' সাধারণত main verb-এর আগে বা 'to be' verb-এর পরে বসে। এখানে 'is' এর পর 'usually' বসবে।"
+  },
+  {
+    "id": 44,
+    "question": "I have ______ met him.",
+    "options": ["recent", "recently", "recentness", "more recent"],
+    "answer": "recently",
+    "explanation": "Present perfect tense-এ 'recently' (সম্প্রতি) adverb হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 45,
+    "question": "We are ______ waiting for the result.",
+    "options": ["anxious", "anxiously", "anxiety", "anxioused"],
+    "answer": "anxiously",
+    "explanation": "'waiting' verb-কে modify করার জন্য adverb 'anxiously' (উদ্বিগ্নভাবে) বসবে।"
+  },
+  {
+    "id": 46,
+    "question": "He speaks ______.",
+    "options": ["loud", "loudly", "aloud", "loudness"],
+    "answer": "loudly",
+    "explanation": "কারোর কথা বলার ধরন বা আওয়াজ বোঝাতে adverb of manner 'loudly' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 47,
+    "question": "The movie was ______ boring.",
+    "options": ["terrible", "terribly", "terribleness", "most terrible"],
+    "answer": "terribly",
+    "explanation": "Adjective 'boring'-কে modify করতে adverb 'terribly' (ভীষণভাবে) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 48,
+    "question": "She works ______ than her sister.",
+    "options": ["hard", "harder", "hardly", "more hard"],
+    "answer": "harder",
+    "explanation": "Comparative degree-তে 'hard' adverb-টির comparative form 'harder' ব্যবহৃত হবে, কারণ এখানে দুজনের মধ্যে তুলনা করা হচ্ছে।"
+  },
+  {
+    "id": 49,
+    "question": "He will come back ______.",
+    "options": ["short", "shortly", "shortness", "shorter"],
+    "answer": "shortly",
+    "explanation": "'Shortly' একটি adverb যার অর্থ 'খুব শীঘ্রই' বা soon। তাই 'shortly' সঠিক উত্তর।"
+  },
+  {
+    "id": 50,
+    "question": "The teacher looked at him ______.",
+    "options": ["angry", "angrily", "anger", "more angry"],
+    "answer": "angrily",
+    "explanation": "Verb 'looked'-কে modify করার জন্য adverb 'angrily' ব্যবহৃত হবে। (নোট: look যখন action verb হিসেবে কাজ করে তখন adverb বসে, কিন্তু copular verb হিসেবে কাজ করলে adjective বসে)।"
+  },
+  {
+    "id": 51,
+    "question": "He has no one else to talk to ______ his friend.",
+    "options": ["than", "but", "except", "and"],
+    "answer": "but",
+    "explanation": "Grammar-এর নিয়ম অনুযায়ী 'else'-এর পর সর্বদা conjunction হিসেবে 'but' বসে। 'than' বা 'except' বসবে না।"
+  },
+  {
+    "id": 52,
+    "question": "I would rather die ______ beg.",
+    "options": ["to", "but", "than", "from"],
+    "answer": "than",
+    "explanation": "'Rather' এবং 'Other'-এর পর সবসময় 'than' বসে। এর অর্থ হলো 'আমি বরং মারা যাব তবুও ভিক্ষা করব না'।"
+  },
+  {
+    "id": 53,
+    "question": "He is ______ a good player.",
+    "options": ["rather", "fairly", "too", "much"],
+    "answer": "fairly",
+    "explanation": "'Fairly' সাধারণত positive বা ভালো গুণের ক্ষেত্রে ব্যবহৃত হয়। অন্যদিকে 'Rather' ব্যবহৃত হয় negative বা অপ্রীতিকর গুণের ক্ষেত্রে (যেমন- rather bad)। তাই এখানে 'fairly' সঠিক।"
+  },
+  {
+    "id": 54,
+    "question": "The weather is ______ hot today.",
+    "options": ["fairly", "rather", "too", "enough"],
+    "answer": "rather",
+    "explanation": "অত্যধিক গরম একটি অস্বস্তিকর (unpleasant) ব্যাপার। অপ্রীতিকর Adjective-এর আগে 'rather' বসে, 'fairly' নয়।"
+  },
+  {
+    "id": 55,
+    "question": "She is ______ smarter than her sister.",
+    "options": ["very", "too", "much", "so"],
+    "answer": "much",
+    "explanation": "'Smarter' হলো comparative degree। Comparative degree-র আগে 'much' বসে, 'very' নয় (যেমন- much better, much smarter)।"
+  },
+  {
+    "id": 56,
+    "question": "He arrived here two years ______.",
+    "options": ["before", "ago", "since", "early"],
+    "answer": "ago",
+    "explanation": "Past Indefinite Tense-এ সময়ের উল্লেখ থাকলে 'ago' ব্যবহৃত হয়। 'Before' সাধারণত Past Perfect Tense-এ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 57,
+    "question": "I had seen this movie long ______.",
+    "options": ["ago", "before", "since", "back"],
+    "answer": "before",
+    "explanation": "বাক্যটি Past Perfect Tense-এ রয়েছে ('had seen')। Past Perfect Tense-এ অতীতের অতীত বোঝাতে 'before' ব্যবহৃত হয়, 'ago' নয়।"
+  },
+  {
+    "id": 58,
+    "question": "We can travel ______ on this train if we have a pass.",
+    "options": ["free", "freely", "freedom", "freeness"],
+    "answer": "free",
+    "explanation": "বিনা মূল্যে বা বিনা ভাড়ায় বোঝাতে Adverb হিসেবে 'free' ব্যবহৃত হয়। 'Freely' মানে স্বাধীনভাবে বা মুক্তভাবে, যা এখানে অর্থের সাথে মেলে না।"
+  },
+  {
+    "id": 59,
+    "question": "The soldiers fought ______ in the battlefield.",
+    "options": ["brave", "bravely", "bravery", "bravest"],
+    "answer": "bravely",
+    "explanation": "Verb 'fought'-কে modify করার জন্য adverb of manner 'bravely' (সাহসিকতার সাথে) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 60,
+    "question": "He has not completed his assignment ______.",
+    "options": ["just", "already", "yet", "never"],
+    "answer": "yet",
+    "explanation": "'Yet' সাধারণত Negative এবং Interrogative বাক্যের শেষে বসে। এর অর্থ 'এখনো পর্যন্ত'। 'Already' বসে Affirmative বাক্যে।"
+  },
+  {
+    "id": 61,
+    "question": "He ______ makes a mistake.",
+    "options": ["seldom", "oftenly", "usual", "regular"],
+    "answer": "seldom",
+    "explanation": "'Seldom' হলো Adverb of frequency যার অর্থ 'কদাচিৎ' বা 'খুব কমই'। 'Oftenly' বলে ইংরেজিতে কোনো শব্দ নেই (সঠিক শব্দ often)।"
+  },
+  {
+    "id": 62,
+    "question": "I have ______ reached the station.",
+    "options": ["already", "yet", "still", "before"],
+    "answer": "already",
+    "explanation": "ইতিমধ্যেই কোনো কাজ সম্পন্ন হয়েছে বোঝাতে Present Perfect Tense-এ Affirmative বাক্যে 'already' বসে।"
+  },
+  {
+    "id": 63,
+    "question": "He is rich ______ to buy a luxury car.",
+    "options": ["too", "very", "enough", "much"],
+    "answer": "enough",
+    "explanation": "Adjective (rich) এর ঠিক পরেই 'enough' বসে। 'Rich enough' মানে 'যথেষ্ট ধনী'।"
+  },
+  {
+    "id": 64,
+    "question": "She spoke to the stranger ______.",
+    "options": ["polite", "politely", "politeness", "more polite"],
+    "answer": "politely",
+    "explanation": "'Spoke' (কথা বলেছিল) verb-টির ধরন বোঝাতে Adverb 'politely' (ভদ্রভাবে) বসবে।"
+  },
+  {
+    "id": 65,
+    "question": "He walked so ______ that he missed the train.",
+    "options": ["slow", "slowly", "slowness", "slower"],
+    "answer": "slowly",
+    "explanation": "'Walked' verb-কে modify করার জন্য Adverb 'slowly' বসবে।"
+  },
+  {
+    "id": 66,
+    "question": "Only ______ he could understand the problem.",
+    "options": ["later", "lately", "late", "latest"],
+    "answer": "later",
+    "explanation": "এখানে 'later' মানে 'পরবর্তীতে'। 'Lately' মানে 'সম্প্রতি'। বাক্যের অর্থ অনুযায়ী 'পরবর্তীতেই সে সমস্যাটি বুঝতে পেরেছিল'।"
+  },
+  {
+    "id": 67,
+    "question": "They were treated ______ by the enemies.",
+    "options": ["cruel", "cruelly", "cruelty", "more cruel"],
+    "answer": "cruelly",
+    "explanation": "Verb 'treated'-কে modify করতে Adverb 'cruelly' (নিষ্ঠুরভাবে) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 68,
+    "question": "Hardly ______ left the house when it started raining.",
+    "options": ["he had", "had he", "he did", "did he had"],
+    "answer": "had he",
+    "explanation": "বাক্য 'Hardly' দিয়ে শুরু হলে Inversion হয়, অর্থাৎ Subject-এর আগে Auxiliary Verb বসে (Hardly + had + subject)। তাই 'had he' সঠিক।"
+  },
+  {
+    "id": 69,
+    "question": "He hit the ball ______.",
+    "options": ["hard", "hardly", "harder", "hardest"],
+    "answer": "hard",
+    "explanation": "সজোরে বা শক্তভাবে আঘাত করা বোঝাতে Adverb 'hard' বসে। 'Hardly' মানে 'প্রায় না'।"
+  },
+  {
+    "id": 70,
+    "question": "She writes ______.",
+    "options": ["neat", "neatly", "neatness", "more neat"],
+    "answer": "neatly",
+    "explanation": "লেখার ধরন বোঝাতে Verb 'writes'-এর পর Adverb of manner 'neatly' (পরিষ্কারভাবে) বসবে।"
+  },
+  {
+    "id": 71,
+    "question": "He is ______ known in his hometown.",
+    "options": ["wide", "widely", "wideness", "wider"],
+    "answer": "widely",
+    "explanation": "Participle/Adjective 'known'-কে modify করার জন্য Adverb 'widely' (ব্যাপকভাবে) ব্যবহৃত হবে (widely known = সুপরিচিত)।"
+  },
+  {
+    "id": 72,
+    "question": "Please speak ______, I cannot hear you.",
+    "options": ["loud", "loudly", "aloud", "loudness"],
+    "answer": "aloud",
+    "explanation": "'Aloud' মানে এমন স্বরে কথা বলা যাতে শোনা যায় (audible)। 'Loudly' মানে খুব বেশি শব্দ বা চিৎকার করে (noisy)। এখানে 'aloud' বেশি মানানসই।"
+  },
+  {
+    "id": 73,
+    "question": "The boy was ______ injured in the fight.",
+    "options": ["fatal", "fatally", "fatality", "fatalness"],
+    "answer": "fatally",
+    "explanation": "'Injured' (আহত) হওয়ার মাত্রা বোঝাতে Adverb 'fatally' (মারাত্মকভাবে) বসবে।"
+  },
+  {
+    "id": 74,
+    "question": "He runs ______ than his friend.",
+    "options": ["fast", "faster", "fastly", "more fast"],
+    "answer": "faster",
+    "explanation": "দুজনের মধ্যে দৌড়ানোর তুলনা করা হচ্ছে, তাই 'fast' adverb-টির comparative form 'faster' বসবে।"
+  },
+  {
+    "id": 75,
+    "question": "She answered all the questions ______.",
+    "options": ["correct", "correctly", "correction", "more correct"],
+    "answer": "correctly",
+    "explanation": "উত্তর দেওয়ার ধরন বোঝাতে 'answered' verb-টিকে modify করবে Adverb 'correctly' (সঠিকভাবে)।"
+  },
+  {
+    "id": 76,
+    "question": "I am ______ tired of this daily routine.",
+    "options": ["terrible", "terribly", "terribleness", "most terrible"],
+    "answer": "terribly",
+    "explanation": "'Tired' (ক্লান্ত)-কে জোর দিতে Adverb of degree 'terribly' (ভীষণভাবে) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 77,
+    "question": "He arrived ______ for the meeting.",
+    "options": ["late", "lately", "later", "latest"],
+    "answer": "late",
+    "explanation": "সময়ের পরে আসা বোঝাতে 'late' (দেরিতে) বসে। 'lately' মানে সম্প্রতি।"
+  },
+  {
+    "id": 78,
+    "question": "The machine works ______.",
+    "options": ["automatic", "automatically", "automation", "automated"],
+    "answer": "automatically",
+    "explanation": "কাজ করার ধরন বোঝাতে 'works' verb-এর পর Adverb 'automatically' (স্বয়ংক্রিয়ভাবে) বসবে।"
+  },
+  {
+    "id": 79,
+    "question": "We must act ______ to solve the crisis.",
+    "options": ["swift", "swiftly", "swiftness", "swifter"],
+    "answer": "swiftly",
+    "explanation": "Verb 'act'-কে modify করতে Adverb 'swiftly' (দ্রুতগতিতে) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 80,
+    "question": "She ______ completed the task on time.",
+    "options": ["success", "successful", "successfully", "succeed"],
+    "answer": "successfully",
+    "explanation": "কাজটি কীভাবে সম্পন্ন হলো তা বোঝাতে 'completed' verb-এর আগে Adverb 'successfully' (সাফল্যের সাথে) বসবে।"
+  },
+  {
+    "id": 81,
+    "question": "It rained ______ all night.",
+    "options": ["heavy", "heavily", "heaviness", "heavier"],
+    "answer": "heavily",
+    "explanation": "বৃষ্টি হওয়ার তীব্রতা বোঝাতে verb 'rained'-এর পর Adverb 'heavily' (প্রচুর পরিমাণে/ভারীভাবে) বসে।"
+  },
+  {
+    "id": 82,
+    "question": "He spoke ______ of his former teacher.",
+    "options": ["high", "highly", "highness", "higher"],
+    "answer": "highly",
+    "explanation": "কারো সম্পর্কে খুব ভালো কথা বলা বা প্রশংসা করা বোঝাতে 'speak highly of' phrase-টি ব্যবহৃত হয়। তাই 'highly' বসবে।"
+  },
+  {
+    "id": 83,
+    "question": "I ______ agree with your decision.",
+    "options": ["total", "totally", "totality", "more total"],
+    "answer": "totally",
+    "explanation": "সহমতের মাত্রা বোঝাতে verb 'agree'-কে modify করবে Adverb 'totally' বা 'completely'।"
+  },
+  {
+    "id": 84,
+    "question": "The old man walked ______ down the street.",
+    "options": ["careful", "carefully", "care", "careless"],
+    "answer": "carefully",
+    "explanation": "হাঁটার ধরন বোঝাতে 'walked' verb-এর পর Adverb 'carefully' (সতর্কতার সাথে) বসবে।"
+  },
+  {
+    "id": 85,
+    "question": "She wept ______ when she heard the news.",
+    "options": ["bitter", "bitterly", "bitterness", "more bitter"],
+    "answer": "bitterly",
+    "explanation": "অত্যধিক কান্না বা দুঃখে ভেঙে পড়া বোঝাতে 'wept' verb-এর সাথে Adverb 'bitterly' (অঝোরে/তীব্রভাবে) বসে।"
+  },
+  {
+    "id": 86,
+    "question": "The wind is blowing ______ today.",
+    "options": ["fierce", "fiercely", "fierceness", "fiercer"],
+    "answer": "fiercely",
+    "explanation": "বাতাস বওয়ার ধরন বা প্রাবল্য বোঝাতে 'blowing' verb-এর পর Adverb 'fiercely' (প্রচণ্ডভাবে) বসবে।"
+  },
+  {
+    "id": 87,
+    "question": "I have been waiting for you for a ______ time.",
+    "options": ["long", "lengthy", "longly", "length"],
+    "answer": "long",
+    "explanation": "এখানে 'long' শব্দটি Adjective হিসেবে 'time'-কে modify করছে। তবে 'wait long' বললে 'long' Adverb হিসেবে কাজ করে। 'longly' বলে কোনো শব্দ নেই।"
+  },
+  {
+    "id": 88,
+    "question": "He is ______ a genius.",
+    "options": ["true", "truly", "truth", "trueness"],
+    "answer": "truly",
+    "explanation": "পুরো বক্তব্যটিকে জোর দিতে sentence adverb হিসেবে 'truly' (সত্যিই) ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 89,
+    "question": "They searched for the missing boy ______.",
+    "options": ["nowhere", "everywhere", "somewhere", "anywhere"],
+    "answer": "everywhere",
+    "explanation": "অর্থ অনুযায়ী 'সব জায়গায়' খোঁজা হয়েছিল। তাই Adverb of place 'everywhere' বসবে।"
+  },
+  {
+    "id": 90,
+    "question": "He drives the car ______.",
+    "options": ["careless", "carelessly", "carelessness", "more careless"],
+    "answer": "carelessly",
+    "explanation": "গাড়ি চালানোর ধরন বোঝাতে 'drives' verb-এর পর Adverb 'carelessly' (অসতর্কভাবে) বসবে।"
+  },
+  {
+    "id": 91,
+    "question": "I ______ believe in his honesty.",
+    "options": ["firm", "firmly", "firmness", "firmer"],
+    "answer": "firmly",
+    "explanation": "বিশ্বাসের গভীরতা বোঝাতে verb 'believe'-এর আগে Adverb 'firmly' (দৃঢ়ভাবে) বসবে।"
+  },
+  {
+    "id": 92,
+    "question": "The child slept ______.",
+    "options": ["peaceful", "peacefully", "peace", "peacefulness"],
+    "answer": "peacefully",
+    "explanation": "ঘুমানোর ধরন বোঝাতে 'slept' verb-এর পর Adverb 'peacefully' (শান্তিতে) বসবে।"
+  },
+  {
+    "id": 93,
+    "question": "She is ______ dressed for the party.",
+    "options": ["neat", "neatly", "neatness", "more neat"],
+    "answer": "neatly",
+    "explanation": "কীভাবে পোশাক পরা হয়েছে তা বোঝাতে participle 'dressed'-এর আগে Adverb 'neatly' (পরিপাটিভাবে) বসবে।"
+  },
+  {
+    "id": 94,
+    "question": "The dog barked ______ at the stranger.",
+    "options": ["angry", "angrily", "anger", "angryly"],
+    "answer": "angrily",
+    "explanation": "কুকুরটির ডাকার ধরন বোঝাতে verb 'barked'-এর পর Adverb 'angrily' (রাগান্বিতভাবে) বসবে।"
+  },
+  {
+    "id": 95,
+    "question": "He did the work ______.",
+    "options": ["skillful", "skillfully", "skill", "skilled"],
+    "answer": "skillfully",
+    "explanation": "কাজটি কীভাবে করা হয়েছে তা বোঝাতে 'did' verb-এর পর Adverb 'skillfully' (দক্ষতার সাথে) বসবে।"
+  },
+  {
+    "id": 96,
+    "question": "I shall ______ help you in this matter.",
+    "options": ["certain", "certainly", "certainty", "more certain"],
+    "answer": "certainly",
+    "explanation": "নিশ্চয়তা প্রদান করতে Adverb 'certainly' (অবশ্যই/নিশ্চিতভাবে) auxiliary verb এবং main verb-এর মাঝে বসে।"
+  },
+  {
+    "id": 97,
+    "question": "They live ______ in a small village.",
+    "options": ["happy", "happily", "happiness", "happier"],
+    "answer": "happily",
+    "explanation": "জীবনযাপনের ধরন বোঝাতে 'live' verb-এর পর Adverb 'happily' (সুখে) বসবে।"
+  },
+  {
+    "id": 98,
+    "question": "She looked ______ at the broken glass.",
+    "options": ["sad", "sadly", "sadness", "sadder"],
+    "answer": "sadly",
+    "explanation": "এখানে 'looked at' (তাকানো) একটি action verb। তাকানোর ধরন বোঝাতে Adverb 'sadly' (দুঃখের সাথে) বসবে।"
+  },
+  {
+    "id": 99,
+    "question": "The man was ______ blind.",
+    "options": ["almost", "most", "mostly", "all"],
+    "answer": "almost",
+    "explanation": "লোকটি 'প্রায়' অন্ধ ছিল, এটি বোঝাতে Adjective 'blind'-এর আগে Adverb of degree 'almost' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 100,
+    "question": "We ______ go out for a walk on Sundays.",
+    "options": ["usual", "usually", "usualness", "most usual"],
+    "answer": "usually",
+    "explanation": "অভ্যাসমূলক কাজ বোঝাতে subject এবং main verb-এর মাঝে Adverb of frequency 'usually' (সাধারণত) বসে।"
+  },
+  {
+    "id": 101,
+    "question": "She performed ______.",
+    "options": ["beautifully yesterday at the concert", "at the concert beautifully yesterday", "beautifully at the concert yesterday", "yesterday beautifully at the concert"],
+    "answer": "beautifully at the concert yesterday",
+    "explanation": "ইংরেজিতে একটি বাক্যে Manner (কীভাবে), Place (কোথায়) এবং Time (কখন) একসাথে থাকলে, তাদের বসার সঠিক ক্রম হলো M-P-T (Manner-Place-Time)। এখানে beautifully (Manner) + at the concert (Place) + yesterday (Time) সঠিক ক্রম।"
+  },
+  {
+    "id": 102,
+    "question": "The news of his failure was ______ painful for me.",
+    "options": ["too much", "much too", "very much", "too very"],
+    "answer": "much too",
+    "explanation": "নিয়ম অনুযায়ী 'Much too'-এর পর সর্বদা Adjective বসে এবং 'Too much'-এর পর Noun বসে। এখানে 'painful' একটি Adjective, তাই এর আগে 'much too' বসবে।"
+  },
+  {
+    "id": 103,
+    "question": "His wife gives him ______ trouble.",
+    "options": ["much too", "too much", "too many", "very much"],
+    "answer": "too much",
+    "explanation": "'Trouble' হলো একটি Uncountable Noun। Noun-এর আগে সর্বদা 'too much' বসে ('much too' নয়)।"
+  },
+  {
+    "id": 104,
+    "question": "The doctor forbade the patient ______ sweet things.",
+    "options": ["not to eat", "to eat", "eating", "from eating"],
+    "answer": "to eat",
+    "explanation": "'Forbid' (নিষেধ করা) শব্দটি নিজেই Negative অর্থ বহন করে। তাই এরপরে বাক্যে আর কোনো Negative শব্দ (যেমন- not) বসে না। 'forbade... to eat' সঠিক।"
+  },
+  {
+    "id": 105,
+    "question": "Barking dogs seldom ______ bite.",
+    "options": ["or ever", "if ever", "or never", "if never"],
+    "answer": "if ever",
+    "explanation": "Grammar-এ সঠিক Phrase হলো 'seldom or never' (কদাচিৎ বা কখনোই নয়) অথবা 'seldom if ever'। অপশনগুলোতে 'or never' নেই, তাই 'if ever' সঠিক উত্তর হবে। 'seldom or ever' সম্পূর্ণ ভুল।"
+  },
+  {
+    "id": 106,
+    "question": "The train goes ______ to New Delhi without stopping anywhere.",
+    "options": ["direct", "directly", "directness", "directed"],
+    "answer": "direct",
+    "explanation": "'Direct' একটি Adverb যার অর্থ সোজাসুজি বা মাঝখানে কোথাও না থেমে। আর 'Directly' মানে তৎক্ষণাৎ (immediately)। ট্রেনের ক্ষেত্রে না থেমে যাওয়ার অর্থে 'direct' বসবে।"
+  },
+  {
+    "id": 107,
+    "question": "______, I am busy with my new project.",
+    "options": ["Presently", "At present", "Shortly", "Just"],
+    "answer": "At present",
+    "explanation": "'At present' মানে 'বর্তমানে' (now)। অন্যদিকে 'Presently' মানে 'খুব শীঘ্রই' (soon)। বাক্যের অর্থ অনুযায়ী বর্তমানে ব্যস্ত থাকা বোঝাচ্ছে, তাই 'At present' হবে।"
+  },
+  {
+    "id": 108,
+    "question": "I feel ______ about the mistake I made.",
+    "options": ["bad", "badly", "worse", "worst"],
+    "answer": "bad",
+    "explanation": "Feel, look, taste, smell, sound - এই verb গুলি যখন Copular verb বা Verbs of sensation হিসেবে কাজ করে, তখন এদের পর Adverb না বসে Adjective বসে। তাই 'badly' না হয়ে 'bad' হবে।"
+  },
+  {
+    "id": 109,
+    "question": "He has hardly ______ money to buy a new laptop.",
+    "options": ["some", "no", "any", "much"],
+    "answer": "any",
+    "explanation": "'Hardly', 'Scarcely', 'Barely' শব্দগুলি নেতিবাচক (Negative) অর্থ বহন করে। এদের পর negative শব্দ (no/not) বা 'some' বসে না, বরং 'any' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 110,
+    "question": "My father left the house ______.",
+    "options": ["just now", "lately", "recently", "presently"],
+    "answer": "just now",
+    "explanation": "Past Indefinite Tense (left) এর সাথে 'just now' ব্যবহৃত হয়। 'Recently' বা 'Lately' সাধারণত Present Perfect Tense-এ ব্যবহৃত হয়।"
+  }
+]

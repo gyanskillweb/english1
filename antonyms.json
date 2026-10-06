@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the exact antonym for the word 'BENIGN'.",
+    "options": ["Malignant", "Gentle", "Mild", "Peaceful"],
+    "answer": "Malignant",
+    "explanation": "Benign (সদয় বা অহিংস)-এর বিপরীত শব্দ হলো Malignant (ক্ষতিকারক বা মারাত্মক)।"
+  },
+  {
+    "id": 2,
+    "question": "Find the opposite meaning of 'CALLOUS'.",
+    "options": ["Hard", "Sensitive", "Indifferent", "Tough"],
+    "answer": "Sensitive",
+    "explanation": "Callous (সংবেদনহীন বা উদাসীন)-এর বিপরীত শব্দ Sensitive (সংবেদনশীল)।"
+  },
+  {
+    "id": 3,
+    "question": "What is the antonym of 'DESPAIR'?",
+    "options": ["Gloom", "Misery", "Hope", "Sadness"],
+    "answer": "Hope",
+    "explanation": "Despair (হতাশা বা নিরাশা)-এর সঠিক বিপরীত শব্দ Hope (আশা)।"
+  },
+  {
+    "id": 4,
+    "question": "Select the antonym of 'ENMITY'.",
+    "options": ["Hatred", "Hostility", "Animosity", "Friendship"],
+    "answer": "Friendship",
+    "explanation": "Enmity (শত্রুতা)-এর বিপরীত শব্দ Friendship (বন্ধুত্ব)।"
+  },
+  {
+    "id": 5,
+    "question": "Choose the word opposite in meaning to 'FLOURISH'.",
+    "options": ["Decay", "Grow", "Thrive", "Prosper"],
+    "answer": "Decay",
+    "explanation": "Flourish (সমৃদ্ধ হওয়া বা উন্নতি করা)-এর বিপরীত শব্দ Decay (ক্ষয় হওয়া বা ধ্বংস হওয়া)।"
+  },
+  {
+    "id": 6,
+    "question": "Find the antonym of 'GENUINE'.",
+    "options": ["Real", "Fake", "Authentic", "Pure"],
+    "answer": "Fake",
+    "explanation": "Genuine (আসল বা খাঁটি)-এর বিপরীত শব্দ Fake (নকল)।"
+  },
+  {
+    "id": 7,
+    "question": "What is the antonym of 'HUMBLE'?",
+    "options": ["Modest", "Meek", "Arrogant", "Polite"],
+    "answer": "Arrogant",
+    "explanation": "Humble (বিনীত বা নম্র)-এর বিপরীত শব্দ Arrogant (অহংকারী)।"
+  },
+  {
+    "id": 8,
+    "question": "Select the antonym for 'IGNITE'.",
+    "options": ["Burn", "Light", "Kindle", "Extinguish"],
+    "answer": "Extinguish",
+    "explanation": "Ignite (জ্বালানো বা অগ্নিসংযোগ করা)-এর বিপরীত শব্দ Extinguish (নেভানো)।"
+  },
+  {
+    "id": 9,
+    "question": "Choose the word opposite in meaning to 'JOY'.",
+    "options": ["Sorrow", "Happiness", "Delight", "Glee"],
+    "answer": "Sorrow",
+    "explanation": "Joy (আনন্দ)-এর বিপরীত শব্দ Sorrow (দুঃখ বা বিষাদ)।"
+  },
+  {
+    "id": 10,
+    "question": "Find the antonym of 'KEEN'.",
+    "options": ["Sharp", "Dull", "Eager", "Alert"],
+    "answer": "Dull",
+    "explanation": "Keen (তীক্ষ্ণ বা প্রবল উৎসাহী)-এর বিপরীত শব্দ Dull (ভোঁতা বা নিরুৎসাহী)।"
+  },
+  {
+    "id": 11,
+    "question": "What is the antonym of 'LUCID'?",
+    "options": ["Clear", "Bright", "Obscure", "Shining"],
+    "answer": "Obscure",
+    "explanation": "Lucid (স্পষ্ট বা প্রাঞ্জল)-এর বিপরীত শব্দ Obscure (অস্পষ্ট বা দুর্বোধ্য)।"
+  },
+  {
+    "id": 12,
+    "question": "Select the antonym of 'MITIGATE'.",
+    "options": ["Lessen", "Reduce", "Relieve", "Aggravate"],
+    "answer": "Aggravate",
+    "explanation": "Mitigate (হ্রাস করা বা প্রশমিত করা)-এর বিপরীত শব্দ Aggravate (অধিকতর অবনতি ঘটানো বা বৃদ্ধি করা)।"
+  },
+  {
+    "id": 13,
+    "question": "Choose the word opposite in meaning to 'NOVICE'.",
+    "options": ["Veteran", "Beginner", "Learner", "Trainee"],
+    "answer": "Veteran",
+    "explanation": "Novice (শিক্ষানবিশ বা অনভিজ্ঞ)-এর বিপরীত শব্দ Veteran (অভিজ্ঞ ব্যক্তি)।"
+  },
+  {
+    "id": 14,
+    "question": "Find the antonym of 'OPAQUE'.",
+    "options": ["Cloudy", "Transparent", "Dark", "Murky"],
+    "answer": "Transparent",
+    "explanation": "Opaque (অস্বচ্ছ)-এর বিপরীত শব্দ Transparent (স্বচ্ছ)।"
+  },
+  {
+    "id": 15,
+    "question": "What is the antonym of 'PRAISE'?",
+    "options": ["Admire", "Commend", "Criticize", "Applaud"],
+    "answer": "Criticize",
+    "explanation": "Praise (প্রশংসা করা)-এর বিপরীত শব্দ Criticize (সমালোচনা করা বা নিন্দা করা)।"
+  },
+  {
+    "id": 16,
+    "question": "Select the antonym for 'QUELL'.",
+    "options": ["Suppress", "Crush", "Subdue", "Incite"],
+    "answer": "Incite",
+    "explanation": "Quell (দমন করা বা শান্ত করা)-এর বিপরীত শব্দ Incite (উস্কে দেওয়া বা উত্তেজিত করা)।"
+  },
+  {
+    "id": 17,
+    "question": "Choose the exact antonym for the word 'RIGID'.",
+    "options": ["Flexible", "Stiff", "Strict", "Hard"],
+    "answer": "Flexible",
+    "explanation": "Rigid (কঠোর বা অনমনীয়)-এর বিপরীত শব্দ Flexible (নমনীয়)।"
+  },
+  {
+    "id": 18,
+    "question": "Find the opposite meaning of 'SAVAGE'.",
+    "options": ["Wild", "Civilized", "Fierce", "Cruel"],
+    "answer": "Civilized",
+    "explanation": "Savage (বর্বর বা অসভ্য)-এর বিপরীত শব্দ Civilized (সভ্য)।"
+  },
+  {
+    "id": 19,
+    "question": "What is the antonym of 'TRIVIAL'?",
+    "options": ["Minor", "Petty", "Important", "Worthless"],
+    "answer": "Important",
+    "explanation": "Trivial (তুচ্ছ বা গুরুত্বহীন)-এর বিপরীত শব্দ Important (গুরুত্বপূর্ণ)।"
+  },
+  {
+    "id": 20,
+    "question": "Select the antonym of 'URBANE'.",
+    "options": ["Polite", "Refined", "Suave", "Rude"],
+    "answer": "Rude",
+    "explanation": "Urbane (ভদ্র বা সুশীল)-এর বিপরীত শব্দ Rude (অভদ্র বা রূঢ়)।"
+  },
+  {
+    "id": 21,
+    "question": "Choose the word opposite in meaning to 'VAGUE'.",
+    "options": ["Definite", "Unclear", "Blurry", "Hazy"],
+    "answer": "Definite",
+    "explanation": "Vague (অস্পষ্ট)-এর বিপরীত শব্দ Definite (নির্দিষ্ট বা সুস্পষ্ট)।"
+  },
+  {
+    "id": 22,
+    "question": "Find the antonym of 'WEALTH'.",
+    "options": ["Riches", "Poverty", "Fortune", "Money"],
+    "answer": "Poverty",
+    "explanation": "Wealth (সম্পদ বা ধন)-এর বিপরীত শব্দ Poverty (দারিদ্র্য)।"
+  },
+  {
+    "id": 23,
+    "question": "What is the antonym of 'YIELD'?",
+    "options": ["Surrender", "Submit", "Resist", "Bow"],
+    "answer": "Resist",
+    "explanation": "Yield (বশ্যতা স্বীকার করা)-এর বিপরীত শব্দ Resist (প্রতিরোধ করা)।"
+  },
+  {
+    "id": 24,
+    "question": "Select the antonym for 'ZENITH'.",
+    "options": ["Peak", "Pinnacle", "Summit", "Nadir"],
+    "answer": "Nadir",
+    "explanation": "Zenith (শীর্ষবিন্দু বা সর্বোচ্চ পর্যায়)-এর বিপরীত শব্দ Nadir (সর্বনিম্ন বিন্দু)।"
+  },
+  {
+    "id": 25,
+    "question": "Choose the exact antonym for the word 'ABSURD'.",
+    "options": ["Logical", "Silly", "Foolish", "Crazy"],
+    "answer": "Logical",
+    "explanation": "Absurd (অযৌক্তিক বা হাস্যকর)-এর বিপরীত শব্দ Logical (যৌক্তিক)।"
+  },
+  {
+    "id": 26,
+    "question": "Find the opposite meaning of 'BOLD'.",
+    "options": ["Brave", "Timid", "Daring", "Fearless"],
+    "answer": "Timid",
+    "explanation": "Bold (সাহসী)-এর বিপরীত শব্দ Timid (ভীতু বা লাজুক)।"
+  },
+  {
+    "id": 27,
+    "question": "What is the antonym of 'CAUTIOUS'?",
+    "options": ["Careful", "Alert", "Reckless", "Watchful"],
+    "answer": "Reckless",
+    "explanation": "Cautious (সতর্ক)-এর বিপরীত শব্দ Reckless (বেপরোয়া)।"
+  },
+  {
+    "id": 28,
+    "question": "Select the antonym of 'DENSE'.",
+    "options": ["Thick", "Heavy", "Compact", "Sparse"],
+    "answer": "Sparse",
+    "explanation": "Dense (ঘন বা নিবিড়)-এর বিপরীত শব্দ Sparse (পাতলা বা বিক্ষিপ্ত)।"
+  },
+  {
+    "id": 29,
+    "question": "Choose the word opposite in meaning to 'EMINENT'.",
+    "options": ["Unknown", "Famous", "Renowned", "Noted"],
+    "answer": "Unknown",
+    "explanation": "Eminent (বিখ্যাত বা বিশিষ্ট)-এর বিপরীত শব্দ Unknown (অজ্ঞাত বা অখ্যাত)।"
+  },
+  {
+    "id": 30,
+    "question": "Find the antonym of 'FEEBLE'.",
+    "options": ["Weak", "Strong", "Frail", "Delicate"],
+    "answer": "Strong",
+    "explanation": "Feeble (দুর্বল বা ক্ষীণ)-এর বিপরীত শব্দ Strong (শক্তিশালী)।"
+  },
+  {
+    "id": 31,
+    "question": "What is the antonym of 'GATHER'? ",
+    "options": ["Collect", "Assemble", "Scatter", "Accumulate"],
+    "answer": "Scatter",
+    "explanation": "Gather (জড়ো করা বা সংগ্রহ করা)-এর বিপরীত শব্দ Scatter (ছড়িয়ে দেওয়া)।"
+  },
+  {
+    "id": 32,
+    "question": "Select the antonym for 'HASTY'.",
+    "options": ["Quick", "Rapid", "Hurried", "Slow"],
+    "answer": "Slow",
+    "explanation": "Hasty (তাড়াহুড়ো করা বা দ্রুত)-এর বিপরীত শব্দ Slow (ধীর)।"
+  },
+  {
+    "id": 33,
+    "question": "Choose the exact antonym for the word 'INFERIOR'.",
+    "options": ["Superior", "Lower", "Lesser", "Minor"],
+    "answer": "Superior",
+    "explanation": "Inferior (নিকৃষ্ট বা অধস্তন)-এর বিপরীত শব্দ Superior (উৎকৃষ্ট বা ঊর্ধ্বতন)।"
+  },
+  {
+    "id": 34,
+    "question": "Find the opposite meaning of 'JUST'.",
+    "options": ["Fair", "Unjust", "Right", "Equal"],
+    "answer": "Unjust",
+    "explanation": "Just (ন্যায়পরায়ণ বা ন্যায্য)-এর বিপরীত শব্দ Unjust (অন্যায় বা পক্ষপাতদুষ্ট)।"
+  },
+  {
+    "id": 35,
+    "question": "What is the antonym of 'KNOWLEDGE'?",
+    "options": ["Wisdom", "Information", "Ignorance", "Learning"],
+    "answer": "Ignorance",
+    "explanation": "Knowledge (জ্ঞান)-এর বিপরীত শব্দ Ignorance (অজ্ঞতা বা মূর্খতা)।"
+  },
+  {
+    "id": 36,
+    "question": "Select the antonym of 'LOYAL'.",
+    "options": ["Faithful", "True", "Devoted", "Treacherous"],
+    "answer": "Treacherous",
+    "explanation": "Loyal (বিশ্বস্ত)-এর বিপরীত শব্দ Treacherous (বিশ্বাসঘাতক)।"
+  },
+  {
+    "id": 37,
+    "question": "Choose the word opposite in meaning to 'MOURN'.",
+    "options": ["Rejoice", "Grieve", "Lament", "Cry"],
+    "answer": "Rejoice",
+    "explanation": "Mourn (শোক করা)-এর বিপরীত শব্দ Rejoice (আনন্দ করা)।"
+  },
+  {
+    "id": 38,
+    "question": "Find the antonym of 'NIMBLE'.",
+    "options": ["Agile", "Clumsy", "Quick", "Brisk"],
+    "answer": "Clumsy",
+    "explanation": "Nimble (চটপটে বা ক্ষিপ্র)-এর বিপরীত শব্দ Clumsy (অগোছালো বা আনাড়ি)।"
+  },
+  {
+    "id": 39,
+    "question": "What is the antonym of 'OPTIMIST'?",
+    "options": ["Dreamer", "Idealist", "Pessimist", "Believer"],
+    "answer": "Pessimist",
+    "explanation": "Optimist (আশাবাদী)-এর বিপরীত শব্দ Pessimist (নিরাশাবাদী)।"
+  },
+  {
+    "id": 40,
+    "question": "Select the antonym for 'PROUD'.",
+    "options": ["Arrogant", "Vain", "Boastful", "Humble"],
+    "answer": "Humble",
+    "explanation": "Proud (গর্বিত বা অহংকারী)-এর বিপরীত শব্দ Humble (বিনীত বা নম্র)।"
+  },
+  {
+    "id": 41,
+    "question": "Choose the exact antonym for the word 'QUICK'.",
+    "options": ["Sluggish", "Fast", "Rapid", "Swift"],
+    "answer": "Sluggish",
+    "explanation": "Quick (দ্রুত)-এর বিপরীত শব্দ Sluggish (মন্থর বা অলস)।"
+  },
+  {
+    "id": 42,
+    "question": "Find the opposite meaning of 'RARE'.",
+    "options": ["Scarce", "Common", "Unusual", "Unique"],
+    "answer": "Common",
+    "explanation": "Rare (বিরল বা দুর্লভ)-এর বিপরীত শব্দ Common (সাধারণ বা সুলভ)।"
+  },
+  {
+    "id": 43,
+    "question": "What is the antonym of 'STALE'?",
+    "options": ["Old", "Dry", "Fresh", "Decayed"],
+    "answer": "Fresh",
+    "explanation": "Stale (বাসি)-এর বিপরীত শব্দ Fresh (টাটকা বা সতেজ)।"
+  },
+  {
+    "id": 44,
+    "question": "Select the antonym of 'TAME'.",
+    "options": ["Docile", "Gentle", "Domestic", "Wild"],
+    "answer": "Wild",
+    "explanation": "Tame (পোষা বা বশীভূত)-এর বিপরীত শব্দ Wild (বন্য বা অদম্য)।"
+  },
+  {
+    "id": 45,
+    "question": "Choose the word opposite in meaning to 'UNITY'.",
+    "options": ["Division", "Harmony", "Agreement", "Peace"],
+    "answer": "Division",
+    "explanation": "Unity (একতা বা ঐক্য)-এর বিপরীত শব্দ Division (বিভাজন বা অনৈক্য)।"
+  },
+  {
+    "id": 46,
+    "question": "Find the antonym of 'VIRTUE'.",
+    "options": ["Goodness", "Vice", "Morality", "Ethics"],
+    "answer": "Vice",
+    "explanation": "Virtue (পুণ্য বা সদ্গুণ)-এর বিপরীত শব্দ Vice (পাপ বা বদভ্যাস)।"
+  },
+  {
+    "id": 47,
+    "question": "What is the antonym of 'WARM'?",
+    "options": ["Hot", "Heated", "Cold", "Sunny"],
+    "answer": "Cold",
+    "explanation": "Warm (উষ্ণ)-এর বিপরীত শব্দ Cold (শীতল)।"
+  },
+  {
+    "id": 48,
+    "question": "Select the antonym for 'YIELDING'.",
+    "options": ["Compliant", "Submissive", "Flexible", "Stubborn"],
+    "answer": "Stubborn",
+    "explanation": "Yielding (নমনীয় বা যে সহজে মেনে নেয়)-এর বিপরীত শব্দ Stubborn (জেদী বা একগুঁয়ে)।"
+  },
+  {
+    "id": 49,
+    "question": "Choose the exact antonym for the word 'ZEAL'.",
+    "options": ["Apathy", "Passion", "Enthusiasm", "Energy"],
+    "answer": "Apathy",
+    "explanation": "Zeal (প্রবল উৎসাহ বা উদ্দীপনা)-এর বিপরীত শব্দ Apathy (উদাসীনতা বা অনীহা)।"
+  },
+  {
+    "id": 50,
+    "question": "Find the opposite meaning of 'AMPLE'.",
+    "options": ["Plenty", "Meager", "Abundant", "Copious"],
+    "answer": "Meager",
+    "explanation": "Ample (প্রচুর বা পর্যাপ্ত)-এর বিপরীত শব্দ Meager (অপ্রতুল বা সামান্য)।"
+  },
+  {
+    "id": 51,
+    "question": "Choose the exact antonym for the word 'ABUNDANT'.",
+    "options": ["Scarce", "Plentiful", "Ample", "Copious"],
+    "answer": "Scarce",
+    "explanation": "Abundant (প্রচুর বা পর্যাপ্ত)-এর বিপরীত শব্দ হলো Scarce (দুষ্প্রাপ্য বা অপ্রতুল)।"
+  },
+  {
+    "id": 52,
+    "question": "Find the opposite meaning of 'ACQUIT'.",
+    "options": ["Exonerate", "Convict", "Clear", "Forgive"],
+    "answer": "Convict",
+    "explanation": "Acquit (বেকসুর খালাস দেওয়া)-এর বিপরীত শব্দ Convict (দোষী সাব্যস্ত করা)।"
+  },
+  {
+    "id": 53,
+    "question": "What is the antonym of 'ADVERSITY'?",
+    "options": ["Misfortune", "Hardship", "Prosperity", "Affliction"],
+    "answer": "Prosperity",
+    "explanation": "Adversity (প্রতিকূলতা বা দুর্দশা)-এর বিপরীত শব্দ Prosperity (সমৃদ্ধি বা উন্নতি)।"
+  },
+  {
+    "id": 54,
+    "question": "Select the antonym of 'AFFIRM'.",
+    "options": ["Declare", "Assert", "Confirm", "Deny"],
+    "answer": "Deny",
+    "explanation": "Affirm (দৃঢ়ভাবে বলা বা নিশ্চিত করা)-এর বিপরীত শব্দ Deny (অস্বীকার করা)।"
+  },
+  {
+    "id": 55,
+    "question": "Choose the word opposite in meaning to 'ALIEN'.",
+    "options": ["Native", "Foreigner", "Outsider", "Stranger"],
+    "answer": "Native",
+    "explanation": "Alien (বিদেশী বা ভিনদেশী)-এর বিপরীত শব্দ Native (দেশী বা স্থানীয়)।"
+  },
+  {
+    "id": 56,
+    "question": "Find the antonym of 'AMBIGUOUS'.",
+    "options": ["Vague", "Clear", "Uncertain", "Obscure"],
+    "answer": "Clear",
+    "explanation": "Ambiguous (দ্ব্যর্থবোধক বা অস্পষ্ট)-এর বিপরীত শব্দ Clear (স্পষ্ট)।"
+  },
+  {
+    "id": 57,
+    "question": "What is the antonym of 'ANCIENT'?",
+    "options": ["Old", "Antique", "Modern", "Historic"],
+    "answer": "Modern",
+    "explanation": "Ancient (প্রাচীন বা সেকেলে)-এর বিপরীত শব্দ Modern (আধুনিক)।"
+  },
+  {
+    "id": 58,
+    "question": "Select the antonym for 'ARROGANT'.",
+    "options": ["Proud", "Haughty", "Conceited", "Humble"],
+    "answer": "Humble",
+    "explanation": "Arrogant (অহংকারী বা উদ্ধত)-এর বিপরীত শব্দ Humble (বিনীত বা নম্র)।"
+  },
+  {
+    "id": 59,
+    "question": "Choose the exact antonym for the word 'ASCEND'.",
+    "options": ["Descend", "Climb", "Rise", "Soar"],
+    "answer": "Descend",
+    "explanation": "Ascend (উপরে ওঠা বা আরোহণ করা)-এর বিপরীত শব্দ Descend (নিচে নামা বা অবরোহণ করা)।"
+  },
+  {
+    "id": 60,
+    "question": "Find the opposite meaning of 'ATTRACT'.",
+    "options": ["Charm", "Repel", "Fascinate", "Allure"],
+    "answer": "Repel",
+    "explanation": "Attract (আকর্ষণ করা)-এর বিপরীত শব্দ Repel (বিকর্ষণ করা বা দূরে ঠেলে দেওয়া)।"
+  },
+  {
+    "id": 61,
+    "question": "What is the antonym of 'AUTHENTIC'?",
+    "options": ["Real", "Genuine", "Fake", "Original"],
+    "answer": "Fake",
+    "explanation": "Authentic (খাঁটি বা আসল)-এর বিপরীত শব্দ Fake (নকল বা জাল)।"
+  },
+  {
+    "id": 62,
+    "question": "Select the antonym of 'BARREN'.",
+    "options": ["Empty", "Desolate", "Sterile", "Fertile"],
+    "answer": "Fertile",
+    "explanation": "Barren (অনুর্বর বা নিষ্ফলা)-এর বিপরীত শব্দ Fertile (উর্বর)।"
+  },
+  {
+    "id": 63,
+    "question": "Choose the word opposite in meaning to 'BLUNT'.",
+    "options": ["Sharp", "Dull", "Pointless", "Unsharpened"],
+    "answer": "Sharp",
+    "explanation": "Blunt (ভোঁতা)-এর বিপরীত শব্দ Sharp (তীক্ষ্ণ বা ধারালো)।"
+  },
+  {
+    "id": 64,
+    "question": "Find the antonym of 'BLEAK'.",
+    "options": ["Dismal", "Bright", "Gloomy", "Dark"],
+    "answer": "Bright",
+    "explanation": "Bleak (নিরানন্দ বা বিষণ্ণ)-এর বিপরীত শব্দ Bright (উজ্জ্বল বা আনন্দদায়ক)।"
+  },
+  {
+    "id": 65,
+    "question": "What is the antonym of 'CAPTIVE'?",
+    "options": ["Prisoner", "Hostage", "Free", "Confined"],
+    "answer": "Free",
+    "explanation": "Captive (বন্দী বা আবদ্ধ)-এর বিপরীত শব্দ Free (মুক্ত বা স্বাধীন)।"
+  },
+  {
+    "id": 66,
+    "question": "Select the antonym for 'CHEAP'.",
+    "options": ["Inexpensive", "Low-cost", "Economical", "Expensive"],
+    "answer": "Expensive",
+    "explanation": "Cheap (সস্তা)-এর বিপরীত শব্দ Expensive (দামী বা ব্যয়বহুল)।"
+  },
+  {
+    "id": 67,
+    "question": "Choose the exact antonym for the word 'COMEDY'.",
+    "options": ["Tragedy", "Humor", "Joke", "Fun"],
+    "answer": "Tragedy",
+    "explanation": "Comedy (মিলনান্তক বা হাস্যকৌতুক)-এর বিপরীত শব্দ Tragedy (বিয়োগান্তক বা শোকাবহ নাটক)।"
+  },
+  {
+    "id": 68,
+    "question": "Find the opposite meaning of 'COMPLEX'.",
+    "options": ["Complicated", "Simple", "Intricate", "Involved"],
+    "answer": "Simple",
+    "explanation": "Complex (জটিল)-এর বিপরীত শব্দ Simple (সরল বা সহজ)।"
+  },
+  {
+    "id": 69,
+    "question": "What is the antonym of 'CONFESS'?",
+    "options": ["Admit", "Acknowledge", "Deny", "Disclose"],
+    "answer": "Deny",
+    "explanation": "Confess (দোষ স্বীকার করা)-এর বিপরীত শব্দ Deny (অস্বীকার করা)।"
+  },
+  {
+    "id": 70,
+    "question": "Select the antonym of 'CONQUER'.",
+    "options": ["Defeat", "Overcome", "Vanquish", "Surrender"],
+    "answer": "Surrender",
+    "explanation": "Conquer (জয় করা)-এর বিপরীত শব্দ Surrender (আত্মসমর্পণ করা)।"
+  },
+  {
+    "id": 71,
+    "question": "Choose the word opposite in meaning to 'CREATE'.",
+    "options": ["Destroy", "Make", "Build", "Construct"],
+    "answer": "Destroy",
+    "explanation": "Create (সৃষ্টি করা)-এর বিপরীত শব্দ Destroy (ধ্বংস করা)।"
+  },
+  {
+    "id": 72,
+    "question": "Find the antonym of 'CRUEL'.",
+    "options": ["Brutal", "Kind", "Savage", "Fierce"],
+    "answer": "Kind",
+    "explanation": "Cruel (নিষ্ঠুর বা নির্দয়)-এর বিপরীত শব্দ Kind (দয়ালু)।"
+  },
+  {
+    "id": 73,
+    "question": "What is the antonym of 'DANGER'?",
+    "options": ["Risk", "Peril", "Safety", "Hazard"],
+    "answer": "Safety",
+    "explanation": "Danger (বিপদ)-এর বিপরীত শব্দ Safety (নিরাপত্তা)।"
+  },
+  {
+    "id": 74,
+    "question": "Select the antonym for 'DECREASE'.",
+    "options": ["Reduce", "Lessen", "Decline", "Increase"],
+    "answer": "Increase",
+    "explanation": "Decrease (কমে যাওয়া বা হ্রাস পাওয়া)-এর বিপরীত শব্দ Increase (বেড়ে যাওয়া বা বৃদ্ধি পাওয়া)।"
+  },
+  {
+    "id": 75,
+    "question": "Choose the exact antonym for the word 'DEEP'.",
+    "options": ["Shallow", "Profound", "Bottomless", "Vast"],
+    "answer": "Shallow",
+    "explanation": "Deep (গভীর)-এর বিপরীত শব্দ Shallow (অগভীর)।"
+  },
+  {
+    "id": 76,
+    "question": "Find the opposite meaning of 'DEFEND'.",
+    "options": ["Protect", "Attack", "Guard", "Shield"],
+    "answer": "Attack",
+    "explanation": "Defend (রক্ষা করা বা আত্মরক্ষা করা)-এর বিপরীত শব্দ Attack (আক্রমণ করা)।"
+  },
+  {
+    "id": 77,
+    "question": "What is the antonym of 'DEMOLISH'?",
+    "options": ["Destroy", "Ruin", "Build", "Devastate"],
+    "answer": "Build",
+    "explanation": "Demolish (ভেঙে ফেলা বা ধ্বংস করা)-এর বিপরীত শব্দ Build (নির্মাণ করা বা গড়া)।"
+  },
+  {
+    "id": 78,
+    "question": "Select the antonym of 'DILIGENT'.",
+    "options": ["Hardworking", "Active", "Industrious", "Lazy"],
+    "answer": "Lazy",
+    "explanation": "Diligent (অধ্যবসায়ী বা পরিশ্রমী)-এর বিপরীত শব্দ Lazy (অলস)।"
+  },
+  {
+    "id": 79,
+    "question": "Choose the word opposite in meaning to 'DIMINISH'.",
+    "options": ["Increase", "Reduce", "Lessen", "Shrink"],
+    "answer": "Increase",
+    "explanation": "Diminish (হ্রাস পাওয়া বা কমানো)-এর বিপরীত শব্দ Increase (বৃদ্ধি পাওয়া)।"
+  },
+  {
+    "id": 80,
+    "question": "Find the antonym of 'DISMAL'.",
+    "options": ["Gloomy", "Cheerful", "Dreary", "Depressing"],
+    "answer": "Cheerful",
+    "explanation": "Dismal (বিষণ্ণ বা হতাশা ব্যঞ্জক)-এর বিপরীত শব্দ Cheerful (প্রফুল্ল বা আনন্দদায়ক)।"
+  },
+  {
+    "id": 81,
+    "question": "What is the antonym of 'EARLY'?",
+    "options": ["Prompt", "Quick", "Late", "Premature"],
+    "answer": "Late",
+    "explanation": "Early (তাড়াতাড়ি বা প্রথম দিকে)-এর বিপরীত শব্দ Late (দেরি বা বিলম্বিত)।"
+  },
+  {
+    "id": 82,
+    "question": "Select the antonym for 'DYNAMIC'.",
+    "options": ["Active", "Energetic", "Vibrant", "Static"],
+    "answer": "Static",
+    "explanation": "Dynamic (গতিশীল বা সক্রিয়)-এর বিপরীত শব্দ Static (স্থিতিশীল বা স্থির)।"
+  },
+  {
+    "id": 83,
+    "question": "Choose the exact antonym for the word 'ENCOURAGE'.",
+    "options": ["Discourage", "Inspire", "Motivate", "Support"],
+    "answer": "Discourage",
+    "explanation": "Encourage (উৎসাহিত করা)-এর বিপরীত শব্দ Discourage (নিরুৎসাহিত করা)।"
+  },
+  {
+    "id": 84,
+    "question": "Find the opposite meaning of 'EXPAND'.",
+    "options": ["Grow", "Shrink", "Enlarge", "Widen"],
+    "answer": "Shrink",
+    "explanation": "Expand (প্রসারিত হওয়া বা ছড়ানো)-এর বিপরীত শব্দ Shrink (সঙ্কুচিত হওয়া)।"
+  },
+  {
+    "id": 85,
+    "question": "What is the antonym of 'FALLACY'?",
+    "options": ["Error", "Illusion", "Truth", "Mistake"],
+    "answer": "Truth",
+    "explanation": "Fallacy (ভ্রান্ত ধারণা বা ভুল)-এর বিপরীত শব্দ Truth (সত্য)।"
+  },
+  {
+    "id": 86,
+    "question": "Select the antonym of 'FAMILIAR'.",
+    "options": ["Known", "Common", "Usual", "Strange"],
+    "answer": "Strange",
+    "explanation": "Familiar (পরিচিত বা চেনা)-এর বিপরীত শব্দ Strange (অপরিচিত বা অদ্ভুত)।"
+  },
+  {
+    "id": 87,
+    "question": "Choose the word opposite in meaning to 'FAMOUS'.",
+    "options": ["Obscure", "Renowned", "Eminent", "Noted"],
+    "answer": "Obscure",
+    "explanation": "Famous (বিখ্যাত)-এর বিপরীত শব্দ Obscure (অখ্যাত বা অপরিচিত)।"
+  },
+  {
+    "id": 88,
+    "question": "Find the antonym of 'FIERCE'.",
+    "options": ["Wild", "Gentle", "Savage", "Violent"],
+    "answer": "Gentle",
+    "explanation": "Fierce (ভয়ংকর বা উগ্র)-এর বিপরীত শব্দ Gentle (ভদ্র বা শান্ত)।"
+  },
+  {
+    "id": 89,
+    "question": "What is the antonym of 'FLEXIBLE'?",
+    "options": ["Pliable", "Elastic", "Rigid", "Adaptable"],
+    "answer": "Rigid",
+    "explanation": "Flexible (নমনীয়)-এর বিপরীত শব্দ Rigid (অনমনীয় বা কঠিন)।"
+  },
+  {
+    "id": 90,
+    "question": "Select the antonym for 'FREQUENT'.",
+    "options": ["Regular", "Often", "Repeated", "Rare"],
+    "answer": "Rare",
+    "explanation": "Frequent (ঘনঘন বা নিয়মিত ঘটে এমন)-এর বিপরীত শব্দ Rare (বিরল বা কদাচিৎ)।"
+  },
+  {
+    "id": 91,
+    "question": "Choose the exact antonym for the word 'FRUGAL'.",
+    "options": ["Extravagant", "Thrifty", "Economical", "Sparing"],
+    "answer": "Extravagant",
+    "explanation": "Frugal (মিতব্যয়ী)-এর বিপরীত শব্দ Extravagant (অমিতব্যয়ী বা অপচয়ী)।"
+  },
+  {
+    "id": 92,
+    "question": "Find the opposite meaning of 'GIGANTIC'.",
+    "options": ["Huge", "Tiny", "Massive", "Enormous"],
+    "answer": "Tiny",
+    "explanation": "Gigantic (বিশাল বা প্রকান্ড)-এর বিপরীত শব্দ Tiny (ক্ষুদ্র)।"
+  },
+  {
+    "id": 93,
+    "question": "What is the antonym of 'GLOOMY'?",
+    "options": ["Dark", "Dismal", "Cheerful", "Dreary"],
+    "answer": "Cheerful",
+    "explanation": "Gloomy (অন্ধকারাচ্ছন্ন বা বিষণ্ণ)-এর বিপরীত শব্দ Cheerful (হাসিখুশি বা আনন্দিত)।"
+  },
+  {
+    "id": 94,
+    "question": "Select the antonym of 'GRACEFUL'.",
+    "options": ["Elegant", "Beautiful", "Charming", "Awkward"],
+    "answer": "Awkward",
+    "explanation": "Graceful (লাবণ্যময় বা সুন্দর)-এর বিপরীত শব্দ Awkward (কদাকার বা বেঢপ)।"
+  },
+  {
+    "id": 95,
+    "question": "Choose the word opposite in meaning to 'GUILTY'.",
+    "options": ["Innocent", "Culpable", "Blamable", "Responsible"],
+    "answer": "Innocent",
+    "explanation": "Guilty (দোষী)-এর বিপরীত শব্দ Innocent (নির্দোষ)।"
+  },
+  {
+    "id": 96,
+    "question": "Find the antonym of 'HARSH'.",
+    "options": ["Severe", "Mild", "Rough", "Cruel"],
+    "answer": "Mild",
+    "explanation": "Harsh (কঠোর বা কর্কশ)-এর বিপরীত শব্দ Mild (মৃদু বা কোমল)।"
+  },
+  {
+    "id": 97,
+    "question": "What is the antonym of 'HAZARD'?",
+    "options": ["Danger", "Risk", "Safety", "Peril"],
+    "answer": "Safety",
+    "explanation": "Hazard (বিপদ বা ঝুঁকি)-এর বিপরীত শব্দ Safety (নিরাপত্তা)।"
+  },
+  {
+    "id": 98,
+    "question": "Select the antonym for 'HINDER'.",
+    "options": ["Obstruct", "Block", "Prevent", "Help"],
+    "answer": "Help",
+    "explanation": "Hinder (বাধা দেওয়া বা ব্যাহত করা)-এর বিপরীত শব্দ Help (সাহায্য করা)।"
+  },
+  {
+    "id": 99,
+    "question": "Choose the exact antonym for the word 'PESSIMISTIC'.",
+    "options": ["Optimistic", "Cynical", "Gloomy", "Negative"],
+    "answer": "Optimistic",
+    "explanation": "Pessimistic (নিরাশাবাদী)-এর বিপরীত শব্দ Optimistic (আশাবাদী)।"
+  },
+  {
+    "id": 100,
+    "question": "Find the opposite meaning of 'IDENTICAL'.",
+    "options": ["Same", "Different", "Alike", "Equal"],
+    "answer": "Different",
+    "explanation": "Identical (হুবহু এক বা অভিন্ন)-এর বিপরীত শব্দ Different (ভিন্ন বা আলাদা)।"
+  },
+  {
+    "id": 101,
+    "question": "Choose the exact antonym for the word 'IMMENSE'.",
+    "options": ["Tiny", "Huge", "Massive", "Vast"],
+    "answer": "Tiny",
+    "explanation": "Immense (বিশাল বা প্রচুর)-এর বিপরীত শব্দ হলো Tiny (ক্ষুদ্র)। বাকি অপশনগুলো Immense-এর সমার্থক।"
+  },
+  {
+    "id": 102,
+    "question": "Find the opposite meaning of 'IMPARTIAL'.",
+    "options": ["Fair", "Biased", "Just", "Neutral"],
+    "answer": "Biased",
+    "explanation": "Impartial (নিরপেক্ষ বা পক্ষপাতহীন)-এর বিপরীত শব্দ Biased (পক্ষপাতদুষ্ট)।"
+  },
+  {
+    "id": 103,
+    "question": "What is the antonym of 'IMPRISON'?",
+    "options": ["Jail", "Confine", "Free", "Detain"],
+    "answer": "Free",
+    "explanation": "Imprison (কারারুদ্ধ করা বা বন্দী করা)-এর বিপরীত শব্দ Free (মুক্ত করা)।"
+  },
+  {
+    "id": 104,
+    "question": "Select the antonym of 'INCLUDE'.",
+    "options": ["Involve", "Contain", "Embrace", "Exclude"],
+    "answer": "Exclude",
+    "explanation": "Include (অন্তর্ভুক্ত করা)-এর বিপরীত শব্দ Exclude (বাদ দেওয়া বা বর্জন করা)।"
+  },
+  {
+    "id": 105,
+    "question": "Choose the word opposite in meaning to 'INCREDIBLE'.",
+    "options": ["Believable", "Unbelievable", "Amazing", "Fantastic"],
+    "answer": "Believable",
+    "explanation": "Incredible (অবিশ্বাস্য)-এর বিপরীত শব্দ Believable (বিশ্বাসযোগ্য)।"
+  },
+  {
+    "id": 106,
+    "question": "Find the antonym of 'INDUSTRIOUS'.",
+    "options": ["Active", "Lazy", "Busy", "Diligent"],
+    "answer": "Lazy",
+    "explanation": "Industrious (পরিশ্রমী বা উদ্যোগী)-এর বিপরীত শব্দ Lazy (অলস)।"
+  },
+  {
+    "id": 107,
+    "question": "What is the antonym of 'INFERIOR'?",
+    "options": ["Lesser", "Lower", "Superior", "Minor"],
+    "answer": "Superior",
+    "explanation": "Inferior (নিকৃষ্ট বা অধস্তন)-এর বিপরীত শব্দ Superior (উৎকৃষ্ট বা ঊর্ধ্বতন)।"
+  },
+  {
+    "id": 108,
+    "question": "Select the antonym for 'INNOCENT'.",
+    "options": ["Pure", "Blameless", "Faultless", "Guilty"],
+    "answer": "Guilty",
+    "explanation": "Innocent (নির্দোষ বা নিষ্পাপ)-এর বিপরীত শব্দ Guilty (দোষী)।"
+  },
+  {
+    "id": 109,
+    "question": "Choose the exact antonym for the word 'INSOLENT'.",
+    "options": ["Polite", "Rude", "Arrogant", "Impudent"],
+    "answer": "Polite",
+    "explanation": "Insolent (উদ্ধত বা বেয়াদব)-এর বিপরীত শব্দ Polite (ভদ্র বা বিনীত)।"
+  },
+  {
+    "id": 110,
+    "question": "Find the opposite meaning of 'INTENTIONAL'.",
+    "options": ["Deliberate", "Accidental", "Planned", "Wilful"],
+    "answer": "Accidental",
+    "explanation": "Intentional (ইচ্ছাকৃত)-এর বিপরীত শব্দ Accidental (আকস্মিক বা অনিচ্ছাকৃত)।"
+  },
+  {
+    "id": 111,
+    "question": "What is the antonym of 'INTRICATE'?",
+    "options": ["Complex", "Complicated", "Simple", "Tangled"],
+    "answer": "Simple",
+    "explanation": "Intricate (জটিল বা প্যাঁচানো)-এর বিপরীত শব্দ Simple (সরল বা সহজ)।"
+  },
+  {
+    "id": 112,
+    "question": "Select the antonym of 'ISOLATE'.",
+    "options": ["Separate", "Detach", "Segregate", "Connect"],
+    "answer": "Connect",
+    "explanation": "Isolate (বিচ্ছিন্ন করা বা আলাদা করা)-এর বিপরীত শব্দ Connect (যুক্ত করা বা সংযোগ করা)।"
+  },
+  {
+    "id": 113,
+    "question": "Choose the word opposite in meaning to 'JEALOUS'.",
+    "options": ["Content", "Envious", "Covetous", "Resentful"],
+    "answer": "Content",
+    "explanation": "Jealous (ঈর্ষান্বিত)-এর বিপরীত শব্দ Content (সন্তুষ্ট বা তৃপ্ত)।"
+  },
+  {
+    "id": 114,
+    "question": "Find the antonym of 'JOVIAL'.",
+    "options": ["Happy", "Sad", "Merry", "Joyful"],
+    "answer": "Sad",
+    "explanation": "Jovial (প্রফুল্ল বা হাসিখুশি)-এর বিপরীত শব্দ Sad (দুঃখিত বা বিষণ্ণ)।"
+  },
+  {
+    "id": 115,
+    "question": "What is the antonym of 'JUBILANT'?",
+    "options": ["Rejoicing", "Triumphant", "Sorrowful", "Joyous"],
+    "answer": "Sorrowful",
+    "explanation": "Jubilant (উল্লসিত বা জয়োল্লাসী)-এর বিপরীত শব্দ Sorrowful (দুঃখপূর্ণ বা শোকার্ত)।"
+  },
+  {
+    "id": 116,
+    "question": "Select the antonym for 'JUSTICE'.",
+    "options": ["Fairness", "Equity", "Righteousness", "Injustice"],
+    "answer": "Injustice",
+    "explanation": "Justice (ন্যায়বিচার)-এর বিপরীত শব্দ Injustice (অবিচার)।"
+  },
+  {
+    "id": 117,
+    "question": "Choose the exact antonym for the word 'KNOWLEDGE'.",
+    "options": ["Ignorance", "Wisdom", "Understanding", "Information"],
+    "answer": "Ignorance",
+    "explanation": "Knowledge (জ্ঞান)-এর বিপরীত শব্দ Ignorance (অজ্ঞতা বা মূর্খতা)।"
+  },
+  {
+    "id": 118,
+    "question": "Find the opposite meaning of 'LACK'.",
+    "options": ["Scarcity", "Abundance", "Shortage", "Absence"],
+    "answer": "Abundance",
+    "explanation": "Lack (অভাব বা ঘাটতি)-এর বিপরীত শব্দ Abundance (প্রচুর্য বা আধিক্য)।"
+  },
+  {
+    "id": 119,
+    "question": "What is the antonym of 'LAMENT'?",
+    "options": ["Grieve", "Mourn", "Rejoice", "Sorrow"],
+    "answer": "Rejoice",
+    "explanation": "Lament (বিলাপ করা বা শোক প্রকাশ করা)-এর বিপরীত শব্দ Rejoice (আনন্দ করা)।"
+  },
+  {
+    "id": 120,
+    "question": "Select the antonym of 'LAVISH'.",
+    "options": ["Extravagant", "Luxurious", "Generous", "Frugal"],
+    "answer": "Frugal",
+    "explanation": "Lavish (বিলাসবহুল বা অপচয়ী)-এর বিপরীত শব্দ Frugal (মিতব্যয়ী)।"
+  },
+  {
+    "id": 121,
+    "question": "Choose the word opposite in meaning to 'LENIENT'.",
+    "options": ["Strict", "Merciful", "Forgiving", "Gentle"],
+    "answer": "Strict",
+    "explanation": "Lenient (কোমল বা ক্ষমাশীল)-এর বিপরীত শব্দ Strict (কঠোর)।"
+  },
+  {
+    "id": 122,
+    "question": "Find the antonym of 'LINGER'.",
+    "options": ["Stay", "Hurry", "Wait", "Loiter"],
+    "answer": "Hurry",
+    "explanation": "Linger (দেরি করা বা সময় কাটানো)-এর বিপরীত শব্দ Hurry (তাড়াহুড়ো করা)।"
+  },
+  {
+    "id": 123,
+    "question": "What is the antonym of 'LOGICAL'?",
+    "options": ["Rational", "Sensible", "Irrational", "Reasonable"],
+    "answer": "Irrational",
+    "explanation": "Logical (যৌক্তিক)-এর বিপরীত শব্দ Irrational (অযৌক্তিক)।"
+  },
+  {
+    "id": 124,
+    "question": "Select the antonym for 'LUNATIC'.",
+    "options": ["Crazy", "Mad", "Maniac", "Sane"],
+    "answer": "Sane",
+    "explanation": "Lunatic (উন্মাদ বা পাগল)-এর বিপরীত শব্দ Sane (মানসিকভাবে সুস্থ বা বিবেকবান)।"
+  },
+  {
+    "id": 125,
+    "question": "Choose the exact antonym for the word 'MAGNIFY'.",
+    "options": ["Reduce", "Enlarge", "Expand", "Exaggerate"],
+    "answer": "Reduce",
+    "explanation": "Magnify (বিবর্ধিত করা বা বড় করা)-এর বিপরীত শব্দ Reduce (হ্রাস করা বা ছোট করা)।"
+  },
+  {
+    "id": 126,
+    "question": "Find the opposite meaning of 'MALICE'.",
+    "options": ["Spite", "Goodwill", "Hate", "Bitterness"],
+    "answer": "Goodwill",
+    "explanation": "Malice (আক্রোশ বা বিদ্বেষ)-এর বিপরীত শব্দ Goodwill (সদিচ্ছা বা মঙ্গলকামনা)।"
+  },
+  {
+    "id": 127,
+    "question": "What is the antonym of 'MANDATORY'?",
+    "options": ["Required", "Compulsory", "Optional", "Necessary"],
+    "answer": "Optional",
+    "explanation": "Mandatory (বাধ্যতামূলক)-এর বিপরীত শব্দ Optional (ঐচ্ছিক)।"
+  },
+  {
+    "id": 128,
+    "question": "Select the antonym of 'MAXIMUM'.",
+    "options": ["Most", "Highest", "Greatest", "Minimum"],
+    "answer": "Minimum",
+    "explanation": "Maximum (সর্বোচ্চ)-এর বিপরীত শব্দ Minimum (সর্বনিম্ন)।"
+  },
+  {
+    "id": 129,
+    "question": "Choose the word opposite in meaning to 'MEAGER'.",
+    "options": ["Plentiful", "Scanty", "Sparse", "Deficient"],
+    "answer": "Plentiful",
+    "explanation": "Meager (অপ্রতুল বা সামান্য)-এর বিপরীত শব্দ Plentiful (প্রচুর)।"
+  },
+  {
+    "id": 130,
+    "question": "Find the antonym of 'MELANCHOLY'.",
+    "options": ["Sad", "Cheerful", "Depressed", "Sorrowful"],
+    "answer": "Cheerful",
+    "explanation": "Melancholy (বিষণ্ণ বা মনমরা)-এর বিপরীত শব্দ Cheerful (প্রফুল্ল বা হাসিখুশি)।"
+  },
+  {
+    "id": 131,
+    "question": "What is the antonym of 'MEND'?",
+    "options": ["Repair", "Fix", "Break", "Restore"],
+    "answer": "Break",
+    "explanation": "Mend (মেরামত করা)-এর বিপরীত শব্দ Break (ভাঙা)।"
+  },
+  {
+    "id": 132,
+    "question": "Select the antonym for 'MISERLY'.",
+    "options": ["Stingy", "Mean", "Tightfisted", "Generous"],
+    "answer": "Generous",
+    "explanation": "Miserly (কঞ্জুস বা কৃপণ)-এর বিপরীত শব্দ Generous (উদার বা দানশীল)।"
+  },
+  {
+    "id": 133,
+    "question": "Choose the exact antonym for the word 'MONOTONOUS'.",
+    "options": ["Varied", "Boring", "Dull", "Tedious"],
+    "answer": "Varied",
+    "explanation": "Monotonous (একঘেয়ে)-এর বিপরীত শব্দ Varied (বৈচিত্র্যময় বা বিবিধ)।"
+  },
+  {
+    "id": 134,
+    "question": "Find the opposite meaning of 'MULTIPLY'.",
+    "options": ["Increase", "Divide", "Expand", "Reproduce"],
+    "answer": "Divide",
+    "explanation": "Multiply (গুণ করা বা বৃদ্ধি করা)-এর বিপরীত শব্দ Divide (ভাগ করা)।"
+  },
+  {
+    "id": 135,
+    "question": "What is the antonym of 'MUTINY'?",
+    "options": ["Rebellion", "Revolt", "Obedience", "Uprising"],
+    "answer": "Obedience",
+    "explanation": "Mutiny (বিদ্রোহ বা অবাধ্যতা)-এর বিপরীত শব্দ Obedience (বাধ্যতা বা বশ্যতা)।"
+  },
+  {
+    "id": 136,
+    "question": "Select the antonym of 'NATIVE'.",
+    "options": ["Local", "Indigenous", "Resident", "Foreign"],
+    "answer": "Foreign",
+    "explanation": "Native (দেশী বা স্থানীয়)-এর বিপরীত শব্দ Foreign (বিদেশী)।"
+  },
+  {
+    "id": 137,
+    "question": "Choose the word opposite in meaning to 'NATURAL'.",
+    "options": ["Artificial", "Normal", "Regular", "Typical"],
+    "answer": "Artificial",
+    "explanation": "Natural (প্রাকৃতিক বা স্বাভাবিক)-এর বিপরীত শব্দ Artificial (কৃত্রিম)।"
+  },
+  {
+    "id": 138,
+    "question": "Find the antonym of 'NEAT'.",
+    "options": ["Tidy", "Messy", "Clean", "Orderly"],
+    "answer": "Messy",
+    "explanation": "Neat (পরিচ্ছন্ন বা গোছানো)-এর বিপরীত শব্দ Messy (অগোছালো বা অপরিচ্ছন্ন)।"
+  },
+  {
+    "id": 139,
+    "question": "What is the antonym of 'NEGATIVE'?",
+    "options": ["Pessimistic", "Bad", "Positive", "Adverse"],
+    "answer": "Positive",
+    "explanation": "Negative (নেতিবাচক)-এর বিপরীত শব্দ Positive (ইতিবাচক)।"
+  },
+  {
+    "id": 140,
+    "question": "Select the antonym for 'NEGLECT'.",
+    "options": ["Ignore", "Disregard", "Overlook", "Care"],
+    "answer": "Care",
+    "explanation": "Neglect (অবহেলা করা)-এর বিপরীত শব্দ Care (যত্ন নেওয়া)।"
+  },
+  {
+    "id": 141,
+    "question": "Choose the exact antonym for the word 'NERVOUS'.",
+    "options": ["Calm", "Anxious", "Fearful", "Tense"],
+    "answer": "Calm",
+    "explanation": "Nervous (স্নায়ুচাপে ভোগা বা উদ্বিগ্ন)-এর বিপরীত শব্দ Calm (শান্ত)।"
+  },
+  {
+    "id": 142,
+    "question": "Find the opposite meaning of 'NOTORIOUS'.",
+    "options": ["Infamous", "Famous", "Scandalous", "Dishonorable"],
+    "answer": "Famous",
+    "explanation": "Notorious (কুখ্যাত)-এর বিপরীত শব্দ Famous (বিখ্যাত বা সুখ্যাত)।"
+  },
+  {
+    "id": 143,
+    "question": "What is the antonym of 'OBEDIENT'?",
+    "options": ["Compliant", "Docile", "Rebellious", "Submissive"],
+    "answer": "Rebellious",
+    "explanation": "Obedient (বাধ্য বা আজ্ঞাবহ)-এর বিপরীত শব্দ Rebellious (বিদ্রোহী বা অবাধ্য)।"
+  },
+  {
+    "id": 144,
+    "question": "Select the antonym of 'OBSCURE'.",
+    "options": ["Hidden", "Unclear", "Vague", "Clear"],
+    "answer": "Clear",
+    "explanation": "Obscure (অস্পষ্ট বা দুর্বোধ্য)-এর বিপরীত শব্দ Clear (স্পষ্ট বা পরিষ্কার)।"
+  },
+  {
+    "id": 145,
+    "question": "Choose the word opposite in meaning to 'OBSTINATE'.",
+    "options": ["Yielding", "Stubborn", "Firm", "Inflexible"],
+    "answer": "Yielding",
+    "explanation": "Obstinate (একগুঁয়ে বা জেদী)-এর বিপরীত শব্দ Yielding (নমনীয় বা যে সহজে হার মানে)।"
+  },
+  {
+    "id": 146,
+    "question": "Find the antonym of 'ODD'.",
+    "options": ["Strange", "Even", "Unusual", "Weird"],
+    "answer": "Even",
+    "explanation": "Odd (বিজোড় বা অদ্ভুত)-এর বিপরীত শব্দ Even (জোড় বা সমান)।"
+  },
+  {
+    "id": 147,
+    "question": "What is the antonym of 'OFFEND'?",
+    "options": ["Insult", "Annoy", "Please", "Displease"],
+    "answer": "Please",
+    "explanation": "Offend (অপমান করা বা অসন্তুষ্ট করা)-এর বিপরীত শব্দ Please (সন্তুষ্ট করা বা আনন্দ দেওয়া)।"
+  },
+  {
+    "id": 148,
+    "question": "Select the antonym for 'OMIT'.",
+    "options": ["Exclude", "Skip", "Miss", "Include"],
+    "answer": "Include",
+    "explanation": "Omit (বাদ দেওয়া বা বর্জন করা)-এর বিপরীত শব্দ Include (অন্তর্ভুক্ত করা)।"
+  },
+  {
+    "id": 149,
+    "question": "Choose the exact antonym for the word 'OPAQUE'.",
+    "options": ["Transparent", "Cloudy", "Muddy", "Thick"],
+    "answer": "Transparent",
+    "explanation": "Opaque (অস্বচ্ছ)-এর বিপরীত শব্দ Transparent (স্বচ্ছ)।"
+  },
+  {
+    "id": 150,
+    "question": "Find the opposite meaning of 'OPTIONAL'.",
+    "options": ["Voluntary", "Elective", "Compulsory", "Nonessential"],
+    "answer": "Compulsory",
+    "explanation": "Optional (ঐচ্ছিক বা ইচ্ছাধীন)-এর বিপরীত শব্দ Compulsory (বাধ্যতামূলক)।"
+  },
+  {
+    "id": 151,
+    "question": "What is the antonym of 'ORAL'?",
+    "options": ["Written", "Spoken", "Verbal", "Vocal"],
+    "answer": "Written",
+    "explanation": "Oral (মৌখিক বা মুখে বলা)-এর বিপরীত শব্দ হলো Written (লিখিত)।"
+  },
+  {
+    "id": 152,
+    "question": "Select the antonym of 'ORDINARY'.",
+    "options": ["Normal", "Extraordinary", "Common", "Usual"],
+    "answer": "Extraordinary",
+    "explanation": "Ordinary (সাধারণ)-এর বিপরীত শব্দ Extraordinary (অসাধারণ বা অস্বাভাবিক)।"
+  },
+  {
+    "id": 153,
+    "question": "Choose the word opposite in meaning to 'ORTHODOX'.",
+    "options": ["Traditional", "Conventional", "Unorthodox", "Conservative"],
+    "answer": "Unorthodox",
+    "explanation": "Orthodox (রক্ষণশীল বা প্রথাগত)-এর বিপরীত শব্দ Unorthodox (অপ্রথাগত বা স্বাধীনচেতা)।"
+  },
+  {
+    "id": 154,
+    "question": "Find the antonym of 'PACIFY'.",
+    "options": ["Calm", "Soothe", "Appease", "Enrage"],
+    "answer": "Enrage",
+    "explanation": "Pacify (শান্ত করা বা মেটানো)-এর বিপরীত শব্দ Enrage (ক্ষুব্ধ করা বা রাগান্বিত করা)।"
+  },
+  {
+    "id": 155,
+    "question": "What is the antonym of 'PAIN'?",
+    "options": ["Pleasure", "Agony", "Ache", "Hurt"],
+    "answer": "Pleasure",
+    "explanation": "Pain (ব্যথা বা কষ্ট)-এর বিপরীত শব্দ Pleasure (আনন্দ বা সুখ)।"
+  },
+  {
+    "id": 156,
+    "question": "Select the antonym for 'PARDON'.",
+    "options": ["Forgive", "Punish", "Excuse", "Acquit"],
+    "answer": "Punish",
+    "explanation": "Pardon (ক্ষমা করা)-এর বিপরীত শব্দ Punish (শাস্তি দেওয়া)।"
+  },
+  {
+    "id": 157,
+    "question": "Choose the exact antonym for the word 'PARTIAL'.",
+    "options": ["Biased", "Prejudiced", "Impartial", "Incomplete"],
+    "answer": "Impartial",
+    "explanation": "Partial (পক্ষপাতদুষ্ট বা আংশিক)-এর বিপরীত শব্দ Impartial (নিরপেক্ষ বা পক্ষপাতহীন)।"
+  },
+  {
+    "id": 158,
+    "question": "Find the opposite meaning of 'PARTICULAR'.",
+    "options": ["Specific", "Exact", "Special", "General"],
+    "answer": "General",
+    "explanation": "Particular (নির্দিষ্ট বা বিশেষ)-এর বিপরীত শব্দ General (সাধারণ বা সার্বজনীন)।"
+  },
+  {
+    "id": 159,
+    "question": "What is the antonym of 'PASSIVE'?",
+    "options": ["Active", "Inactive", "Inert", "Idle"],
+    "answer": "Active",
+    "explanation": "Passive (নিষ্ক্রিয় বা নিশ্চেষ্ট)-এর বিপরীত শব্দ Active (সক্রিয় বা কর্মঠ)।"
+  },
+  {
+    "id": 160,
+    "question": "Select the antonym of 'PATIENCE'.",
+    "options": ["Tolerance", "Impatience", "Endurance", "Calmness"],
+    "answer": "Impatience",
+    "explanation": "Patience (ধৈর্য)-এর বিপরীত শব্দ Impatience (অধৈর্য বা অস্থিরতা)।"
+  },
+  {
+    "id": 161,
+    "question": "Choose the word opposite in meaning to 'PEACE'.",
+    "options": ["Harmony", "Tranquility", "War", "Calm"],
+    "answer": "War",
+    "explanation": "Peace (শান্তি)-এর বিপরীত শব্দ War (যুদ্ধ বা সংঘাত)।"
+  },
+  {
+    "id": 162,
+    "question": "Find the antonym of 'PEAK'.",
+    "options": ["Summit", "Pinnacle", "Top", "Bottom"],
+    "answer": "Bottom",
+    "explanation": "Peak (চূড়া বা শীর্ষবিন্দু)-এর বিপরীত শব্দ Bottom (তলদেশ বা নিম্নভাগ)।"
+  },
+  {
+    "id": 163,
+    "question": "What is the antonym of 'PENALTY'?",
+    "options": ["Reward", "Punishment", "Fine", "Forfeit"],
+    "answer": "Reward",
+    "explanation": "Penalty (শাস্তি বা জরিমানা)-এর বিপরীত শব্দ Reward (পুরস্কার)।"
+  },
+  {
+    "id": 164,
+    "question": "Select the antonym for 'PERMANENT'.",
+    "options": ["Lasting", "Temporary", "Enduring", "Perpetual"],
+    "answer": "Temporary",
+    "explanation": "Permanent (স্থায়ী বা চিরস্থায়ী)-এর বিপরীত শব্দ Temporary (অস্থায়ী)।"
+  },
+  {
+    "id": 165,
+    "question": "Choose the exact antonym for the word 'PERMIT'.",
+    "options": ["Allow", "Grant", "Prohibit", "Authorize"],
+    "answer": "Prohibit",
+    "explanation": "Permit (অনুমতি দেওয়া)-এর বিপরীত শব্দ Prohibit (নিষেধ করা বা বারণ করা)।"
+  },
+  {
+    "id": 166,
+    "question": "Find the opposite meaning of 'PERSUADE'.",
+    "options": ["Convince", "Urge", "Coax", "Dissuade"],
+    "answer": "Dissuade",
+    "explanation": "Persuade (প্ররোচিত করা বা রাজি করানো)-এর বিপরীত শব্দ Dissuade (নিরস্ত করা বা বারণ করা)।"
+  },
+  {
+    "id": 167,
+    "question": "What is the antonym of 'PLENTIFUL'?",
+    "options": ["Scarce", "Abundant", "Copious", "Ample"],
+    "answer": "Scarce",
+    "explanation": "Plentiful (প্রচুর বা পর্যাপ্ত)-এর বিপরীত শব্দ Scarce (দুষ্প্রাপ্য বা অপ্রতুল)।"
+  },
+  {
+    "id": 168,
+    "question": "Select the antonym of 'POLITE'.",
+    "options": ["Courteous", "Rude", "Respectful", "Civil"],
+    "answer": "Rude",
+    "explanation": "Polite (ভদ্র বা মার্জিত)-এর বিপরীত শব্দ Rude (অভদ্র বা রূঢ়)।"
+  },
+  {
+    "id": 169,
+    "question": "Choose the word opposite in meaning to 'POOR'.",
+    "options": ["Destitute", "Needy", "Wealthy", "Penniless"],
+    "answer": "Wealthy",
+    "explanation": "Poor (দরিদ্র)-এর বিপরীত শব্দ Wealthy (ধনী বা সম্পদশালী)।"
+  },
+  {
+    "id": 170,
+    "question": "Find the antonym of 'POPULAR'.",
+    "options": ["Famous", "Well-known", "Liked", "Unpopular"],
+    "answer": "Unpopular",
+    "explanation": "Popular (জনপ্রিয়)-এর বিপরীত শব্দ Unpopular (জনপ্রিয় নয় এমন)।"
+  },
+  {
+    "id": 171,
+    "question": "What is the antonym of 'POSITIVE'?",
+    "options": ["Negative", "Certain", "Sure", "Optimistic"],
+    "answer": "Negative",
+    "explanation": "Positive (ইতিবাচক)-এর বিপরীত শব্দ Negative (নেতিবাচক)।"
+  },
+  {
+    "id": 172,
+    "question": "Select the antonym for 'POVERTY'.",
+    "options": ["Hardship", "Wealth", "Destitution", "Lack"],
+    "answer": "Wealth",
+    "explanation": "Poverty (দারিদ্র্য)-এর বিপরীত শব্দ Wealth (সম্পদ বা ধন)।"
+  },
+  {
+    "id": 173,
+    "question": "Choose the exact antonym for the word 'PRAISE'.",
+    "options": ["Admire", "Commend", "Criticize", "Compliment"],
+    "answer": "Criticize",
+    "explanation": "Praise (প্রশংসা করা)-এর বিপরীত শব্দ Criticize (সমালোচনা করা বা নিন্দা করা)।"
+  },
+  {
+    "id": 174,
+    "question": "Find the opposite meaning of 'PRECIOUS'.",
+    "options": ["Valuable", "Costly", "Priceless", "Worthless"],
+    "answer": "Worthless",
+    "explanation": "Precious (মূল্যবান)-এর বিপরীত শব্দ Worthless (মূল্যহীন)।"
+  },
+  {
+    "id": 175,
+    "question": "What is the antonym of 'PREFIX'?",
+    "options": ["Suffix", "Root", "Stem", "Affix"],
+    "answer": "Suffix",
+    "explanation": "Prefix (উপসর্গ যা শব্দের আগে বসে)-এর বিপরীত শব্দ Suffix (প্রত্যয় যা শব্দের শেষে বসে)।"
+  },
+  {
+    "id": 176,
+    "question": "Select the antonym of 'PREMATURE'.",
+    "options": ["Early", "Overdue", "Hasty", "Untimely"],
+    "answer": "Overdue",
+    "explanation": "Premature (অকাল বা সময়ের আগে)-এর বিপরীত শব্দ Overdue (অতিরিক্ত বিলম্বিত)।"
+  },
+  {
+    "id": 177,
+    "question": "Choose the word opposite in meaning to 'PRESENCE'.",
+    "options": ["Existence", "Attendance", "Absence", "Appearance"],
+    "answer": "Absence",
+    "explanation": "Presence (উপস্থিতি)-এর বিপরীত শব্দ Absence (অনুপস্থিতি)।"
+  },
+  {
+    "id": 178,
+    "question": "Find the antonym of 'PRESERVE'.",
+    "options": ["Save", "Protect", "Conserve", "Destroy"],
+    "answer": "Destroy",
+    "explanation": "Preserve (সংরক্ষণ করা বা রক্ষা করা)-এর বিপরীত শব্দ Destroy (ধ্বংস করা)।"
+  },
+  {
+    "id": 179,
+    "question": "What is the antonym of 'PREVENT'?",
+    "options": ["Allow", "Stop", "Hinder", "Block"],
+    "answer": "Allow",
+    "explanation": "Prevent (বাধা দেওয়া বা নিবারণ করা)-এর বিপরীত শব্দ Allow (অনুমতি দেওয়া বা করতে দেওয়া)।"
+  },
+  {
+    "id": 180,
+    "question": "Select the antonym for 'PRIDE'.",
+    "options": ["Arrogance", "Humility", "Vanity", "Ego"],
+    "answer": "Humility",
+    "explanation": "Pride (গর্ব বা অহংকার)-এর বিপরীত শব্দ Humility (বিনয় বা নম্রতা)।"
+  },
+  {
+    "id": 181,
+    "question": "Choose the exact antonym for the word 'PRIMARY'.",
+    "options": ["Main", "Chief", "Secondary", "Basic"],
+    "answer": "Secondary",
+    "explanation": "Primary (প্রাথমিক বা প্রধান)-এর বিপরীত শব্দ Secondary (মাধ্যমিক বা গৌণ)।"
+  },
+  {
+    "id": 182,
+    "question": "Find the opposite meaning of 'PRIVATE'.",
+    "options": ["Personal", "Secret", "Confidential", "Public"],
+    "answer": "Public",
+    "explanation": "Private (ব্যক্তিগত বা গোপনীয়)-এর বিপরীত শব্দ Public (প্রকাশ্য বা সার্বজনীন)।"
+  },
+  {
+    "id": 183,
+    "question": "What is the antonym of 'PROFIT'?",
+    "options": ["Loss", "Gain", "Benefit", "Income"],
+    "answer": "Loss",
+    "explanation": "Profit (লাভ বা মুনাফা)-এর বিপরীত শব্দ Loss (ক্ষতি বা লোকসান)।"
+  },
+  {
+    "id": 184,
+    "question": "Select the antonym of 'PROFOUND'.",
+    "options": ["Deep", "Superficial", "Intense", "Wise"],
+    "answer": "Superficial",
+    "explanation": "Profound (গভীর বা সুগভীর)-এর বিপরীত শব্দ Superficial (ভাসা-ভাসা বা অগভীর)।"
+  },
+  {
+    "id": 185,
+    "question": "Choose the word opposite in meaning to 'PROGRESS'.",
+    "options": ["Advance", "Development", "Decline", "Growth"],
+    "answer": "Decline",
+    "explanation": "Progress (উন্নতি বা অগ্রগতি)-এর বিপরীত শব্দ Decline (পতন বা অবনতি)।"
+  },
+  {
+    "id": 186,
+    "question": "Find the antonym of 'PROHIBIT'.",
+    "options": ["Forbid", "Ban", "Prevent", "Permit"],
+    "answer": "Permit",
+    "explanation": "Prohibit (নিষেধ করা)-এর বিপরীত শব্দ Permit (অনুমতি দেওয়া)।"
+  },
+  {
+    "id": 187,
+    "question": "What is the antonym of 'PROMPT'?",
+    "options": ["Sluggish", "Quick", "Swift", "Punctual"],
+    "answer": "Sluggish",
+    "explanation": "Prompt (তাত্ক্ষণিক বা ক্ষিপ্র)-এর বিপরীত শব্দ Sluggish (মন্থর বা অলস)।"
+  },
+  {
+    "id": 188,
+    "question": "Select the antonym for 'PROPER'.",
+    "options": ["Right", "Improper", "Correct", "Suitable"],
+    "answer": "Improper",
+    "explanation": "Proper (সঠিক বা যথাযথ)-এর বিপরীত শব্দ Improper (অনুচিত বা বেঠিক)।"
+  },
+  {
+    "id": 189,
+    "question": "Choose the exact antonym for the word 'PROTECT'.",
+    "options": ["Defend", "Guard", "Attack", "Shield"],
+    "answer": "Attack",
+    "explanation": "Protect (রক্ষা করা)-এর বিপরীত শব্দ Attack (আক্রমণ করা)।"
+  },
+  {
+    "id": 190,
+    "question": "Find the opposite meaning of 'PROVE'.",
+    "options": ["Verify", "Confirm", "Justify", "Disprove"],
+    "answer": "Disprove",
+    "explanation": "Prove (প্রমাণ করা)-এর বিপরীত শব্দ Disprove (অপ্রমাণিত বা খণ্ডন করা)।"
+  },
+  {
+    "id": 191,
+    "question": "What is the antonym of 'PUBLIC'?",
+    "options": ["Private", "Open", "Common", "General"],
+    "answer": "Private",
+    "explanation": "Public (সার্বজনীন বা সরকারি)-এর বিপরীত শব্দ Private (ব্যক্তিগত বা বেসরকারি)।"
+  },
+  {
+    "id": 192,
+    "question": "Select the antonym of 'PUNISH'.",
+    "options": ["Penalize", "Reward", "Chastise", "Discipline"],
+    "answer": "Reward",
+    "explanation": "Punish (শাস্তি দেওয়া)-এর বিপরীত শব্দ Reward (পুরস্কৃত করা)।"
+  },
+  {
+    "id": 193,
+    "question": "Choose the word opposite in meaning to 'PURE'.",
+    "options": ["Clean", "Clear", "Impure", "Perfect"],
+    "answer": "Impure",
+    "explanation": "Pure (বিশুদ্ধ বা খাঁটি)-এর বিপরীত শব্দ Impure (অশুদ্ধ বা ভেজাল)।"
+  },
+  {
+    "id": 194,
+    "question": "Find the antonym of 'QUAINT'.",
+    "options": ["Charming", "Old-fashioned", "Peculiar", "Modern"],
+    "answer": "Modern",
+    "explanation": "Quaint (আকর্ষণীয় কিন্তু সেকেলে বা অদ্ভুত)-এর বিপরীত শব্দ Modern (আধুনিক)।"
+  },
+  {
+    "id": 195,
+    "question": "What is the antonym of 'QUALIFY'?",
+    "options": ["Disqualify", "Certify", "Authorize", "Pass"],
+    "answer": "Disqualify",
+    "explanation": "Qualify (যোগ্যতা অর্জন করা)-এর বিপরীত শব্দ Disqualify (অযোগ্য বলে বাতিল করা)।"
+  },
+  {
+    "id": 196,
+    "question": "Select the antonym for 'QUEER'.",
+    "options": ["Odd", "Normal", "Strange", "Unusual"],
+    "answer": "Normal",
+    "explanation": "Queer (অদ্ভুত বা অস্বাভাবিক)-এর বিপরীত শব্দ Normal (স্বাভাবিক)।"
+  },
+  {
+    "id": 197,
+    "question": "Choose the exact antonym for the word 'QUICK'.",
+    "options": ["Fast", "Rapid", "Slow", "Swift"],
+    "answer": "Slow",
+    "explanation": "Quick (দ্রুত)-এর বিপরীত শব্দ Slow (ধীর)।"
+  },
+  {
+    "id": 198,
+    "question": "Find the opposite meaning of 'QUIET'.",
+    "options": ["Silent", "Calm", "Peaceful", "Noisy"],
+    "answer": "Noisy",
+    "explanation": "Quiet (নিঃশব্দ বা শান্ত)-এর বিপরীত শব্দ Noisy (কোলাহলপূর্ণ বা গোলমালিয়া)।"
+  },
+  {
+    "id": 199,
+    "question": "What is the antonym of 'QUIT'?",
+    "options": ["Continue", "Stop", "Resign", "Leave"],
+    "answer": "Continue",
+    "explanation": "Quit (ত্যাগ করা বা ছেড়ে দেওয়া)-এর বিপরীত শব্দ Continue (চালিয়ে যাওয়া)।"
+  },
+  {
+    "id": 200,
+    "question": "Select the antonym of 'RADICAL'.",
+    "options": ["Extreme", "Conservative", "Thorough", "Revolutionary"],
+    "answer": "Conservative",
+    "explanation": "Radical (চরমপন্থী বা আমূল পরিবর্তনকামী)-এর বিপরীত শব্দ Conservative (রক্ষণশীল বা পরিবর্তন বিরোধী)।"
+  },
+  {
+    "id": 201,
+    "question": "What is the antonym of 'RAPID'?",
+    "options": ["Slow", "Fast", "Swift", "Quick"],
+    "answer": "Slow",
+    "explanation": "Rapid (দ্রুত)-এর বিপরীত শব্দ হলো Slow (ধীর)।"
+  },
+  {
+    "id": 202,
+    "question": "Select the antonym of 'RARE'.",
+    "options": ["Scarce", "Common", "Unusual", "Unique"],
+    "answer": "Common",
+    "explanation": "Rare (বিরল বা দুর্লভ)-এর বিপরীত শব্দ Common (সাধারণ বা সুলভ)।"
+  },
+  {
+    "id": 203,
+    "question": "Choose the word opposite in meaning to 'RATIONAL'.",
+    "options": ["Logical", "Sensible", "Irrational", "Reasonable"],
+    "answer": "Irrational",
+    "explanation": "Rational (যৌক্তিক বা যুক্তিসঙ্গত)-এর বিপরীত শব্দ Irrational (অযৌক্তিক)।"
+  },
+  {
+    "id": 204,
+    "question": "Find the antonym of 'RAW'.",
+    "options": ["Uncooked", "Fresh", "Crude", "Cooked"],
+    "answer": "Cooked",
+    "explanation": "Raw (কাঁচা)-এর বিপরীত শব্দ Cooked (রান্না করা বা পক্ব)।"
+  },
+  {
+    "id": 205,
+    "question": "What is the antonym of 'REAR'?",
+    "options": ["Front", "Back", "Behind", "Hind"],
+    "answer": "Front",
+    "explanation": "Rear (পিছন বা পেছনের দিক)-এর বিপরীত শব্দ Front (সামনে বা সম্মুখভাগ)।"
+  },
+  {
+    "id": 206,
+    "question": "Select the antonym for 'RECKLESS'.",
+    "options": ["Rash", "Cautious", "Careless", "Wild"],
+    "answer": "Cautious",
+    "explanation": "Reckless (বেপরোয়া বা অসতর্ক)-এর বিপরীত শব্দ Cautious (সতর্ক বা সাবধানী)।"
+  },
+  {
+    "id": 207,
+    "question": "Choose the exact antonym for the word 'REJECT'.",
+    "options": ["Decline", "Refuse", "Accept", "Deny"],
+    "answer": "Accept",
+    "explanation": "Reject (প্রত্যাখ্যান করা বা বাতিল করা)-এর বিপরীত শব্দ Accept (গ্রহণ করা)।"
+  },
+  {
+    "id": 208,
+    "question": "Find the opposite meaning of 'RELEASE'.",
+    "options": ["Free", "Liberate", "Discharge", "Confine"],
+    "answer": "Confine",
+    "explanation": "Release (মুক্ত করা বা ছেড়ে দেওয়া)-এর বিপরীত শব্দ Confine (আবদ্ধ করা বা বন্দী করা)।"
+  },
+  {
+    "id": 209,
+    "question": "What is the antonym of 'RELIABLE'?",
+    "options": ["Unreliable", "Dependable", "Trustworthy", "Sure"],
+    "answer": "Unreliable",
+    "explanation": "Reliable (নির্ভরযোগ্য)-এর বিপরীত শব্দ Unreliable (অনির্ভরযোগ্য)।"
+  },
+  {
+    "id": 210,
+    "question": "Select the antonym of 'RELUCTANT'.",
+    "options": ["Hesitant", "Eager", "Unwilling", "Averse"],
+    "answer": "Eager",
+    "explanation": "Reluctant (অনিচ্ছুক)-এর বিপরীত শব্দ Eager (আগ্রহী বা উৎসুক)।"
+  },
+  {
+    "id": 211,
+    "question": "Choose the word opposite in meaning to 'REMOTE'.",
+    "options": ["Distant", "Far", "Near", "Isolated"],
+    "answer": "Near",
+    "explanation": "Remote (দূরবর্তী বা প্রত্যন্ত)-এর বিপরীত শব্দ Near (নিকটবর্তী বা কাছে)।"
+  },
+  {
+    "id": 212,
+    "question": "Find the antonym of 'REPEL'.",
+    "options": ["Disgust", "Reject", "Offend", "Attract"],
+    "answer": "Attract",
+    "explanation": "Repel (বিকর্ষণ করা বা দূরে সরিয়ে দেওয়া)-এর বিপরীত শব্দ Attract (আকর্ষণ করা)।"
+  },
+  {
+    "id": 213,
+    "question": "What is the antonym of 'RESCUE'?",
+    "options": ["Endanger", "Save", "Deliver", "Free"],
+    "answer": "Endanger",
+    "explanation": "Rescue (উদ্ধার করা বা বাঁচানো)-এর বিপরীত শব্দ Endanger (বিপন্ন করা বা বিপদে ফেলা)।"
+  },
+  {
+    "id": 214,
+    "question": "Select the antonym for 'RESIST'.",
+    "options": ["Oppose", "Yield", "Withstand", "Fight"],
+    "answer": "Yield",
+    "explanation": "Resist (প্রতিরোধ করা)-এর বিপরীত শব্দ Yield (নতি স্বীকার করা বা বশ্যতা মানা)।"
+  },
+  {
+    "id": 215,
+    "question": "Choose the exact antonym for the word 'RESPECT'.",
+    "options": ["Honor", "Esteem", "Disrespect", "Reverence"],
+    "answer": "Disrespect",
+    "explanation": "Respect (সম্মান বা শ্রদ্ধা)-এর বিপরীত শব্দ Disrespect (অসম্মান বা অবজ্ঞা)।"
+  },
+  {
+    "id": 216,
+    "question": "Find the opposite meaning of 'REVEAL'.",
+    "options": ["Disclose", "Show", "Expose", "Hide"],
+    "answer": "Hide",
+    "explanation": "Reveal (প্রকাশ করা বা ফাঁস করা)-এর বিপরীত শব্দ Hide (লুকানো বা গোপন করা)।"
+  },
+  {
+    "id": 217,
+    "question": "What is the antonym of 'REWARD'?",
+    "options": ["Punish", "Prize", "Award", "Gift"],
+    "answer": "Punish",
+    "explanation": "Reward (পুরস্কৃত করা)-এর বিপরীত শব্দ Punish (শাস্তি দেওয়া)।"
+  },
+  {
+    "id": 218,
+    "question": "Select the antonym of 'RIGID'.",
+    "options": ["Stiff", "Flexible", "Firm", "Strict"],
+    "answer": "Flexible",
+    "explanation": "Rigid (কঠোর বা অনমনীয়)-এর বিপরীত শব্দ Flexible (নমনীয়)।"
+  },
+  {
+    "id": 219,
+    "question": "Choose the word opposite in meaning to 'RISE'.",
+    "options": ["Ascend", "Soar", "Fall", "Climb"],
+    "answer": "Fall",
+    "explanation": "Rise (উপরে ওঠা বা বৃদ্ধি পাওয়া)-এর বিপরীত শব্দ Fall (পতন হওয়া বা নিচে নামা)।"
+  },
+  {
+    "id": 220,
+    "question": "Find the antonym of 'ROUGH'.",
+    "options": ["Coarse", "Uneven", "Harsh", "Smooth"],
+    "answer": "Smooth",
+    "explanation": "Rough (অমসৃণ বা রুক্ষ)-এর বিপরীত শব্দ Smooth (মসৃণ বা সমতল)।"
+  },
+  {
+    "id": 221,
+    "question": "What is the antonym of 'RUDE'?",
+    "options": ["Polite", "Impolite", "Discourteous", "Rough"],
+    "answer": "Polite",
+    "explanation": "Rude (অভদ্র বা রূঢ়)-এর বিপরীত শব্দ Polite (ভদ্র বা বিনীত)।"
+  },
+  {
+    "id": 222,
+    "question": "Select the antonym for 'RURAL'.",
+    "options": ["Rustic", "Urban", "Country", "Pastoral"],
+    "answer": "Urban",
+    "explanation": "Rural (গ্রামীণ)-এর বিপরীত শব্দ Urban (শহুরে বা নাগরিক)।"
+  },
+  {
+    "id": 223,
+    "question": "Choose the exact antonym for the word 'SACRED'.",
+    "options": ["Holy", "Divine", "Profane", "Blessed"],
+    "answer": "Profane",
+    "explanation": "Sacred (পবিত্র)-এর বিপরীত শব্দ Profane (অপবিত্র বা লৌকিক)।"
+  },
+  {
+    "id": 224,
+    "question": "Find the opposite meaning of 'SAD'.",
+    "options": ["Unhappy", "Sorrowful", "Mournful", "Happy"],
+    "answer": "Happy",
+    "explanation": "Sad (দুঃখিত বা বিষণ্ণ)-এর বিপরীত শব্দ Happy (সুখী বা আনন্দিত)।"
+  },
+  {
+    "id": 225,
+    "question": "What is the antonym of 'SAFE'?",
+    "options": ["Dangerous", "Secure", "Protected", "Guarded"],
+    "answer": "Dangerous",
+    "explanation": "Safe (নিরাপদ)-এর বিপরীত শব্দ Dangerous (বিপজ্জনক)।"
+  },
+  {
+    "id": 226,
+    "question": "Select the antonym of 'SANITY'.",
+    "options": ["Reason", "Insanity", "Sense", "Lucidity"],
+    "answer": "Insanity",
+    "explanation": "Sanity (মানসিক সুস্থতা বা বিবেক)-এর বিপরীত শব্দ Insanity (উন্মাদনা বা পাগলামি)।"
+  },
+  {
+    "id": 227,
+    "question": "Choose the word opposite in meaning to 'SAVAGE'.",
+    "options": ["Wild", "Fierce", "Civilized", "Cruel"],
+    "answer": "Civilized",
+    "explanation": "Savage (বর্বর বা অসভ্য)-এর বিপরীত শব্দ Civilized (সভ্য)।"
+  },
+  {
+    "id": 228,
+    "question": "Find the antonym of 'SCATTER'.",
+    "options": ["Disperse", "Spread", "Sprinkle", "Gather"],
+    "answer": "Gather",
+    "explanation": "Scatter (ছড়িয়ে দেওয়া বা বিক্ষিপ্ত করা)-এর বিপরীত শব্দ Gather (জড়ো করা বা সংগ্রহ করা)।"
+  },
+  {
+    "id": 229,
+    "question": "What is the antonym of 'SCOLD'?",
+    "options": ["Praise", "Rebuke", "Chide", "Reprimand"],
+    "answer": "Praise",
+    "explanation": "Scold (বকাঝকা করা বা তিরস্কার করা)-এর বিপরীত শব্দ Praise (প্রশংসা করা)।"
+  },
+  {
+    "id": 230,
+    "question": "Select the antonym for 'SECRET'.",
+    "options": ["Hidden", "Public", "Concealed", "Private"],
+    "answer": "Public",
+    "explanation": "Secret (গোপন বা গুপ্ত)-এর বিপরীত শব্দ Public (প্রকাশ্য বা জনসমক্ষে আনা)।"
+  },
+  {
+    "id": 231,
+    "question": "Choose the exact antonym for the word 'SELDOM'.",
+    "options": ["Rarely", "Infrequently", "Often", "Hardly"],
+    "answer": "Often",
+    "explanation": "Seldom (কদাচিৎ বা খুব কম)-এর বিপরীত শব্দ Often (প্রায়শই বা ঘনঘন)।"
+  },
+  {
+    "id": 232,
+    "question": "Find the opposite meaning of 'SENSIBLE'.",
+    "options": ["Reasonable", "Practical", "Wise", "Foolish"],
+    "answer": "Foolish",
+    "explanation": "Sensible (বিচক্ষণ বা বুদ্ধিমান)-এর বিপরীত শব্দ Foolish (বোকা বা অবিবেচক)।"
+  },
+  {
+    "id": 233,
+    "question": "What is the antonym of 'SEPARATE'?",
+    "options": ["Unite", "Divide", "Part", "Disconnect"],
+    "answer": "Unite",
+    "explanation": "Separate (আলাদা করা বা বিচ্ছিন্ন করা)-এর বিপরীত শব্দ Unite (একত্রিত করা)।"
+  },
+  {
+    "id": 234,
+    "question": "Select the antonym of 'SERIOUS'.",
+    "options": ["Grave", "Trivial", "Solemn", "Earnest"],
+    "answer": "Trivial",
+    "explanation": "Serious (গুরুতর বা গুরুত্বপূর্ণ)-এর বিপরীত শব্দ Trivial (তুচ্ছ বা সামান্য)।"
+  },
+  {
+    "id": 235,
+    "question": "Choose the word opposite in meaning to 'SEVERE'.",
+    "options": ["Harsh", "Strict", "Mild", "Stern"],
+    "answer": "Mild",
+    "explanation": "Severe (কঠোর বা তীব্র)-এর বিপরীত শব্দ Mild (মৃদু বা কোমল)।"
+  },
+  {
+    "id": 236,
+    "question": "Find the antonym of 'SHALLOW'.",
+    "options": ["Superficial", "Surface", "Flat", "Deep"],
+    "answer": "Deep",
+    "explanation": "Shallow (অগভীর)-এর বিপরীত শব্দ Deep (গভীর)।"
+  },
+  {
+    "id": 237,
+    "question": "What is the antonym of 'SHARP'?",
+    "options": ["Blunt", "Keen", "Acute", "Pointed"],
+    "answer": "Blunt",
+    "explanation": "Sharp (তীক্ষ্ণ বা ধারালো)-এর বিপরীত শব্দ Blunt (ভোঁতা)।"
+  },
+  {
+    "id": 238,
+    "question": "Select the antonym for 'SHRINK'.",
+    "options": ["Contract", "Expand", "Decrease", "Diminish"],
+    "answer": "Expand",
+    "explanation": "Shrink (সঙ্কুচিত হওয়া বা গুটিয়ে যাওয়া)-এর বিপরীত শব্দ Expand (প্রসারিত হওয়া)।"
+  },
+  {
+    "id": 239,
+    "question": "Choose the exact antonym for the word 'SIGNIFICANT'.",
+    "options": ["Important", "Meaningful", "Insignificant", "Notable"],
+    "answer": "Insignificant",
+    "explanation": "Significant (তাৎপর্যপূর্ণ বা গুরুত্বপূর্ণ)-এর বিপরীত শব্দ Insignificant (তুচ্ছ বা গুরুত্বহীন)।"
+  },
+  {
+    "id": 240,
+    "question": "Find the opposite meaning of 'SILENT'.",
+    "options": ["Quiet", "Mute", "Still", "Noisy"],
+    "answer": "Noisy",
+    "explanation": "Silent (নীরব বা শব্দহীন)-এর বিপরীত শব্দ Noisy (কোলাহলপূর্ণ বা গোলমালিয়া)।"
+  },
+  {
+    "id": 241,
+    "question": "What is the antonym of 'SIMPLE'?",
+    "options": ["Complex", "Easy", "Plain", "Clear"],
+    "answer": "Complex",
+    "explanation": "Simple (সরল বা সহজ)-এর বিপরীত শব্দ Complex (জটিল)।"
+  },
+  {
+    "id": 242,
+    "question": "Select the antonym of 'SINCERE'.",
+    "options": ["Genuine", "Insincere", "Honest", "True"],
+    "answer": "Insincere",
+    "explanation": "Sincere (আন্তরিক বা অকপট)-এর বিপরীত শব্দ Insincere (অকৃত্রিম নয় বা ভণ্ড)।"
+  },
+  {
+    "id": 243,
+    "question": "Choose the word opposite in meaning to 'STAGNANT'.",
+    "options": ["Still", "Motionless", "Flowing", "Quiet"],
+    "answer": "Flowing",
+    "explanation": "Stagnant (বদ্ধ বা স্থির)-এর বিপরীত শব্দ Flowing (প্রবাহমান)।"
+  },
+  {
+    "id": 244,
+    "question": "Find the antonym of 'SOLID'.",
+    "options": ["Firm", "Hard", "Dense", "Liquid"],
+    "answer": "Liquid",
+    "explanation": "Solid (কঠিন বা জমাটবদ্ধ)-এর বিপরীত শব্দ Liquid (তরল)।"
+  },
+  {
+    "id": 245,
+    "question": "What is the antonym of 'SORROW'?",
+    "options": ["Joy", "Grief", "Sadness", "Misery"],
+    "answer": "Joy",
+    "explanation": "Sorrow (দুঃখ বা শোক)-এর বিপরীত শব্দ Joy (আনন্দ বা উল্লাস)।"
+  },
+  {
+    "id": 246,
+    "question": "Select the antonym for 'SOUR'.",
+    "options": ["Bitter", "Sweet", "Tart", "Acid"],
+    "answer": "Sweet",
+    "explanation": "Sour (টক)-এর বিপরীত শব্দ Sweet (মিষ্টি)।"
+  },
+  {
+    "id": 247,
+    "question": "Choose the exact antonym for the word 'SOW'.",
+    "options": ["Plant", "Scatter", "Reap", "Seed"],
+    "answer": "Reap",
+    "explanation": "Sow (বীজ বপন করা)-এর বিপরীত শব্দ Reap (ফসল কাটা বা সংগ্রহ করা)।"
+  },
+  {
+    "id": 248,
+    "question": "Find the opposite meaning of 'SPARSE'.",
+    "options": ["Scanty", "Thin", "Meager", "Dense"],
+    "answer": "Dense",
+    "explanation": "Sparse (পাতলা বা বিক্ষিপ্ত)-এর বিপরীত শব্দ Dense (ঘন বা নিবিড়)।"
+  },
+  {
+    "id": 249,
+    "question": "What is the antonym of 'SPECIAL'?",
+    "options": ["Ordinary", "Exceptional", "Unique", "Particular"],
+    "answer": "Ordinary",
+    "explanation": "Special (বিশেষ বা অসাধারণ)-এর বিপরীত শব্দ Ordinary (সাধারণ বা আটপৌরে)।"
+  },
+  {
+    "id": 250,
+    "question": "Select the antonym of 'STABLE'.",
+    "options": ["Steady", "Unstable", "Firm", "Secure"],
+    "answer": "Unstable",
+    "explanation": "Stable (স্থিতিশীল বা দৃঢ়)-এর বিপরীত শব্দ Unstable (অস্থির বা অস্থিতিশীল)।"
+  },
+  {
+    "id": 251,
+    "question": "Find the antonym of 'STALE'.",
+    "options": ["Fresh", "Old", "Dry", "Decayed"],
+    "answer": "Fresh",
+    "explanation": "Stale (বাসি)-এর বিপরীত শব্দ Fresh (টাটকা)।"
+  },
+  {
+    "id": 252,
+    "question": "What is the antonym of 'STINGY'?",
+    "options": ["Miserly", "Generous", "Selfish", "Mean"],
+    "answer": "Generous",
+    "explanation": "Stingy (কৃপণ বা কঞ্জুস)-এর বিপরীত শব্দ Generous (উদার বা দানশীল)।"
+  },
+  {
+    "id": 253,
+    "question": "Select the antonym for 'STRICT'.",
+    "options": ["Rigid", "Harsh", "Lenient", "Severe"],
+    "answer": "Lenient",
+    "explanation": "Strict (কঠোর)-এর বিপরীত শব্দ Lenient (কোমল বা ক্ষমাশীল)।"
+  },
+  {
+    "id": 254,
+    "question": "Choose the exact antonym for the word 'STRONG'.",
+    "options": ["Powerful", "Sturdy", "Robust", "Weak"],
+    "answer": "Weak",
+    "explanation": "Strong (শক্তিশালী)-এর বিপরীত শব্দ Weak (দুর্বল)।"
+  },
+  {
+    "id": 255,
+    "question": "Find the opposite meaning of 'SUBSEQUENT'.",
+    "options": ["Prior", "Later", "Following", "Successive"],
+    "answer": "Prior",
+    "explanation": "Subsequent (পরবর্তী বা পরে আগত)-এর বিপরীত শব্দ Prior (পূর্ববর্তী)।"
+  },
+  {
+    "id": 256,
+    "question": "What is the antonym of 'SUPERFICIAL'?",
+    "options": ["Shallow", "Deep", "Surface", "Frivolous"],
+    "answer": "Deep",
+    "explanation": "Superficial (ভাসা-ভাসা বা অগভীর)-এর বিপরীত শব্দ Deep (গভীর)।"
+  },
+  {
+    "id": 257,
+    "question": "Select the antonym of 'SURPLUS'.",
+    "options": ["Excess", "Abundance", "Deficit", "Plenty"],
+    "answer": "Deficit",
+    "explanation": "Surplus (উদ্বৃত্ত বা অতিরিক্ত)-এর বিপরীত শব্দ Deficit (ঘাটতি)।"
+  },
+  {
+    "id": 258,
+    "question": "Choose the word opposite in meaning to 'SYMPATHY'.",
+    "options": ["Pity", "Compassion", "Empathy", "Apathy"],
+    "answer": "Apathy",
+    "explanation": "Sympathy (সহানুভূতি)-এর বিপরীত শব্দ Apathy (উদাসীনতা বা অনীহা)।"
+  },
+  {
+    "id": 259,
+    "question": "Find the antonym of 'TAME'.",
+    "options": ["Wild", "Docile", "Gentle", "Mild"],
+    "answer": "Wild",
+    "explanation": "Tame (পোষা বা শান্ত)-এর বিপরীত শব্দ Wild (বন্য বা অদম্য)।"
+  },
+  {
+    "id": 260,
+    "question": "What is the antonym of 'TEDIOUS'?",
+    "options": ["Boring", "Exciting", "Dull", "Tiresome"],
+    "answer": "Exciting",
+    "explanation": "Tedious (ক্লান্তিকর বা একঘেয়ে)-এর বিপরীত শব্দ Exciting (উত্তেজনাপূর্ণ বা রোমাঞ্চকর)।"
+  },
+  {
+    "id": 261,
+    "question": "Select the antonym for 'TEMPORARY'.",
+    "options": ["Brief", "Passing", "Permanent", "Momentary"],
+    "answer": "Permanent",
+    "explanation": "Temporary (অস্থায়ী)-এর বিপরীত শব্দ Permanent (স্থায়ী বা চিরস্থায়ী)।"
+  },
+  {
+    "id": 262,
+    "question": "Choose the exact antonym for the word 'TENDER'.",
+    "options": ["Soft", "Gentle", "Delicate", "Tough"],
+    "answer": "Tough",
+    "explanation": "Tender (কোমল বা নরম)-এর বিপরীত শব্দ Tough (কঠোর বা শক্ত)।"
+  },
+  {
+    "id": 263,
+    "question": "Find the opposite meaning of 'THICK'.",
+    "options": ["Thin", "Dense", "Heavy", "Solid"],
+    "answer": "Thin",
+    "explanation": "Thick (পুরু বা ঘন)-এর বিপরীত শব্দ Thin (পাতলা)।"
+  },
+  {
+    "id": 264,
+    "question": "What is the antonym of 'TIMID'?",
+    "options": ["Fearful", "Bold", "Shy", "Nervous"],
+    "answer": "Bold",
+    "explanation": "Timid (ভীতু বা লাজুক)-এর বিপরীত শব্দ Bold (সাহসী)।"
+  },
+  {
+    "id": 265,
+    "question": "Select the antonym of 'TRAGEDY'.",
+    "options": ["Disaster", "Calamity", "Comedy", "Misfortune"],
+    "answer": "Comedy",
+    "explanation": "Tragedy (বিয়োগান্তক বা শোকাবহ ঘটনা)-এর বিপরীত শব্দ Comedy (মিলনান্তক বা হাস্যকৌতুক)।"
+  },
+  {
+    "id": 266,
+    "question": "Choose the word opposite in meaning to 'TRANSPARENT'.",
+    "options": ["Clear", "Lucid", "Limpid", "Opaque"],
+    "answer": "Opaque",
+    "explanation": "Transparent (স্বচ্ছ)-এর বিপরীত শব্দ Opaque (অস্বচ্ছ)।"
+  },
+  {
+    "id": 267,
+    "question": "Find the antonym of 'TRIVIAL'.",
+    "options": ["Crucial", "Minor", "Petty", "Insignificant"],
+    "answer": "Crucial",
+    "explanation": "Trivial (তুচ্ছ বা গুরুত্বহীন)-এর বিপরীত শব্দ Crucial (অত্যন্ত গুরুত্বপূর্ণ)।"
+  },
+  {
+    "id": 268,
+    "question": "What is the antonym of 'UNANIMOUS'?",
+    "options": ["United", "Divided", "Agreed", "Concordant"],
+    "answer": "Divided",
+    "explanation": "Unanimous (সর্বসম্মত বা একমত)-এর বিপরীত শব্দ Divided (বিভক্ত বা দ্বিমত পোষণকারী)।"
+  },
+  {
+    "id": 269,
+    "question": "Select the antonym for 'UNIFORM'.",
+    "options": ["Consistent", "Even", "Varied", "Equal"],
+    "answer": "Varied",
+    "explanation": "Uniform (অভিন্ন বা একই রকম)-এর বিপরীত শব্দ Varied (বিবিধ বা ভিন্ন ভিন্ন)।"
+  },
+  {
+    "id": 270,
+    "question": "Choose the exact antonym for the word 'UNIQUE'.",
+    "options": ["Single", "Rare", "Exclusive", "Common"],
+    "answer": "Common",
+    "explanation": "Unique (অনন্য বা অদ্বিতীয়)-এর বিপরীত শব্দ Common (সাধারণ বা সুলভ)।"
+  },
+  {
+    "id": 271,
+    "question": "Find the opposite meaning of 'UNIVERSAL'.",
+    "options": ["Local", "General", "Worldwide", "Widespread"],
+    "answer": "Local",
+    "explanation": "Universal (সার্বজনীন বা বিশ্বব্যাপী)-এর বিপরীত শব্দ Local (স্থানীয়)।"
+  },
+  {
+    "id": 272,
+    "question": "What is the antonym of 'UNVEIL'?",
+    "options": ["Reveal", "Conceal", "Uncover", "Expose"],
+    "answer": "Conceal",
+    "explanation": "Unveil (উন্মোচন করা বা প্রকাশ করা)-এর বিপরীত শব্দ Conceal (গোপন করা বা লুকানো)।"
+  },
+  {
+    "id": 273,
+    "question": "Select the antonym of 'URBANE'.",
+    "options": ["Polite", "Refined", "Rude", "Cultured"],
+    "answer": "Rude",
+    "explanation": "Urbane (ভদ্র বা সুশীল)-এর বিপরীত শব্দ Rude (অভদ্র বা রূঢ়)।"
+  },
+  {
+    "id": 274,
+    "question": "Choose the word opposite in meaning to 'VACANT'.",
+    "options": ["Empty", "Bare", "Void", "Occupied"],
+    "answer": "Occupied",
+    "explanation": "Vacant (খালি বা শূন্য)-এর বিপরীত শব্দ Occupied (দখলকৃত বা পূর্ণ)।"
+  },
+  {
+    "id": 275,
+    "question": "Find the antonym of 'VAGUE'.",
+    "options": ["Definite", "Unclear", "Fuzzy", "Obscure"],
+    "answer": "Definite",
+    "explanation": "Vague (অস্পষ্ট)-এর বিপরীত শব্দ Definite (নির্দিষ্ট বা সুস্পষ্ট)।"
+  },
+  {
+    "id": 276,
+    "question": "What is the antonym of 'VALID'?",
+    "options": ["Legitimate", "Invalid", "True", "Sound"],
+    "answer": "Invalid",
+    "explanation": "Valid (বৈধ বা যুক্তিসঙ্গত)-এর বিপরীত শব্দ Invalid (অবৈধ বা বাতিল)।"
+  },
+  {
+    "id": 277,
+    "question": "Select the antonym for 'VALUABLE'.",
+    "options": ["Costly", "Precious", "Worthless", "Expensive"],
+    "answer": "Worthless",
+    "explanation": "Valuable (মূল্যবান)-এর বিপরীত শব্দ Worthless (মূল্যহীন)।"
+  },
+  {
+    "id": 278,
+    "question": "Choose the exact antonym for the word 'VANISH'.",
+    "options": ["Disappear", "Fade", "Dissolve", "Appear"],
+    "answer": "Appear",
+    "explanation": "Vanish (অদৃশ্য হওয়া বা মিলিয়ে যাওয়া)-এর বিপরীত শব্দ Appear (আবির্ভূত হওয়া বা দেখা দেওয়া)।"
+  },
+  {
+    "id": 279,
+    "question": "Find the opposite meaning of 'VAST'.",
+    "options": ["Tiny", "Huge", "Immense", "Massive"],
+    "answer": "Tiny",
+    "explanation": "Vast (বিশাল বা বিস্তৃত)-এর বিপরীত শব্দ Tiny (ক্ষুদ্র)।"
+  },
+  {
+    "id": 280,
+    "question": "What is the antonym of 'VERTICAL'?",
+    "options": ["Upright", "Horizontal", "Erect", "Plumb"],
+    "answer": "Horizontal",
+    "explanation": "Vertical (উল্লম্ব বা খাড়া)-এর বিপরীত শব্দ Horizontal (অনুভূমিক বা সমান্তরাল)।"
+  },
+  {
+    "id": 281,
+    "question": "Select the antonym of 'VETERAN'.",
+    "options": ["Experienced", "Expert", "Novice", "Master"],
+    "answer": "Novice",
+    "explanation": "Veteran (অভিজ্ঞ বা প্রবীণ)-এর বিপরীত শব্দ Novice (শিক্ষানবিশ বা অনভিজ্ঞ)।"
+  },
+  {
+    "id": 282,
+    "question": "Choose the word opposite in meaning to 'VICTORY'.",
+    "options": ["Win", "Triumph", "Success", "Defeat"],
+    "answer": "Defeat",
+    "explanation": "Victory (বিজয় বা জয়)-এর বিপরীত শব্দ Defeat (পরাজয় বা হার)।"
+  },
+  {
+    "id": 283,
+    "question": "Find the antonym of 'VIGILANT'.",
+    "options": ["Careless", "Watchful", "Alert", "Observant"],
+    "answer": "Careless",
+    "explanation": "Vigilant (সতর্ক বা পাহারারত)-এর বিপরীত শব্দ Careless (অসতর্ক বা উদাসীন)।"
+  },
+  {
+    "id": 284,
+    "question": "What is the antonym of 'VIGOROUS'?",
+    "options": ["Energetic", "Feeble", "Robust", "Strong"],
+    "answer": "Feeble",
+    "explanation": "Vigorous (তেজস্বী বা বলবান)-এর বিপরীত শব্দ Feeble (দুর্বল বা ক্ষীণ)।"
+  },
+  {
+    "id": 285,
+    "question": "Select the antonym for 'VIOLENT'.",
+    "options": ["Aggressive", "Fierce", "Peaceful", "Brutal"],
+    "answer": "Peaceful",
+    "explanation": "Violent (হিংস্র বা উগ্র)-এর বিপরীত শব্দ Peaceful (শান্তিপূর্ণ বা অহিংস)।"
+  },
+  {
+    "id": 286,
+    "question": "Choose the exact antonym for the word 'VIRTUE'.",
+    "options": ["Goodness", "Morality", "Ethics", "Vice"],
+    "answer": "Vice",
+    "explanation": "Virtue (পুণ্য বা সদ্গুণ)-এর বিপরীত শব্দ Vice (পাপ বা বদভ্যাস)।"
+  },
+  {
+    "id": 287,
+    "question": "Find the opposite meaning of 'VISIBLE'.",
+    "options": ["Invisible", "Clear", "Apparent", "Obvious"],
+    "answer": "Invisible",
+    "explanation": "Visible (দৃশ্যমান)-এর বিপরীত শব্দ Invisible (অদৃশ্য)।"
+  },
+  {
+    "id": 288,
+    "question": "What is the antonym of 'VOLUNTARY'?",
+    "options": ["Willing", "Compulsory", "Optional", "Intentional"],
+    "answer": "Compulsory",
+    "explanation": "Voluntary (স্বেচ্ছাকৃত)-এর বিপরীত শব্দ Compulsory (বাধ্যতামূলক)।"
+  },
+  {
+    "id": 289,
+    "question": "Select the antonym of 'WEALTH'.",
+    "options": ["Riches", "Fortune", "Poverty", "Money"],
+    "answer": "Poverty",
+    "explanation": "Wealth (সম্পদ বা ধন)-এর বিপরীত শব্দ Poverty (দারিদ্র্য)।"
+  },
+  {
+    "id": 290,
+    "question": "Choose the word opposite in meaning to 'WILD'.",
+    "options": ["Untamed", "Fierce", "Savage", "Tame"],
+    "answer": "Tame",
+    "explanation": "Wild (বন্য বা অদম্য)-এর বিপরীত শব্দ Tame (পোষা বা বশীভূত)।"
+  },
+  {
+    "id": 291,
+    "question": "Find the antonym of 'WISDOM'.",
+    "options": ["Folly", "Knowledge", "Insight", "Prudence"],
+    "answer": "Folly",
+    "explanation": "Wisdom (প্রজ্ঞা বা জ্ঞান)-এর বিপরীত শব্দ Folly (বোকামি বা নির্বুদ্ধিতা)।"
+  },
+  {
+    "id": 292,
+    "question": "What is the antonym of 'WITHDRAW'?",
+    "options": ["Retreat", "Advance", "Pull", "Extract"],
+    "answer": "Advance",
+    "explanation": "Withdraw (প্রত্যাহার করা বা পিছিয়ে আসা)-এর বিপরীত শব্দ Advance (অগ্রসর হওয়া)।"
+  },
+  {
+    "id": 293,
+    "question": "Select the antonym for 'YIELD'.",
+    "options": ["Surrender", "Submit", "Resist", "Give up"],
+    "answer": "Resist",
+    "explanation": "Yield (বশ্যতা স্বীকার করা)-এর বিপরীত শব্দ Resist (প্রতিরোধ করা)।"
+  },
+  {
+    "id": 294,
+    "question": "Choose the exact antonym for the word 'ZEAL'.",
+    "options": ["Enthusiasm", "Passion", "Energy", "Apathy"],
+    "answer": "Apathy",
+    "explanation": "Zeal (প্রবল উৎসাহ বা উদ্দীপনা)-এর বিপরীত শব্দ Apathy (উদাসীনতা বা অনীহা)।"
+  },
+  {
+    "id": 295,
+    "question": "Find the opposite meaning of 'ZENITH'.",
+    "options": ["Nadir", "Peak", "Summit", "Top"],
+    "answer": "Nadir",
+    "explanation": "Zenith (শীর্ষবিন্দু বা সর্বোচ্চ পর্যায়)-এর বিপরীত শব্দ Nadir (সর্বনিম্ন বিন্দু)।"
+  },
+  {
+    "id": 296,
+    "question": "What is the antonym of 'ZEST'?",
+    "options": ["Enthusiasm", "Disgust", "Relish", "Appetite"],
+    "answer": "Disgust",
+    "explanation": "Zest (তীব্র আনন্দ বা রুচি)-এর বিপরীত শব্দ Disgust (অভিরুচিহীনতা বা বিরক্তি)।"
+  },
+  {
+    "id": 297,
+    "question": "Select the antonym of 'ALIVE'.",
+    "options": ["Dead", "Living", "Breathing", "Active"],
+    "answer": "Dead",
+    "explanation": "Alive (জীবিত)-এর বিপরীত শব্দ Dead (মৃত)।"
+  },
+  {
+    "id": 298,
+    "question": "Choose the word opposite in meaning to 'AMATEUR'.",
+    "options": ["Beginner", "Professional", "Novice", "Learner"],
+    "answer": "Professional",
+    "explanation": "Amateur (অপেশাদার বা শৌখিন)-এর বিপরীত শব্দ Professional (পেশাদার)।"
+  },
+  {
+    "id": 299,
+    "question": "Find the antonym of 'BRAVE'.",
+    "options": ["Courageous", "Fearless", "Cowardly", "Bold"],
+    "answer": "Cowardly",
+    "explanation": "Brave (সাহসী)-এর বিপরীত শব্দ Cowardly (ভীতু বা কাপুরুষ)।"
+  },
+  {
+    "id": 300,
+    "question": "What is the antonym of 'CAPTURE'?",
+    "options": ["Arrest", "Catch", "Seize", "Liberate"],
+    "answer": "Liberate",
+    "explanation": "Capture (বন্দী করা বা ধরে ফেলা)-এর বিপরীত শব্দ Liberate (মুক্ত করা বা স্বাধীন করা)।"
+  },
+  {
+    "id": 301,
+    "question": "Choose the exact antonym for the word 'ABATE'.",
+    "options": ["Increase", "Reduce", "Lessen", "Decline"],
+    "answer": "Increase",
+    "explanation": "Abate (কমে যাওয়া বা প্রশমিত হওয়া)-এর বিপরীত শব্দ Increase (বৃদ্ধি পাওয়া)।"
+  },
+  {
+    "id": 302,
+    "question": "Find the opposite meaning of 'ABHOR'.",
+    "options": ["Hate", "Love", "Detest", "Despise"],
+    "answer": "Love",
+    "explanation": "Abhor (ঘৃণা করা বা অপছন্দ করা)-এর বিপরীত শব্দ Love (ভালোবাসা বা পছন্দ করা)।"
+  },
+  {
+    "id": 303,
+    "question": "What is the antonym of 'ACCELERATE'?",
+    "options": ["Hurry", "Hasten", "Delay", "Quick"],
+    "answer": "Delay",
+    "explanation": "Accelerate (গতি বাড়ানো বা ত্বরান্বিত করা)-এর বিপরীত শব্দ Delay (দেরি করা বা মন্থর করা)।"
+  },
+  {
+    "id": 304,
+    "question": "Select the antonym of 'ACCUMULATE'.",
+    "options": ["Gather", "Collect", "Store", "Squander"],
+    "answer": "Squander",
+    "explanation": "Accumulate (সঞ্চয় করা বা জড়ো করা)-এর বিপরীত শব্দ Squander (অপচয় করা বা ছড়িয়ে ফেলা)।"
+  },
+  {
+    "id": 305,
+    "question": "Choose the word opposite in meaning to 'ADEPT'.",
+    "options": ["Clumsy", "Skilled", "Expert", "Proficient"],
+    "answer": "Clumsy",
+    "explanation": "Adept (দক্ষ বা পারদর্শী)-এর বিপরীত শব্দ Clumsy (আনাড়ি বা অদক্ষ)।"
+  },
+  {
+    "id": 306,
+    "question": "Find the antonym of 'ADHERE'.",
+    "options": ["Stick", "Detach", "Cling", "Bind"],
+    "answer": "Detach",
+    "explanation": "Adhere (লেগে থাকা বা যুক্ত থাকা)-এর বিপরীত শব্দ Detach (বিচ্ছিন্ন করা)।"
+  },
+  {
+    "id": 307,
+    "question": "What is the antonym of 'AFFLUENT'?",
+    "options": ["Rich", "Wealthy", "Destitute", "Prosperous"],
+    "answer": "Destitute",
+    "explanation": "Affluent (প্রচুর ধনসম্পদশালী)-এর বিপরীত শব্দ Destitute (নিঃস্ব বা চরম দরিদ্র)।"
+  },
+  {
+    "id": 308,
+    "question": "Select the antonym for 'AGONY'.",
+    "options": ["Pain", "Torture", "Suffering", "Ecstasy"],
+    "answer": "Ecstasy",
+    "explanation": "Agony (তীব্র যন্ত্রণা বা কষ্ট)-এর বিপরীত শব্দ Ecstasy (পরমানন্দ)।"
+  },
+  {
+    "id": 309,
+    "question": "Choose the exact antonym for the word 'ALLEVIATE'.",
+    "options": ["Aggravate", "Relieve", "Soothe", "Ease"],
+    "answer": "Aggravate",
+    "explanation": "Alleviate (কষ্ট লাঘব করা বা উপশম করা)-এর বিপরীত শব্দ Aggravate (আরও অবনতি ঘটানো বা বৃদ্ধি করা)।"
+  },
+  {
+    "id": 310,
+    "question": "Find the opposite meaning of 'ALLURE'.",
+    "options": ["Attract", "Repulse", "Charm", "Fascinate"],
+    "answer": "Repulse",
+    "explanation": "Allure (প্রলুব্ধ করা বা আকর্ষণ করা)-এর বিপরীত শব্দ Repulse (বিকর্ষণ করা বা দূরে সরিয়ে দেওয়া)।"
+  },
+  {
+    "id": 311,
+    "question": "What is the antonym of 'APPARENT'?",
+    "options": ["Clear", "Obvious", "Hidden", "Visible"],
+    "answer": "Hidden",
+    "explanation": "Apparent (স্পষ্ট বা দৃশ্যমান)-এর বিপরীত শব্দ Hidden (লুক্কায়িত বা গুপ্ত)।"
+  },
+  {
+    "id": 312,
+    "question": "Select the antonym of 'APPLAUD'.",
+    "options": ["Praise", "Cheer", "Clap", "Criticize"],
+    "answer": "Criticize",
+    "explanation": "Applaud (প্রশংসা করা বা হাততালি দেওয়া)-এর বিপরীত শব্দ Criticize (সমালোচনা করা)।"
+  },
+  {
+    "id": 313,
+    "question": "Choose the word opposite in meaning to 'ARID'.",
+    "options": ["Damp", "Dry", "Parched", "Barren"],
+    "answer": "Damp",
+    "explanation": "Arid (শুষ্ক বা খরাপ্রবণ)-এর বিপরীত শব্দ Damp (স্যাঁতসেঁতে বা আর্দ্র)।"
+  },
+  {
+    "id": 314,
+    "question": "Find the antonym of 'AUDACIOUS'.",
+    "options": ["Bold", "Cowardly", "Daring", "Fearless"],
+    "answer": "Cowardly",
+    "explanation": "Audacious (দুঃসাহসী)-এর বিপরীত শব্দ Cowardly (ভীতু বা কাপুরুষ)।"
+  },
+  {
+    "id": 315,
+    "question": "What is the antonym of 'AWKWARD'?",
+    "options": ["Clumsy", "Ungainly", "Dexterous", "Inept"],
+    "answer": "Dexterous",
+    "explanation": "Awkward (কদাকার বা আনাড়ি)-এর বিপরীত শব্দ Dexterous (নিপুণ বা দক্ষ)।"
+  },
+  {
+    "id": 316,
+    "question": "Select the antonym for 'BAFFLE'.",
+    "options": ["Confuse", "Perplex", "Puzzle", "Clarify"],
+    "answer": "Clarify",
+    "explanation": "Baffle (হতবুদ্ধি করা বা ধাঁধায় ফেলা)-এর বিপরীত শব্দ Clarify (স্পষ্ট করা বা বুঝিয়ে বলা)।"
+  },
+  {
+    "id": 317,
+    "question": "Choose the exact antonym for the word 'BANISH'.",
+    "options": ["Admit", "Exile", "Expel", "Deport"],
+    "answer": "Admit",
+    "explanation": "Banish (নির্বাসিত করা বা তাড়িয়ে দেওয়া)-এর বিপরীত শব্দ Admit (প্রবেশ করতে দেওয়া বা গ্রহণ করা)।"
+  },
+  {
+    "id": 318,
+    "question": "Find the opposite meaning of 'BARBAROUS'.",
+    "options": ["Cruel", "Civilized", "Savage", "Brutal"],
+    "answer": "Civilized",
+    "explanation": "Barbarous (বর্বর বা অসভ্য)-এর বিপরীত শব্দ Civilized (সভ্য)।"
+  },
+  {
+    "id": 319,
+    "question": "What is the antonym of 'BOUNTIFUL'?",
+    "options": ["Abundant", "Generous", "Meager", "Plentiful"],
+    "answer": "Meager",
+    "explanation": "Bountiful (প্রচুর বা উদার)-এর বিপরীত শব্দ Meager (অপ্রতুল বা সামান্য)।"
+  },
+  {
+    "id": 320,
+    "question": "Select the antonym of 'BELLIGERENT'.",
+    "options": ["Hostile", "Aggressive", "Combative", "Peaceful"],
+    "answer": "Peaceful",
+    "explanation": "Belligerent (যুদ্ধংদেহী বা কলহপরায়ণ)-এর বিপরীত শব্দ Peaceful (শান্তিপূর্ণ)।"
+  },
+  {
+    "id": 321,
+    "question": "Choose the word opposite in meaning to 'BENEVOLENT'.",
+    "options": ["Malevolent", "Kind", "Caring", "Generous"],
+    "answer": "Malevolent",
+    "explanation": "Benevolent (দয়ালু বা হিতৈষী)-এর বিপরীত শব্দ Malevolent (পরশ্রীকাতর বা অমঙ্গলকামী)।"
+  },
+  {
+    "id": 322,
+    "question": "Find the antonym of 'BLAME'.",
+    "options": ["Accuse", "Praise", "Condemn", "Censure"],
+    "answer": "Praise",
+    "explanation": "Blame (দোষ দেওয়া)-এর বিপরীত শব্দ Praise (প্রশংসা করা)।"
+  },
+  {
+    "id": 323,
+    "question": "What is the antonym of 'BOISTEROUS'?",
+    "options": ["Noisy", "Loud", "Calm", "Rowdy"],
+    "answer": "Calm",
+    "explanation": "Boisterous (হৈচৈপূর্ণ বা অশান্ত)-এর বিপরীত শব্দ Calm (শান্ত)।"
+  },
+  {
+    "id": 324,
+    "question": "Select the antonym for 'BRITTLE'.",
+    "options": ["Fragile", "Breakable", "Delicate", "Flexible"],
+    "answer": "Flexible",
+    "explanation": "Brittle (ভঙ্গুর বা যা সহজে ভাঙে)-এর বিপরীত শব্দ Flexible (নমনীয়)।"
+  },
+  {
+    "id": 325,
+    "question": "Choose the exact antonym for the word 'CACOPHONY'.",
+    "options": ["Harmony", "Noise", "Discord", "Clamor"],
+    "answer": "Harmony",
+    "explanation": "Cacophony (কর্কশ শব্দ বা বেসুরো আওয়াজ)-এর বিপরীত শব্দ Harmony (সুরেলা বা সুমধুর ঐক্য)।"
+  },
+  {
+    "id": 326,
+    "question": "Find the opposite meaning of 'CANDID'.",
+    "options": ["Frank", "Deceptive", "Honest", "Open"],
+    "answer": "Deceptive",
+    "explanation": "Candid (অকপট বা স্পষ্টভাষী)-এর বিপরীত শব্দ Deceptive (প্রতারণাপূর্ণ বা কপট)।"
+  },
+  {
+    "id": 327,
+    "question": "What is the antonym of 'CAPRICIOUS'?",
+    "options": ["Fickle", "Unstable", "Steady", "Variable"],
+    "answer": "Steady",
+    "explanation": "Capricious (খেয়ালী বা চঞ্চল)-এর বিপরীত শব্দ Steady (স্থির বা অবিচল)।"
+  },
+  {
+    "id": 328,
+    "question": "Select the antonym of 'CENSURE'.",
+    "options": ["Blame", "Criticize", "Condemn", "Commend"],
+    "answer": "Commend",
+    "explanation": "Censure (তীব্র নিন্দা করা)-এর বিপরীত শব্দ Commend (প্রশংসা করা)।"
+  },
+  {
+    "id": 329,
+    "question": "Choose the word opposite in meaning to 'CHAOS'.",
+    "options": ["Order", "Confusion", "Disorder", "Turmoil"],
+    "answer": "Order",
+    "explanation": "Chaos (বিশৃঙ্খলা বা চরম গোলযোগ)-এর বিপরীত শব্দ Order (শৃঙ্খলা)।"
+  },
+  {
+    "id": 330,
+    "question": "Find the antonym of 'COLOSSAL'.",
+    "options": ["Huge", "Tiny", "Vast", "Gigantic"],
+    "answer": "Tiny",
+    "explanation": "Colossal (প্রকাণ্ড বা বিশাল)-এর বিপরীত শব্দ Tiny (ক্ষুদ্র)।"
+  },
+  {
+    "id": 331,
+    "question": "What is the antonym of 'COMMENCE'?",
+    "options": ["Start", "Begin", "Conclude", "Launch"],
+    "answer": "Conclude",
+    "explanation": "Commence (শুরু করা)-এর বিপরীত শব্দ Conclude (শেষ করা বা উপসংহার টানা)।"
+  },
+  {
+    "id": 332,
+    "question": "Select the antonym for 'COMPLACENT'.",
+    "options": ["Smug", "Satisfied", "Content", "Dissatisfied"],
+    "answer": "Dissatisfied",
+    "explanation": "Complacent (আত্মসন্তুষ্ট)-এর বিপরীত শব্দ Dissatisfied (অসন্তুষ্ট)।"
+  },
+  {
+    "id": 333,
+    "question": "Choose the exact antonym for the word 'CONDEMN'.",
+    "options": ["Approve", "Criticize", "Blame", "Denounce"],
+    "answer": "Approve",
+    "explanation": "Condemn (নিন্দা করা বা দোষী সাব্যস্ত করা)-এর বিপরীত শব্দ Approve (অনুমোদন করা বা সমর্থন করা)।"
+  },
+  {
+    "id": 334,
+    "question": "Find the opposite meaning of 'CONSENT'.",
+    "options": ["Agree", "Dissent", "Permit", "Allow"],
+    "answer": "Dissent",
+    "explanation": "Consent (সম্মতি বা মত দেওয়া)-এর বিপরীত শব্দ Dissent (দ্বিমত পোষণ করা)।"
+  },
+  {
+    "id": 335,
+    "question": "What is the antonym of 'COPIOUS'?",
+    "options": ["Abundant", "Plentiful", "Sparse", "Ample"],
+    "answer": "Sparse",
+    "explanation": "Copious (প্রচুর বা অঢেল)-এর বিপরীত শব্দ Sparse (পাতলা বা অপর্যাপ্ত)।"
+  },
+  {
+    "id": 336,
+    "question": "Select the antonym of 'CORDIAL'.",
+    "options": ["Friendly", "Warm", "Polite", "Hostile"],
+    "answer": "Hostile",
+    "explanation": "Cordial (আন্তরিক বা সৌহার্দ্যপূর্ণ)-এর বিপরীত শব্দ Hostile (শত্রুভাবাপন্ন)।"
+  },
+  {
+    "id": 337,
+    "question": "Choose the word opposite in meaning to 'DEFICIENT'.",
+    "options": ["Sufficient", "Lacking", "Inadequate", "Short"],
+    "answer": "Sufficient",
+    "explanation": "Deficient (অপূর্ণ বা ঘাটতি আছে এমন)-এর বিপরীত শব্দ Sufficient (পর্যাপ্ত)।"
+  },
+  {
+    "id": 338,
+    "question": "Find the antonym of 'DETERIORATE'.",
+    "options": ["Worsen", "Improve", "Decline", "Decay"],
+    "answer": "Improve",
+    "explanation": "Deteriorate (অবনতি হওয়া)-এর বিপরীত শব্দ Improve (উন্নতি হওয়া)।"
+  },
+  {
+    "id": 339,
+    "question": "What is the antonym of 'DETRIMENTAL'?",
+    "options": ["Harmful", "Damaging", "Beneficial", "Injurious"],
+    "answer": "Beneficial",
+    "explanation": "Detrimental (ক্ষতিকারক)-এর বিপরীত শব্দ Beneficial (উপকারী বা লাভজনক)।"
+  },
+  {
+    "id": 340,
+    "question": "Select the antonym for 'DEVIATE'.",
+    "options": ["Stray", "Wander", "Diverge", "Conform"],
+    "answer": "Conform",
+    "explanation": "Deviate (বিচ্যুত হওয়া বা পথভ্রষ্ট হওয়া)-এর বিপরীত শব্দ Conform (নিয়ম বা পথ মেনে চলা)।"
+  },
+  {
+    "id": 341,
+    "question": "Choose the exact antonym for the word 'DILATE'.",
+    "options": ["Contract", "Expand", "Enlarge", "Widen"],
+    "answer": "Contract",
+    "explanation": "Dilate (প্রসারিত হওয়া বা স্ফীত হওয়া)-এর বিপরীত শব্দ Contract (সঙ্কুচিত হওয়া)।"
+  },
+  {
+    "id": 342,
+    "question": "Find the opposite meaning of 'DISCORD'.",
+    "options": ["Conflict", "Harmony", "Disagreement", "Strife"],
+    "answer": "Harmony",
+    "explanation": "Discord (মতানৈক্য বা বিবাদ)-এর বিপরীত শব্দ Harmony (ঐক্য বা মিল)।"
+  },
+  {
+    "id": 343,
+    "question": "What is the antonym of 'DOCILE'?",
+    "options": ["Gentle", "Tame", "Stubborn", "Obedient"],
+    "answer": "Stubborn",
+    "explanation": "Docile (বাধ্য বা সহজে বশ মানে এমন)-এর বিপরীত শব্দ Stubborn (একগুঁয়ে বা জেদী)।"
+  },
+  {
+    "id": 344,
+    "question": "Select the antonym of 'DORMANT'.",
+    "options": ["Sleeping", "Resting", "Inactive", "Active"],
+    "answer": "Active",
+    "explanation": "Dormant (সুপ্ত বা নিষ্ক্রিয়)-এর বিপরীত শব্দ Active (সক্রিয়)।"
+  },
+  {
+    "id": 345,
+    "question": "Choose the word opposite in meaning to 'DUBIOUS'.",
+    "options": ["Certain", "Doubtful", "Unsure", "Suspicious"],
+    "answer": "Certain",
+    "explanation": "Dubious (সন্দেহজনক বা অনিশ্চিত)-এর বিপরীত শব্দ Certain (নিশ্চিত)।"
+  },
+  {
+    "id": 346,
+    "question": "Find the antonym of 'ECCENTRIC'.",
+    "options": ["Odd", "Normal", "Weird", "Peculiar"],
+    "answer": "Normal",
+    "explanation": "Eccentric (খামখেয়ালী বা অদ্ভুত স্বভাবের)-এর বিপরীত শব্দ Normal (স্বাভাবিক বা সাধারণ)।"
+  },
+  {
+    "id": 347,
+    "question": "What is the antonym of 'EMANCIPATE'?",
+    "options": ["Free", "Liberate", "Enslave", "Release"],
+    "answer": "Enslave",
+    "explanation": "Emancipate (দাসত্ব বা বন্ধন থেকে মুক্ত করা)-এর বিপরীত শব্দ Enslave (দাসত্বে আবদ্ধ করা)।"
+  },
+  {
+    "id": 348,
+    "question": "Select the antonym for 'ENORMOUS'.",
+    "options": ["Huge", "Vast", "Giant", "Tiny"],
+    "answer": "Tiny",
+    "explanation": "Enormous (বিশাল বা প্রকাণ্ড)-এর বিপরীত শব্দ Tiny (ক্ষুদ্র)।"
+  },
+  {
+    "id": 349,
+    "question": "Choose the exact antonym for the word 'EPHEMERAL'.",
+    "options": ["Eternal", "Short-lived", "Temporary", "Brief"],
+    "answer": "Eternal",
+    "explanation": "Ephemeral (ক্ষণস্থায়ী বা অল্পস্থায়ী)-এর বিপরীত শব্দ Eternal (চিরস্থায়ী বা অনন্ত)।"
+  },
+  {
+    "id": 350,
+    "question": "Find the opposite meaning of 'EQUILIBRIUM'.",
+    "options": ["Balance", "Imbalance", "Stability", "Steadiness"],
+    "answer": "Imbalance",
+    "explanation": "Equilibrium (ভারসাম্য)-এর বিপরীত শব্দ Imbalance (ভারসাম্যহীনতা বা অসাম্য)।"
+  },
+  {
+    "id": 351,
+    "question": "What is the exact antonym for the word 'EXONERATE'?",
+    "options": ["Convict", "Absolve", "Acquit", "Clear"],
+    "answer": "Convict",
+    "explanation": "Exonerate (দোষ থেকে মুক্তি দেওয়া বা বেকসুর খালাস দেওয়া)-এর বিপরীত শব্দ Convict (দোষী সাব্যস্ত করা)।"
+  },
+  {
+    "id": 352,
+    "question": "Find the opposite meaning of 'EXOTIC'.",
+    "options": ["Strange", "Ordinary", "Unusual", "Foreign"],
+    "answer": "Ordinary",
+    "explanation": "Exotic (বিদেশী বা অদ্ভুত রকমের সুন্দর)-এর বিপরীত শব্দ Ordinary (সাধারণ বা আটপৌরে)।"
+  },
+  {
+    "id": 353,
+    "question": "What is the antonym of 'EXPLICIT'?",
+    "options": ["Clear", "Specific", "Ambiguous", "Definite"],
+    "answer": "Ambiguous",
+    "explanation": "Explicit (সুস্পষ্ট বা ব্যক্ত)-এর বিপরীত শব্দ Ambiguous (দ্ব্যর্থবোধক বা অস্পষ্ট)।"
+  },
+  {
+    "id": 354,
+    "question": "Select the antonym of 'EXTRAVAGANT'.",
+    "options": ["Lavish", "Costly", "Excessive", "Thrifty"],
+    "answer": "Thrifty",
+    "explanation": "Extravagant (অমিতব্যয়ী বা অপচয়ী)-এর বিপরীত শব্দ Thrifty (মিতব্যয়ী বা হিসেবি)।"
+  },
+  {
+    "id": 355,
+    "question": "Choose the word opposite in meaning to 'FALLIBLE'.",
+    "options": ["Unerring", "Imperfect", "Frail", "Weak"],
+    "answer": "Unerring",
+    "explanation": "Fallible (ভুলভ্রান্তি হতে পারে এমন বা পতনশীল)-এর বিপরীত শব্দ Unerring (অভ্রান্ত বা নির্ভুল)।"
+  },
+  {
+    "id": 356,
+    "question": "Find the antonym of 'FASTIDIOUS'.",
+    "options": ["Fussy", "Easygoing", "Picky", "Critical"],
+    "answer": "Easygoing",
+    "explanation": "Fastidious (খুঁতখুঁতে বা যাকে সহজে সন্তুষ্ট করা যায় না)-এর বিপরীত শব্দ Easygoing (সহজ-সরল বা যে সহজে মানিয়ে নেয়)।"
+  },
+  {
+    "id": 357,
+    "question": "What is the antonym of 'FATIGUE'?",
+    "options": ["Tiredness", "Exhaustion", "Energy", "Weariness"],
+    "answer": "Energy",
+    "explanation": "Fatigue (ক্লান্তি বা অবসাদ)-এর বিপরীত শব্দ Energy (শক্তি বা কর্মক্ষমতা)।"
+  },
+  {
+    "id": 358,
+    "question": "Select the antonym for 'FEROCIOUS'.",
+    "options": ["Savage", "Fierce", "Brutal", "Gentle"],
+    "answer": "Gentle",
+    "explanation": "Ferocious (ভয়ংকর বা হিংস্র)-এর বিপরীত শব্দ Gentle (ভদ্র বা শান্ত)।"
+  },
+  {
+    "id": 359,
+    "question": "Choose the exact antonym for the word 'FICKLE'.",
+    "options": ["Constant", "Unstable", "Variable", "Capricious"],
+    "answer": "Constant",
+    "explanation": "FickLE (চঞ্চল বা পরিবর্তনশীল)-এর বিপরীত শব্দ Constant (স্থির বা অপরিবর্তনশীল)।"
+  },
+  {
+    "id": 360,
+    "question": "Find the opposite meaning of 'FLAW'.",
+    "options": ["Defect", "Perfection", "Fault", "Blemish"],
+    "answer": "Perfection",
+    "explanation": "Flaw (ত্রুটি বা খুঁত)-এর বিপরীত শব্দ Perfection (নিখুঁত অবস্থা বা পূর্ণতা)।"
+  },
+  {
+    "id": 361,
+    "question": "What is the antonym of 'FLEETING'?",
+    "options": ["Brief", "Temporary", "Permanent", "Passing"],
+    "answer": "Permanent",
+    "explanation": "Fleeting (ক্ষণস্থায়ী বা দ্রুতগামী)-এর বিপরীত শব্দ Permanent (স্থায়ী)।"
+  },
+  {
+    "id": 362,
+    "question": "Select the antonym of 'FLOURISH'.",
+    "options": ["Thrive", "Grow", "Prosper", "Wither"],
+    "answer": "Wither",
+    "explanation": "Flourish (সমৃদ্ধ হওয়া বা সতেজ থাকা)-এর বিপরীত শব্দ Wither (শুকিয়ে যাওয়া বা ম্লান হওয়া)।"
+  },
+  {
+    "id": 363,
+    "question": "Choose the word opposite in meaning to 'FORBID'.",
+    "options": ["Allow", "Prohibit", "Ban", "Prevent"],
+    "answer": "Allow",
+    "explanation": "Forbid (নিষেধ করা বা বারণ করা)-এর বিপরীত শব্দ Allow (অনুমতি দেওয়া)।"
+  },
+  {
+    "id": 364,
+    "question": "Find the antonym of 'FORMIDABLE'.",
+    "options": ["Fierce", "Feeble", "Dauntless", "Scary"],
+    "answer": "Feeble",
+    "explanation": "Formidable (ভয়ংকর বা দুর্ধর্ষ)-এর বিপরীত শব্দ Feeble (দুর্বল বা ক্ষীণ)।"
+  },
+  {
+    "id": 365,
+    "question": "What is the antonym of 'FRAGILE'?",
+    "options": ["Delicate", "Frail", "Sturdy", "Brittle"],
+    "answer": "Sturdy",
+    "explanation": "Fragile (ভঙ্গুর বা ঠুনকো)-এর বিপরীত শব্দ Sturdy (মজবুত বা শক্ত)।"
+  },
+  {
+    "id": 366,
+    "question": "Select the antonym for 'FRANTIC'.",
+    "options": ["Hectic", "Frenzied", "Wild", "Calm"],
+    "answer": "Calm",
+    "explanation": "Frantic (উন্মত্ত বা দিশেহারা)-এর বিপরীত শব্দ Calm (শান্ত)।"
+  },
+  {
+    "id": 367,
+    "question": "Choose the exact antonym for the word 'FRIVOLOUS'.",
+    "options": ["Serious", "Silly", "Trivial", "Petty"],
+    "answer": "Serious",
+    "explanation": "Frivolous (তুচ্ছ বা ছ্যাবলামিপূর্ণ)-এর বিপরীত শব্দ Serious (গুরুগম্ভীর বা অত্যন্ত বিবেচক)।"
+  },
+  {
+    "id": 368,
+    "question": "Find the opposite meaning of 'FRUGAL'.",
+    "options": ["Thrifty", "Extravagant", "Economical", "Sparing"],
+    "answer": "Extravagant",
+    "explanation": "Frugal (মিতব্যয়ী বা হিসেবি)-এর বিপরীত শব্দ Extravagant (অমিতব্যয়ী বা অপচয়ী)।"
+  },
+  {
+    "id": 369,
+    "question": "What is the antonym of 'GARRULOUS'?",
+    "options": ["Talkative", "Chatty", "Reticent", "Loquacious"],
+    "answer": "Reticent",
+    "explanation": "Garrulous (বাচাল বা বেশি কথা বলে যে)-এর বিপরীত শব্দ Reticent (স্বল্পভাষী বা যে কম কথা বলে)।"
+  },
+  {
+    "id": 370,
+    "question": "Select the antonym of 'GENEROUS'.",
+    "options": ["Liberal", "Bountiful", "Unselfish", "Stingy"],
+    "answer": "Stingy",
+    "explanation": "Generous (উদার বা দানশীল)-এর বিপরীত শব্দ Stingy (কৃপণ)।"
+  },
+  {
+    "id": 371,
+    "question": "Choose the word opposite in meaning to 'GLOOMY'.",
+    "options": ["Cheerful", "Dark", "Dismal", "Sad"],
+    "answer": "Cheerful",
+    "explanation": "Gloomy (বিষণ্ণ বা অন্ধকারময়)-এর বিপরীত শব্দ Cheerful (প্রফুল্ল বা হাসিখুশি)।"
+  },
+  {
+    "id": 372,
+    "question": "Find the antonym of 'GORGEOUS'.",
+    "options": ["Stunning", "Ugly", "Beautiful", "Attractive"],
+    "answer": "Ugly",
+    "explanation": "Gorgeous (জমকালো বা অত্যন্ত সুন্দর)-এর বিপরীত শব্দ Ugly (কদাকার বা কুৎসিত)।"
+  },
+  {
+    "id": 373,
+    "question": "What is the antonym of 'GREGARIOUS'?",
+    "options": ["Sociable", "Outgoing", "Introverted", "Friendly"],
+    "answer": "Introverted",
+    "explanation": "Gregarious (যূথবদ্ধ বা সমাজপ্রিয়)-এর বিপরীত শব্দ Introverted (অন্তর্মুখী বা যে মিশতে ভালোবাসে না)।"
+  },
+  {
+    "id": 374,
+    "question": "Select the antonym for 'GULLIBLE'.",
+    "options": ["Trusting", "Naive", "Innocent", "Suspicious"],
+    "answer": "Suspicious",
+    "explanation": "Gullible (যে সহজেই বিশ্বাস করে প্রতারিত হয়)-এর বিপরীত শব্দ Suspicious (সন্দেহপ্রবণ)।"
+  },
+  {
+    "id": 375,
+    "question": "Choose the exact antonym for the word 'HAPHAZARD'.",
+    "options": ["Systematic", "Random", "Unplanned", "Chaotic"],
+    "answer": "Systematic",
+    "explanation": "Haphazard (এলোমেলো বা বিশৃঙ্খল)-এর বিপরীত শব্দ Systematic (সুশৃঙ্খল বা নিয়মমাফিক)।"
+  },
+  {
+    "id": 376,
+    "question": "Find the opposite meaning of 'HARSH'.",
+    "options": ["Severe", "Gentle", "Rough", "Cruel"],
+    "answer": "Gentle",
+    "explanation": "Harsh (কঠোর বা কর্কশ)-এর বিপরীত শব্দ Gentle (নম্র বা শান্ত)।"
+  },
+  {
+    "id": 377,
+    "question": "What is the antonym of 'HAUGHTY'?",
+    "options": ["Arrogant", "Proud", "Humble", "Conceited"],
+    "answer": "Humble",
+    "explanation": "Haughty (অহংকারী বা উদ্ধত)-এর বিপরীত শব্দ Humble (বিনীত বা নম্র)।"
+  },
+  {
+    "id": 378,
+    "question": "Select the antonym of 'HAZARDOUS'.",
+    "options": ["Dangerous", "Risky", "Perilous", "Safe"],
+    "answer": "Safe",
+    "explanation": "Hazardous (বিপজ্জনক বা ঝুঁকিপূর্ণ)-এর বিপরীত শব্দ Safe (নিরাপদ)।"
+  },
+  {
+    "id": 379,
+    "question": "Choose the word opposite in meaning to 'HINDER'.",
+    "options": ["Assist", "Block", "Obstruct", "Prevent"],
+    "answer": "Assist",
+    "explanation": "Hinder (বাধা দেওয়া বা ব্যাহত করা)-এর বিপরীত শব্দ Assist (সহায়তা করা)।"
+  },
+  {
+    "id": 380,
+    "question": "Find the antonym of 'HOSTILE'.",
+    "options": ["Aggressive", "Friendly", "Antagonistic", "Belligerent"],
+    "answer": "Friendly",
+    "explanation": "Hostile (শত্রুভাবাপন্ন বা প্রতিকূল)-এর বিপরীত শব্দ Friendly (বন্ধুত্বপূর্ণ)।"
+  },
+  {
+    "id": 381,
+    "question": "What is the antonym of 'HUMBLE'?",
+    "options": ["Modest", "Meek", "Proud", "Unassuming"],
+    "answer": "Proud",
+    "explanation": "Humble (বিনীত বা নম্র)-এর বিপরীত শব্দ Proud (গর্বিত বা অহংকারী)।"
+  },
+  {
+    "id": 382,
+    "question": "Select the antonym for 'ILLICIT'.",
+    "options": ["Illegal", "Unlawful", "Forbidden", "Lawful"],
+    "answer": "Lawful",
+    "explanation": "Illicit (অবৈধ বা বেআইনি)-এর বিপরীত শব্দ Lawful (বৈধ বা আইনসঙ্গত)।"
+  },
+  {
+    "id": 383,
+    "question": "Choose the exact antonym for the word 'IMMACULATE'.",
+    "options": ["Dirty", "Spotless", "Clean", "Pure"],
+    "answer": "Dirty",
+    "explanation": "Immaculate (কলঙ্কহীন বা নিখুঁত পরিষ্কার)-এর বিপরীত শব্দ Dirty (নোংরা বা অপরিষ্কার)।"
+  },
+  {
+    "id": 384,
+    "question": "Find the opposite meaning of 'IMPEDIMENT'.",
+    "options": ["Barrier", "Assistance", "Obstacle", "Hurdle"],
+    "answer": "Assistance",
+    "explanation": "Impediment (বাধা বা প্রতিবন্ধকতা)-এর বিপরীত শব্দ Assistance (সহায়তা বা সাহায্য)।"
+  },
+  {
+    "id": 385,
+    "question": "What is the antonym of 'IMPERTINENT'?",
+    "options": ["Rude", "Insolent", "Respectful", "Brazen"],
+    "answer": "Respectful",
+    "explanation": "Impertinent (উদ্ধত বা বেয়াদব)-এর বিপরীত শব্দ Respectful (শ্রদ্ধাশীল বা সম্মানজনক)।"
+  },
+  {
+    "id": 386,
+    "question": "Select the antonym of 'IMPETUOUS'.",
+    "options": ["Rash", "Hasty", "Impulsive", "Cautious"],
+    "answer": "Cautious",
+    "explanation": "Impetuous (অবিবেচক বা আবেগপ্রবণ হয়ে হঠাৎ কাজ করা)-এর বিপরীত শব্দ Cautious (সতর্ক বা বিবেচক)।"
+  },
+  {
+    "id": 387,
+    "question": "Choose the word opposite in meaning to 'IMPLICIT'.",
+    "options": ["Explicit", "Implied", "Unspoken", "Understood"],
+    "answer": "Explicit",
+    "explanation": "Implicit (অব্যক্ত বা অন্তর্নিহিত)-এর বিপরীত শব্দ Explicit (সুস্পষ্ট বা ব্যক্ত)।"
+  },
+  {
+    "id": 388,
+    "question": "Find the antonym of 'INADVERTENT'.",
+    "options": ["Accidental", "Intentional", "Unintentional", "Chance"],
+    "answer": "Intentional",
+    "explanation": "Inadvertent (অনিচ্ছাকৃত বা অসতর্কতাবশত)-এর বিপরীত শব্দ Intentional (ইচ্ছাকৃত)।"
+  },
+  {
+    "id": 389,
+    "question": "What is the antonym of 'INANE'?",
+    "options": ["Silly", "Foolish", "Sensible", "Empty"],
+    "answer": "Sensible",
+    "explanation": "Inane (অর্থহীন বা বোকামিভরা)-এর বিপরীত শব্দ Sensible (বিচক্ষণ বা অর্থপূর্ণ)।"
+  },
+  {
+    "id": 390,
+    "question": "Select the antonym for 'INAUDIBLE'.",
+    "options": ["Muffled", "Faint", "Silent", "Loud"],
+    "answer": "Loud",
+    "explanation": "Inaudible (যা শোনা যায় না বা অশ্রুত)-এর বিপরীত শব্দ Loud (উচ্চকণ্ঠ বা জোরালো)।"
+  },
+  {
+    "id": 391,
+    "question": "Choose the exact antonym for the word 'INCESSANT'.",
+    "options": ["Intermittent", "Endless", "Continuous", "Nonstop"],
+    "answer": "Intermittent",
+    "explanation": "Incessant (অবিরাম বা একটানা)-এর বিপরীত শব্দ Intermittent (সবিরাম বা থেমে থেমে হওয়া)।"
+  },
+  {
+    "id": 392,
+    "question": "Find the opposite meaning of 'INCLINATION'.",
+    "options": ["Tendency", "Aversion", "Disposition", "Preference"],
+    "answer": "Aversion",
+    "explanation": "Inclination (ঝোঁক বা প্রবৃত্তি)-এর বিপরীত শব্দ Aversion (অনীহা বা বিরাগ)।"
+  },
+  {
+    "id": 393,
+    "question": "What is the antonym of 'INDIGENOUS'?",
+    "options": ["Native", "Local", "Foreign", "Aboriginal"],
+    "answer": "Foreign",
+    "explanation": "Indigenous (স্বদেশী বা দেশীয়)-এর বিপরীত শব্দ Foreign (বিদেশী)।"
+  },
+  {
+    "id": 394,
+    "question": "Select the antonym of 'INDOLENT'.",
+    "options": ["Lazy", "Idle", "Sluggish", "Active"],
+    "answer": "Active",
+    "explanation": "Indolent (অলস বা কুঁড়ে)-এর বিপরীত শব্দ Active (সক্রিয় বা কর্মঠ)।"
+  },
+  {
+    "id": 395,
+    "question": "Choose the word opposite in meaning to 'INEVITABLE'.",
+    "options": ["Avoidable", "Certain", "Unavoidable", "Sure"],
+    "answer": "Avoidable",
+    "explanation": "Inevitable (অনিবার্য বা যা এড়ানো যায় না)-এর বিপরীত শব্দ Avoidable (যা এড়ানো সম্ভব)।"
+  },
+  {
+    "id": 396,
+    "question": "Find the antonym of 'INFALLIBLE'.",
+    "options": ["Perfect", "Erring", "Flawless", "Faultless"],
+    "answer": "Erring",
+    "explanation": "Infallible (অভ্রান্ত বা যার ভুল হয় না)-এর বিপরীত শব্দ Erring (ভ্রান্ত বা ভুল করে এমন)।"
+  },
+  {
+    "id": 397,
+    "question": "What is the antonym of 'INFER'?",
+    "options": ["Deduce", "Conclude", "Misunderstand", "Derive"],
+    "answer": "Misunderstand",
+    "explanation": "Infer (অনুমান করা বা সিদ্ধান্তে আসা)-এর বিপরীত শব্দ Misunderstand (ভুল বোঝা)।"
+  },
+  {
+    "id": 398,
+    "question": "Select the antonym for 'INFINITE'.",
+    "options": ["Endless", "Boundless", "Limitless", "Limited"],
+    "answer": "Limited",
+    "explanation": "Infinite (সীমাহীন বা অনন্ত)-এর বিপরীত শব্দ Limited (সীমাবদ্ধ বা সসীম)।"
+  },
+  {
+    "id": 399,
+    "question": "Choose the exact antonym for the word 'INFLEXIBLE'.",
+    "options": ["Flexible", "Rigid", "Stiff", "Strict"],
+    "answer": "Flexible",
+    "explanation": "Inflexible (অনমনীয় বা কঠোর)-এর বিপরীত শব্দ Flexible (নমনীয়)।"
+  },
+  {
+    "id": 400,
+    "question": "Find the opposite meaning of 'INNATE'.",
+    "options": ["Inborn", "Natural", "Acquired", "Inherent"],
+    "answer": "Acquired",
+    "explanation": "Innate (সহজাত বা জন্মগত)-এর বিপরীত শব্দ Acquired (অর্জিত বা পরে লাভ করা)।"
+  }
+]

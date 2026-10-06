@@ -1,0 +1,2277 @@
+[
+  {
+    "id": 1,
+    "question": "He normally ______ up at 6 AM every day.",
+    "options": ["is waking", "wakes", "woke", "has woken"],
+    "answer": "wakes",
+    "explanation": "'Every day', 'normally', 'always', 'regularly' ইত্যাদি শব্দ থাকলে বাক্যটি সাধারণত Present Indefinite Tense-এ হয়, কারণ এটি অভ্যাসগত কাজ (Habitual action) বোঝায়।"
+  },
+  {
+    "id": 2,
+    "question": "Water ______ at 100 degrees Celsius.",
+    "options": ["is boiling", "boils", "has boiled", "boiled"],
+    "answer": "boils",
+    "explanation": "চিরন্তন সত্য (Universal truth) বা বৈজ্ঞানিক সত্য বোঝাতে সর্বদা Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 3,
+    "question": "Look! The boys ______ in the field.",
+    "options": ["play", "are playing", "played", "have played"],
+    "answer": "are playing",
+    "explanation": "'Look!', 'Now', 'At present' ইত্যাদি থাকলে বুঝতে হবে কাজটি এই মুহূর্তে চলছে। তাই এখানে Present Continuous Tense (are playing) হবে।"
+  },
+  {
+    "id": 4,
+    "question": "I ______ a very interesting book right now.",
+    "options": ["am reading", "read", "have read", "was reading"],
+    "answer": "am reading",
+    "explanation": "বাক্যে 'right now' বা 'now' থাকলে সেটি বর্তমান চলমান কাজকে (Present Continuous Tense) নির্দেশ করে।"
+  },
+  {
+    "id": 5,
+    "question": "Don't make a noise, the baby ______.",
+    "options": ["sleeps", "slept", "is sleeping", "has slept"],
+    "answer": "is sleeping",
+    "explanation": "কাউকে শব্দ করতে নিষেধ করা হচ্ছে কারণ শিশুটি 'এখন' ঘুমাচ্ছে। বর্তমানের চলমান কাজ বোঝাতে Present Continuous Tense হয়।"
+  },
+  {
+    "id": 6,
+    "question": "I ______ just ______ my work.",
+    "options": ["am, finishing", "have, finished", "was, finishing", "had, finished"],
+    "answer": "have, finished",
+    "explanation": "বাক্যে 'just', 'just now', 'already', 'yet', 'recently' ইত্যাদি থাকলে Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 7,
+    "question": "He ______ not come yet.",
+    "options": ["did", "does", "has", "had"],
+    "answer": "has",
+    "explanation": "'Yet' শব্দটি সাধারণত Present Perfect Tense-এর Negative বা Interrogative বাক্যে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 8,
+    "question": "We ______ each other for ten years.",
+    "options": ["know", "are knowing", "have known", "have been knowing"],
+    "answer": "have known",
+    "explanation": "'Know' একটি Stative verb, যার সাথে 'ing' যুক্ত করে Continuous form করা যায় না। তাই এটি Present Perfect Continuous না হয়ে Present Perfect Tense (have known) হবে।"
+  },
+  {
+    "id": 9,
+    "question": "______ you ever ______ the Taj Mahal?",
+    "options": ["Did, visit", "Have, visited", "Do, visit", "Are, visiting"],
+    "answer": "Have, visited",
+    "explanation": "জীবনের কোনো অভিজ্ঞতা জানতে বা 'ever' (কখনো কি) শব্দটি থাকলে Present Perfect Tense ব্যবহার করা হয়।"
+  },
+  {
+    "id": 10,
+    "question": "He ______ to Kolkata recently.",
+    "options": ["went", "goes", "has gone", "is going"],
+    "answer": "has gone",
+    "explanation": "'Recently', 'lately' ইত্যাদি শব্দ থাকলে বাক্যটি Present Perfect Tense-এ হয়।"
+  },
+  {
+    "id": 11,
+    "question": "It ______ since morning.",
+    "options": ["is raining", "was raining", "has been raining", "rains"],
+    "answer": "has been raining",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সময় (since morning) থেকে কাজ শুরু হয়ে বর্তমানেও চলছে বোঝালে Present Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 12,
+    "question": "How long ______ you ______ here?",
+    "options": ["are, waiting", "have, been waiting", "were, waiting", "do, wait"],
+    "answer": "have, been waiting",
+    "explanation": "'How long' দিয়ে প্রশ্ন করলে এবং কাজটি এখনো চলছে বোঝালে Present Perfect Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 13,
+    "question": "They have been playing football ______ two hours.",
+    "options": ["since", "for", "from", "in"],
+    "answer": "for",
+    "explanation": "সময়ের ব্যপ্তি বা Period of time (যেমন- two hours, three days) বোঝাতে 'for' বসে। নির্দিষ্ট সময় (Point of time) বোঝাতে 'since' বসে।"
+  },
+  {
+    "id": 14,
+    "question": "Columbus ______ America in 1492.",
+    "options": ["discovers", "discovered", "has discovered", "had discovered"],
+    "answer": "discovered",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সাল বা সময় উল্লেখ থাকলে (in 1492), সর্বদা Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 15,
+    "question": "I ______ his letter yesterday.",
+    "options": ["receive", "received", "have received", "had received"],
+    "answer": "received",
+    "explanation": "বাক্যে 'yesterday', 'ago', 'last night/week' থাকলে সেটি Past Indefinite Tense হয়।"
+  },
+  {
+    "id": 16,
+    "question": "He ______ out five minutes ago.",
+    "options": ["has gone", "went", "had gone", "is going"],
+    "answer": "went",
+    "explanation": "'Ago' শব্দটি অতীতের ঘটনা নির্দেশ করে, তাই Past Indefinite Tense (went) সঠিক উত্তর।"
+  },
+  {
+    "id": 17,
+    "question": "It is high time we ______ studying.",
+    "options": ["start", "started", "have started", "will start"],
+    "answer": "started",
+    "explanation": "পরীক্ষায় আসা অত্যন্ত গুরুত্বপূর্ণ নিয়ম: 'It is time' বা 'It is high time'-এর পর Subject থাকলে সর্বদা Verb-এর Past form (V2) বসে।"
+  },
+  {
+    "id": 18,
+    "question": "I wish I ______ her name.",
+    "options": ["know", "knew", "have known", "had known"],
+    "answer": "knew",
+    "explanation": "'I wish' বা 'As if'-এর পর অবাস্তব কল্পনা বোঝাতে Verb-এর Past form (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 19,
+    "question": "When I saw him, he ______ chess.",
+    "options": ["played", "is playing", "was playing", "had played"],
+    "answer": "was playing",
+    "explanation": "অতীতের একটি কাজের সময় অন্য একটি কাজ চলছিল বোঝালে চলমান কাজটির জন্য Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 20,
+    "question": "While she ______, the telephone rang.",
+    "options": ["cooked", "is cooking", "was cooking", "had cooked"],
+    "answer": "was cooking",
+    "explanation": "'While'-এর পর সাধারণত Past Continuous Tense বসে। এর মানে হলো 'যখন সে রান্না করছিল'।"
+  },
+  {
+    "id": 21,
+    "question": "The train ______ before we reached the station.",
+    "options": ["left", "has left", "had left", "was leaving"],
+    "answer": "had left",
+    "explanation": "অতীতের দুটি কাজের মধ্যে যেটি আগে সম্পন্ন হয় সেটি Past Perfect (had + V3) এবং যেটি পরে হয় সেটি Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 22,
+    "question": "After he ______ his work, he went to bed.",
+    "options": ["finished", "has finished", "had finished", "was finishing"],
+    "answer": "had finished",
+    "explanation": "'After'-এর আগের অংশ Past Indefinite হলে, পরের অংশ Past Perfect (had + V3) হয়। কারণ কাজটি আগে শেষ হয়েছিল।"
+  },
+  {
+    "id": 23,
+    "question": "I realized that I ______ my wallet.",
+    "options": ["lost", "have lost", "had lost", "was losing"],
+    "answer": "had lost",
+    "explanation": "মানিব্যাগটি আগে হারিয়েছে এবং পরে সেটা উপলব্ধি (realized) করা হয়েছে। আগের কাজের জন্য Past Perfect (had lost) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 24,
+    "question": "By the time the police came, the thief ______.",
+    "options": ["escaped", "has escaped", "had escaped", "was escaping"],
+    "answer": "had escaped",
+    "explanation": "পুলিশ আসার আগেই চোর পালিয়েছে। তাই চোর পালানোর ঘটনাটি Past Perfect Tense হবে।"
+  },
+  {
+    "id": 25,
+    "question": "If you study hard, you ______.",
+    "options": ["would pass", "passed", "will pass", "had passed"],
+    "answer": "will pass",
+    "explanation": "এটি First Conditional Sentence। 'If' যুক্ত অংশ Present Indefinite হলে, অপর অংশটি Future Indefinite (will/shall + V1) হয়।"
+  },
+  {
+    "id": 26,
+    "question": "By next month, we ______ the project.",
+    "options": ["will complete", "will have completed", "are completing", "complete"],
+    "answer": "will have completed",
+    "explanation": "ভবিষ্যতের কোনো নির্দিষ্ট সময়ের মধ্যে (By next month) কোনো কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense (will have + V3) বসে।"
+  },
+  {
+    "id": 27,
+    "question": "If I had money, I ______ a car.",
+    "options": ["will buy", "would buy", "would have bought", "bought"],
+    "answer": "would buy",
+    "explanation": "এটি Second Conditional। 'If' যুক্ত অংশ Past Indefinite (had) হলে, অপর অংশে would/could/might + V1 বসে।"
+  },
+  {
+    "id": 28,
+    "question": "If you had told me earlier, I ______ you.",
+    "options": ["would help", "will help", "would have helped", "helped"],
+    "answer": "would have helped",
+    "explanation": "এটি Third Conditional। 'If' যুক্ত অংশ Past Perfect (had + V3) হলে, অপর অংশে would have + V3 বসে।"
+  },
+  {
+    "id": 29,
+    "question": "He speaks as if he ______ everything.",
+    "options": ["knows", "knew", "had known", "has known"],
+    "answer": "knew",
+    "explanation": "'As if' বা 'As though'-এর আগের অংশ Present Tense হলে, পরের অংশ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 30,
+    "question": "He spoke as if he ______ everything.",
+    "options": ["knew", "knows", "had known", "was knowing"],
+    "answer": "had known",
+    "explanation": "'As if' বা 'As though'-এর আগের অংশ Past Tense (spoke) হলে, পরের অংশ Past Perfect (had + V3) হয়।"
+  },
+  {
+    "id": 31,
+    "question": "Scarcely had I reached the station when the train ______.",
+    "options": ["arrived", "had arrived", "was arriving", "arrives"],
+    "answer": "arrived",
+    "explanation": "Scarcely/Hardly had + Subject + V3 ... when + Subject + V2 (Past Indefinite) - এটি একটি চিরস্থায়ী নিয়ম।"
+  },
+  {
+    "id": 32,
+    "question": "No sooner had he seen the tiger than he ______ away.",
+    "options": ["runs", "run", "ran", "had run"],
+    "answer": "ran",
+    "explanation": "No sooner had ... than -এর পর সবসময় Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 33,
+    "question": "Had I been a bird, I ______ in the sky.",
+    "options": ["would fly", "will fly", "would have flown", "flew"],
+    "answer": "would have flown",
+    "explanation": "এটি Third Conditional-এর একটি রূপ (If I had been = Had I been)। তাই নিয়মানুযায়ী would have + V3 (flown) বসবে।"
+  },
+  {
+    "id": 34,
+    "question": "I would rather you ______ now.",
+    "options": ["go", "went", "gone", "are going"],
+    "answer": "went",
+    "explanation": "'Would rather'-এর পর Subject (you) থাকলে Verb-এর Past form (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 35,
+    "question": "Unless you ______ hard, you will fail.",
+    "options": ["worked", "will work", "work", "are working"],
+    "answer": "work",
+    "explanation": "'Unless', 'Until', 'If', 'When' যুক্ত অংশে Future Tense (will/shall) বসে না, Present Indefinite Tense বসে।"
+  },
+  {
+    "id": 36,
+    "question": "By 2030, I ______ here for ten years.",
+    "options": ["will work", "will have worked", "will be working", "will have been working"],
+    "answer": "will have been working",
+    "explanation": "ভবিষ্যতে কোনো কাজ দীর্ঘ সময় ধরে চলতে থাকবে বোঝালে Future Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 37,
+    "question": "My father ______ for Delhi tomorrow.",
+    "options": ["is leaving", "has left", "left", "had left"],
+    "answer": "is leaving",
+    "explanation": "ভবিষ্যতের পূর্বপরিকল্পিত কোনো কাজ (Fixed plan in near future) বোঝাতে Present Continuous বা Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 38,
+    "question": "She ______ the soup to see if it needs more salt.",
+    "options": ["tastes", "is tasting", "tasted", "has tasted"],
+    "answer": "is tasting",
+    "explanation": "'Taste' সাধারণত Stative verb, কিন্তু যখন এটি ইচ্ছাকৃতভাবে করা কাজ (action) বোঝায় (চেখে দেখা), তখন Continuous form-এ লেখা যায়।"
+  },
+  {
+    "id": 39,
+    "question": "I ______ this car for five years.",
+    "options": ["am owning", "own", "have owned", "have been owning"],
+    "answer": "have owned",
+    "explanation": "'Own' একটি Stative verb, এর সাথে 'ing' যুক্ত হয় না। তাই 'for five years' থাকলেও এটি Present Perfect Tense হবে।"
+  },
+  {
+    "id": 40,
+    "question": "Did you ______ the noise?",
+    "options": ["hear", "heard", "hearing", "hears"],
+    "answer": "hear",
+    "explanation": "'Do', 'Does', বা 'Did' বাক্যে সাহায্যকারী ক্রিয়া হিসেবে বসলে মূল Verb সবসময় Base form (V1) এ থাকে।"
+  },
+  {
+    "id": 41,
+    "question": "The sun ______ in the west.",
+    "options": ["sets", "is setting", "set", "has set"],
+    "answer": "sets",
+    "explanation": "সূর্য পশ্চিমে অস্ত যায় - এটি একটি চিরন্তন সত্য (Universal truth)। তাই Present Indefinite Tense (sets) হবে।"
+  },
+  {
+    "id": 42,
+    "question": "While I was walking in the garden, a snake ______ me.",
+    "options": ["bites", "was biting", "bit", "has bitten"],
+    "answer": "bit",
+    "explanation": "অতীতে একটি চলমান কাজের (walking) মাঝে হঠাৎ অন্য একটি কাজ ঘটলে তা Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 43,
+    "question": "At this time tomorrow, I ______ to London.",
+    "options": ["will travel", "will be traveling", "am traveling", "will have traveled"],
+    "answer": "will be traveling",
+    "explanation": "আগামীকালের নির্দিষ্ট সময়ে কোনো কাজ চলতে থাকবে বোঝালে Future Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 44,
+    "question": "They ______ their dinner before I arrived.",
+    "options": ["finished", "have finished", "had finished", "were finishing"],
+    "answer": "had finished",
+    "explanation": "আমি পৌঁছানোর আগেই তারা রাতের খাবার খেয়ে নিয়েছিল। পূর্ববর্তী কাজটি Past Perfect (had + V3) হয়।"
+  },
+  {
+    "id": 45,
+    "question": "He has been absent ______ last Monday.",
+    "options": ["for", "since", "from", "in"],
+    "answer": "since",
+    "explanation": "কোনো নির্দিষ্ট দিন (last Monday) থেকে কাজ শুরু হওয়া বোঝালে (Point of time) 'since' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 46,
+    "question": "If she ______ a bird, she would fly.",
+    "options": ["is", "was", "were", "has been"],
+    "answer": "were",
+    "explanation": "অবাস্তব কল্পনা বা ইচ্ছা (Unreal condition) বোঝাতে Subject-এর পর সর্বদা 'were' বসে, 'was' নয়।"
+  },
+  {
+    "id": 47,
+    "question": "I ______ TV when the lights went out.",
+    "options": ["watched", "am watching", "was watching", "have watched"],
+    "answer": "was watching",
+    "explanation": "আলো চলে যাওয়ার সময় টিভি দেখার কাজটি অতীতে চলছিল। তাই Past Continuous Tense হবে।"
+  },
+  {
+    "id": 48,
+    "question": "The committee ______ its report by the end of this week.",
+    "options": ["will submit", "will have submitted", "is submitting", "submits"],
+    "answer": "will have submitted",
+    "explanation": "ভবিষ্যতে কোনো নির্দিষ্ট সময়ের মধ্যে (by the end of this week) কাজ সম্পন্ন হবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 49,
+    "question": "She ______ English fluently.",
+    "options": ["speak", "speaks", "is speaking", "has spoken"],
+    "answer": "speaks",
+    "explanation": "এটি সাধারণ সামর্থ্য বা অভ্যাসগত দক্ষতা বোঝাচ্ছে। Third Person Singular Number (She) হওয়ার জন্য Verb-এর সাথে 's' যুক্ত হয়েছে।"
+  },
+  {
+    "id": 50,
+    "question": "I cannot go out because it ______.",
+    "options": ["rains", "is raining", "rained", "has rained"],
+    "answer": "is raining",
+    "explanation": "বর্তমানে বাইরে বৃষ্টি হচ্ছে, সেই কারণে বাইরে যেতে পারছে না। বর্তমানের চলমান কাজ বোঝাতে Present Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 51,
+    "question": "He thanked me for what I ______.",
+    "options": ["have done", "had done", "did", "was doing"],
+    "answer": "had done",
+    "explanation": "অতীতের দুটি কাজের মধ্যে যেটি আগে হয়েছে সেটি Past Perfect এবং যেটি পরে হয়েছে সেটি Past Indefinite হয়। আমি আগে কাজটি করেছিলাম, তারপর সে আমাকে ধন্যবাদ জানিয়েছিল।"
+  },
+  {
+    "id": 52,
+    "question": "Listen! Someone ______ at the door.",
+    "options": ["knocks", "knocked", "is knocking", "has knocked"],
+    "answer": "is knocking",
+    "explanation": "'Listen!', 'Look!', 'Hush!' ইত্যাদি শব্দ দিয়ে বাক্য শুরু হলে, তার পরের কাজটি বর্তমান মুহূর্তে ঘটছে বোঝায়, তাই Present Continuous Tense হয়।"
+  },
+  {
+    "id": 53,
+    "question": "By next year, they ______ the new bridge.",
+    "options": ["will build", "will be building", "will have built", "build"],
+    "answer": "will have built",
+    "explanation": "ভবিষ্যতে কোনো নির্দিষ্ট সময়ের (By next year) মধ্যে কোনো কাজ সম্পন্ন হয়ে থাকবে বোঝালে Future Perfect Tense (will have + V3) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 54,
+    "question": "If I ______ a king, I would help the poor.",
+    "options": ["was", "am", "were", "had been"],
+    "answer": "were",
+    "explanation": "অবাস্তব কল্পনা (Unreal past) বা ইচ্ছা বোঝাতে If-এর পর Subject যাই হোক না কেন, সর্বদাই 'were' বসে।"
+  },
+  {
+    "id": 55,
+    "question": "She ______ here since 2018.",
+    "options": ["is working", "worked", "has been working", "works"],
+    "answer": "has been working",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সাল (since 2018) থেকে কাজ শুরু হয়ে বর্তমানেও চলছে বোঝালে Present Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 56,
+    "question": "I ______ never ______ such a beautiful place before.",
+    "options": ["have, seen", "had, seen", "did, see", "am, seeing"],
+    "answer": "have, seen",
+    "explanation": "জীবনের কোনো অভিজ্ঞতা বর্ণনা করতে বা 'never', 'ever', 'before' শব্দগুলো থাকলে সাধারণত Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 57,
+    "question": "My grandfather ______ in 2010.",
+    "options": ["dies", "has died", "died", "had died"],
+    "answer": "died",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সাল বা সময় উল্লেখ থাকলে (in 2010), বাক্যটি Past Indefinite Tense (V2) হয়।"
+  },
+  {
+    "id": 58,
+    "question": "We ______ him since last week.",
+    "options": ["did not see", "have not seen", "had not seen", "do not see"],
+    "answer": "have not seen",
+    "explanation": "'Since' বা 'for' এর সাথে সময় উল্লেখ থাকলে এবং নেতিবাচক (Negative) বা Stative verb থাকলে তা Present Perfect Tense-এ লেখা হয়।"
+  },
+  {
+    "id": 59,
+    "question": "As soon as he ______ the police, he ran away.",
+    "options": ["see", "saw", "had seen", "has seen"],
+    "answer": "saw",
+    "explanation": "'As soon as' যুক্ত বাক্যে সাধারণত দুটি কাজই পরপর ঘটে, তাই দুটি ক্লজেই Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 60,
+    "question": "He usually ______ a pen, but today he is writing with a pencil.",
+    "options": ["uses", "is using", "used", "has used"],
+    "answer": "uses",
+    "explanation": "'Usually', 'generally' ইত্যাদি থাকলে অভ্যাসগত কাজের জন্য Present Indefinite Tense (uses) হয়।"
+  },
+  {
+    "id": 61,
+    "question": "I ______ a book when my friend came in.",
+    "options": ["read", "am reading", "was reading", "had read"],
+    "answer": "was reading",
+    "explanation": "অতীতে একটি কাজ চলার সময় হঠাৎ অন্য কাজ ঘটলে, চলমান কাজটির জন্য Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 62,
+    "question": "It ______ for two hours before you arrived.",
+    "options": ["was raining", "has been raining", "had been raining", "rained"],
+    "answer": "had been raining",
+    "explanation": "অতীতে কোনো নির্দিষ্ট সময়ের (you arrived) আগে অন্য একটি কাজ দীর্ঘক্ষণ ধরে চলছিল বোঝালে Past Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 63,
+    "question": "By the time we reach the station, the train ______.",
+    "options": ["will leave", "will have left", "left", "has left"],
+    "answer": "will have left",
+    "explanation": "ভবিষ্যতে কোনো নির্দিষ্ট কাজের আগে (we reach the station) আরেকটি কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 64,
+    "question": "They ______ this car a month ago.",
+    "options": ["bought", "have bought", "had bought", "buy"],
+    "answer": "bought",
+    "explanation": "বাক্যে 'ago' শব্দটি অতীতের নির্দেশক, তাই সর্বদা Past Indefinite Tense (V2) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 65,
+    "question": "She ______ always ______ about her job.",
+    "options": ["is, complaining", "has, complained", "does, complain", "was, complained"],
+    "answer": "is, complaining",
+    "explanation": "কারো কোনো বিরক্তিকর অভ্যাস (Annoying habit) বোঝাতে 'always' এর সাথে Present Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 66,
+    "question": "I ______ to the cinema tonight.",
+    "options": ["go", "went", "am going", "have gone"],
+    "answer": "am going",
+    "explanation": "নিকট ভবিষ্যতের কোনো পূর্বপরিকল্পিত কাজ (Fixed plan in near future) বোঝাতে Present Continuous Tense (am going) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 67,
+    "question": "He said that he ______ a letter.",
+    "options": ["is writing", "was writing", "writes", "has written"],
+    "answer": "was writing",
+    "explanation": "Reporting verb অতীতে (said) থাকলে, Reported speech-এর Tense-ও অনুরূপ অতীতের Tense-এ (Past Continuous) পরিবর্তিত হয়।"
+  },
+  {
+    "id": 68,
+    "question": "Oil ______ on water.",
+    "options": ["float", "floats", "is floating", "has floated"],
+    "answer": "floats",
+    "explanation": "এটি একটি বৈজ্ঞানিক সত্য (Scientific truth)। বৈজ্ঞানিক বা চিরন্তন সত্য বোঝাতে Present Indefinite Tense হয়।"
+  },
+  {
+    "id": 69,
+    "question": "I ______ my breakfast before I went to school.",
+    "options": ["had taken", "took", "have taken", "was taking"],
+    "answer": "had taken",
+    "explanation": "'Before'-এর আগের অংশ Past Perfect (had + V3) এবং পরের অংশ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 70,
+    "question": "If you heat ice, it ______.",
+    "options": ["will melt", "melts", "melted", "would melt"],
+    "answer": "melts",
+    "explanation": "এটি Zero Conditional Sentence। বৈজ্ঞানিক সত্য বা সাধারণ সত্যের ক্ষেত্রে 'If' ক্লজ এবং মেইন ক্লজ উভয়ই Present Indefinite Tense হয়।"
+  },
+  {
+    "id": 71,
+    "question": "I ______ a noise just now.",
+    "options": ["hear", "heard", "have heard", "am hearing"],
+    "answer": "have heard",
+    "explanation": "'Just now' থাকলে কাজটির প্রভাব এখনো বর্তমান থাকে, তাই Present Perfect Tense হয়। (অনেক সময় 'just now' Past Indefinite-এও ব্যবহৃত হয়, তবে এখানে have heard উপযুক্ত)।"
+  },
+  {
+    "id": 72,
+    "question": "Do you know who ______ this window?",
+    "options": ["breaks", "broke", "has broken", "had broken"],
+    "answer": "broke",
+    "explanation": "জানালাটি অতীতে ভাঙা হয়েছে, তাই Past Indefinite Tense (broke) ব্যবহার করা সঠিক।"
+  },
+  {
+    "id": 73,
+    "question": "He behaves as though he ______ the boss.",
+    "options": ["is", "was", "were", "has been"],
+    "answer": "were",
+    "explanation": "'As though' বা 'As if'-এর পর অবাস্তব কল্পনা বোঝাতে Verb হিসেবে সর্বদা 'were' বসে।"
+  },
+  {
+    "id": 74,
+    "question": "We ______ for London next week.",
+    "options": ["leave", "left", "are leaving", "have left"],
+    "answer": "are leaving",
+    "explanation": "ভবিষ্যতের পূর্বনির্ধারিত কাজ বোঝাতে 'next week' থাকলেও Present Continuous Tense (are leaving) ব্যবহার করা যায়।"
+  },
+  {
+    "id": 75,
+    "question": "She ______ to see us every Sunday.",
+    "options": ["comes", "is coming", "has come", "came"],
+    "answer": "comes",
+    "explanation": "'Every Sunday' নিয়মিত অভ্যাস বা রুটিন নির্দেশ করে, তাই Present Indefinite Tense হবে।"
+  },
+  {
+    "id": 76,
+    "question": "I ______ to him only one letter up to now.",
+    "options": ["sent", "have sent", "send", "am sending"],
+    "answer": "have sent",
+    "explanation": "'Up to now' (এখন পর্যন্ত) শব্দবন্ধটি থাকলে Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "While the teacher ______, the students were listening.",
+    "options": ["spoke", "is speaking", "was speaking", "had spoken"],
+    "answer": "was speaking",
+    "explanation": "অতীতে দুটি কাজ একই সাথে চলতে থাকলে দুটিতেই Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 78,
+    "question": "They ______ all the arrangements before the guests arrive.",
+    "options": ["will make", "will have made", "make", "have made"],
+    "answer": "will have made",
+    "explanation": "অতিথিরা আসার আগেই ব্যবস্থা সম্পন্ন হয়ে যাবে, তাই Future Perfect Tense (will have made) বসবে।"
+  },
+  {
+    "id": 79,
+    "question": "I would help him if he ______ me.",
+    "options": ["asks", "asked", "will ask", "had asked"],
+    "answer": "asked",
+    "explanation": "এটি Second Conditional। Main clause-এ 'would + V1' থাকলে 'If' clause-এ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 80,
+    "question": "The boy ______ crying because he has lost his toy.",
+    "options": ["is", "was", "has been", "had been"],
+    "answer": "is",
+    "explanation": "কারণটি Present Perfect-এ আছে (has lost), তাই এর ফলস্বরূপ বর্তমান কাজটিও Present Tense (is crying) হবে।"
+  },
+  {
+    "id": 81,
+    "question": "I ______ this book for the last two days.",
+    "options": ["read", "am reading", "have been reading", "was reading"],
+    "answer": "have been reading",
+    "explanation": "'For the last two days' দীর্ঘ সময়ের কাজের ব্যাপ্তি বোঝাচ্ছে, তাই Present Perfect Continuous Tense হবে।"
+  },
+  {
+    "id": 82,
+    "question": "Unless he ______, he will not catch the train.",
+    "options": ["hurries", "will hurry", "hurried", "is hurrying"],
+    "answer": "hurries",
+    "explanation": "'Unless' যুক্ত Condition clause-এ Future Tense হয় না, সেখানে Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 83,
+    "question": "She ______ the room before the guests arrived.",
+    "options": ["cleans", "has cleaned", "cleaned", "had cleaned"],
+    "answer": "had cleaned",
+    "explanation": "অতিথিরা আসার আগে সে ঘর পরিষ্কার করেছিল। পূর্বের কাজটির জন্য Past Perfect Tense হবে।"
+  },
+  {
+    "id": 84,
+    "question": "We usually ______ dinner at 8 PM.",
+    "options": ["have", "are having", "had", "will have"],
+    "answer": "have",
+    "explanation": "'Usually' অভ্যাস বোঝায়। তাই Present Indefinite Tense (have) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 85,
+    "question": "He has not been feeling well ______ yesterday.",
+    "options": ["for", "since", "from", "till"],
+    "answer": "since",
+    "explanation": "নির্দিষ্ট সময় বা Point of time (yesterday) থেকে কাজ শুরু হওয়া বোঝাতে 'since' বসে।"
+  },
+  {
+    "id": 86,
+    "question": "I wish I ______ a million dollars.",
+    "options": ["have", "had", "will have", "am having"],
+    "answer": "had",
+    "explanation": "অবাস্তব ইচ্ছা বোঝাতে 'I wish'-এর পর Past Tense ব্যবহৃত হয়। এখানে 'had' হলো possessive past।"
+  },
+  {
+    "id": 87,
+    "question": "The train ______ at 10 AM tomorrow.",
+    "options": ["leave", "leaves", "has left", "had left"],
+    "answer": "leaves",
+    "explanation": "ভবিষ্যতের কোনো অফিসিয়াল রুটিন বা টাইমটেবিল (Official timetable) বোঝাতে Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 88,
+    "question": "By this time tomorrow, I ______ on the beach.",
+    "options": ["will relax", "will be relaxing", "am relaxing", "relax"],
+    "answer": "will be relaxing",
+    "explanation": "আগামীকালের নির্দিষ্ট এই সময়ে একটি কাজ চলতে থাকবে বোঝালে Future Continuous Tense হয়।"
+  },
+  {
+    "id": 89,
+    "question": "The child ______ its finger.",
+    "options": ["burns", "has burnt", "burnt", "is burning"],
+    "answer": "has burnt",
+    "explanation": "শিশুটির আঙুল পুড়ে গেছে এবং তার ফলাফল এখনো বর্তমান, তাই এটি Present Perfect Tense হবে।"
+  },
+  {
+    "id": 90,
+    "question": "I ______ not understand what you mean.",
+    "options": ["do", "did", "have", "am"],
+    "answer": "do",
+    "explanation": "বর্তমান সময়ের সাধারণ কথাবার্তায় Negative বাক্য তৈরি করতে Present Indefinite Tense-এ 'do not' বা 'does not' বসে।"
+  },
+  {
+    "id": 91,
+    "question": "Hardly had we left the house when it ______ to rain.",
+    "options": ["starts", "started", "had started", "was starting"],
+    "answer": "started",
+    "explanation": "Hardly/Scarcely had + V3 ... when + V2 (Past Indefinite Tense) - এটি Grammar-এর খুব গুরুত্বপূর্ণ নিয়ম।"
+  },
+  {
+    "id": 92,
+    "question": "I ______ you if I had known your address.",
+    "options": ["would visit", "will visit", "visited", "would have visited"],
+    "answer": "would have visited",
+    "explanation": "Third Conditional Sentence-এ 'If' ক্লজ-এ Past Perfect (had + V3) থাকলে, মেইন ক্লজ-এ 'would have + V3' বসে।"
+  },
+  {
+    "id": 93,
+    "question": "He ______ his homework yet.",
+    "options": ["did not finish", "does not finish", "has not finished", "had not finished"],
+    "answer": "has not finished",
+    "explanation": "'Yet' শব্দটি নেতিবাচক (Negative) বাক্যে Present Perfect Tense-এ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 94,
+    "question": "When I reached the station, the train ______.",
+    "options": ["left", "has left", "had left", "was leaving"],
+    "answer": "had left",
+    "explanation": "স্টেশনে পৌঁছানোর আগেই ট্রেন ছেড়ে দিয়েছিল, তাই পূর্বের কাজটি Past Perfect (had + V3) হবে।"
+  },
+  {
+    "id": 95,
+    "question": "The sky is dark. It ______ to rain.",
+    "options": ["is going", "goes", "will go", "went"],
+    "answer": "is going",
+    "explanation": "বর্তমান পরিস্থিতি দেখে ভবিষ্যতে নিশ্চিত কিছু ঘটতে চলেছে এমন বোঝালে 'be going to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 96,
+    "question": "They ______ dinner when I arrived.",
+    "options": ["have", "were having", "had", "are having"],
+    "answer": "were having",
+    "explanation": "আমি যখন উপস্থিত হলাম তখন তারা ডিনার করছিল। অতীতে চলমান কাজ বোঝাতে Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 97,
+    "question": "I usually go to work by bus, but today I ______.",
+    "options": ["am walking", "walk", "walked", "have walked"],
+    "answer": "am walking",
+    "explanation": "সাধারণ অভ্যাস Present Indefinite (go), কিন্তু শুধু আজকের জন্য ব্যতিক্রমী কোনো কাজ (Temporary action) বোঝাতে Present Continuous Tense হয়।"
+  },
+  {
+    "id": 98,
+    "question": "By 2025, he ______ his graduation.",
+    "options": ["will complete", "will be completing", "will have completed", "completes"],
+    "answer": "will have completed",
+    "explanation": "২০২৫ সালের মধ্যে কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense (will have + V3) বসে।"
+  },
+  {
+    "id": 99,
+    "question": "She acts as if she ______ everything.",
+    "options": ["knows", "knew", "had known", "has known"],
+    "answer": "knew",
+    "explanation": "'As if'-এর আগের অংশ Present Indefinite Tense হলে, পরের অংশ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 100,
+    "question": "He ______ a new car last week.",
+    "options": ["has bought", "buys", "bought", "had bought"],
+    "answer": "bought",
+    "explanation": "বাক্যে 'last week', 'last month' ইত্যাদি অতীতের সময়বাচক শব্দ থাকলে Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 101,
+    "question": "I ______ this movie three times.",
+    "options": ["saw", "have seen", "had seen", "see"],
+    "answer": "have seen",
+    "explanation": "অতীতে কোনো কাজ একাধিকবার করা হয়েছে এবং তার অভিজ্ঞতা এখনো বর্তমান থাকলে Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 102,
+    "question": "By the end of this year, he ______ in this company for five years.",
+    "options": ["will work", "will be working", "will have worked", "will have been working"],
+    "answer": "will have been working",
+    "explanation": "ভবিষ্যতের কোনো নির্দিষ্ট সময়ের মধ্যে একটি কাজ দীর্ঘ সময় ধরে চলতে থাকবে বোঝালে Future Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 103,
+    "question": "He ______ his keys. He can't get into the house.",
+    "options": ["lost", "has lost", "had lost", "loses"],
+    "answer": "has lost",
+    "explanation": "চাবি হারানোর ফলস্বরূপ বর্তমানে সে ঘরে ঢুকতে পারছে না। অতীতের কাজের ফল বর্তমানে থাকলে Present Perfect Tense হয়।"
+  },
+  {
+    "id": 104,
+    "question": "If it rains, we ______ the match.",
+    "options": ["cancel", "will cancel", "cancelled", "would cancel"],
+    "answer": "will cancel",
+    "explanation": "First Conditional-এর নিয়মানুযায়ী, 'If' যুক্ত অংশ Present Indefinite হলে, অন্য অংশটি Future Indefinite (will + V1) হয়।"
+  },
+  {
+    "id": 105,
+    "question": "They ______ for three hours when it started to rain.",
+    "options": ["played", "were playing", "had played", "had been playing"],
+    "answer": "had been playing",
+    "explanation": "অতীতে বৃষ্টি শুরু হওয়ার আগে অন্য একটি কাজ (খেলা) দীর্ঘক্ষণ ধরে চলছিল, তাই এটি Past Perfect Continuous Tense হবে।"
+  },
+  {
+    "id": 106,
+    "question": "I wish I ______ the answer to this question.",
+    "options": ["know", "knew", "had known", "have known"],
+    "answer": "knew",
+    "explanation": "বর্তমানে কোনো অবাস্তব ইচ্ছা (Unreal present wish) বোঝাতে 'I wish'-এর পর Subject + Past Indefinite (V2) বসে।"
+  },
+  {
+    "id": 107,
+    "question": "It is time you ______ to study seriously.",
+    "options": ["begin", "began", "have begun", "will begin"],
+    "answer": "began",
+    "explanation": "অত্যন্ত গুরুত্বপূর্ণ নিয়ম: 'It is time' বা 'It is high time'-এর পর Subject থাকলে সর্বদা Verb-এর Past form (V2) বসে।"
+  },
+  {
+    "id": 108,
+    "question": "He always ______ me when I am busy.",
+    "options": ["interrupt", "interrupts", "is interrupting", "interrupted"],
+    "answer": "is interrupting",
+    "explanation": "'Always' দিয়ে সাধারণত অভ্যাস বোঝায়, কিন্তু এটি যখন বিরক্তি বা অভিযোগ (annoyance) বোঝাতে ব্যবহৃত হয় তখন Present Continuous Tense হয়।"
+  },
+  {
+    "id": 109,
+    "question": "There ______ the bus!",
+    "options": ["go", "goes", "is going", "has gone"],
+    "answer": "goes",
+    "explanation": "'Here' বা 'There' দিয়ে শুরু হওয়া Exclamatory sentence-এ সাধারণত Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 110,
+    "question": "We ______ anything from them so far.",
+    "options": ["did not hear", "have not heard", "had not heard", "do not hear"],
+    "answer": "have not heard",
+    "explanation": "'So far' (এযাবৎ) শব্দটি থাকলে সাধারণত Present Perfect Tense-এর নেতিবাচক (negative) রূপ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 111,
+    "question": "By the time the doctor arrived, the patient ______.",
+    "options": ["died", "has died", "had died", "was dying"],
+    "answer": "had died",
+    "explanation": "ডাক্তার আসার আগেই রোগীর মৃত্যু হয়েছিল। অতীতের দুটি ঘটনার মধ্যে যেটি আগে হয় সেটি Past Perfect Tense (had + V3) হয়।"
+  },
+  {
+    "id": 112,
+    "question": "I ______ this book since morning.",
+    "options": ["read", "am reading", "have read", "have been reading"],
+    "answer": "have been reading",
+    "explanation": "সকাল থেকে কাজ শুরু হয়ে এখনো চলছে (since morning), তাই এটি Present Perfect Continuous Tense।"
+  },
+  {
+    "id": 113,
+    "question": "She usually ______ in the evening, but today she is resting.",
+    "options": ["studies", "is studying", "studied", "has studied"],
+    "answer": "studies",
+    "explanation": "'Usually' অভ্যাস বোঝায়, তাই প্রথম অংশে Present Indefinite Tense (studies) হবে, আর দ্বিতীয় অংশে আজকের ব্যতিক্রমী অবস্থার জন্য Continuous হয়েছে।"
+  },
+  {
+    "id": 114,
+    "question": "I would rather you ______ at home tonight.",
+    "options": ["stay", "stayed", "have stayed", "are staying"],
+    "answer": "stayed",
+    "explanation": "'Would rather'-এর পর অন্য কোনো Subject (you) বসলে Verb-এর Past Indefinite (V2) রূপ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 115,
+    "question": "When he was a child, he ______ cricket every day.",
+    "options": ["plays", "played", "is playing", "has played"],
+    "answer": "played",
+    "explanation": "অতীতে শৈশবের নিয়মিত অভ্যাস (Habitual past) বোঝাতে Past Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 116,
+    "question": "The soup ______ delicious. What did you put in it?",
+    "options": ["tastes", "is tasting", "tasted", "has tasted"],
+    "answer": "tastes",
+    "explanation": "'Taste' এখানে Stative verb হিসেবে বসেছে (স্বাদ হওয়া), তাই এর সাথে 'ing' যুক্ত হবে না। Present Indefinite Tense (tastes) হবে।"
+  },
+  {
+    "id": 117,
+    "question": "The chef ______ the soup to check the salt.",
+    "options": ["tastes", "is tasting", "tasted", "has tasted"],
+    "answer": "is tasting",
+    "explanation": "এখানে শেফ ইচ্ছাকৃতভাবে কাজটি (চেখে দেখা) করছেন, এটি Action verb। তাই Present Continuous (is tasting) সঠিক।"
+  },
+  {
+    "id": 118,
+    "question": "I ______ lunch when he called me.",
+    "options": ["had", "was having", "have had", "am having"],
+    "answer": "was having",
+    "explanation": "অতীতে একটি কাজ চলার সময় হঠাৎ আরেকটি কাজ ঘটলে চলমান কাজের জন্য Past Continuous Tense (was having) বসে।"
+  },
+  {
+    "id": 119,
+    "question": "They ______ dinner by 9 PM.",
+    "options": ["will finish", "will be finishing", "will have finished", "have finished"],
+    "answer": "will have finished",
+    "explanation": "ভবিষ্যতে কোনো নির্দিষ্ট সময়ের মধ্যে (by 9 PM) কাজ সম্পন্ন হবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 120,
+    "question": "If water drops below zero degrees, it ______.",
+    "options": ["will freeze", "would freeze", "freezes", "is freezing"],
+    "answer": "freezes",
+    "explanation": "বৈজ্ঞানিক সত্য বা Zero Conditional-এর ক্ষেত্রে If clause এবং Main clause উভয়ই Present Indefinite Tense হয়।"
+  },
+  {
+    "id": 121,
+    "question": "Had I seen him, I ______ him the message.",
+    "options": ["would give", "will give", "would have given", "gave"],
+    "answer": "would have given",
+    "explanation": "এটি Third Conditional-এর উল্টানো রূপ (If I had seen = Had I seen)। তাই would have + V3 বসবে।"
+  },
+  {
+    "id": 122,
+    "question": "She behaves as if she ______ everything.",
+    "options": ["knows", "knew", "had known", "has known"],
+    "answer": "knew",
+    "explanation": "'As if' বা 'As though'-এর আগের অংশ Present Tense হলে, পরের অংশ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 123,
+    "question": "She behaved as if she ______ everything.",
+    "options": ["knows", "knew", "had known", "has known"],
+    "answer": "had known",
+    "explanation": "'As if'-এর আগের অংশ Past Indefinite (behaved) হলে, পরের অংশ Past Perfect (had + V3) হয়।"
+  },
+  {
+    "id": 124,
+    "question": "Please don't disturb me; I ______ my assignment.",
+    "options": ["do", "did", "am doing", "have done"],
+    "answer": "am doing",
+    "explanation": "কাউকে বিরক্ত করতে নিষেধ করা হচ্ছে কারণ বর্তমানে একটি কাজ চলছে। তাই Present Continuous Tense হবে।"
+  },
+  {
+    "id": 125,
+    "question": "We ______ in this town for ten years before moving to Kolkata.",
+    "options": ["lived", "have lived", "had lived", "were living"],
+    "answer": "had lived",
+    "explanation": "অতীতে কলকাতা যাওয়ার আগে দশ বছর সেখানে থাকার কাজ সম্পন্ন হয়েছিল, তাই Past Perfect Tense হবে।"
+  },
+  {
+    "id": 126,
+    "question": "Scarcely had the teacher entered the classroom when the students ______ up.",
+    "options": ["stand", "stood", "had stood", "were standing"],
+    "answer": "stood",
+    "explanation": "Scarcely had + Subject + V3 ... when + Subject + V2 (Past Indefinite) - এটি একটি নির্দিষ্ট ব্যাকরণগত গঠন।"
+  },
+  {
+    "id": 127,
+    "question": "I ______ you if I were a millionaire.",
+    "options": ["will help", "would help", "would have helped", "helped"],
+    "answer": "would help",
+    "explanation": "Second Conditional Sentence: If clause-এ 'were' বা Past Indefinite থাকলে, মেইন ক্লজ-এ would/could + V1 বসে।"
+  },
+  {
+    "id": 128,
+    "question": "The train ______ before we arrive at the station.",
+    "options": ["will leave", "will have left", "left", "has left"],
+    "answer": "will have left",
+    "explanation": "আমরা স্টেশনে পৌঁছানোর আগেই ট্রেন ছেড়ে দিয়ে থাকবে, তাই Future Perfect Tense (will have + V3) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 129,
+    "question": "This is the first time I ______ a horse.",
+    "options": ["ride", "am riding", "have ridden", "rode"],
+    "answer": "have ridden",
+    "explanation": "'This is the first time', 'This is the second time' ইত্যাদির পর সাধারণত Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 130,
+    "question": "I ______ the Taj Mahal when I was in Agra.",
+    "options": ["visit", "have visited", "visited", "had visited"],
+    "answer": "visited",
+    "explanation": "যখন আমি আগ্রায় ছিলাম তখন ভিজিট করেছিলাম (অতীতে সমাপ্ত ঘটনা), তাই Past Indefinite (V2) হবে।"
+  },
+  {
+    "id": 131,
+    "question": "Look at those dark clouds! It ______.",
+    "options": ["will rain", "rains", "is going to rain", "is raining"],
+    "answer": "is going to rain",
+    "explanation": "বর্তমানের লক্ষণ (dark clouds) দেখে ভবিষ্যতে কিছু ঘটার জোরালো সম্ভাবনা থাকলে 'is going to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 132,
+    "question": "He ______ his car last week.",
+    "options": ["has sold", "sells", "sold", "had sold"],
+    "answer": "sold",
+    "explanation": "বাক্যে 'last week', 'yesterday', 'ago' থাকলে সর্বদা Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 133,
+    "question": "If she ______ early, she would not have missed the bus.",
+    "options": ["wakes", "woke", "had woken", "has woken"],
+    "answer": "had woken",
+    "explanation": "Third Conditional: Main clause-এ 'would have + V3' থাকলে If clause-এ Past Perfect (had + V3) বসে।"
+  },
+  {
+    "id": 134,
+    "question": "They ______ TV when the earthquake happened.",
+    "options": ["watch", "are watching", "were watching", "have watched"],
+    "answer": "were watching",
+    "explanation": "অতীতে একটি কাজ চলাকালীন (টিভি দেখা) অন্য একটি ঘটনা (ভূমিকম্প) ঘটলে চলমান কাজের জন্য Past Continuous Tense হয়।"
+  },
+  {
+    "id": 135,
+    "question": "I ______ a letter to my friend yesterday.",
+    "options": ["write", "have written", "wrote", "had written"],
+    "answer": "wrote",
+    "explanation": "'Yesterday' অতীতের নির্দেশক, তাই Past Indefinite Tense (wrote) হবে।"
+  },
+  {
+    "id": 136,
+    "question": "He usually ______ a blue shirt, but today he is wearing a red one.",
+    "options": ["wears", "is wearing", "wore", "has worn"],
+    "answer": "wears",
+    "explanation": "সাধারণ অভ্যাস বোঝাতে 'Usually' এর সাথে Present Indefinite Tense (wears) বসে।"
+  },
+  {
+    "id": 137,
+    "question": "Nobody ______ to him since he left the town.",
+    "options": ["talked", "has talked", "talks", "is talking"],
+    "answer": "has talked",
+    "explanation": "'Since'-এর আগের অংশ Present Perfect Tense হয় যদি এর পরের অংশ Past Indefinite Tense-এ থাকে।"
+  },
+  {
+    "id": 138,
+    "question": "I think it ______ tomorrow.",
+    "options": ["rains", "will rain", "is raining", "rained"],
+    "answer": "will rain",
+    "explanation": "ভবিষ্যতের কোনো সাধারণ অনুমান (Prediction) বা 'think', 'believe' ইত্যাদির পর Future Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 139,
+    "question": "He ______ an umbrella because it is raining.",
+    "options": ["carry", "carries", "is carrying", "has carried"],
+    "answer": "is carrying",
+    "explanation": "বর্তমানে বৃষ্টি হওয়ার কারণে সে এখন ছাতা বহন করছে। বর্তমানের কাজের জন্য Present Continuous Tense হবে।"
+  },
+  {
+    "id": 140,
+    "question": "I ______ my homework before the match starts.",
+    "options": ["will finish", "will have finished", "finished", "have finished"],
+    "answer": "will have finished",
+    "explanation": "ভবিষ্যতে অন্য একটি কাজের (match starts) আগে একটি কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 141,
+    "question": "She ______ two brothers.",
+    "options": ["is having", "has", "have", "had"],
+    "answer": "has",
+    "explanation": "মালিকানা বা সম্পর্ক বোঝাতে 'have/has' একটি Stative verb, এর সাথে 'ing' যুক্ত হয় না। Subject Third Person Singular তাই 'has' হবে।"
+  },
+  {
+    "id": 142,
+    "question": "The patient ______ before the ambulance arrived.",
+    "options": ["died", "has died", "had died", "was dying"],
+    "answer": "had died",
+    "explanation": "অ্যাম্বুলেন্স আসার আগেই রোগীর মৃত্যু হয়েছিল। পূর্ববর্তী কাজের জন্য Past Perfect Tense (had + V3) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 143,
+    "question": "Unless you ______ hard, you will not succeed.",
+    "options": ["worked", "will work", "work", "are working"],
+    "answer": "work",
+    "explanation": "'Unless' যুক্ত Condition clause-এ Future Tense বসে না, সর্বদা Present Indefinite Tense (work) বসে।"
+  },
+  {
+    "id": 144,
+    "question": "I ______ him for a long time.",
+    "options": ["know", "am knowing", "have known", "have been knowing"],
+    "answer": "have known",
+    "explanation": "'Know' একটি Stative verb যার Continuous form হয় না। তাই দীর্ঘ সময় বোঝালেও এটি Present Perfect Tense হবে।"
+  },
+  {
+    "id": 145,
+    "question": "At 8 PM tomorrow, I ______ my dinner.",
+    "options": ["will eat", "will have eaten", "will be eating", "am eating"],
+    "answer": "will be eating",
+    "explanation": "আগামীকালের একটি নির্দিষ্ট সময়ে (At 8 PM tomorrow) কাজ চলতে থাকবে বোঝালে Future Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 146,
+    "question": "He ______ in the sun for an hour when I saw him.",
+    "options": ["was standing", "has been standing", "had been standing", "stood"],
+    "answer": "had been standing",
+    "explanation": "আমি যখন তাকে দেখলাম (অতীতে), তার আগে এক ঘণ্টা ধরে সে রোদে দাঁড়িয়ে ছিল, তাই Past Perfect Continuous Tense হবে।"
+  },
+  {
+    "id": 147,
+    "question": "My brother ______ a car recently.",
+    "options": ["buy", "bought", "has bought", "had bought"],
+    "answer": "has bought",
+    "explanation": "বাক্যে 'recently', 'lately' ইত্যাদি শব্দ থাকলে সেটি সাধারণত Present Perfect Tense-এ লিখতে হয়।"
+  },
+  {
+    "id": 148,
+    "question": "They ______ everything before we asked them.",
+    "options": ["explained", "have explained", "had explained", "were explaining"],
+    "answer": "had explained",
+    "explanation": "আমরা জিজ্ঞাসা করার আগেই তারা সবকিছু বুঝিয়ে বলেছিল। আগের কাজের জন্য Past Perfect (had + V3) ব্যবহৃত হবে।"
+  },
+  {
+    "id": 149,
+    "question": "Listen! The birds ______ in the trees.",
+    "options": ["chirp", "are chirping", "have chirped", "chirped"],
+    "answer": "are chirping",
+    "explanation": "'Listen!' বা 'Look!' দিয়ে শুরু হওয়া বাক্য দিয়ে বর্তমানের চলমান কাজ নির্দেশ করে, তাই Present Continuous Tense হয়।"
+  },
+  {
+    "id": 150,
+    "question": "If you ______, you would have caught the train.",
+    "options": ["ran", "run", "have run", "had run"],
+    "answer": "had run",
+    "explanation": "Third Conditional: Main clause-এ 'would have + caught' থাকায় If clause-এ Past Perfect (had + V3) বসবে।"
+  },
+  {
+    "id": 151,
+    "question": "He ______ the station just now.",
+    "options": ["left", "has left", "had left", "is leaving"],
+    "answer": "has left",
+    "explanation": "'Just now' থাকলে কাজটির প্রভাব বর্তমান বোঝাতে Present Perfect Tense (has left) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 152,
+    "question": "By 10 AM tomorrow, she ______ in the examination hall.",
+    "options": ["will sit", "will have sat", "will be sitting", "sits"],
+    "answer": "will be sitting",
+    "explanation": "আগামীকালের নির্দিষ্ট সময়ে কোনো কাজ চলতে থাকবে বোঝালে Future Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 153,
+    "question": "Two days ago, I ______ my old friend in the market.",
+    "options": ["meet", "met", "have met", "had met"],
+    "answer": "met",
+    "explanation": "বাক্যে 'ago' শব্দটি থাকলে সেটি সর্বদা Past Indefinite Tense (V2) হয়।"
+  },
+  {
+    "id": 154,
+    "question": "While we ______ in the park, it started to rain.",
+    "options": ["walk", "are walking", "were walking", "have walked"],
+    "answer": "were walking",
+    "explanation": "অতীতে কোনো কাজ চলার সময় অন্য কাজ ঘটলে, চলমান কাজের জন্য Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 155,
+    "question": "The patient ______ after the doctor had come.",
+    "options": ["die", "died", "had died", "has died"],
+    "answer": "died",
+    "explanation": "'After'-এর পরের অংশ Past Perfect হলে, আগের অংশটি Past Indefinite (V2) হয়। (ডাক্তার আসার পর রোগী মারা গেল)"
+  },
+  {
+    "id": 156,
+    "question": "If you mix red and yellow, you ______ orange.",
+    "options": ["will get", "would get", "get", "got"],
+    "answer": "get",
+    "explanation": "এটি Zero Conditional। বৈজ্ঞানিক বা সার্বজনীন সত্যের ক্ষেত্রে If clause এবং Main clause উভয়ই Present Indefinite Tense হয়।"
+  },
+  {
+    "id": 157,
+    "question": "Had he worked hard, he ______ the exam.",
+    "options": ["will pass", "would pass", "passed", "would have passed"],
+    "answer": "would have passed",
+    "explanation": "Third Conditional (Had + V3)-এর ক্ষেত্রে Main clause-এ 'would have + V3' বসে।"
+  },
+  {
+    "id": 158,
+    "question": "It ______ since yesterday.",
+    "options": ["is raining", "was raining", "has been raining", "rained"],
+    "answer": "has been raining",
+    "explanation": "অতীতের কোনো সময় (yesterday) থেকে শুরু হয়ে বর্তমানেও কাজ চলছে বোঝালে Present Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 159,
+    "question": "This house ______ to my uncle.",
+    "options": ["is belonging", "belongs", "belonged", "has belonged"],
+    "answer": "belongs",
+    "explanation": "'Belong' একটি Stative Verb (মালিকানা বোঝায়), এর সাথে 'ing' যুক্ত হয় না। তাই এটি Present Indefinite Tense হবে।"
+  },
+  {
+    "id": 160,
+    "question": "By the end of this month, I ______ this project.",
+    "options": ["will complete", "will have completed", "completed", "am completing"],
+    "answer": "will have completed",
+    "explanation": "ভবিষ্যতে কোনো নির্দিষ্ট সময়ের মধ্যে (By the end of this month) কাজ শেষ হয়ে যাবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 161,
+    "question": "My mother ______ the Geeta every morning.",
+    "options": ["reads", "is reading", "read", "has read"],
+    "answer": "reads",
+    "explanation": "নিয়মিত অভ্যাস (Habitual action) বোঝাতে 'every morning'-এর সাথে Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 162,
+    "question": "When I was in college, I ______ miles to attend classes.",
+    "options": ["walk", "walked", "have walked", "am walking"],
+    "answer": "walked",
+    "explanation": "অতীতের নিয়মিত অভ্যাস বোঝাতে Past Indefinite Tense (V2) বা 'used to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 163,
+    "question": "Look! The monkey ______ on the wall.",
+    "options": ["jumps", "is jumping", "jumped", "has jumped"],
+    "answer": "is jumping",
+    "explanation": "'Look!', 'Listen!' ইত্যাদি দিয়ে বাক্য শুরু হলে কাজটি বর্তমান মুহূর্তে ঘটছে বোঝায়। তাই Present Continuous Tense হবে।"
+  },
+  {
+    "id": 164,
+    "question": "I ______ already ______ my breakfast.",
+    "options": ["have, taken", "had, taken", "did, take", "am, taking"],
+    "answer": "have, taken",
+    "explanation": "'Already', 'just', 'yet' ইত্যাদি থাকলে সাধারণত Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 165,
+    "question": "The earth ______ round the sun.",
+    "options": ["move", "moves", "moved", "is moving"],
+    "answer": "moves",
+    "explanation": "এটি একটি চিরন্তন সত্য (Universal Truth), তাই সর্বদা Present Indefinite Tense হবে।"
+  },
+  {
+    "id": 166,
+    "question": "They ______ for two hours when the guests arrived.",
+    "options": ["were cooking", "have been cooking", "had been cooking", "cooked"],
+    "answer": "had been cooking",
+    "explanation": "অতীতে একটি নির্দিষ্ট ঘটনার আগে অন্য একটি কাজ দীর্ঘক্ষণ ধরে চলছিল বোঝালে Past Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 167,
+    "question": "Unless you invite him, he ______.",
+    "options": ["will not come", "does not come", "did not come", "would not come"],
+    "answer": "will not come",
+    "explanation": "'Unless' যুক্ত Condition clause Present Indefinite হলে, Main clause সাধারণত Future Indefinite (will/shall) হয়।"
+  },
+  {
+    "id": 168,
+    "question": "No sooner had he left the house than it ______ to rain.",
+    "options": ["starts", "started", "had started", "was starting"],
+    "answer": "started",
+    "explanation": "No sooner had ... than -এর পরের অংশে সর্বদা Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 169,
+    "question": "It is high time we ______ our strategy.",
+    "options": ["change", "changed", "have changed", "will change"],
+    "answer": "changed",
+    "explanation": "'It is high time'-এর পর Subject থাকলে সর্বদা Verb-এর Past Indefinite রূপ (V2) বসে।"
+  },
+  {
+    "id": 170,
+    "question": "He talked as if he ______ the entire world.",
+    "options": ["travels", "traveled", "had traveled", "has traveled"],
+    "answer": "had traveled",
+    "explanation": "'As if'-এর আগের অংশ Past Indefinite (talked) হলে, পরের অংশ Past Perfect (had + V3) হয়।"
+  },
+  {
+    "id": 171,
+    "question": "He ______ to be very tired today.",
+    "options": ["seems", "is seeming", "seemed", "has seemed"],
+    "answer": "seems",
+    "explanation": "'Seem' একটি Stative Verb, তাই এর সাথে 'ing' যুক্ত হয় না। বর্তমানের অবস্থা বোঝাতে Present Indefinite Tense হবে।"
+  },
+  {
+    "id": 172,
+    "question": "By 2030, scientists ______ on this project for twenty years.",
+    "options": ["will work", "will be working", "will have worked", "will have been working"],
+    "answer": "will have been working",
+    "explanation": "ভবিষ্যতের নির্দিষ্ট সময় পর্যন্ত কোনো কাজ দীর্ঘসময় ধরে চলতে থাকবে বোঝালে Future Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 173,
+    "question": "She ______ always ______ mistakes in her writing.",
+    "options": ["is, making", "has, made", "does, make", "was, made"],
+    "answer": "is, making",
+    "explanation": "কারো বিরক্তিকর বা অনাকাঙ্ক্ষিত অভ্যাস বোঝাতে 'always'-এর সাথে Present Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 174,
+    "question": "We ______ a loud noise last night.",
+    "options": ["hear", "heard", "have heard", "were hearing"],
+    "answer": "heard",
+    "explanation": "'Last night' অতীতের নির্দিষ্ট সময় বোঝায়, তাই Past Indefinite Tense (V2) হবে।"
+  },
+  {
+    "id": 175,
+    "question": "Have you finished the report ______?",
+    "options": ["just", "already", "yet", "now"],
+    "answer": "yet",
+    "explanation": "'Yet' শব্দটি Present Perfect Tense-এর Interrogative (প্রশ্নবোধক) ও Negative বাক্যের শেষে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 176,
+    "question": "If I ______ a bird, I would fly in the sky.",
+    "options": ["am", "was", "were", "had been"],
+    "answer": "were",
+    "explanation": "অবাস্তব কল্পনা বা ইচ্ছা (Unreal condition) বোঝাতে Subject-এর পর সর্বদা 'were' বসে।"
+  },
+  {
+    "id": 177,
+    "question": "I had locked the door before I ______ to bed.",
+    "options": ["go", "went", "have gone", "was going"],
+    "answer": "went",
+    "explanation": "'Before'-এর আগের অংশ Past Perfect (had locked) হলে, পরের অংশ Past Indefinite (went) হয়।"
+  },
+  {
+    "id": 178,
+    "question": "Here ______ the bride!",
+    "options": ["come", "comes", "is coming", "has come"],
+    "answer": "comes",
+    "explanation": "'Here' বা 'There' দিয়ে শুরু হওয়া বাক্যে Subject-এর আগে Verb বসে এবং তা Present Indefinite Tense হয়।"
+  },
+  {
+    "id": 179,
+    "question": "I ______ in this school for five years.",
+    "options": ["am", "have been", "was", "had been"],
+    "answer": "have been",
+    "explanation": "দীর্ঘ সময় ধরে কোনো স্থানে থাকা বোঝাতে (for five years) Present Perfect Tense (have been) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 180,
+    "question": "While I was reading, he ______.",
+    "options": ["slept", "is sleeping", "was sleeping", "has slept"],
+    "answer": "was sleeping",
+    "explanation": "অতীতে দুটি কাজ একই সাথে সমান্তরালভাবে চলতে থাকলে দুটিতেই Past Continuous Tense হয়।"
+  },
+  {
+    "id": 181,
+    "question": "I think it ______ a difficult exam.",
+    "options": ["is", "will be", "was", "has been"],
+    "answer": "will be",
+    "explanation": "ভবিষ্যত সম্পর্কে কোনো সাধারণ অনুমান বা মতামত (I think) বোঝাতে Future Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 182,
+    "question": "He usually walks to work, but today he ______ a bicycle.",
+    "options": ["rides", "is riding", "rode", "has ridden"],
+    "answer": "is riding",
+    "explanation": "নিয়মিত অভ্যাসের বাইরে আজকের সাময়িক কাজের (Temporary action) জন্য Present Continuous Tense হবে।"
+  },
+  {
+    "id": 183,
+    "question": "This is the best movie I ______ ever ______.",
+    "options": ["have, seen", "had, seen", "am, seeing", "did, see"],
+    "answer": "have, seen",
+    "explanation": "Superlative degree-র (the best) পর অভিজ্ঞতা বোঝাতে Present Perfect Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 184,
+    "question": "India ______ independence in 1947.",
+    "options": ["get", "got", "has got", "had got"],
+    "answer": "got",
+    "explanation": "অতীতের একটি নির্দিষ্ট সাল (in 1947) উল্লেখ থাকলে Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 185,
+    "question": "He ______ two letters so far.",
+    "options": ["wrote", "has written", "is writing", "writes"],
+    "answer": "has written",
+    "explanation": "'So far' (এখনো পর্যন্ত) শব্দটি থাকলে কাজটির ফলাফল বর্তমান বোঝায়, তাই Present Perfect Tense হয়।"
+  },
+  {
+    "id": 186,
+    "question": "By the time you wake up, I ______ breakfast.",
+    "options": ["will make", "will have made", "am making", "make"],
+    "answer": "will have made",
+    "explanation": "ভবিষ্যতের একটি ঘটনার আগে আরেকটি কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 187,
+    "question": "Have you seen him ______?",
+    "options": ["yesterday", "last week", "lately", "ago"],
+    "answer": "lately",
+    "explanation": "Present Perfect Tense-এর সাথে 'lately' (সম্প্রতি) ব্যবহৃত হয়। বাকি শব্দগুলো Past Indefinite-এর নির্দেশক।"
+  },
+  {
+    "id": 188,
+    "question": "The flight for Delhi ______ at 5 PM tomorrow.",
+    "options": ["leave", "leaves", "has left", "had left"],
+    "answer": "leaves",
+    "explanation": "ভবিষ্যতের আনুষ্ঠানিক সময়সূচি বা রুটিন (Timetable) বোঝাতে Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 189,
+    "question": "It was the first time I ______ a plane.",
+    "options": ["flew", "have flown", "had flown", "was flying"],
+    "answer": "had flown",
+    "explanation": "'It is the first time' থাকলে Present Perfect এবং 'It was the first time' থাকলে Past Perfect Tense হয়।"
+  },
+  {
+    "id": 190,
+    "question": "I ______ in God.",
+    "options": ["am believing", "believe", "believed", "have believed"],
+    "answer": "believe",
+    "explanation": "'Believe' একটি Stative Verb, যা মনের অবস্থা বোঝায়। এর সাথে 'ing' যুক্ত হয় না, তাই Present Indefinite হবে।"
+  },
+  {
+    "id": 191,
+    "question": "Tomorrow at this time, I ______ over the Pacific Ocean.",
+    "options": ["will fly", "will be flying", "fly", "will have flown"],
+    "answer": "will be flying",
+    "explanation": "আগামীকালের নির্দিষ্ট সময়ে কাজটি (উড্ডয়ন) চলতে থাকবে, তাই Future Continuous Tense হবে।"
+  },
+  {
+    "id": 192,
+    "question": "______ you see my bag anywhere?",
+    "options": ["Do", "Did", "Have", "Are"],
+    "answer": "Did",
+    "explanation": "অতীতে নির্দিষ্ট কিছু দেখা হয়েছে কিনা জানতে Past Indefinite (Did + V1) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 193,
+    "question": "The prices of essentials ______ up recently.",
+    "options": ["went", "have gone", "go", "are going"],
+    "answer": "have gone",
+    "explanation": "'Recently' শব্দটি সাধারণত Present Perfect Tense-এর সাথে বসে।"
+  },
+  {
+    "id": 194,
+    "question": "If you boil water, it ______ into steam.",
+    "options": ["turns", "will turn", "turned", "would turn"],
+    "answer": "turns",
+    "explanation": "বৈজ্ঞানিক সত্য বা Zero Conditional বোঝাতে দুটি ক্লজেই Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 195,
+    "question": "By the time he was 20, he ______ three languages.",
+    "options": ["learned", "has learned", "had learned", "was learning"],
+    "answer": "had learned",
+    "explanation": "অতীতের নির্দিষ্ট সময়ের (he was 20) আগে কোনো কাজ সম্পন্ন হয়ে থাকলে তা Past Perfect Tense হয়।"
+  },
+  {
+    "id": 196,
+    "question": "Don't make noise, the baby ______.",
+    "options": ["sleeps", "is sleeping", "slept", "has slept"],
+    "answer": "is sleeping",
+    "explanation": "বর্তমানে কাজটি ঘটছে (শিশু ঘুমাচ্ছে), তাই শব্দ করতে নিষেধ করা হচ্ছে। এটি Present Continuous Tense হবে।"
+  },
+  {
+    "id": 197,
+    "question": "How long ______ you ______ for me?",
+    "options": ["are, waiting", "have, been waiting", "do, wait", "were, waiting"],
+    "answer": "have, been waiting",
+    "explanation": "'How long' দিয়ে কাজ দীর্ঘক্ষণ চলার অর্থ বোঝালে Present Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 198,
+    "question": "When I was a child, I ______ to be a pilot.",
+    "options": ["want", "wanted", "have wanted", "had wanted"],
+    "answer": "wanted",
+    "explanation": "শৈশবের অতীতের আকাঙ্ক্ষা বা অবস্থার কথা বলতে Past Indefinite Tense (wanted) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 199,
+    "question": "If he had asked me, I ______ him.",
+    "options": ["would help", "will help", "would have helped", "helped"],
+    "answer": "would have helped",
+    "explanation": "Third Conditional Sentence-এ If clause-এ Past Perfect থাকলে, Main clause-এ 'would have + V3' বসে।"
+  },
+  {
+    "id": 200,
+    "question": "______ you ever ______ to Darjeeling?",
+    "options": ["Did, go", "Have, been", "Do, go", "Are, going"],
+    "answer": "Have, been",
+    "explanation": "জীবনের অভিজ্ঞতা জানতে 'ever' থাকলে Present Perfect Tense হয় এবং কোনো জায়গায় গিয়ে ফিরে আসা বোঝাতে 'have been' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 201,
+    "question": "Spot the Error: I have passed (A) / the examination (B) / two years ago. (C) / No Error (D)",
+    "options": ["I have passed", "the examination", "two years ago.", "No Error"],
+    "answer": "I have passed",
+    "explanation": "বাক্যের শেষে 'two years ago' আছে, যা অতীতের নির্দিষ্ট সময় নির্দেশ করে। তাই Present Perfect (have passed) না হয়ে Past Indefinite (passed) হবে। সঠিক অংশটি হতো: I passed."
+  },
+  {
+    "id": 202,
+    "question": "Spot the Error: It is high time (A) / we should start (B) / preparing for the exam. (C) / No Error (D)",
+    "options": ["It is high time", "we should start", "preparing for the exam.", "No Error"],
+    "answer": "we should start",
+    "explanation": "'It is high time'-এর পর Subject (we) থাকলে সর্বদা Verb-এর Past Indefinite (V2) রূপ ব্যবহৃত হয়। তাই 'should start' এর বদলে 'started' হবে।"
+  },
+  {
+    "id": 203,
+    "question": "Sentence Improvement: He [is owning] this property for the last ten years.",
+    "options": ["owns", "has owned", "has been owning", "No improvement"],
+    "answer": "has owned",
+    "explanation": "মালিকানা বোঝাতে 'own' একটি Stative verb, তাই এর Continuous form (is owning/has been owning) হয় না। যেহেতু 'for the last ten years' আছে, তাই এটি Present Perfect Tense (has owned) হবে।"
+  },
+  {
+    "id": 204,
+    "question": "Spot the Error: Since he joined (A) / this post, he did not take (B) / any bribe. (C) / No Error (D)",
+    "options": ["Since he joined", "this post, he did not take", "any bribe.", "No Error"],
+    "answer": "this post, he did not take",
+    "explanation": "'Since'-এর একটি অংশের কাজ Past Indefinite (joined) হলে, অপর অংশের কাজটি Present Perfect Tense-এ হয়। তাই 'did not take' এর পরিবর্তে 'has not taken' হবে।"
+  },
+  {
+    "id": 205,
+    "question": "Sentence Improvement: I will call you when I [will reach] the station.",
+    "options": ["reached", "am reaching", "reach", "No improvement"],
+    "answer": "reach",
+    "explanation": "ভবিষ্যতের দুটি কাজ 'when', 'if', 'unless' ইত্যাদি দ্বারা যুক্ত থাকলে, Condition অংশটিতে Future Tense (will reach) বসে না, Present Indefinite (reach) বসে।"
+  },
+  {
+    "id": 206,
+    "question": "Spot the Error: By the time we reached the theatre, (A) / the show (B) / was already begun. (C) / No Error (D)",
+    "options": ["By the time we reached the theatre,", "the show", "was already begun.", "No Error"],
+    "answer": "was already begun.",
+    "explanation": "আমরা থিয়েটারে পৌঁছানোর আগেই শো শুরু হয়ে গিয়েছিল। অতীতের দুটি কাজের মধ্যে প্রথমটির জন্য Past Perfect (had begun) ব্যবহৃত হয়, 'was already begun' নয়।"
+  },
+  {
+    "id": 207,
+    "question": "Sentence Improvement: The victim tried to tell us what [has happened] but his voice was not audible.",
+    "options": ["happened", "had happened", "was happening", "No improvement"],
+    "answer": "had happened",
+    "explanation": "ভিকটিম আমাদের বলার চেষ্টা করেছিল (tried - Past Indefinite) তার আগে কী ঘটেছিল। আগের ঘটনাটি বোঝাতে Past Perfect (had happened) হবে।"
+  },
+  {
+    "id": 208,
+    "question": "Spot the Error: Gowri told me (A) / his name after (B) / he left. (C) / No Error (D)",
+    "options": ["Gowri told me", "his name after", "he left.", "No Error"],
+    "answer": "he left.",
+    "explanation": "'After' এর আগের অংশ Past Indefinite (told) হলে, পরের অংশ Past Perfect (had left) হয়। কারণ যাওয়ার কাজটি আগে সম্পন্ন হয়েছিল।"
+  },
+  {
+    "id": 209,
+    "question": "Sentence Improvement: I wish I [have learnt] swimming when I was young.",
+    "options": ["had learnt", "learnt", "am learning", "No improvement"],
+    "answer": "had learnt",
+    "explanation": "অতীতের কোনো অপূর্ণ ইচ্ছা (Unreal past wish) বোঝাতে 'I wish'-এর পর Past Perfect Tense (had learnt) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 210,
+    "question": "Spot the Error: My friend (A) / is working in this bank (B) / for the last five years. (C) / No Error (D)",
+    "options": ["My friend", "is working in this bank", "for the last five years.", "No Error"],
+    "answer": "is working in this bank",
+    "explanation": "বিগত পাঁচ বছর ধরে কাজ চলছে (for the last five years), তাই এটি Present Continuous (is working) না হয়ে Present Perfect Continuous (has been working) হবে।"
+  },
+  {
+    "id": 211,
+    "question": "Sentence Improvement: She acts as if she [is] the manager of this company.",
+    "options": ["was", "were", "has been", "No improvement"],
+    "answer": "were",
+    "explanation": "'As if' বা 'As though'-এর পর অবাস্তব কল্পনা বোঝাতে Subject-এর পর সর্বদা 'were' বসে, 'is' বা 'was' নয়।"
+  },
+  {
+    "id": 212,
+    "question": "Spot the Error: When I will be thirty, (A) / most of my friends (B) / will be above thirty-five. (C) / No Error (D)",
+    "options": ["When I will be thirty,", "most of my friends", "will be above thirty-five.", "No Error"],
+    "answer": "When I will be thirty,",
+    "explanation": "'When' যুক্ত Time clause-এ Future Tense (will be) বসে না, তার পরিবর্তে Present Indefinite (When I am thirty) বসবে।"
+  },
+  {
+    "id": 213,
+    "question": "Sentence Improvement: No sooner [he had arrived] than he was asked to leave again.",
+    "options": ["he arrived", "had he arrived", "did he arrive", "No improvement"],
+    "answer": "had he arrived",
+    "explanation": "বাক্য 'No sooner' দিয়ে শুরু হলে Inversion রুল অনুযায়ী Auxiliary Verb (had/did) Subject-এর আগে চলে আসে। তাই 'had he arrived' হবে।"
+  },
+  {
+    "id": 214,
+    "question": "Spot the Error: He told his teacher (A) / that he did not read (B) / the book the previous day. (C) / No Error (D)",
+    "options": ["He told his teacher", "that he did not read", "the book the previous day.", "No Error"],
+    "answer": "that he did not read",
+    "explanation": "এটি Indirect Speech-এ আছে। 'The previous day' নির্দেশ করছে ঘটনাটি অতীতের। Reporting verb (told) অতীতে থাকায় Reported speech-টি Past Perfect (had not read) হবে।"
+  },
+  {
+    "id": 215,
+    "question": "Sentence Improvement: We [are looking] forward to seeing you soon.",
+    "options": ["look", "have looked", "were looking", "No improvement"],
+    "answer": "No improvement",
+    "explanation": "বাক্যটি সম্পূর্ণ সঠিক। 'Look forward to'-এর সাথে Verb+ing (seeing) বসে এবং বর্তমান অবস্থা বোঝাতে Present Continuous (are looking) সঠিক।"
+  },
+  {
+    "id": 216,
+    "question": "Spot the Error: I have been (A) / knowing him (B) / for ten years. (C) / No Error (D)",
+    "options": ["I have been", "knowing him", "for ten years.", "No Error"],
+    "answer": "knowing him",
+    "explanation": "'Know' একটি Stative verb, তাই এর Continuous form (knowing) হয় না। সঠিক বাক্যটি হবে: I have known him for ten years. (Present Perfect)"
+  },
+  {
+    "id": 217,
+    "question": "Sentence Improvement: If I [had money], I would have bought that car.",
+    "options": ["have money", "had had money", "has money", "No improvement"],
+    "answer": "had had money",
+    "explanation": "Main clause-এ 'would have bought' (Third Conditional) আছে, তাই If clause-এ Past Perfect (had + V3) বসবে। এখানে main verb 'have'-এর V3 হলো 'had'। তাই 'had had' হবে।"
+  },
+  {
+    "id": 218,
+    "question": "Spot the Error: The Secretarial comprises (A) / of many air-conditioned rooms (B) / but no toilets. (C) / No Error (D)",
+    "options": ["The Secretarial comprises", "of many air-conditioned rooms", "but no toilets.", "No Error"],
+    "answer": "of many air-conditioned rooms",
+    "explanation": "(এটি Tense এবং Preposition-এর মিশ্র ভুল, যা পরীক্ষায় খুব আসে) Active voice-এ 'comprise'-এর পর 'of' বসে না। সঠিক: comprises many air-conditioned rooms."
+  },
+  {
+    "id": 219,
+    "question": "Sentence Improvement: I [am having] two brothers and one sister.",
+    "options": ["have", "has", "was having", "No improvement"],
+    "answer": "have",
+    "explanation": "সম্পর্ক বা অধিকার বোঝাতে 'have' একটি Stative Verb। এর সাথে 'ing' যুক্ত করে continuous form তৈরি করা যায় না। তাই Present Indefinite Tense (have) হবে।"
+  },
+  {
+    "id": 220,
+    "question": "Spot the Error: He usually (A) / is getting up (B) / at 6 AM every day. (C) / No Error (D)",
+    "options": ["He usually", "is getting up", "at 6 AM every day.", "No Error"],
+    "answer": "is getting up",
+    "explanation": "'Usually' এবং 'every day' দিয়ে নিয়মিত অভ্যাস (Habitual action) বোঝায়। তাই Present Continuous (is getting up) না হয়ে Present Indefinite (gets up) হবে।"
+  },
+  {
+    "id": 221,
+    "question": "Sentence Improvement: They did not [went] to the market yesterday.",
+    "options": ["go", "gone", "going", "No improvement"],
+    "answer": "go",
+    "explanation": "Past Indefinite Tense-এর নেতিবাচক বাক্যে 'did not'-এর পর সর্বদা মূল Verb-এর Base form (V1) বসে। তাই 'went'-এর বদলে 'go' হবে।"
+  },
+  {
+    "id": 222,
+    "question": "Spot the Error: Although I am playing (A) / cricket for more than three years, (B) / I have not been able to score a century. (C) / No Error (D)",
+    "options": ["Although I am playing", "cricket for more than three years,", "I have not been able to score a century.", "No Error"],
+    "answer": "Although I am playing",
+    "explanation": "তিন বছরের বেশি সময় ধরে কাজটি চলছে, তাই Present Continuous (am playing) না হয়ে Present Perfect Continuous (have been playing) হবে।"
+  },
+  {
+    "id": 223,
+    "question": "Sentence Improvement: I [would have helped] him if he asked me.",
+    "options": ["would help", "will help", "had helped", "No improvement"],
+    "answer": "would help",
+    "explanation": "Condition অংশে (if he asked) Past Indefinite (V2) আছে, এটি Second Conditional। তাই Main clause-এ 'would + V1' (would help) বসবে।"
+  },
+  {
+    "id": 224,
+    "question": "Spot the Error: The train (A) / is supposed to arrive (B) / at 10 AM tomorrow. (C) / No Error (D)",
+    "options": ["The train", "is supposed to arrive", "at 10 AM tomorrow.", "No Error"],
+    "answer": "No Error",
+    "explanation": "বাক্যটিতে কোনো ভুল নেই। ভবিষ্যতের পূর্বপরিকল্পিত সময়সূচি বোঝাতে Present Continuous বা 'is supposed to' এর ব্যবহার সঠিক।"
+  },
+  {
+    "id": 225,
+    "question": "Sentence Improvement: Did you [heard] the news about the accident?",
+    "options": ["hear", "hearing", "hears", "No improvement"],
+    "answer": "hear",
+    "explanation": "প্রশ্নবোধক বাক্যে 'Did' সাহায্যকারী ক্রিয়া হিসেবে বসলে মূল ক্রিয়ার সর্বদা Base form (V1) বসে। তাই 'heard'-এর জায়গায় 'hear' হবে।"
+  },
+  {
+    "id": 226,
+    "question": "Fill in the blank: Have you ever ______ to London?",
+    "options": ["been", "gone", "went", "go"],
+    "answer": "been",
+    "explanation": "জীবনের অভিজ্ঞতা জানতে Present Perfect Tense ব্যবহৃত হয়। কোথাও গিয়ে ফিরে আসা বোঝালে 'gone'-এর পরিবর্তে 'been' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 227,
+    "question": "Spot the Error: He is having (A) / many friends (B) / in this city. (C) / No Error (D)",
+    "options": ["He is having", "many friends", "in this city.", "No Error"],
+    "answer": "He is having",
+    "explanation": "অধিকার বা সম্পর্ক (possession) বোঝাতে 'have' একটি Stative verb। এর সাথে 'ing' যুক্ত হয় না। তাই 'He is having'-এর বদলে 'He has' হবে।"
+  },
+  {
+    "id": 228,
+    "question": "Sentence Improvement: She told me that she [is reading] a book.",
+    "options": ["was reading", "has read", "will read", "No improvement"],
+    "answer": "was reading",
+    "explanation": "Indirect speech-এ Reporting verb (told) Past Tense-এ থাকলে Reported speech-এর Tense-ও অনুরূপ Past Tense (Present Continuous থেকে Past Continuous) হয়।"
+  },
+  {
+    "id": 229,
+    "question": "Fill in the blank: They ______ the bridge by next month.",
+    "options": ["will complete", "will have completed", "completed", "have completed"],
+    "answer": "will have completed",
+    "explanation": "ভবিষ্যতে নির্দিষ্ট সময়ের (by next month) মধ্যে কোনো কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense (will have + V3) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 230,
+    "question": "Spot the Error: I have seen (A) / that film (B) / last year. (C) / No Error (D)",
+    "options": ["I have seen", "that film", "last year.", "No Error"],
+    "answer": "I have seen",
+    "explanation": "বাক্যে 'last year' থাকায় এটি অতীতের নির্দিষ্ট সময়কে নির্দেশ করছে। তাই Present Perfect Tense (have seen) না হয়ে Past Indefinite Tense (saw) হবে।"
+  },
+  {
+    "id": 231,
+    "question": "Sentence Improvement: The police [has arrested] the thief yesterday.",
+    "options": ["arrested", "have arrested", "had arrested", "No improvement"],
+    "answer": "arrested",
+    "explanation": "বাক্যে 'yesterday' থাকলে সর্বদা Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 232,
+    "question": "Fill in the blank: If I ______ you, I would not do this.",
+    "options": ["am", "was", "were", "have been"],
+    "answer": "were",
+    "explanation": "অবাস্তব কল্পনা (Unreal condition) বোঝাতে Subject-এর পর সর্বদা 'were' বসে।"
+  },
+  {
+    "id": 233,
+    "question": "Spot the Error: By the time she reaches (A) / the station, the train (B) / will leave. (C) / No Error (D)",
+    "options": ["By the time she reaches", "the station, the train", "will leave.", "No Error"],
+    "answer": "will leave.",
+    "explanation": "ভবিষ্যতে কোনো কাজ হওয়ার আগে অন্য কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়। তাই 'will leave' এর বদলে 'will have left' হবে।"
+  },
+  {
+    "id": 234,
+    "question": "Sentence Improvement: It [is raining] since morning.",
+    "options": ["rained", "has been raining", "was raining", "No improvement"],
+    "answer": "has been raining",
+    "explanation": "সকাল থেকে কাজ শুরু হয়ে বর্তমানেও চলছে (since morning), তাই এটি Present Perfect Continuous Tense হবে।"
+  },
+  {
+    "id": 235,
+    "question": "Fill in the blank: As soon as the teacher ______ the class, the students stood up.",
+    "options": ["enters", "entered", "had entered", "is entering"],
+    "answer": "entered",
+    "explanation": "'As soon as' যুক্ত বাক্যে সাধারণত দুটি কাজই পরপর ঘটে, তাই দুটি ক্লজেই Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 236,
+    "question": "Spot the Error: If it will rain (A) / tomorrow, I (B) / will not go to school. (C) / No Error (D)",
+    "options": ["If it will rain", "tomorrow, I", "will not go to school.", "No Error"],
+    "answer": "If it will rain",
+    "explanation": "First Conditional-এর নিয়মানুযায়ী Condition ক্লজ-এ (If যুক্ত অংশে) Future Tense বসে না, Present Indefinite বসে। সঠিক: If it rains."
+  },
+  {
+    "id": 237,
+    "question": "Sentence Improvement: I [have bought] this pen a few days ago.",
+    "options": ["bought", "had bought", "will buy", "No improvement"],
+    "answer": "bought",
+    "explanation": "'Ago' শব্দটি অতীতের নির্দেশক। তাই Past Indefinite Tense (bought) হবে।"
+  },
+  {
+    "id": 238,
+    "question": "Fill in the blank: He behaves as if he ______ a mad man.",
+    "options": ["is", "was", "were", "has been"],
+    "answer": "were",
+    "explanation": "'As if' বা 'As though'-এর পর অবাস্তব কল্পনা বোঝাতে Verb হিসেবে সর্বদা 'were' বসে।"
+  },
+  {
+    "id": 239,
+    "question": "Spot the Error: Scarcely had he (A) / gone out when (B) / it started raining. (C) / No Error (D)",
+    "options": ["Scarcely had he", "gone out when", "it started raining.", "No Error"],
+    "answer": "No Error",
+    "explanation": "বাক্যটি সম্পূর্ণ সঠিক। Scarcely/Hardly had + Subject + V3 ... when + Subject + V2 - এই নিয়মটি ঠিকভাবে মানা হয়েছে।"
+  },
+  {
+    "id": 240,
+    "question": "Sentence Improvement: While he [is crossing] the road, he saw a snake.",
+    "options": ["was crossing", "crossed", "has crossed", "No improvement"],
+    "answer": "was crossing",
+    "explanation": "অতীতে রাস্তা পার হওয়ার কাজটি চলছিল যখন সে সাপটিকে দেখল (saw - V2)। অতীতের চলমান কাজের জন্য Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 241,
+    "question": "Fill in the blank: We ______ each other for the past five years.",
+    "options": ["know", "are knowing", "have known", "have been knowing"],
+    "answer": "have known",
+    "explanation": "'Know' একটি Stative verb, তাই এর Continuous form হয় না। দীর্ঘ সময় বোঝালেও এটি Present Perfect Tense হবে।"
+  },
+  {
+    "id": 242,
+    "question": "Spot the Error: He (A) / used to plays (B) / cricket in his childhood. (C) / No Error (D)",
+    "options": ["He", "used to plays", "cricket in his childhood.", "No Error"],
+    "answer": "used to plays",
+    "explanation": "অতীতের অভ্যাস বোঝাতে 'used to'-এর পর সর্বদা মূল Verb-এর Base form (V1) বসে। তাই 'plays'-এর বদলে 'play' হবে।"
+  },
+  {
+    "id": 243,
+    "question": "Sentence Improvement: We usually [are sleeping] at 10 PM.",
+    "options": ["sleep", "slept", "have slept", "No improvement"],
+    "answer": "sleep",
+    "explanation": "'Usually' দিয়ে নিয়মিত অভ্যাস বা রুটিন বোঝায়। তাই Present Indefinite Tense (sleep) হবে।"
+  },
+  {
+    "id": 244,
+    "question": "Fill in the blank: The patient had died before the doctor ______.",
+    "options": ["comes", "came", "has come", "had come"],
+    "answer": "came",
+    "explanation": "'Before'-এর আগের অংশ Past Perfect (had died) হলে, পরের অংশ Past Indefinite (V2) হয়।"
+  },
+  {
+    "id": 245,
+    "question": "Spot the Error: I am working (A) / on this project (B) / for two weeks. (C) / No Error (D)",
+    "options": ["I am working", "on this project", "for two weeks.", "No Error"],
+    "answer": "I am working",
+    "explanation": "দুই সপ্তাহ ধরে কাজ চলছে (for two weeks), তাই এটি Present Continuous না হয়ে Present Perfect Continuous (I have been working) হবে।"
+  },
+  {
+    "id": 246,
+    "question": "Sentence Improvement: I wish I [was] a bird.",
+    "options": ["am", "were", "had been", "No improvement"],
+    "answer": "were",
+    "explanation": "অবাস্তব ইচ্ছা বোঝাতে 'I wish'-এর পর Subject যাই হোক না কেন, সর্বদা 'were' বসে।"
+  },
+  {
+    "id": 247,
+    "question": "Fill in the blank: I ______ a car if I had a lot of money.",
+    "options": ["will buy", "would buy", "would have bought", "bought"],
+    "answer": "would buy",
+    "explanation": "Second Conditional Sentence: If clause-এ Past Indefinite (had) থাকলে, Main clause-এ would/could/might + V1 বসে।"
+  },
+  {
+    "id": 248,
+    "question": "Spot the Error: Did he (A) / went to (B) / the market yesterday? (C) / No Error (D)",
+    "options": ["Did he", "went to", "the market yesterday?", "No Error"],
+    "answer": "went to",
+    "explanation": "Interrogative বা Negative বাক্যে 'Did' সাহায্যকারী ক্রিয়া হিসেবে বসলে মূল Verb সর্বদা Base form (V1)-এ থাকে। তাই 'go' হবে।"
+  },
+  {
+    "id": 249,
+    "question": "Sentence Improvement: He [has been born] in 1990.",
+    "options": ["is born", "was born", "had born", "No improvement"],
+    "answer": "was born",
+    "explanation": "জন্মগ্রহণের ঘটনাটি সর্বদা Past Indefinite Passive voice (was/were born)-এ লেখা হয়।"
+  },
+  {
+    "id": 250,
+    "question": "Fill in the blank: By 2025, I ______ my degree.",
+    "options": ["will complete", "will have completed", "complete", "completed"],
+    "answer": "will have completed",
+    "explanation": "ভবিষ্যতে নির্দিষ্ট সময়ের (By 2025) মধ্যে কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 251,
+    "question": "Spot the Error: The sun (A) / is rising (B) / in the east. (C) / No Error (D)",
+    "options": ["The sun", "is rising", "in the east.", "No Error"],
+    "answer": "is rising",
+    "explanation": "সূর্য পূর্ব দিকে ওঠে - এটি চিরন্তন সত্য (Universal Truth)। চিরন্তন সত্য সর্বদা Present Indefinite Tense (rises) হয়।"
+  },
+  {
+    "id": 252,
+    "question": "Sentence Improvement: When I [will get] the money, I will buy a new phone.",
+    "options": ["get", "am getting", "got", "No improvement"],
+    "answer": "get",
+    "explanation": "'When', 'if', 'unless' যুক্ত Time/Condition clause-এ Future Tense বসে না, তার পরিবর্তে Present Indefinite (get) বসে।"
+  },
+  {
+    "id": 253,
+    "question": "Fill in the blank: He ______ reading the book yet.",
+    "options": ["did not finish", "does not finish", "has not finished", "had not finished"],
+    "answer": "has not finished",
+    "explanation": "'Yet' শব্দটি নেতিবাচক (Negative) বাক্যে Present Perfect Tense-এ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 254,
+    "question": "Spot the Error: After he finished (A) / his homework, he (B) / went to play. (C) / No Error (D)",
+    "options": ["After he finished", "his homework, he", "went to play.", "No Error"],
+    "answer": "After he finished",
+    "explanation": "'After' এর আগের অংশ Past Indefinite (went) হলে, পরের অংশ Past Perfect (had finished) হয়। কারণ হোমওয়ার্কের কাজটি আগে সম্পন্ন হয়েছিল।"
+  },
+  {
+    "id": 255,
+    "question": "Sentence Improvement: The teacher told us that the earth [moved] round the sun.",
+    "options": ["moves", "has moved", "was moving", "No improvement"],
+    "answer": "moves",
+    "explanation": "Indirect Speech-এ চিরন্তন সত্য (Universal Truth) থাকলে Tense-এর কোনো পরিবর্তন হয় না। তাই এটি Present Indefinite (moves) হবে।"
+  },
+  {
+    "id": 256,
+    "question": "Fill in the blank: Look! Someone ______ to open your car.",
+    "options": ["tries", "tried", "is trying", "has tried"],
+    "answer": "is trying",
+    "explanation": "'Look!', 'Listen!' ইত্যাদি দিয়ে বাক্য শুরু হলে কাজটি বর্তমান মুহূর্তে ঘটছে বোঝায়। তাই Present Continuous Tense হবে।"
+  },
+  {
+    "id": 257,
+    "question": "Spot the Error: I have been (A) / writing five letters (B) / since morning. (C) / No Error (D)",
+    "options": ["I have been", "writing five letters", "since morning.", "No Error"],
+    "answer": "I have been",
+    "explanation": "কাজের পরিমাণ (Quantity - five letters) নির্দিষ্ট করে দেওয়া থাকলে সেটি Present Perfect Continuous না হয়ে Present Perfect Tense (I have written) হয়।"
+  },
+  {
+    "id": 258,
+    "question": "Sentence Improvement: I [have been knowing] him for ten years.",
+    "options": ["know", "knew", "have known", "No improvement"],
+    "answer": "have known",
+    "explanation": "'Know' একটি Stative verb যার Continuous form হয় না। তাই দীর্ঘ সময় বোঝালেও এটি Present Perfect Tense (have known) হবে।"
+  },
+  {
+    "id": 259,
+    "question": "Fill in the blank: The match ______ before we reached the stadium.",
+    "options": ["started", "has started", "had started", "was starting"],
+    "answer": "had started",
+    "explanation": "আমরা স্টেডিয়ামে পৌঁছানোর আগেই ম্যাচ শুরু হয়ে গিয়েছিল। পূর্ববর্তী কাজের জন্য Past Perfect Tense (had + V3) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 260,
+    "question": "Spot the Error: It is high time (A) / you start (B) / working hard. (C) / No Error (D)",
+    "options": ["It is high time", "you start", "working hard.", "No Error"],
+    "answer": "you start",
+    "explanation": "'It is high time'-এর পর Subject থাকলে সর্বদা Verb-এর Past Indefinite রূপ (V2) বসে। তাই 'started' হবে।"
+  },
+  {
+    "id": 261,
+    "question": "Sentence Improvement: Unless you [will work] hard, you will fail.",
+    "options": ["work", "worked", "are working", "No improvement"],
+    "answer": "work",
+    "explanation": "'Unless' যুক্ত Condition clause-এ Future Tense বসে না, সর্বদা Present Indefinite Tense (work) বসে।"
+  },
+  {
+    "id": 262,
+    "question": "Fill in the blank: I ______ him yesterday.",
+    "options": ["see", "saw", "have seen", "had seen"],
+    "answer": "saw",
+    "explanation": "'Yesterday' অতীতের নির্দেশক, তাই Past Indefinite Tense (saw) হবে।"
+  },
+  {
+    "id": 263,
+    "question": "Spot the Error: She said that (A) / she will come (B) / tomorrow. (C) / No Error (D)",
+    "options": ["She said that", "she will come", "tomorrow.", "No Error"],
+    "answer": "she will come",
+    "explanation": "Indirect Speech-এ Reporting verb (said) অতীতে থাকলে, Reported speech-এর Future Tense-এর 'will' পরিবর্তিত হয়ে 'would' হয়ে যায়।"
+  },
+  {
+    "id": 264,
+    "question": "Sentence Improvement: No sooner [I had reached] the station than the train left.",
+    "options": ["had I reached", "did I reached", "I reached", "No improvement"],
+    "answer": "had I reached",
+    "explanation": "'No sooner' দিয়ে বাক্য শুরু হলে Inversion রুল অনুযায়ী Auxiliary Verb (had/did) Subject-এর আগে চলে আসে।"
+  },
+  {
+    "id": 265,
+    "question": "Fill in the blank: I would have passed the exam if I ______ harder.",
+    "options": ["studied", "have studied", "had studied", "will study"],
+    "answer": "had studied",
+    "explanation": "Third Conditional Sentence-এ Main clause-এ 'would have + V3' থাকলে, If clause-এ Past Perfect (had + V3) বসে।"
+  },
+  {
+    "id": 266,
+    "question": "Spot the Error: My father has returned (A) / from Mumbai (B) / last night. (C) / No Error (D)",
+    "options": ["My father has returned", "from Mumbai", "last night.", "No Error"],
+    "answer": "My father has returned",
+    "explanation": "বাক্যে 'last night' থাকায় এটি অতীতের ঘটনা। তাই Present Perfect (has returned) না হয়ে Past Indefinite Tense (returned) হবে।"
+  },
+  {
+    "id": 267,
+    "question": "Sentence Improvement: By this time next year, I [will work] in a new company.",
+    "options": ["will be working", "would work", "have worked", "No improvement"],
+    "answer": "will be working",
+    "explanation": "আগামী বছরের নির্দিষ্ট সময়ে কাজটি চলতে থাকবে বোঝালে Future Continuous Tense (will be working) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 268,
+    "question": "Fill in the blank: Water ______ at 100 degrees Celsius.",
+    "options": ["boils", "is boiling", "has boiled", "boiled"],
+    "answer": "boils",
+    "explanation": "বৈজ্ঞানিক সত্য (Scientific truth) বোঝাতে সর্বদা Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 269,
+    "question": "Spot the Error: As soon as I will reach (A) / Delhi, I will (B) / send you a message. (C) / No Error (D)",
+    "options": ["As soon as I will reach", "Delhi, I will", "send you a message.", "No Error"],
+    "answer": "As soon as I will reach",
+    "explanation": "Time clause (As soon as, When) অংশে Future Tense ব্যবহৃত হয় না। তাই 'will reach' এর বদলে Present Indefinite (reach) হবে।"
+  },
+  {
+    "id": 270,
+    "question": "Sentence Improvement: The child [is crying] for two hours.",
+    "options": ["cried", "has been crying", "was crying", "No improvement"],
+    "answer": "has been crying",
+    "explanation": "কাজের সময়কাল (for two hours) দেওয়া থাকলে এবং কাজটি বর্তমানে চলতে থাকলে তা Present Perfect Continuous Tense হয়।"
+  },
+  {
+    "id": 271,
+    "question": "Fill in the blank: They usually ______ football on Sundays.",
+    "options": ["play", "played", "are playing", "have played"],
+    "answer": "play",
+    "explanation": "নিয়মিত অভ্যাস (Usually, on Sundays) বোঝাতে Present Indefinite Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 272,
+    "question": "Spot the Error: I did not (A) / knew that (B) / he was coming. (C) / No Error (D)",
+    "options": ["I did not", "knew that", "he was coming.", "No Error"],
+    "answer": "knew that",
+    "explanation": "'did not'-এর পর মূল Verb সর্বদা Base form (V1)-এ থাকে। তাই 'knew' (V2)-এর বদলে 'know' হবে।"
+  },
+  {
+    "id": 273,
+    "question": "Sentence Improvement: Had I known you were in hospital, I [would visit] you.",
+    "options": ["will visit", "would have visited", "visited", "No improvement"],
+    "answer": "would have visited",
+    "explanation": "Third Conditional (Had + V3)-এর ক্ষেত্রে Main clause-এ সর্বদা 'would have + V3' বসে।"
+  },
+  {
+    "id": 274,
+    "question": "Fill in the blank: She ______ working here since 2020.",
+    "options": ["is", "was", "has been", "had"],
+    "answer": "has been",
+    "explanation": "অতীতের নির্দিষ্ট সময় (since 2020) থেকে কাজ শুরু হয়ে বর্তমানেও চলছে বোঝালে Present Perfect Continuous Tense (has been working) হয়।"
+  },
+  {
+    "id": 275,
+    "question": "Spot the Error: We were watching (A) / TV when the (B) / electricity was failing. (C) / No Error (D)",
+    "options": ["We were watching", "TV when the", "electricity was failing.", "No Error"],
+    "answer": "electricity was failing.",
+    "explanation": "অতীতে একটি কাজ চলাকালীন অন্য একটি ঘটনা হঠাৎ ঘটলে, চলমান কাজটি Past Continuous এবং হঠাৎ ঘটা ঘটনাটি Past Indefinite (failed) হয়।"
+  },
+  {
+    "id": 276,
+    "question": "Fill in the blank: The concert ______ by the time we arrive.",
+    "options": ["will start", "starts", "will have started", "started"],
+    "answer": "will have started",
+    "explanation": "ভবিষ্যতে কোনো নির্দিষ্ট ঘটনার আগে (by the time we arrive) অন্য একটি কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense (will have + V3) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 277,
+    "question": "Spot the Error: The teacher asked (A) / the students why (B) / are they making a noise. (C) / No Error (D)",
+    "options": ["The teacher asked", "the students why", "are they making a noise.", "No Error"],
+    "answer": "are they making a noise.",
+    "explanation": "Indirect speech-এ বাক্যের গঠন Interrogative (প্রশ্নবোধক) থেকে Assertive (বর্ণনামূলক) হয়ে যায়। তাছাড়া Reporting verb (asked) Past-এ থাকায় 'why they were making a noise' হবে।"
+  },
+  {
+    "id": 278,
+    "question": "Sentence Improvement: After the guests [left], we started washing the dishes.",
+    "options": ["leave", "have left", "had left", "No improvement"],
+    "answer": "had left",
+    "explanation": "অতীতের দুটি কাজের মধ্যে যেটি আগে সম্পন্ন হয় সেটি Past Perfect (had left) এবং যেটি পরে হয় সেটি Past Indefinite (started) হয়।"
+  },
+  {
+    "id": 279,
+    "question": "Fill in the blank: She ______ to music when the phone rang.",
+    "options": ["listened", "is listening", "was listening", "has listened"],
+    "answer": "was listening",
+    "explanation": "অতীতে একটি কাজ চলাকালীন (গান শোনা) হঠাৎ আরেকটি ঘটনা (ফোন বাজা) ঘটলে, চলমান কাজের জন্য Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 280,
+    "question": "Spot the Error: I have been (A) / working in this organization (B) / since five years. (C) / No Error (D)",
+    "options": ["I have been", "working in this organization", "since five years.", "No Error"],
+    "answer": "since five years.",
+    "explanation": "কাজের নির্দিষ্ট সময়কাল বা Period of Time (যেমন- five years, two months) বোঝালে 'since' এর পরিবর্তে 'for' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 281,
+    "question": "Sentence Improvement: I [didn't saw] him at the party yesterday.",
+    "options": ["didn't see", "haven't seen", "hadn't seen", "No improvement"],
+    "answer": "didn't see",
+    "explanation": "Past Indefinite Tense-এর নেতিবাচক বাক্যে 'did not'-এর পর সর্বদা মূল Verb-এর Base form (V1) বসে। তাই 'saw'-এর বদলে 'see' হবে।"
+  },
+  {
+    "id": 282,
+    "question": "Fill in the blank: He usually ______ to office by bus.",
+    "options": ["go", "goes", "is going", "has gone"],
+    "answer": "goes",
+    "explanation": "'Usually', 'daily' ইত্যাদি শব্দ নিয়মিত অভ্যাস বা রুটিন নির্দেশ করে, তাই Present Indefinite Tense ব্যবহৃত হয়। Third Person Singular-এর জন্য Verb-এর সাথে s/es যুক্ত হয়েছে।"
+  },
+  {
+    "id": 283,
+    "question": "Spot the Error: If I will win (A) / the lottery, I will (B) / buy a big house. (C) / No Error (D)",
+    "options": ["If I will win", "the lottery, I will", "buy a big house.", "No Error"],
+    "answer": "If I will win",
+    "explanation": "First Conditional-এ Condition ক্লজ-এ (If যুক্ত অংশে) Future Tense (will win) বসে না, Present Indefinite (win) বসে।"
+  },
+  {
+    "id": 284,
+    "question": "Sentence Improvement: The sun [is setting] in the west.",
+    "options": ["sets", "set", "has set", "No improvement"],
+    "answer": "sets",
+    "explanation": "সূর্য পশ্চিমে অস্ত যায় - এটি একটি চিরন্তন সত্য (Universal Truth)। তাই সর্বদা Present Indefinite Tense (sets) হবে।"
+  },
+  {
+    "id": 285,
+    "question": "Fill in the blank: I ______ my work just now.",
+    "options": ["finish", "finished", "have finished", "am finishing"],
+    "answer": "have finished",
+    "explanation": "বাক্যে 'just', 'just now', 'already' ইত্যাদি শব্দ থাকলে সেটি Present Perfect Tense হয়।"
+  },
+  {
+    "id": 286,
+    "question": "Spot the Error: My brother (A) / has bought (B) / a new smartphone yesterday. (C) / No Error (D)",
+    "options": ["My brother", "has bought", "a new smartphone yesterday.", "No Error"],
+    "answer": "has bought",
+    "explanation": "বাক্যে 'yesterday' থাকলে তা অতীতের নির্দিষ্ট সময়কে নির্দেশ করে। তাই Present Perfect (has bought) না হয়ে Past Indefinite (bought) হবে।"
+  },
+  {
+    "id": 287,
+    "question": "Sentence Improvement: He behaves as if he [is] the owner of the house.",
+    "options": ["was", "were", "has been", "No improvement"],
+    "answer": "were",
+    "explanation": "'As if' বা 'As though'-এর পর অবাস্তব কল্পনা বোঝাতে Subject-এর পর সর্বদা 'were' বসে।"
+  },
+  {
+    "id": 288,
+    "question": "Fill in the blank: Columbus ______ America in 1492.",
+    "options": ["discovers", "is discovering", "has discovered", "discovered"],
+    "answer": "discovered",
+    "explanation": "অতীতের কোনো নির্দিষ্ট সাল বা সময় উল্লেখ থাকলে (in 1492), বাক্যটি Past Indefinite Tense (V2) হয়।"
+  },
+  {
+    "id": 289,
+    "question": "Spot the Error: I am knowing (A) / him for (B) / the last five years. (C) / No Error (D)",
+    "options": ["I am knowing", "him for", "the last five years.", "No Error"],
+    "answer": "I am knowing",
+    "explanation": "'Know' একটি Stative verb যার Continuous form হয় না। তাই 'I am knowing' এর বদলে 'I have known' হবে।"
+  },
+  {
+    "id": 290,
+    "question": "Sentence Improvement: While I [read] the newspaper, my dog was sleeping.",
+    "options": ["was reading", "had read", "am reading", "No improvement"],
+    "answer": "was reading",
+    "explanation": "অতীতে দুটি কাজ একই সাথে সমান্তরালভাবে চলতে থাকলে দুটিতেই Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 291,
+    "question": "Fill in the blank: She ______ a letter to her friend right now.",
+    "options": ["writes", "wrote", "is writing", "has written"],
+    "answer": "is writing",
+    "explanation": "'Right now' বা 'Now' বর্তমানের চলমান কাজ নির্দেশ করে, তাই Present Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 292,
+    "question": "Spot the Error: He has been (A) / studying hard (B) / for morning. (C) / No Error (D)",
+    "options": ["He has been", "studying hard", "for morning.", "No Error"],
+    "answer": "for morning.",
+    "explanation": "'Morning' একটি নির্দিষ্ট সময় (Point of Time)। নির্দিষ্ট সময় থেকে শুরু হওয়া বোঝাতে 'for' নয়, 'since' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 293,
+    "question": "Sentence Improvement: If I had known you were coming, I [would bake] a cake.",
+    "options": ["will bake", "would have baked", "baked", "No improvement"],
+    "answer": "would have baked",
+    "explanation": "Third Conditional (If + Past Perfect)-এর ক্ষেত্রে Main clause-এ সর্বদা 'would have + V3' বসে।"
+  },
+  {
+    "id": 294,
+    "question": "Fill in the blank: By next year, he ______ a new house.",
+    "options": ["will buy", "is buying", "will have bought", "bought"],
+    "answer": "will have bought",
+    "explanation": "ভবিষ্যতে নির্দিষ্ট সময়ের (By next year) মধ্যে কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়।"
+  },
+  {
+    "id": 295,
+    "question": "Spot the Error: It is high time (A) / we leave (B) / this place. (C) / No Error (D)",
+    "options": ["It is high time", "we leave", "this place.", "No Error"],
+    "answer": "we leave",
+    "explanation": "'It is high time'-এর পর Subject থাকলে সর্বদা Verb-এর Past Indefinite রূপ (V2) বসে। তাই 'leave'-এর বদলে 'left' হবে।"
+  },
+  {
+    "id": 296,
+    "question": "Sentence Improvement: The earth [moved] round the sun.",
+    "options": ["moves", "has moved", "is moving", "No improvement"],
+    "answer": "moves",
+    "explanation": "পৃথিবী সূর্যের চারদিকে ঘোরে - এটি চিরন্তন সত্য। তাই এটি সর্বদা Present Indefinite Tense (moves) হবে।"
+  },
+  {
+    "id": 297,
+    "question": "Fill in the blank: I wish I ______ more time to finish the exam.",
+    "options": ["have", "had", "will have", "am having"],
+    "answer": "had",
+    "explanation": "বর্তমানের অবাস্তব ইচ্ছা বোঝাতে 'I wish'-এর পর Past Tense (had) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 298,
+    "question": "Spot the Error: Scarcely had I (A) / reached the station (B) / than the train started. (C) / No Error (D)",
+    "options": ["Scarcely had I", "reached the station", "than the train started.", "No Error"],
+    "answer": "than the train started.",
+    "explanation": "Scarcely বা Hardly-এর পর জোড়া শব্দ হিসেবে 'when' বসে, 'than' বসে না। (No sooner-এর সাথে than বসে)।"
+  },
+  {
+    "id": 299,
+    "question": "Sentence Improvement: He [has finished] his work before I came.",
+    "options": ["finished", "had finished", "was finishing", "No improvement"],
+    "answer": "had finished",
+    "explanation": "আমি আসার আগেই সে কাজ শেষ করেছিল। পূর্ববর্তী কাজের জন্য Past Perfect (had finished) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 300,
+    "question": "Fill in the blank: Look! The boy ______ across the street.",
+    "options": ["runs", "ran", "is running", "has run"],
+    "answer": "is running",
+    "explanation": "'Look!', 'Listen!' ইত্যাদি দিয়ে বাক্য শুরু হলে কাজটি বর্তমান মুহূর্তে ঘটছে বোঝায়। তাই Present Continuous Tense হবে।"
+  },
+  {
+    "id": 301,
+    "question": "Spot the Error: I have not (A) / seen him (B) / since twenty years. (C) / No Error (D)",
+    "options": ["I have not", "seen him", "since twenty years.", "No Error"],
+    "answer": "since twenty years.",
+    "explanation": "Twenty years একটি নির্দিষ্ট সময়কাল (Period of Time)। তাই এর আগে 'since' না বসে 'for' বসবে।"
+  },
+  {
+    "id": 302,
+    "question": "Sentence Improvement: He told me that the earth [was] round.",
+    "options": ["is", "has been", "had been", "No improvement"],
+    "answer": "is",
+    "explanation": "Indirect Speech-এ রিপোর্টেড স্পিচটি যদি চিরন্তন সত্য (Universal Truth) হয়, তবে তার Tense-এর কোনো পরিবর্তন হয় না (Present Indefinite থাকে)।"
+  },
+  {
+    "id": 303,
+    "question": "Fill in the blank: Unless he ______, he will not pass the exam.",
+    "options": ["studies", "will study", "studied", "is studying"],
+    "answer": "studies",
+    "explanation": "'Unless' যুক্ত Condition clause-এ Future Tense বসে না, সর্বদা Present Indefinite Tense (studies) বসে।"
+  },
+  {
+    "id": 304,
+    "question": "Spot the Error: By the time (A) / you return, (B) / I will finish my work. (C) / No Error (D)",
+    "options": ["By the time", "you return,", "I will finish my work.", "No Error"],
+    "answer": "I will finish my work.",
+    "explanation": "ভবিষ্যতে অন্য একটি কাজের আগে একটি কাজ সম্পন্ন হয়ে যাবে বোঝালে Future Perfect Tense হয়। তাই 'will finish' এর বদলে 'will have finished' হবে।"
+  },
+  {
+    "id": 305,
+    "question": "Sentence Improvement: I [have passed] the graduation exam in 2020.",
+    "options": ["passed", "had passed", "was passing", "No improvement"],
+    "answer": "passed",
+    "explanation": "অতীতের নির্দিষ্ট সাল (in 2020) উল্লেখ থাকলে Past Indefinite Tense (passed) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 306,
+    "question": "Fill in the blank: As soon as he ______ the tiger, he climbed up a tree.",
+    "options": ["see", "sees", "saw", "had seen"],
+    "answer": "saw",
+    "explanation": "'As soon as' যুক্ত বাক্যে দুটি কাজ পরপর ঘটলে দুটি অংশেই Past Indefinite Tense (V2) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 307,
+    "question": "Spot the Error: Water is boiling (A) / at 100 degrees (B) / Celsius. (C) / No Error (D)",
+    "options": ["Water is boiling", "at 100 degrees", "Celsius.", "No Error"],
+    "answer": "Water is boiling",
+    "explanation": "জল ১০০ ডিগ্রি সেলসিয়াসে ফোটে - এটি বৈজ্ঞানিক সত্য। তাই Present Continuous না হয়ে Present Indefinite (Water boils) হবে।"
+  },
+  {
+    "id": 308,
+    "question": "Sentence Improvement: He [is having] a large family.",
+    "options": ["has", "have", "was having", "No improvement"],
+    "answer": "has",
+    "explanation": "পরিবার, সম্পর্ক বা মালিকানা বোঝাতে 'have' Stative Verb হিসেবে কাজ করে। এর Continuous form হয় না। তাই 'has' হবে।"
+  },
+  {
+    "id": 309,
+    "question": "Fill in the blank: The train ______ when I reached the station.",
+    "options": ["left", "has left", "had left", "was leaving"],
+    "answer": "had left",
+    "explanation": "আমি স্টেশনে পৌঁছানোর আগেই ট্রেন ছেড়ে দিয়েছিল। পূর্ববর্তী কাজের জন্য Past Perfect Tense (had left) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 310,
+    "question": "Spot the Error: Did you (A) / saw the (B) / cricket match yesterday? (C) / No Error (D)",
+    "options": ["Did you", "saw the", "cricket match yesterday?", "No Error"],
+    "answer": "saw the",
+    "explanation": "প্রশ্নবোধক বাক্যে 'Did' সাহায্যকারী ক্রিয়া হিসেবে বসলে মূল ক্রিয়া সর্বদা Base form (V1)-এ থাকে। তাই 'saw' এর বদলে 'see' হবে।"
+  },
+  {
+    "id": 311,
+    "question": "Sentence Improvement: I [am reading] this novel for two days.",
+    "options": ["read", "have read", "have been reading", "No improvement"],
+    "answer": "have been reading",
+    "explanation": "দুই দিন ধরে কাজটি চলছে (for two days), তাই এটি Present Continuous না হয়ে Present Perfect Continuous (have been reading) হবে।"
+  },
+  {
+    "id": 312,
+    "question": "Fill in the blank: We ______ our dinner when the lights went out.",
+    "options": ["have", "are having", "were having", "had"],
+    "answer": "were having",
+    "explanation": "অতীতে একটি কাজ চলাকালীন (ডিনার করা) অন্য একটি ঘটনা (আলো চলে যাওয়া) ঘটলে চলমান কাজের জন্য Past Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 313,
+    "question": "Spot the Error: He said that (A) / he is going (B) / to the market. (C) / No Error (D)",
+    "options": ["He said that", "he is going", "to the market.", "No Error"],
+    "answer": "he is going",
+    "explanation": "Indirect Speech-এ Reporting verb (said) Past Tense-এ থাকায় Reported speech-ও Past Tense (is going এর বদলে was going) হবে।"
+  },
+  {
+    "id": 314,
+    "question": "Sentence Improvement: No sooner did he see the police [then] he ran away.",
+    "options": ["than", "when", "that", "No improvement"],
+    "answer": "than",
+    "explanation": "No sooner-এর সাথে সর্বদা জোড়া শব্দ হিসেবে 'than' ব্যবহৃত হয়, 'then' বা 'when' নয়।"
+  },
+  {
+    "id": 315,
+    "question": "Fill in the blank: I ______ this car for five years.",
+    "options": ["am owning", "own", "have owned", "have been owning"],
+    "answer": "have owned",
+    "explanation": "'Own' একটি Stative verb যার Continuous form হয় না। তাই 'for five years' থাকলেও এটি Present Perfect Tense (have owned) হবে।"
+  },
+  {
+    "id": 316,
+    "question": "Spot the Error: She is (A) / always complaining (B) / about her health. (C) / No Error (D)",
+    "options": ["She is", "always complaining", "about her health.", "No Error"],
+    "answer": "No Error",
+    "explanation": "বাক্যটি সম্পূর্ণ সঠিক। কারো বিরক্তিকর বা অনাকাঙ্ক্ষিত অভ্যাস বোঝাতে 'always'-এর সাথে Present Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 317,
+    "question": "Sentence Improvement: He usually [is going] for a walk in the morning.",
+    "options": ["goes", "went", "has gone", "No improvement"],
+    "answer": "goes",
+    "explanation": "'Usually' দিয়ে নিয়মিত অভ্যাস বা রুটিন বোঝায়। তাই Present Indefinite Tense (goes) হবে।"
+  },
+  {
+    "id": 318,
+    "question": "Fill in the blank: I ______ him for a long time.",
+    "options": ["know", "am knowing", "have known", "have been knowing"],
+    "answer": "have known",
+    "explanation": "'Know' একটি Stative verb, তাই এর Continuous form হয় না। দীর্ঘ সময় বোঝালেও এটি Present Perfect Tense হবে।"
+  },
+  {
+    "id": 319,
+    "question": "Spot the Error: If I will go (A) / to Delhi, I will (B) / meet him. (C) / No Error (D)",
+    "options": ["If I will go", "to Delhi, I will", "meet him.", "No Error"],
+    "answer": "If I will go",
+    "explanation": "First Conditional-এর নিয়মানুযায়ী Condition ক্লজ-এ (If যুক্ত অংশে) Future Tense বসে না, Present Indefinite (go) বসে।"
+  },
+  {
+    "id": 220,
+    "question": "Sentence Improvement: She [didn't went] to school today.",
+    "options": ["didn't go", "hasn't gone", "doesn't go", "No improvement"],
+    "answer": "didn't go",
+    "explanation": "Past Indefinite Tense-এর নেতিবাচক বাক্যে 'did not'-এর পর সর্বদা মূল Verb-এর Base form (V1) বসে।"
+  },
+  {
+    "id": 321,
+    "question": "Fill in the blank: He ______ as if he knew everything.",
+    "options": ["speak", "speaks", "is speaking", "has spoken"],
+    "answer": "speaks",
+    "explanation": "'As if'-এর পরের অংশ Past Indefinite (knew) হলে, আগের অংশ Present Indefinite (speaks) হয়।"
+  },
+  {
+    "id": 322,
+    "question": "Spot the Error: I have been (A) / knowing him (B) / for five years. (C) / No Error (D)",
+    "options": ["I have been", "knowing him", "for five years.", "No Error"],
+    "answer": "knowing him",
+    "explanation": "'Know' একটি Stative verb। এর Continuous form হয় না। তাই 'I have known him' সঠিক হবে।"
+  },
+  {
+    "id": 323,
+    "question": "Sentence Improvement: The boy [is sleeping] since 8 PM.",
+    "options": ["was sleeping", "has been sleeping", "slept", "No improvement"],
+    "answer": "has been sleeping",
+    "explanation": "রাত ৮টা থেকে ঘুমানোর কাজ শুরু হয়ে বর্তমানেও চলছে (since 8 PM)। তাই Present Perfect Continuous Tense হবে।"
+  },
+  {
+    "id": 324,
+    "question": "Fill in the blank: By this time tomorrow, I ______ on the beach.",
+    "options": ["will relax", "am relaxing", "will be relaxing", "relax"],
+    "answer": "will be relaxing",
+    "explanation": "আগামীকালের নির্দিষ্ট সময়ে কোনো কাজ চলতে থাকবে বোঝালে Future Continuous Tense ব্যবহৃত হয়।"
+  },
+  {
+    "id": 325,
+    "question": "Spot the Error: As soon as the bell rang, (A) / the students (B) / are leaving the class. (C) / No Error (D)",
+    "options": ["As soon as the bell rang,", "the students", "are leaving the class.", "No Error"],
+    "answer": "are leaving the class.",
+    "explanation": "অতীতে ঘটা পরপর দুটি ঘটনা 'As soon as' দিয়ে যুক্ত থাকলে দুটি অংশেই Past Indefinite হয়। তাই 'are leaving'-এর বদলে 'left' হবে।"
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "id": 1,
+    "question": "He is senior ________ me in respect of age.",
+    "options": ["than", "to", "from", "by"],
+    "answer": "to",
+    "explanation": "ল্যাটিন Adjective যেগুলোর শেষে 'ior' থাকে (যেমন: senior, junior, superior, inferior, prior, anterior, posterior), তাদের পর comparative degree-তে 'than'-এর পরিবর্তে 'to' বসে।"
+  },
+  {
+    "id": 2,
+    "question": "Of the two brothers, Ram is the ________.",
+    "options": ["tall", "taller", "tallest", "more tall"],
+    "answer": "taller",
+    "explanation": "যখন দুজনের মধ্যে তুলনা করা হয় এবং বাক্যে 'of the two' থাকে, তখন Comparative Degree-র আগে 'the' বসে। তাই 'the taller' সঠিক।"
+  },
+  {
+    "id": 3,
+    "question": "She has ________ friends in the city, so she feels lonely.",
+    "options": ["few", "a few", "the few", "little"],
+    "answer": "few",
+    "explanation": "'Few' একটি নেতিবাচক শব্দ যার অর্থ 'নেই বললেই চলে'। যেহেতু সে একাকী বোধ করে, তার মানে তার বন্ধু প্রায় নেই। Countable noun-এর সাথে 'few' বসে।"
+  },
+  {
+    "id": 4,
+    "question": "He has ________ money left with him to buy the books.",
+    "options": ["few", "little", "a little", "a few"],
+    "answer": "a little",
+    "explanation": "'Money' হলো Uncountable Noun, তাই এর সাথে 'little' বা 'a little' বসবে। যেহেতু বই কেনার জন্য কিছু টাকা আছে (ইতিবাচক অর্থ), তাই 'a little' হবে।"
+  },
+  {
+    "id": 5,
+    "question": "This is the ________ building in our village.",
+    "options": ["older", "oldest", "elder", "eldest"],
+    "answer": "oldest",
+    "explanation": "বস্তু বা স্থানের ক্ষেত্রে 'older/oldest' ব্যবহৃত হয়। একই পরিবারের মানুষের ক্ষেত্রে 'elder/eldest' বসে। তাই এখানে 'oldest' সঠিক।"
+  },
+  {
+    "id": 6,
+    "question": "I prefer tea ________ coffee.",
+    "options": ["than", "to", "over", "more than"],
+    "answer": "to",
+    "explanation": "'Prefer' এবং 'Preferable' শব্দগুলোর পর সবসময় 'to' বসে, 'than' নয়।"
+  },
+  {
+    "id": 7,
+    "question": "Kolkata is ________ from Delhi than Patna.",
+    "options": ["further", "farther", "next", "nearest"],
+    "answer": "farther",
+    "explanation": "ভৌগোলিক দূরত্ব বোঝাতে 'farther' ব্যবহৃত হয়। আর 'further' মানে হলো 'অতিরিক্ত' বা 'additional' (যেমন: further details)।"
+  },
+  {
+    "id": 8,
+    "question": "I have no ________ details regarding this project.",
+    "options": ["farther", "further", "farthest", "furthest"],
+    "answer": "further",
+    "explanation": "এখানে দূরত্ব নয়, বরং 'অতিরিক্ত তথ্য' বা additional details বোঝানো হচ্ছে, তাই 'further' বসবে।"
+  },
+  {
+    "id": 9,
+    "question": "Between Ram and Shyam, the ________ is a better player.",
+    "options": ["later", "latest", "latter", "last"],
+    "answer": "latter",
+    "explanation": "দুজনের মধ্যে দ্বিতীয় জনকে বোঝাতে 'latter' (পরবর্তীজন) ব্যবহৃত হয়। 'Later' সময় বোঝাতে বসে।"
+  },
+  {
+    "id": 10,
+    "question": "What is the ________ score of the match?",
+    "options": ["later", "latest", "last", "latter"],
+    "answer": "latest",
+    "explanation": "সাম্প্রতিক বা সবশেষ সময় (recent time) বোঝাতে 'latest' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 11,
+    "question": "No ________ than fifty students were present in the class.",
+    "options": ["less", "fewer", "little", "few"],
+    "answer": "fewer",
+    "explanation": "Students হলো Countable Noun, তাই এর সাথে 'fewer' বসবে। Uncountable Noun-এর ক্ষেত্রে 'less' বসে।"
+  },
+  {
+    "id": 12,
+    "question": "He gave me a ________ note.",
+    "options": ["five-hundred-rupees", "five-hundreds-rupee", "five-hundred-rupee", "five-hundreds-rupees"],
+    "answer": "five-hundred-rupee",
+    "explanation": "Hyphenated adjective কখনও plural হয় না। এখানে 'five-hundred-rupee' পুরোটা মিলে 'note' (noun) এর adjective হিসেবে কাজ করছে, তাই 'rupees' হবে না।"
+  },
+  {
+    "id": 13,
+    "question": "This idea is ________ perfect.",
+    "options": ["more", "most", "very", "absolutely"],
+    "answer": "absolutely",
+    "explanation": "'Perfect', 'Unique', 'Excellent', 'Circular' - এই Adjective গুলোর কোনো comparative বা superlative degree হয় না। এদের আগে more/most বসে না।"
+  },
+  {
+    "id": 14,
+    "question": "She is getting ________ and stronger day by day.",
+    "options": ["strong", "stronger", "strongest", "more strong"],
+    "answer": "stronger",
+    "explanation": "ক্রমবর্ধমান পরিবর্তন বোঝাতে Comparative + and + Comparative ব্যবহৃত হয় (যেমন: stronger and stronger, darker and darker)।"
+  },
+  {
+    "id": 15,
+    "question": "He is ________ enough to solve this complex puzzle.",
+    "options": ["smart", "smarter", "smartest", "more smart"],
+    "answer": "smart",
+    "explanation": "'Enough' শব্দটি যে Adjective কে বিশেষিত করে, তার পরে বসে এবং সেই Adjective টি সর্বদা Positive Degree তে হয় (যেমন: smart enough, tall enough)।"
+  },
+  {
+    "id": 16,
+    "question": "Death is preferable ________ dishonour.",
+    "options": ["than", "to", "from", "over"],
+    "answer": "to",
+    "explanation": "Preferable-এর পর তুলনা বোঝাতে 'than'-এর বদলে 'to' বসে।"
+  },
+  {
+    "id": 17,
+    "question": "Iron is more useful than ________ metal.",
+    "options": ["any", "all", "any other", "some"],
+    "answer": "any other",
+    "explanation": "Comparative degree তে একই গোত্রের কোনো কিছুর সাথে তুলনা করলে 'any other' ব্যবহার করতে হয়, যাতে ওই বস্তুটি নিজের সাথেই তুলনার বাইরে থাকে।"
+  },
+  {
+    "id": 18,
+    "question": "Kalidas was greater than ________ poet of English literature.",
+    "options": ["any", "any other", "all", "most"],
+    "answer": "any",
+    "explanation": "কালিদাস সংস্কৃত কবি এবং তিনি ইংরেজি সাহিত্যের অংশ নন। দুটি ভিন্ন গোত্রের মধ্যে তুলনার সময় 'any other' নয়, শুধু 'any' বসে।"
+  },
+  {
+    "id": 19,
+    "question": "________ rich should help the poor.",
+    "options": ["A", "An", "The", "No article"],
+    "answer": "The",
+    "explanation": "Adjective-এর আগে 'The' বসালে সেটি Plural Common Noun-এ পরিণত হয় এবং ওই শ্রেণির সবাইকে বোঝায়। 'The rich' মানে হলো ধনী ব্যক্তিরা (Rich people)।"
+  },
+  {
+    "id": 20,
+    "question": "I don't have ________ money with me right now.",
+    "options": ["some", "any", "many", "few"],
+    "answer": "any",
+    "explanation": "Negative (নেতিবাচক) এবং Interrogative (প্রশ্নবোধক) বাক্যে সাধারণত 'any' বসে, 'some' নয়।"
+  },
+  {
+    "id": 21,
+    "question": "Will you please give me ________ water?",
+    "options": ["any", "some", "few", "many"],
+    "answer": "some",
+    "explanation": "প্রশ্নবোধক বাক্য হওয়া সত্ত্বেও যখন কাউকে কোনো অনুরোধ (request) বা প্রস্তাব (offer) করা হয়, তখন 'any' এর বদলে 'some' বসে।"
+  },
+  {
+    "id": 22,
+    "question": "He is my ________ brother.",
+    "options": ["older", "elder", "oldest", "eldest"],
+    "answer": "elder",
+    "explanation": "একই পরিবারের (রক্তের সম্পর্কের) ভাই-বোনের ক্ষেত্রে older-এর পরিবর্তে 'elder' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 23,
+    "question": "Rabi is the most ________ student in the class.",
+    "options": ["industrious", "more industrious", "industrial", "industry"],
+    "answer": "industrious",
+    "explanation": "industrious মানে পরিশ্রমী। 'the most'-এর পর adjective-এর positive form বসবে। industrial মানে শিল্প সংক্রান্ত, যা এখানে বেমানান।"
+  },
+  {
+    "id": 24,
+    "question": "She is as ________ as her mother.",
+    "options": ["beautiful", "more beautiful", "most beautiful", "beauty"],
+    "answer": "beautiful",
+    "explanation": "'as ... as' বা 'so ... as'-এর মাঝে সর্বদা Adjective-এর Positive Degree বসে।"
+  },
+  {
+    "id": 25,
+    "question": "This is a comparatively ________ pen.",
+    "options": ["cheaper", "cheap", "cheapest", "more cheap"],
+    "answer": "cheap",
+    "explanation": "'Comparatively' বা 'relatively' শব্দগুলোর পর সর্বদা Positive Degree-র Adjective বসে। (comparatively cheap)।"
+  },
+  {
+    "id": 26,
+    "question": "It was the ________ mistake of his life.",
+    "options": ["biggest", "most biggest", "bigger", "more bigger"],
+    "answer": "biggest",
+    "explanation": "Double superlative ('most' এবং '-est' একসাথে) বাক্যে ব্যবহার করা ভুল। তাই শুধু 'biggest' হবে।"
+  },
+  {
+    "id": 27,
+    "question": "My father is ________ than yours.",
+    "options": ["older", "elder", "oldest", "eldest"],
+    "answer": "older",
+    "explanation": "এখানে রক্তের সম্পর্কের ভাই-বোনের কথা বলা হয়নি, বরং দুজনের বাবার বয়সের তুলনা করা হয়েছে। 'than'-এর আগে সবসময় 'older' বসে, 'elder' নয়।"
+  },
+  {
+    "id": 28,
+    "question": "She is ________ than brave.",
+    "options": ["wiser", "more wise", "wisest", "most wise"],
+    "answer": "more wise",
+    "explanation": "যখন একই ব্যক্তির দুটি গুণের (adjectives) মধ্যে তুলনা করা হয়, তখন '-er' যুক্ত comparative (wiser) ব্যবহার না করে 'more + positive degree' (more wise) ব্যবহার করতে হয়।"
+  },
+  {
+    "id": 29,
+    "question": "________ boy in the class was given a prize.",
+    "options": ["Each", "Every", "All", "Some"],
+    "answer": "Each",
+    "explanation": "'Each' নির্দিষ্ট সংখ্যক (দুই বা ততোধিক) এবং ব্যক্তিগতভাবে সবাইকে বোঝাতে বসে। তাছাড়া 'boy' singular হওয়ায় Each/Every বসতে পারে, তবে নির্দিষ্ট শ্রেণিকক্ষের জন্য Each বেশি মানানসই।"
+  },
+  {
+    "id": 30,
+    "question": "He has read ________ book in the library.",
+    "options": ["each", "every", "all", "many"],
+    "answer": "every",
+    "explanation": "অনির্দিষ্ট এবং বিশাল সংখ্যা (যেমন লাইব্রেরির সব বই) বোঝাতে 'every' ব্যবহৃত হয়। 'all' বসলে books (plural) হতো।"
+  },
+  {
+    "id": 31,
+    "question": "The Taj Mahal is a ________ monument.",
+    "options": ["worth-seeing", "seeing-worth", "monument worth-seeing", "None"],
+    "answer": "worth-seeing",
+    "explanation": "সঠিক ব্যবহার হলো: 'The Taj Mahal is a monument worth seeing.' (Adjective phrase টি Noun এর পরে বসে)। কিন্তু অপশনে যদি শূন্যস্থান থাকে: 'a worth-seeing monument' বলা ব্যাকরণগতভাবে ভুল। সঠিক উত্তর হবে: 'a monument worth seeing' - তবে সাধারণ মক টেস্টে বাক্যের গঠনে এটি error correction এ আসে। এখানে অপশন অনুযায়ী সঠিক Noun+Adjective ফর্ম হবে 'monument worth seeing'। (প্রশ্নের অপশন অনুযায়ী None/Invalid - তবে প্রচলিত পরীক্ষায় 'worth-seeing' কে ভুল ধরা হয়)।"
+  },
+  {
+    "id": 32,
+    "question": "Gold is the heaviest of ________ metals.",
+    "options": ["all other", "any other", "all", "any"],
+    "answer": "all",
+    "explanation": "Superlative degree-তে 'all other' নয়, শুধু 'all' বসে। (heaviest of all metals)। Comparative-এ any other/all other বসে।"
+  },
+  {
+    "id": 33,
+    "question": "You should not do such a ________ act.",
+    "options": ["coward", "cowardly", "cowardice", "cowards"],
+    "answer": "cowardly",
+    "explanation": "'Coward' হলো Noun। Act (কাজ)-কে বিশেষিত করার জন্য একটি Adjective দরকার। Coward-এর Adjective form হলো 'cowardly'।"
+  },
+  {
+    "id": 34,
+    "question": "The weather of Kolkata is warmer than ________.",
+    "options": ["Delhi", "that of Delhi", "those of Delhi", "Delhi's weather"],
+    "answer": "that of Delhi",
+    "explanation": "কলকাতার আবহাওয়ার সাথে দিল্লির আবহাওয়ার তুলনা হচ্ছে, দিল্লির নয়। Singular Noun (weather)-এর পুনরাবৃত্তি এড়াতে 'that of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 35,
+    "question": "The streets of Mumbai are wider than ________.",
+    "options": ["Kolkata", "that of Kolkata", "those of Kolkata", "Kolkata's"],
+    "answer": "those of Kolkata",
+    "explanation": "এখানে 'streets' (Plural Noun) এর তুলনা হচ্ছে। তাই plural noun-এর পুনরাবৃত্তি এড়াতে 'those of' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 36,
+    "question": "She bought a ________ shirt.",
+    "options": ["cotton blue new", "new blue cotton", "blue new cotton", "cotton new blue"],
+    "answer": "new blue cotton",
+    "explanation": "Adjective-এর সঠিক ক্রম (Order of Adjectives) হলো: Age (new) -> Colour (blue) -> Material (cotton)। তাই 'new blue cotton' সঠিক।"
+  },
+  {
+    "id": 37,
+    "question": "This book is ________ useful than that one.",
+    "options": ["more", "much", "very", "most"],
+    "answer": "more",
+    "explanation": "'Useful' শব্দটি দুটির বেশি syllable যুক্ত, তাই এর comparative degree করতে আগে 'more' বসাতে হয়।"
+  },
+  {
+    "id": 38,
+    "question": "He is ________ better today.",
+    "options": ["much", "very", "more", "too"],
+    "answer": "much",
+    "explanation": "Comparative degree (better) কে জোর দিয়ে বোঝাতে তার আগে 'much' বা 'far' ব্যবহৃত হয়, 'very' নয়। ('very good' হয়, কিন্তু 'much better' হয়)।"
+  },
+  {
+    "id": 39,
+    "question": "________ knowledge is a dangerous thing.",
+    "options": ["Little", "A little", "The little", "Few"],
+    "answer": "A little",
+    "explanation": "এটি একটি বিখ্যাত প্রবাদ: 'A little learning is a dangerous thing'। 'A little' মানে সামান্য জ্ঞান, যা বিপদজনক।"
+  },
+  {
+    "id": 40,
+    "question": "He lost ________ money he had.",
+    "options": ["little", "a little", "the little", "few"],
+    "answer": "the little",
+    "explanation": "'The little' মানে 'যে সামান্য পরিমাণ ছিল তার পুরোটাই'। তার কাছে যে সামান্য টাকা ছিল, সে তার পুরোটাই হারিয়ে ফেলেছে।"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following adjectives cannot be used in the comparative degree?",
+    "options": ["Good", "Tall", "Circular", "Heavy"],
+    "answer": "Circular",
+    "explanation": "'Circular' (বৃত্তাকার) একটি absolute adjective। কোনো কিছু হয় বৃত্তাকার হবে, না হয় হবে না। এর কোনো কম-বেশি (more circular/most circular) হয় না।"
+  },
+  {
+    "id": 42,
+    "question": "This rule is applicable ________ everyone.",
+    "options": ["for", "to", "with", "on"],
+    "answer": "to",
+    "explanation": "'Applicable' Adjective টির পর সব সময় 'to' preposition বসে।"
+  },
+  {
+    "id": 43,
+    "question": "She is the ________ of the three sisters.",
+    "options": ["beautiful", "more beautiful", "most beautiful", "beauty"],
+    "answer": "most beautiful",
+    "explanation": "দুইয়ের বেশি মানুষের মধ্যে তুলনা করা হলে Superlative degree (most beautiful) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 44,
+    "question": "Of all the teachers, he is the ________.",
+    "options": ["most respected", "more respected", "respect", "respected"],
+    "answer": "most respected",
+    "explanation": "'Of all' থাকলে সর্বদা Superlative degree ব্যবহৃত হয়।"
+  },
+  {
+    "id": 45,
+    "question": "He is the first and ________ man to arrive.",
+    "options": ["older", "oldest", "eldest", "foremost"],
+    "answer": "foremost",
+    "explanation": "First-এর সাথে সমান্তরাল বজায় রাখতে foremost (প্রধান/সর্বাগ্রগণ্য) ব্যবহৃত হয়। 'First and foremost' একটি প্রচলিত phrase।"
+  },
+  {
+    "id": 46,
+    "question": "________ word of his speech was true.",
+    "options": ["Every", "All", "Some", "Many"],
+    "answer": "Every",
+    "explanation": "'Word' singular noun, তাই তার আগে Every বসেছে। All বসালে 'words' হতো।"
+  },
+  {
+    "id": 47,
+    "question": "He gave me two apples, but ________ of them was ripe.",
+    "options": ["neither", "none", "either", "all"],
+    "answer": "neither",
+    "explanation": "দুটি বস্তুর মধ্যে 'একটিও নয়' বোঝাতে 'neither' ব্যবহৃত হয়। দুটির বেশি হলে 'none' বসে।"
+  },
+  {
+    "id": 48,
+    "question": "Raju is not so ________ as his brother.",
+    "options": ["tallest", "taller", "tall", "much tall"],
+    "answer": "tall",
+    "explanation": "নেতিবাচক (Negative) তুলনার ক্ষেত্রে 'not so ... as' ব্যবহৃত হয় এবং এর মাঝে সর্বদা Positive Degree (tall) বসে।"
+  },
+  {
+    "id": 49,
+    "question": "________ chapter of this book is interesting.",
+    "options": ["The all", "All", "The whole", "Whole"],
+    "answer": "The whole",
+    "explanation": "Singular Noun (chapter) এর আগে সমগ্র অংশ বোঝাতে 'The whole' ব্যবহৃত হয়। 'All the chapters' হতো যদি plural থাকতো।"
+  },
+  {
+    "id": 50,
+    "question": "He runs very ________.",
+    "options": ["fast", "fastly", "faster", "fastest"],
+    "answer": "fast",
+    "explanation": "ইংরেজিতে 'fastly' বলে কোনো শব্দ নেই। 'Fast' শব্দটি একই সাথে Adjective এবং Adverb হিসেবে কাজ করে। এখানে এটি Adverb।"
+  },
+  {
+    "id": 51,
+    "question": "I do not like ________ kind of jokes.",
+    "options": ["these", "those", "this", "a & b"],
+    "answer": "this",
+    "explanation": "'Kind' এবং 'sort' হলো Singular Noun, তাই এদের আগে Demonstrative Adjective হিসেবে this বা that বসে, these বা those নয়। Plural (kinds/sorts) হলে these/those বসতো।"
+  },
+  {
+    "id": 52,
+    "question": "He is the ________ member of the committee.",
+    "options": ["eldest", "oldest", "elder", "older"],
+    "answer": "oldest",
+    "explanation": "রক্তের সম্পর্কের বাইরে বয়স বা অভিজ্ঞতায় সবচেয়ে বড় বোঝাতে older/oldest ব্যবহৃত হয়। কমিটির সদস্য বোঝাতে 'oldest' সঠিক।"
+  },
+  {
+    "id": 53,
+    "question": "You must read the ________ two chapters of the book.",
+    "options": ["two first", "first two", "foremost two", "second two"],
+    "answer": "first two",
+    "explanation": "যখন Ordinal number (first, second, third) এবং Cardinal number (one, two, three) একসাথে বসে, তখন Ordinal number সর্বদা আগে বসে। তাই 'first two' হবে।"
+  },
+  {
+    "id": 54,
+    "question": "They are our ________ friends.",
+    "options": ["mutual", "common", "mutually", "same"],
+    "answer": "common",
+    "explanation": "'Mutual' মানে পারস্পরিক (যেমন mutual agreement)। দুজনেরই পরিচিত এমন বন্ধু বোঝাতে 'common friend' ব্যবহৃত হয়, 'mutual friend' ব্যাকরণগতভাবে ভুল।"
+  },
+  {
+    "id": 55,
+    "question": "________ a man would not do this.",
+    "options": ["Such", "So", "As", "Like"],
+    "answer": "Such",
+    "explanation": "Singular Noun-এর আগে 'such a/an' ব্যবহৃত হয় কোনো নির্দিষ্ট ধরনের ব্যক্তি বা বস্তুকে নির্দেশ করতে (এমন একজন মানুষ...)।"
+  },
+  {
+    "id": 56,
+    "question": "The patient has ________ hope of recovery.",
+    "options": ["little", "a little", "few", "a few"],
+    "answer": "little",
+    "explanation": "রোগীর বাঁচার আশা 'নেই বললেই চলে' এমন নেতিবাচক অর্থ বোঝাতে Uncountable Noun (hope)-এর আগে 'little' বসে।"
+  },
+  {
+    "id": 57,
+    "question": "He is ________ junior to me in service.",
+    "options": ["much", "very", "more", "far"],
+    "answer": "much",
+    "explanation": "Comparative degree-র Adjective (যেমন junior, better)-কে বিশেষায়িত বা modify করতে 'much' ব্যবহৃত হয়, 'very' নয় (যেমন: much better, much junior)।"
+  },
+  {
+    "id": 58,
+    "question": "Between the two plans, the ________ is more feasible.",
+    "options": ["later", "latter", "latest", "last"],
+    "answer": "latter",
+    "explanation": "দুটি বিষয়ের মধ্যে পরবর্তী বা দ্বিতীয়টিকে বোঝাতে 'latter' ব্যবহৃত হয়। 'Later' সময় বোঝাতে বসে।"
+  },
+  {
+    "id": 59,
+    "question": "He demanded ________ action against the culprits.",
+    "options": ["further", "farther", "farthest", "furthest"],
+    "answer": "further",
+    "explanation": "'Further' অর্থ 'অতিরিক্ত' বা 'আরও' (additional)। দূরত্ব বোঝাতে farther বসে।"
+  },
+  {
+    "id": 60,
+    "question": "Shakespeare is greater than ________ dramatist.",
+    "options": ["any", "all", "any other", "some"],
+    "answer": "any other",
+    "explanation": "শেক্সপিয়র নিজে একজন নাট্যকার। তাই নিজেকে বাকি নাট্যকারদের থেকে আলাদা করে বোঝাতে 'any other' বসাতে হয়।"
+  },
+  {
+    "id": 61,
+    "question": "Lata Mangeshkar's voice is sweeter than ________ singer.",
+    "options": ["any", "any other", "all", "some"],
+    "answer": "any other",
+    "explanation": "লতা মঙ্গেশকর একজন গায়িকা, তাই একই গোত্রের মধ্যে তুলনায় 'any other' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 62,
+    "question": "Lata Mangeshkar's voice is sweeter than ________ actor.",
+    "options": ["any", "any other", "all", "some"],
+    "answer": "any",
+    "explanation": "গায়িকার সাথে অভিনেতার (ভিন্ন গোত্রের) তুলনা হচ্ছে। যেহেতু গায়িকা অভিনেতা গোষ্ঠীর অংশ নন, তাই এখানে 'any other' নয়, শুধু 'any' বসবে।"
+  },
+  {
+    "id": 63,
+    "question": "It is an ________ situation.",
+    "options": ["extreme", "most extreme", "extremely", "more extreme"],
+    "answer": "extreme",
+    "explanation": "Extreme, Absolute, Complete, Perfect ইত্যাদি Adjective-এর কোনো comparative বা superlative form হয় না। এগুলো নিজেরাই সর্বোচ্চ অবস্থা বোঝায়।"
+  },
+  {
+    "id": 64,
+    "question": "She bought a ________ table.",
+    "options": ["round wooden beautiful", "beautiful round wooden", "wooden beautiful round", "round beautiful wooden"],
+    "answer": "beautiful round wooden",
+    "explanation": "Adjective-এর ক্রম (Order): Opinion (beautiful) -> Shape (round) -> Material (wooden)। তাই 'beautiful round wooden' সঠিক।"
+  },
+  {
+    "id": 65,
+    "question": "The journey was ________ exhausting.",
+    "options": ["too", "much", "very", "far"],
+    "answer": "very",
+    "explanation": "Present Participle (ing যুক্ত adjective, যেমন: exhausting, interesting) এর আগে সাধারণত 'very' বসে। Past Participle-এর আগে 'much' বসে।"
+  },
+  {
+    "id": 66,
+    "question": "He is ________ weak to walk.",
+    "options": ["very", "so", "too", "much"],
+    "answer": "too",
+    "explanation": "'too...to' structure-এ নেতিবাচক অর্থ প্রকাশ পায়। (সে এতই দুর্বল যে হাঁটতে পারে না)।"
+  },
+  {
+    "id": 67,
+    "question": "He felt ________ after taking the medicine.",
+    "options": ["good", "well", "nice", "fine"],
+    "answer": "well",
+    "explanation": "শারীরিক সুস্থতা বোঝাতে 'well' ব্যবহৃত হয় (যা এখানে adjective হিসেবে কাজ করে)। 'Good' দ্বারা সাধারণ গুণমান বোঝায়।"
+  },
+  {
+    "id": 68,
+    "question": "She wore a ________ dress.",
+    "options": ["long red silk", "red long silk", "silk long red", "long silk red"],
+    "answer": "long red silk",
+    "explanation": "Order of Adjective: Size/Length (long) -> Colour (red) -> Material (silk)।"
+  },
+  {
+    "id": 69,
+    "question": "Every boy and every girl ________ given a packet of sweets.",
+    "options": ["was", "were", "are", "have"],
+    "answer": "was",
+    "explanation": "'Every' দ্বারা যুক্ত দুটি singular subject থাকলে verb সর্বদা singular (was) হয়।"
+  },
+  {
+    "id": 70,
+    "question": "I have ________ books on this topic.",
+    "options": ["enough", "enough of", "much", "an"],
+    "answer": "enough",
+    "explanation": "Books (plural countable noun) এর আগে পর্যাপ্ত বোঝাতে 'enough' ব্যবহৃত হয়। 'Much' বসে uncountable noun-এর আগে।"
+  },
+  {
+    "id": 71,
+    "question": "I have a ________ rupee note.",
+    "options": ["ten", "tens", "tenth", "ten's"],
+    "answer": "ten",
+    "explanation": "Hyphenated adjective (যেমন: a ten-rupee note, a five-mile walk) কখনও plural (rupees/miles) হয় না।"
+  },
+  {
+    "id": 72,
+    "question": "Our armed forces are ________ to those of any other country.",
+    "options": ["superior", "superior than", "more superior", "most superior"],
+    "answer": "superior",
+    "explanation": "Superior এর পর than বসে না, to বসে। আর superior নিজেই comparative অর্থ বহন করে, তাই এর আগে more বসে না।"
+  },
+  {
+    "id": 73,
+    "question": "This is the ________ building in the city.",
+    "options": ["older", "oldest", "elder", "eldest"],
+    "answer": "oldest",
+    "explanation": "দালান বা বস্তুর ক্ষেত্রে elder/eldest নয়, older/oldest ব্যবহৃত হয়।"
+  },
+  {
+    "id": 74,
+    "question": "Of the two sisters, she is the ________.",
+    "options": ["more intelligent", "most intelligent", "intelligent", "much intelligent"],
+    "answer": "more intelligent",
+    "explanation": "দুজনের মধ্যে তুলনায় Comparative degree (more intelligent) বসে এবং বাক্যে 'Of the two' থাকলে Comparative এর আগে 'the' বসে।"
+  },
+  {
+    "id": 75,
+    "question": "The new job is ________ demanding than the old one.",
+    "options": ["less", "fewer", "little", "fewest"],
+    "answer": "less",
+    "explanation": "'Demanding' একটি abstract idea, তাই তুলনামূলক কম বোঝাতে 'less' ব্যবহৃত হয়। 'Fewer' countable noun-এর আগে বসে।"
+  },
+  {
+    "id": 76,
+    "question": "The ________ you study, the better you learn.",
+    "options": ["more", "most", "much", "many"],
+    "answer": "more",
+    "explanation": "সমানুপাতিক বৃদ্ধি বা হ্রাস বোঝাতে 'The + Comparative ... The + Comparative' (The more... the better) structure ব্যবহৃত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "We need to find the ________ possible solution.",
+    "options": ["best", "most best", "better", "good"],
+    "answer": "best",
+    "explanation": "সম্ভাব্য সব সমাধানের মধ্যে সবচেয়ে ভালোটি বোঝাতে Superlative degree (best) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 78,
+    "question": "His condition is ________ today.",
+    "options": ["worse", "bad", "worst", "more worse"],
+    "answer": "worse",
+    "explanation": "'Bad' এর comparative form হলো 'worse'। 'more worse' হলো double comparative, যা ভুল।"
+  },
+  {
+    "id": 79,
+    "question": "I prefer reading ________ sleeping.",
+    "options": ["to", "than", "over", "rather than"],
+    "answer": "to",
+    "explanation": "'Prefer'-এর পর দুটি Noun বা Gerund এর মধ্যে তুলনায় 'than' না বসে 'to' বসে।"
+  },
+  {
+    "id": 80,
+    "question": "He is ________ blind.",
+    "options": ["stone", "completely", "pure", "completely stone"],
+    "answer": "stone",
+    "explanation": "'Stone-blind' একটি compound adjective যার অর্থ সম্পূর্ণ অন্ধ। এখানে 'stone' শব্দটি intensifier হিসেবে কাজ করে।"
+  },
+  {
+    "id": 81,
+    "question": "Please bring me ________ glass of water.",
+    "options": ["another", "other", "the other", "others"],
+    "answer": "another",
+    "explanation": "একটি অতিরিক্ত (one more) বা অন্য আরেকটি বোঝাতে singular countable noun-এর আগে 'another' বসে।"
+  },
+  {
+    "id": 82,
+    "question": "I don't like ________ kinds of movies.",
+    "options": ["these", "this", "that", "a"],
+    "answer": "these",
+    "explanation": "'Kinds' হলো Plural Noun, তাই এর আগে plural demonstrative adjective 'these' বা 'those' বসে।"
+  },
+  {
+    "id": 83,
+    "question": "Are there ________ apples left in the basket?",
+    "options": ["any", "some", "a little", "much"],
+    "answer": "any",
+    "explanation": "Interrogative (প্রশ্নবোধক) বাক্যে plural countable noun এর আগে সাধারণত 'any' বসে।"
+  },
+  {
+    "id": 84,
+    "question": "He has ________ friends in the city, but not many.",
+    "options": ["a few", "few", "the few", "little"],
+    "answer": "a few",
+    "explanation": "'Not many' মানে কিছু বন্ধু আছে, কিন্তু খুব বেশি নয়। ইতিবাচক অর্থে কিছু বোঝাতে Countable Noun-এর আগে 'a few' বসে।"
+  },
+  {
+    "id": 85,
+    "question": "Only ________ boys were present in the meeting.",
+    "options": ["a few", "few", "a little", "little"],
+    "answer": "a few",
+    "explanation": "'Only' এর পর Countable Noun থাকলে 'a few' বসে, যার অর্থ 'খুবই কম সংখ্যক কিন্তু অন্তত কিছু'।"
+  },
+  {
+    "id": 86,
+    "question": "This knife is not ________.",
+    "options": ["sharp enough", "enough sharp", "sharper enough", "enough sharper"],
+    "answer": "sharp enough",
+    "explanation": "Adverb 'enough', যে adjective কে modify করে তার ঠিক পরে বসে এবং adjective-টি সর্বদা positive degree-তে থাকে। তাই 'sharp enough' হবে।"
+  },
+  {
+    "id": 87,
+    "question": "The ________ branch of the tree broke.",
+    "options": ["topmost", "highest", "upper", "highly"],
+    "answer": "topmost",
+    "explanation": "কোনো কিছুর একদম উপরের অংশ বোঝাতে 'topmost' ব্যবহৃত হয় (যেমন: topmost branch, topmost floor)।"
+  },
+  {
+    "id": 88,
+    "question": "He is feeling a bit ________ today.",
+    "options": ["sad", "sadly", "sadder", "sadness"],
+    "answer": "sad",
+    "explanation": "Feel, look, seem, appear - এই Linking verb গুলোর পর Adverb (sadly) নয়, Adjective (sad) বসে।"
+  },
+  {
+    "id": 89,
+    "question": "The soup tastes ________.",
+    "options": ["delicious", "deliciously", "more delicious", "deliciousness"],
+    "answer": "delicious",
+    "explanation": "'Taste' একটি Linking verb (verb of sensation), তাই এর পর Adjective বসে, Adverb নয়।"
+  },
+  {
+    "id": 90,
+    "question": "He is the ________ boy in the whole class.",
+    "options": ["tallest", "most tallest", "taller", "tall"],
+    "answer": "tallest",
+    "explanation": "'Whole class' (সমগ্র ক্লাস) এর সাথে তুলনায় Superlative Degree (tallest) বসে। 'most tallest' ডাবল সুপারলেটিভ, যা ভুল।"
+  },
+  {
+    "id": 91,
+    "question": "He proved to be a ________ friend.",
+    "options": ["true", "truly", "truth", "truthful"],
+    "answer": "true",
+    "explanation": "Friend (Noun) কে বিশেষায়িত করতে Adjective 'true' ব্যবহৃত হবে। 'Truly' হলো Adverb।"
+  },
+  {
+    "id": 92,
+    "question": "It is ________ impossible to do this work in one day.",
+    "options": ["next to", "near to", "almost", "nearby"],
+    "answer": "next to",
+    "explanation": "'Next to impossible' একটি পরিচিত Phrase, যার অর্থ 'প্রায় অসম্ভব'। এখানে next to একটি adjective phrase এর মত কাজ করে।"
+  },
+  {
+    "id": 93,
+    "question": "This machine is ________ to that one.",
+    "options": ["inferior", "more inferior", "inferior than", "most inferior"],
+    "answer": "inferior",
+    "explanation": "Inferior (নিকৃষ্ট) হলো একটি ল্যাটিন Comparative, তাই এর পর than না বসে 'to' বসে।"
+  },
+  {
+    "id": 94,
+    "question": "Do you have ________ idea about this?",
+    "options": ["any", "some", "a few", "many"],
+    "answer": "any",
+    "explanation": "প্রশ্নবোধক বা নেতিবাচক বাক্যে 'idea' (uncountable/singular) এর আগে সাধারণত 'any' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 95,
+    "question": "There is ________ milk in the jug.",
+    "options": ["some", "any", "few", "many"],
+    "answer": "some",
+    "explanation": "Affirmative (হ্যাঁ-বাচক) বাক্যে Uncountable noun (milk) এর আগে 'some' বসে।"
+  },
+  {
+    "id": 96,
+    "question": "She is ________ than I expected.",
+    "options": ["prettier", "more prettier", "prettiest", "pretty"],
+    "answer": "prettier",
+    "explanation": "Expected (আশা করার) সাথে বর্তমান অবস্থার তুলনায় Comparative Degree (prettier) বসে।"
+  },
+  {
+    "id": 97,
+    "question": "He is a ________ man.",
+    "options": ["learned", "learn", "learning", "learnt"],
+    "answer": "learned",
+    "explanation": "'Learned' (উচ্চারণ: লার-নেড) একটি Adjective, যার অর্থ জ্ঞানী বা পণ্ডিত।"
+  },
+  {
+    "id": 98,
+    "question": "The flowers smell ________.",
+    "options": ["sweet", "sweetly", "sweetness", "more sweet"],
+    "answer": "sweet",
+    "explanation": "'Smell' একটি Verb of Sensation (Linking verb)। এর পর Adjective বসে, Adverb (sweetly) নয়।"
+  },
+  {
+    "id": 99,
+    "question": "It was an ________ movie.",
+    "options": ["interesting", "interested", "interest", "interestingly"],
+    "answer": "interesting",
+    "explanation": "কোনো বস্তু বা পরিস্থিতি বর্ণনা করতে Present Participle (ing যুক্ত adjective) বসে। ব্যক্তি নিজে অনুভব করলে Past Participle বসে।"
+  },
+  {
+    "id": 100,
+    "question": "I am very ________ in this topic.",
+    "options": ["interested", "interesting", "interest", "interestingly"],
+    "answer": "interested",
+    "explanation": "ব্যক্তি যখন নিজে কোনো কিছু অনুভব করে বা আগ্রহী হয়, তখন Past Participle Adjective (interested) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 101,
+    "question": "The poor ________ suffering a lot during this economic crisis.",
+    "options": ["is", "are", "has", "have"],
+    "answer": "are",
+    "explanation": "'The + Adjective' (যেমন: The poor, The rich, The blind) একটি Plural Common Noun-কে নির্দেশ করে (দরিদ্র মানুষেরা)। যেহেতু Subject Plural, তাই Verb-ও Plural (are) হবে।"
+  },
+  {
+    "id": 102,
+    "question": "He does not have ________ to buy a new house.",
+    "options": ["money enough", "enough money", "enough of money", "many money"],
+    "answer": "enough money",
+    "explanation": "'Enough' শব্দটি Adjective-এর পরে বসে (যেমন: smart enough), কিন্তু Noun-এর আগে বসে। যেহেতু 'money' একটি Noun, তাই 'enough money' সঠিক।"
+  },
+  {
+    "id": 103,
+    "question": "I met a ________ boy in the park yesterday.",
+    "options": ["three-years-old", "three-year-old", "three-years-aged", "three-year-olds"],
+    "answer": "three-year-old",
+    "explanation": "Hyphen দিয়ে যুক্ত Compound Adjective-এর ভেতরের Noun সর্বদা Singular হয়। তাই 'years' না হয়ে 'year' হবে (a three-year-old boy)।"
+  },
+  {
+    "id": 104,
+    "question": "He finished the examination in ________ than two hours.",
+    "options": ["fewer", "less", "lesser", "little"],
+    "answer": "less",
+    "explanation": "সাধারণত Countable noun-এর সাথে fewer বসে। কিন্তু সময় (time), দূরত্ব (distance) বা অর্থের (money) 'মোট পরিমাণ' বোঝাতে Plural noun (hours) থাকা সত্ত্বেও 'less' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 105,
+    "question": "She gave me an ________ message because she had no pen or paper.",
+    "options": ["oral", "verbal", "orally", "verbally"],
+    "answer": "oral",
+    "explanation": "Oral মানে 'মৌখিক' (মুখের কথার মাধ্যমে, যা লেখা হয়নি)। Verbal মানে 'শব্দ বা ভাষা-সংক্রান্ত'। এখানে যেহেতু লেখা সম্ভব ছিল না, তাই 'oral message' সঠিক।"
+  },
+  {
+    "id": 106,
+    "question": "We should always help the ________ people.",
+    "options": ["ill", "sick", "sickness", "badly"],
+    "answer": "sick",
+    "explanation": "'Ill' সাধারণত Noun-এর আগে (Attributive use) বসে না; এটি Verb-এর পরে বসে (He is ill)। Noun-এর আগে বসাতে হলে 'sick' ব্যবহার করতে হয় (sick people)।"
+  },
+  {
+    "id": 107,
+    "question": "The news of the sudden earthquake was ________.",
+    "options": ["shocked", "shocking", "much shocked", "softly"],
+    "answer": "shocking",
+    "explanation": "কোনো ঘটনা বা বস্তুর বৈশিষ্ট্য বোঝাতে Present Participle (-ing যুক্ত adjective) ব্যবহৃত হয় (The news was shocking)। আর ব্যক্তির নিজের অনুভূতি বোঝাতে Past Participle বসে (I was shocked)।"
+  },
+  {
+    "id": 108,
+    "question": "A large ________ of people gathered in front of the minister's house.",
+    "options": ["amount", "quantity", "number", "sum"],
+    "answer": "number",
+    "explanation": "People হলো Countable Noun, তাই এর সাথে 'number' বসে। Uncountable Noun (যেমন: জল, বালি, টাকা)-এর ক্ষেত্রে 'amount' বা 'quantity' বসে।"
+  },
+  {
+    "id": 109,
+    "question": "He works very ________ to support his family.",
+    "options": ["hardly", "hard", "more hard", "most hard"],
+    "answer": "hard",
+    "explanation": "'Hard' শব্দটি একই সাথে Adjective এবং Adverb হিসেবে কাজ করে। 'Hardly' মানে 'কদাচিৎ বা প্রায় না' (Negative meaning)। কঠোর পরিশ্রম বোঝাতে 'work hard' বসে।"
+  },
+  {
+    "id": 110,
+    "question": "This is a ________.",
+    "options": ["book worth reading", "worth reading book", "reading worth book", "book reading worth"],
+    "answer": "book worth reading",
+    "explanation": "'Worth reading' বা 'worth seeing' হলো Post-positive Adjective phrase, অর্থাৎ এটি সবসময় যে Noun-কে বিশেষায়িত করে তার পরে বসে (A book worth reading)।"
+  },
+  {
+    "id": 111,
+    "question": "________ boy came to the office to meet you.",
+    "options": ["A certain", "Certain", "The certain", "All certain"],
+    "answer": "A certain",
+    "explanation": "Singular Countable Noun (boy)-এর আগে 'A certain' (কোনো এক) বসে। Plural হলে শুধু 'Certain' (certain boys) বসতো।"
+  },
+  {
+    "id": 112,
+    "question": "The snake venom is highly ________.",
+    "options": ["dead", "deadly", "deadness", "dying"],
+    "answer": "deadly",
+    "explanation": "'Dead' মানে মৃত। কিন্তু 'Deadly' মানে প্রাণঘাতী বা মারাত্মক (Fatal)। সাপের বিষ প্রাণঘাতী, তাই 'deadly' হবে, যা একটি Adjective।"
+  },
+  {
+    "id": 113,
+    "question": "He behaves well, but actually, he is a ________ man.",
+    "options": ["miser", "miserly", "miserness", "misers"],
+    "answer": "miserly",
+    "explanation": "'Miser' (কৃপণ ব্যক্তি) শব্দটি নিজেই একটি Noun। Man (Noun)-এর আগে বসাতে হলে এর Adjective form 'miserly' (কৃপণ) ব্যবহার করতে হবে।"
+  },
+  {
+    "id": 114,
+    "question": "We must show respect to our ________.",
+    "options": ["olders", "elders", "elder", "oldest"],
+    "answer": "elders",
+    "explanation": "বয়োজ্যেষ্ঠ ব্যক্তিদের বোঝাতে Plural Noun হিসেবে 'elders' ব্যবহৃত হয়। 'Older'-এর কোনো plural Noun form (olders) ইংরেজিতে হয় না।"
+  },
+  {
+    "id": 115,
+    "question": "The principal reason for his failure is laziness. (Choose the correct synonym for the underlined adjective 'principal')",
+    "options": ["mainly", "chief", "principle", "most main"],
+    "answer": "chief",
+    "explanation": "'Principal' মানে প্রধান। এর সমার্থক Adjective হলো 'chief' বা 'main'। 'Principle' (ple) একটি Noun যার অর্থ নীতি বা আদর্শ, তাই সেটি হবে না।"
+  }
+]

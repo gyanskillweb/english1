@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "He ___ swim across the river when he was young.",
+    "options": ["could", "can", "might", "should"],
+    "answer": "could",
+    "explanation": "অতীতের সামর্থ্য বা Past Ability বোঝাতে Modal verb হিসেবে 'could' ব্যবহৃত হয়। 'when he was young' অংশটি নির্দেশ করছে যে এটি অতীতের ঘটনা, তাই can এর পাস্ট ফর্ম could হবে।"
+  },
+  {
+    "id": 2,
+    "question": "___ I come in, Sir?",
+    "options": ["Can", "May", "Will", "Should"],
+    "answer": "May",
+    "explanation": "অফিস, স্কুল বা যেকোনো আনুষ্ঠানিক জায়গায় অনুমতি (Formal Permission) নেওয়ার জন্য 'May' এর ব্যবহার সবথেকে বেশি মানানসই এবং ভদ্রোচিত।"
+  },
+  {
+    "id": 3,
+    "question": "The sky is dark. It ___ rain today.",
+    "options": ["would", "need", "may", "ought to"],
+    "answer": "may",
+    "explanation": "ভবিষ্যতের সম্ভাবনা (Possibility) বোঝাতে 'may' বা 'might' ব্যবহৃত হয়। যেহেতু আকাশ মেঘলা, তাই বৃষ্টির প্রবল সম্ভাবনা রয়েছে, এই অর্থে 'may' বসবে।"
+  },
+  {
+    "id": 4,
+    "question": "We ___ respect our elders.",
+    "options": ["can", "could", "might", "ought to"],
+    "answer": "ought to",
+    "explanation": "নৈতিক দায়িত্ব বা Moral Obligation বোঝাতে 'should' অথবা 'ought to' ব্যবহৃত হয়। এখানে বাক্যের অর্থ অনুযায়ী 'ought to' সঠিক উত্তর।"
+  },
+  {
+    "id": 5,
+    "question": "You ___ wear a helmet while riding a bike.",
+    "options": ["must", "can", "might", "would"],
+    "answer": "must",
+    "explanation": "আইনগত বাধ্যবাধকতা বা Strong Necessity (অবশ্যই করতে হবে এমন কাজ) বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 6,
+    "question": "___ you please pass the salt?",
+    "options": ["Shall", "Would", "Should", "Must"],
+    "answer": "Would",
+    "explanation": "কাউকে বিনীতভাবে অনুরোধ (Polite Request) করার জন্য 'Would' বা 'Could' ব্যবহৃত হয়। এখানে 'Would' সঠিক।"
+  },
+  {
+    "id": 7,
+    "question": "You ___ worry about the tickets; I have already booked them.",
+    "options": ["cannot", "must not", "need not", "ought not"],
+    "answer": "need not",
+    "explanation": "Lack of necessity বা 'প্রয়োজন নেই' বোঝাতে 'need not' ব্যবহৃত হয়। যেহেতু টিকিট আগেই বুক করা হয়েছে, তাই চিন্তার প্রয়োজন নেই।"
+  },
+  {
+    "id": 8,
+    "question": "He was absent yesterday. He ___ been ill.",
+    "options": ["should have", "would have", "could have", "must have"],
+    "answer": "must have",
+    "explanation": "অতীতের কোনো ঘটনা সম্পর্কে নিশ্চিত অনুমান (Logical Deduction in the past) করতে 'must have + V3' ব্যবহৃত হয়। সে অনুপস্থিত ছিল মানে সে নিশ্চয়ই অসুস্থ ছিল।"
+  },
+  {
+    "id": 9,
+    "question": "I ___ play cricket when I was in college.",
+    "options": ["used to", "am used to", "should", "must"],
+    "answer": "used to",
+    "explanation": "অতীতের নিয়মিত অভ্যাস (Past Habit) বোঝাতে 'used to' ব্যবহৃত হয়, যা এখন আর করা হয় না।"
+  },
+  {
+    "id": 10,
+    "question": "Work hard lest you ___ fail.",
+    "options": ["would", "should", "could", "might"],
+    "answer": "should",
+    "explanation": "এটি সেন্ট্রাল ও রাজ্য সরকারের পরীক্ষার একটি অত্যন্ত কমন নিয়ম। 'Lest' (যাতে না) যুক্ত বাক্যে সবসময় Modal verb হিসেবে 'should' বসে।"
+  },
+  {
+    "id": 11,
+    "question": "He ___ not enter my room.",
+    "options": ["needs", "dares", "dare", "need"],
+    "answer": "dare",
+    "explanation": "'Dare' একটি Marginal Modal। Negative বাক্যে Modal হিসেবে ব্যবহৃত হলে এর সাথে 's' বা 'es' যুক্ত হয় না (dares হয় না), শুধু 'dare not' বসে।"
+  },
+  {
+    "id": 12,
+    "question": "You ___ saved her if you had tried.",
+    "options": ["must have", "should have", "would have", "could have"],
+    "answer": "could have",
+    "explanation": "অতীতের কোনো সামর্থ্য যা প্রয়োগ করা হয়নি (Unfulfilled past ability) বোঝাতে 'could have + V3' ব্যবহৃত হয়। তুমি চেষ্টা করলে বাঁচাতে পারতে (কিন্তু করোনি)।"
+  },
+  {
+    "id": 13,
+    "question": "___ you lift this heavy box?",
+    "options": ["Can", "May", "Shall", "Must"],
+    "answer": "Can",
+    "explanation": "কারো শারীরিক বা মানসিক সামর্থ্য (Ability/Capacity) জানতে চাইতে 'Can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 14,
+    "question": "___ we go for a walk?",
+    "options": ["Will", "Shall", "Would", "Could"],
+    "answer": "Shall",
+    "explanation": "কারো কাছে প্রস্তাব বা Suggestion রাখার জন্য First Person (I, We) এর সাথে সাধারণত 'Shall' দিয়ে প্রশ্ন করা হয়।"
+  },
+  {
+    "id": 15,
+    "question": "I ___ certainly help you in this matter.",
+    "options": ["shall", "may", "will", "might"],
+    "answer": "will",
+    "explanation": "সাধারণত 'I' বা 'We' এর পর 'shall' বসে। কিন্তু দৃঢ় প্রতিজ্ঞা, ইচ্ছা বা নিশ্চিত কিছু (Determination) বোঝালে 'I' এর পর 'will' বসে।"
+  },
+  {
+    "id": 16,
+    "question": "She is not at home. She ___ gone to the market, but I am not sure.",
+    "options": ["must have", "should have", "would have", "might have"],
+    "answer": "might have",
+    "explanation": "অতীতের কোনো ঘটনা ঘটার ক্ষীণ সম্ভাবনা (Weak possibility in the past) বোঝাতে 'might have + V3' বসে। বাক্যে 'not sure' থাকায় এটি ক্ষীণ সম্ভাবনা।"
+  },
+  {
+    "id": 17,
+    "question": "You ___ touch that wire; it's live.",
+    "options": ["mustn't", "needn't", "don't", "haven't"],
+    "answer": "mustn't",
+    "explanation": "কঠোর নিষেধাজ্ঞা (Strong Prohibition) বোঝাতে 'must not' বা 'mustn't' ব্যবহৃত হয়। জীবন্ত তার ধরা অত্যন্ত বিপজ্জনক, তাই এটি নিষিদ্ধ।"
+  },
+  {
+    "id": 18,
+    "question": "I ___ rather die than beg.",
+    "options": ["should", "would", "could", "might"],
+    "answer": "would",
+    "explanation": "দুটি কাজের মধ্যে একটিকে বেশি পছন্দ করা (Preference) বোঝাতে 'would rather ... than' ব্যবহৃত হয়। এটি পরীক্ষার জন্য খুব গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 19,
+    "question": "She ___ be over thirty; she looks so young!",
+    "options": ["must not", "will not", "cannot", "need not"],
+    "answer": "cannot",
+    "explanation": "যৌক্তিক অসম্ভবতা (Logical Impossibility) বোঝাতে 'cannot' ব্যবহৃত হয়। তাকে এত তরুণ দেখতে যে সে কোনোভাবেই তিরিশের বেশি হতে পারে না।"
+  },
+  {
+    "id": 20,
+    "question": "Cars ___ be parked in front of the gate.",
+    "options": ["need not", "could not", "would not", "must not"],
+    "answer": "must not",
+    "explanation": "অফিসিয়াল নিয়ম বা নিষেধাজ্ঞা (Official Prohibition) বোঝাতে 'must not' ব্যবহার করা হয়।"
+  },
+  {
+    "id": 21,
+    "question": "You ___ brought your umbrella; it's not raining.",
+    "options": ["needn't have", "mustn't have", "couldn't have", "shouldn't have"],
+    "answer": "needn't have",
+    "explanation": "অতীতে এমন কোনো কাজ করা হয়েছে যার কোনো প্রয়োজন ছিল না, এমন বোঝাতে 'needn't have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 22,
+    "question": "He ___ reached the station by now.",
+    "options": ["ought to", "may have", "need to", "used to"],
+    "answer": "may have",
+    "explanation": "বর্তমানে দাঁড়িয়ে অতীতের কোনো ঘটনা সম্পন্ন হওয়ার সম্ভাবনা (Possibility) প্রকাশ করতে 'may have + V3' বসে।"
+  },
+  {
+    "id": 23,
+    "question": "You ___ helped your friend in need.",
+    "options": ["should", "must", "ought to have", "need to"],
+    "answer": "ought to have",
+    "explanation": "অতীতে কোনো নৈতিক দায়িত্ব পালন করা উচিত ছিল কিন্তু করা হয়নি (Unfulfilled moral obligation) বোঝাতে 'ought to have + V3' বা 'should have + V3' বসে।"
+  },
+  {
+    "id": 24,
+    "question": "There ___ be a cinema hall here in the past.",
+    "options": ["would", "should", "could", "used to"],
+    "answer": "used to",
+    "explanation": "অতীতের কোনো অবস্থা বা অস্তিত্ব (Past state/existence) বোঝাতে 'used to' ব্যবহৃত হয়। এখানে আগে একটি সিনেমা হল ছিল, এখন নেই।"
+  },
+  {
+    "id": 25,
+    "question": "How ___ you talk to me like that?",
+    "options": ["dare", "need", "must", "can"],
+    "answer": "dare",
+    "explanation": "কারো দুঃসাহস বা স্পর্ধা বোঝাতে Interrogative বাক্যে Modal হিসেবে 'dare' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 26,
+    "question": "___ I open the window?",
+    "options": ["Will", "Shall", "Would", "Should"],
+    "answer": "Shall",
+    "explanation": "অন্যের ইচ্ছা বা অনুমতি জানতে চাইতে First Person (I) এর সাথে 'Shall' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 27,
+    "question": "Make haste lest you ___ miss the bus.",
+    "options": ["would", "could", "should", "might"],
+    "answer": "should",
+    "explanation": "গ্রামারের নিয়ম অনুযায়ী 'lest' (পাছে) কনজাংশনের পর সবসময় 'should' বসে, অন্য কোনো Modal বসে না।"
+  },
+  {
+    "id": 28,
+    "question": "If I were a bird, I ___ fly.",
+    "options": ["will", "shall", "can", "would"],
+    "answer": "would",
+    "explanation": "অবাস্তব কল্পনা বা Conditional Sentence (Type 2) এর ক্ষেত্রে 'If' ক্লজে past tense থাকলে মেইন ক্লজে 'would' বসে।"
+  },
+  {
+    "id": 29,
+    "question": "It ___ rain tonight, but the sky is mostly clear.",
+    "options": ["might", "must", "should", "ought to"],
+    "answer": "might",
+    "explanation": "যেহেতু আকাশ পরিষ্কার, তাই বৃষ্টির সম্ভাবনা খুবই কম। ক্ষীণ সম্ভাবনা (Remote possibility) বোঝাতে 'might' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 30,
+    "question": "You ___ consult a doctor immediately.",
+    "options": ["can", "must", "may", "might"],
+    "answer": "must",
+    "explanation": "অত্যন্ত জরুরি বা Strong Advice বোঝাতে 'should' এর পরিবর্তে 'must' বেশি উপযুক্ত।"
+  },
+  {
+    "id": 31,
+    "question": "He ___ better leave now before it gets dark.",
+    "options": ["should", "would", "had", "could"],
+    "answer": "had",
+    "explanation": "'Had better' একটি Modal phrase যার অর্থ 'বরং ভালো'। এটি বর্তমান বা ভবিষ্যতের উপদেশ দিতে ব্যবহৃত হয়। এর পর verb-এর base form বসে।"
+  },
+  {
+    "id": 32,
+    "question": "I ___ go there; I have already sent an email.",
+    "options": ["mustn't", "can't", "wouldn't", "needn't"],
+    "answer": "needn't",
+    "explanation": "কাজের প্রয়োজনীয়তা নেই (Absence of obligation) বোঝাতে 'need not' বা 'needn't' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 33,
+    "question": "Any child ___ grow up to be the President.",
+    "options": ["can", "must", "should", "will"],
+    "answer": "can",
+    "explanation": "তাত্ত্বিক সম্ভাবনা (Theoretical Possibility) বোঝাতে 'can' ব্যবহৃত হয়। অর্থাৎ এটি সম্ভব, নিয়মে বাধা নেই।"
+  },
+  {
+    "id": 34,
+    "question": "I thought it ___ rain.",
+    "options": ["may", "would", "shall", "can"],
+    "answer": "would",
+    "explanation": "বাক্যের প্রথম অংশ (thought) Past Tense-এ থাকায়, ভবিষ্যতের কথা বোঝাতে 'will' এর Past form 'would' বসবে।"
+  },
+  {
+    "id": 35,
+    "question": "We eat so that we ___ live.",
+    "options": ["can", "will", "may", "shall"],
+    "answer": "may",
+    "explanation": "উদ্দেশ্য (Purpose) বোঝাতে 'so that' বা 'in order that' এর পর 'may' বা 'might' বসে। বাক্যটি Present Tense এ থাকায় 'may' বসবে।"
+  },
+  {
+    "id": 36,
+    "question": "I ___ like to ask you a question.",
+    "options": ["can", "will", "shall", "would"],
+    "answer": "would",
+    "explanation": "ভদ্রভাবে নিজের ইচ্ছা প্রকাশ করতে (Polite expression of desire) 'would like to' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 37,
+    "question": "___ you live long!",
+    "options": ["May", "Can", "Will", "Shall"],
+    "answer": "May",
+    "explanation": "প্রার্থনা বা আশীর্বাদ (Wish/Prayer) বোঝাতে Optative Sentence-এর শুরুতে 'May' বসে।"
+  },
+  {
+    "id": 38,
+    "question": "You ___ not read this book; it is not in the syllabus.",
+    "options": ["dare", "need", "must", "can"],
+    "answer": "need",
+    "explanation": "বইটি সিলেবাসে নেই, তাই এটি পড়ার কোনো 'দরকার' বা 'প্রয়োজন' নেই। তাই 'need not' সঠিক।"
+  },
+  {
+    "id": 39,
+    "question": "A judge ___ be upright.",
+    "options": ["can", "might", "must", "could"],
+    "answer": "must",
+    "explanation": "পেশাগত বা নৈতিক দিক থেকে অত্যন্ত আবশ্যকীয় গুণ বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 40,
+    "question": "___ you mind opening the door?",
+    "options": ["Should", "Could", "Might", "Would"],
+    "answer": "Would",
+    "explanation": "কাউকে বিনীতভাবে কিছু করতে অনুরোধ করতে 'Would you mind + (verb+ing)' এর গঠনটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 41,
+    "question": "You ___ to respect your teachers.",
+    "options": ["ought", "should", "must", "need"],
+    "answer": "ought",
+    "explanation": "নৈতিক কর্তব্যের ক্ষেত্রে 'should' এবং 'ought to' সমার্থক। কিন্তু শূন্যস্থানের পরে 'to' থাকায় এখানে 'ought' বসবে।"
+  },
+  {
+    "id": 42,
+    "question": "He ___ have been a doctor, but he chose engineering.",
+    "options": ["must", "could", "should", "would"],
+    "answer": "could",
+    "explanation": "অতীতে সুযোগ ছিল কিন্তু করা হয়নি (Past unfulfilled possibility) এমন বোঝাতে 'could have + V3' বসে।"
+  },
+  {
+    "id": 43,
+    "question": "___ God bless you!",
+    "options": ["Can", "Will", "May", "Shall"],
+    "answer": "May",
+    "explanation": "ঈশ্বরের কাছে প্রার্থনা বোঝাতে বাক্যের শুরুতে 'May' বসে (Optative sentence)।"
+  },
+  {
+    "id": 44,
+    "question": "I ___ rather read a book than watch TV.",
+    "options": ["could", "should", "must", "would"],
+    "answer": "would",
+    "explanation": "দুটির মধ্যে একটিকে বেছে নেওয়া (Preference) বোঝাতে 'would rather' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 45,
+    "question": "He said that he ___ come.",
+    "options": ["might", "may", "can", "shall"],
+    "answer": "might",
+    "explanation": "Indirect speech-এ রিপোর্টিং ভার্ব (said) অতীত কালে থাকলে, 'may' পরিবর্তিত হয়ে 'might' হয়।"
+  },
+  {
+    "id": 46,
+    "question": "___ you speak French?",
+    "options": ["May", "Can", "Should", "Must"],
+    "answer": "Can",
+    "explanation": "ভাষা বলা বা কোনো কাজ করতে পারার সামর্থ্য (Ability/Skill) জানতে 'Can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 47,
+    "question": "We ___ to obey the laws of the country.",
+    "options": ["must", "should", "ought", "need"],
+    "answer": "ought",
+    "explanation": "দেশের আইন মানা আমাদের কর্তব্য। শূন্যস্থানের পর 'to' থাকায় 'ought' বসবে (ought to)।"
+  },
+  {
+    "id": 48,
+    "question": "He has been working all day; he ___ be tired.",
+    "options": ["can", "ought", "shall", "must"],
+    "answer": "must",
+    "explanation": "সারাদিন কাজ করার পর ক্লান্ত হওয়াটাই স্বাভাবিক। যুক্তিসঙ্গত অনুমান (Logical conclusion/Certainty) বোঝাতে 'must' বসে।"
+  },
+  {
+    "id": 49,
+    "question": "You ___ not worry; I will handle it.",
+    "options": ["need", "dare", "must", "should"],
+    "answer": "need",
+    "explanation": "চিন্তা করার 'প্রয়োজন নেই' বোঝাতে Modal হিসেবে 'need not' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 50,
+    "question": "___ I assist you with those bags?",
+    "options": ["Will", "Can", "Would", "Must"],
+    "answer": "Can",
+    "explanation": "কাউকে সাহায্য করার প্রস্তাব (Offer to help) দিতে 'Can I...' বা 'May I...' ব্যবহৃত হয়। এখানে অপশনে 'Can' আছে তাই সেটি সঠিক।"
+  },
+  {
+    "id": 51,
+    "question": "___ I use your phone for a minute, please?",
+    "options": ["Could", "Will", "Shall", "Must"],
+    "answer": "Could",
+    "explanation": "বিনীতভাবে অনুমতি চাওয়ার (Polite Request) জন্য 'Could' অত্যন্ত মানানসই। এটি 'Can' এর থেকে বেশি ভদ্রোচিত।"
+  },
+  {
+    "id": 52,
+    "question": "You ___ read the instructions before starting the exam.",
+    "options": ["can", "should", "might", "would"],
+    "answer": "should",
+    "explanation": "সাধারণ উপদেশ বা পরামর্শ (Advice/Recommendation) দেওয়ার ক্ষেত্রে 'should' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 53,
+    "question": "I ___ swim across this river when I was a college student.",
+    "options": ["can", "may", "could", "must"],
+    "answer": "could",
+    "explanation": "অতীতের শারীরিক সামর্থ্য বা Ability বোঝাতে 'can'-এর past form 'could' বসে।"
+  },
+  {
+    "id": 54,
+    "question": "The students ___ be in their classes by 10 AM.",
+    "options": ["might", "could", "would", "must"],
+    "answer": "must",
+    "explanation": "বিদ্যালয়ের বা অফিসের ক্ষেত্রে কঠোর নিয়ম (Strict obligation) বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 55,
+    "question": "How ___ you touch my bag without permission?",
+    "options": ["dare", "need", "should", "can"],
+    "answer": "dare",
+    "explanation": "স্পর্ধা বা সাহস দেখানো (Courage/Audacity) অর্থে Interrogative sentence-এ 'dare' Modal হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 56,
+    "question": "If I had money, I ___ buy a car.",
+    "options": ["will", "would", "can", "shall"],
+    "answer": "would",
+    "explanation": "Conditional Sentence Type-2 (Unreal past) এর ক্ষেত্রে 'If' ক্লজটি Past Tense-এ থাকলে Main ক্লজে 'would' বসে।"
+  },
+  {
+    "id": 57,
+    "question": "You ___ to pay your taxes on time.",
+    "options": ["must", "should", "ought", "need"],
+    "answer": "ought",
+    "explanation": "নাগরিক কর্তব্য (Civic duty) বোঝাতে 'ought to' বসে। শূন্যস্থানের পর 'to' থাকায় এখানে 'ought' সঠিক উত্তর।"
+  },
+  {
+    "id": 58,
+    "question": "___ that I were a king!",
+    "options": ["Can", "May", "Should", "Would"],
+    "answer": "Would",
+    "explanation": "তীব্র অবাস্তব ইচ্ছা (Strong unfulfilled wish) প্রকাশ করতে বাক্যের শুরুতে 'Would that' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 59,
+    "question": "He ___ have reached the office by now; it's already 11 AM.",
+    "options": ["must", "can", "would", "need"],
+    "answer": "must",
+    "explanation": "দৃঢ় অনুমান বা যৌক্তিক উপসংহার (Logical conclusion) বোঝাতে 'must have' বা 'must' বসে। সময় ১১টা বেজে যাওয়ায় তার পৌঁছানোর সম্ভাবনা প্রবল।"
+  },
+  {
+    "id": 60,
+    "question": "We ___ not rush; we have plenty of time.",
+    "options": ["dare", "need", "would", "must"],
+    "answer": "need",
+    "explanation": "কাজের কোনো আবশ্যকতা বা প্রয়োজন নেই (Lack of necessity) বোঝাতে 'need not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 61,
+    "question": "___ you like to have some tea?",
+    "options": ["Shall", "Will", "Would", "Could"],
+    "answer": "Would",
+    "explanation": "কাউকে ভদ্রভাবে কোনো কিছু অফার করতে বা তার ইচ্ছা জানতে চাইতে 'Would you like to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 62,
+    "question": "She worked hard so that she ___ pass the exam.",
+    "options": ["will", "can", "may", "might"],
+    "answer": "might",
+    "explanation": "'So that' দিয়ে উদ্দেশ্য বোঝালে এবং পূর্ববর্তী ক্লজটি Past Tense-এ (worked) থাকলে 'might' বসে। Present Tense হলে 'may' বসতো।"
+  },
+  {
+    "id": 63,
+    "question": "I ___ rather fail than cheat in the exam.",
+    "options": ["would", "should", "must", "could"],
+    "answer": "would",
+    "explanation": "দুটির মধ্যে একটিকে বেশি পছন্দ করা বা বেছে নেওয়া (Preference) বোঝাতে 'would rather...than' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 64,
+    "question": "You ___ not smoke in the hospital.",
+    "options": ["need", "must", "dare", "ought"],
+    "answer": "must",
+    "explanation": "কঠোর নিষেধাজ্ঞা (Strong prohibition) বোঝাতে 'must not' ব্যবহৃত হয়। হাসপাতালে ধূমপান সম্পূর্ণ নিষিদ্ধ।"
+  },
+  {
+    "id": 65,
+    "question": "You ___ have told me before taking my bike!",
+    "options": ["would", "must", "should", "can"],
+    "answer": "should",
+    "explanation": "অতীতে কোনো কাজ করা উচিত ছিল কিন্তু করা হয়নি (Unfulfilled past obligation) এমন বোঝাতে 'should have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 66,
+    "question": "He ___ to go for a morning walk daily when he lived in the village.",
+    "options": ["could", "should", "would", "used"],
+    "answer": "used",
+    "explanation": "অতীতের নিয়মিত অভ্যাস (Past Habit) বোঝাতে 'used to' বসে। শূন্যস্থানের পরে 'to' থাকায় 'used' হবে সঠিক উত্তর।"
+  },
+  {
+    "id": 67,
+    "question": "Walk carefully lest you ___ fall.",
+    "options": ["should", "would", "could", "might"],
+    "answer": "should",
+    "explanation": "'Lest' (পাছে বা যাতে না) যুক্ত ক্লজে সর্বদা Modal হিসেবে 'should' বসে। এটি পরীক্ষার একটি অত্যন্ত কমন প্রশ্ন।"
+  },
+  {
+    "id": 68,
+    "question": "The sky is absolutely clear. It ___ rain today.",
+    "options": ["can", "might", "shall", "must"],
+    "answer": "might",
+    "explanation": "ক্ষীণ সম্ভাবনা (Remote possibility) বোঝাতে 'might' ব্যবহৃত হয়। আকাশ পরিষ্কার থাকায় বৃষ্টির সম্ভাবনা প্রায় নেই বললেই চলে।"
+  },
+  {
+    "id": 69,
+    "question": "___ his soul rest in peace!",
+    "options": ["Would", "Can", "May", "Shall"],
+    "answer": "May",
+    "explanation": "প্রার্থনা বা আশীর্বাদমূলক বাক্য (Optative sentence) সাধারণত 'May' দিয়ে শুরু হয়।"
+  },
+  {
+    "id": 70,
+    "question": "I ___ definitely return your money tomorrow.",
+    "options": ["may", "might", "would", "will"],
+    "answer": "will",
+    "explanation": "'I' বা 'We' এর সাথে সাধারণত 'shall' বসে। কিন্তু প্রতিশ্রুতি (Promise) বা দৃঢ় সংকল্প (Determination) বোঝালে 'will' বসে।"
+  },
+  {
+    "id": 71,
+    "question": "You ___ better consult a physician immediately.",
+    "options": ["had", "would", "should", "could"],
+    "answer": "had",
+    "explanation": "'Had better' একটি Modal phrase যার অর্থ 'বরং ভালো'। এটি জোর দিয়ে উপদেশ দিতে ব্যবহৃত হয় এবং এরপর verb-এর present form বসে।"
+  },
+  {
+    "id": 72,
+    "question": "She told me that she ___ go to Delhi the next day.",
+    "options": ["will", "would", "shall", "can"],
+    "answer": "would",
+    "explanation": "Indirect speech-এ Reporting verb (told) Past Tense-এ থাকায়, Reported speech-এর 'will' পরিবর্তিত হয়ে 'would' হয়।"
+  },
+  {
+    "id": 73,
+    "question": "He ___ speak five languages fluently.",
+    "options": ["must", "may", "can", "should"],
+    "answer": "can",
+    "explanation": "কোনো কিছু করার সামর্থ্য বা দক্ষতা (Ability/Skill) বোঝাতে 'can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 74,
+    "question": "We ___ not have wasted our time playing video games.",
+    "options": ["must", "could", "would", "should"],
+    "answer": "should",
+    "explanation": "অতীতে করা কোনো ভুলের জন্য অনুশোচনা (Regret) বোঝাতে 'should not have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 75,
+    "question": "A student ___ be respectful to his teachers.",
+    "options": ["must", "can", "may", "would"],
+    "answer": "must",
+    "explanation": "অপরিহার্য কর্তব্য বা বাধ্যবাধকতা (Obligation/Necessity) বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 76,
+    "question": "I ___ do this work if you help me.",
+    "options": ["shall", "can", "must", "should"],
+    "answer": "can",
+    "explanation": "শর্তসাপেক্ষে কোনো কাজ করার সামর্থ্য বা সম্ভাবনা বোঝাতে First Conditional-এ 'can' বা 'will' বসতে পারে। এখানে 'can' সামর্থ্য অর্থে উপযুক্ত।"
+  },
+  {
+    "id": 77,
+    "question": "You ___ easily catch the train if you ran fast.",
+    "options": ["can", "will", "could", "shall"],
+    "answer": "could",
+    "explanation": "Conditional Sentence-এর If-clause টি Past tense-এ (ran) থাকায় Main-clause এ 'can'-এর past form 'could' বসবে।"
+  },
+  {
+    "id": 78,
+    "question": "___ I close the door? It's getting cold.",
+    "options": ["Will", "Would", "May", "Shall"],
+    "answer": "Shall",
+    "explanation": "অন্যের মতামত বা পরামর্শ চাইতে First Person (I, we)-এর ক্ষেত্রে 'Shall' দিয়ে প্রশ্ন করা হয়।"
+  },
+  {
+    "id": 79,
+    "question": "There ___ be a huge banyan tree in front of our house.",
+    "options": ["used to", "ought to", "has to", "should"],
+    "answer": "used to",
+    "explanation": "অতীতে কোনো কিছুর অস্তিত্ব ছিল কিন্তু এখন নেই (Past existence) এমন বোঝাতে 'used to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 80,
+    "question": "He ___ not insult me in front of everyone.",
+    "options": ["need", "dare", "ought", "must"],
+    "answer": "dare",
+    "explanation": "'Dare' এখানে Marginal Modal হিসেবে ব্যবহৃত হয়েছে, যার অর্থ সাহস করা। Negative বাক্যে এটি 'dare not' হিসেবে বসে।"
+  },
+  {
+    "id": 81,
+    "question": "The train is late. It ___ arrive by 5 PM.",
+    "options": ["must", "shall", "may", "would"],
+    "answer": "may",
+    "explanation": "ভবিষ্যৎ সম্ভাবনা (Future Possibility) বোঝাতে 'may' ব্যবহৃত হয়। ট্রেনটি ৫টার মধ্যে আসার সম্ভাবনা রয়েছে।"
+  },
+  {
+    "id": 82,
+    "question": "You ___ to obey the traffic rules.",
+    "options": ["must", "should", "need", "ought"],
+    "answer": "ought",
+    "explanation": "আইন বা নৈতিক কর্তব্য মানার ক্ষেত্রে 'ought to' বসে। শূন্যস্থানের পর 'to' থাকায় 'ought' হবে।"
+  },
+  {
+    "id": 83,
+    "question": "Had I known he was in town, I ___ have met him.",
+    "options": ["would", "should", "must", "can"],
+    "answer": "would",
+    "explanation": "Third Conditional Sentence-এ 'Had + sub + V3' থাকলে Main clause-এ 'would have + V3' বসে।"
+  },
+  {
+    "id": 84,
+    "question": "We ___ protect our environment for future generations.",
+    "options": ["might", "must", "can", "would"],
+    "answer": "must",
+    "explanation": "নৈতিক এবং অত্যন্ত গুরুত্বপূর্ণ বাধ্যবাধকতা (Strong moral obligation) বোঝাতে 'must' বেশি উপযুক্ত।"
+  },
+  {
+    "id": 85,
+    "question": "My grandfather ___ go for a walk every morning.",
+    "options": ["should", "could", "would", "must"],
+    "answer": "would",
+    "explanation": "অতীতের কোনো পুনরাবৃত্তিমূলক কাজ বা অভ্যাস (Past repeated action) বোঝাতে 'used to' বা 'would' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 86,
+    "question": "I don't think she ___ agree to your proposal.",
+    "options": ["must", "shall", "ought", "will"],
+    "answer": "will",
+    "explanation": "ভবিষ্যতে সাধারণ ঘটনা ঘটার অনুমান বা বিশ্বাস বোঝাতে 'will' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 87,
+    "question": "She ___ be cooking now; I can smell the curry.",
+    "options": ["must", "ought", "should", "can"],
+    "answer": "must",
+    "explanation": "বর্তমানের কোনো ঘটনা সম্পর্কে নিশ্চিত অনুমান (Logical Deduction) বোঝাতে 'must be + (verb+ing)' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 88,
+    "question": "They ___ have left early; the roads were completely empty.",
+    "options": ["should", "must", "could", "would"],
+    "answer": "must",
+    "explanation": "অতীতের কোনো কাজ ঘটার প্রবল সম্ভাবনা বা নিশ্চিত অনুমান বোঝাতে 'must have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 89,
+    "question": "___ I bring you a glass of water?",
+    "options": ["Will", "Would", "Shall", "Must"],
+    "answer": "Shall",
+    "explanation": "কাউকে কোনো কিছু অফার করতে (Offer) First Person-এর সাথে 'Shall' দিয়ে প্রশ্নবোধক বাক্য গঠন করা হয়।"
+  },
+  {
+    "id": 90,
+    "question": "You ___ read this novel; it is extremely interesting.",
+    "options": ["can", "might", "ought", "must"],
+    "answer": "must",
+    "explanation": "কোনো কিছু করার জন্য জোর দিয়ে সুপারিশ (Strong recommendation) করতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 91,
+    "question": "___ God grant you success in the upcoming examination!",
+    "options": ["May", "Can", "Will", "Shall"],
+    "answer": "May",
+    "explanation": "ঈশ্বরের কাছে প্রার্থনা (Prayer) বোঝাতে বাক্যের প্রথমে 'May' বসে।"
+  },
+  {
+    "id": 92,
+    "question": "I ___ rather resign than tolerate this insult.",
+    "options": ["could", "would", "should", "must"],
+    "answer": "would",
+    "explanation": "Preference বা পছন্দ বোঝাতে 'would rather... than' ব্যবহৃত হয়। অপমান সহ্য করার চেয়ে চাকরি ছাড়া শ্রেয়।"
+  },
+  {
+    "id": 93,
+    "question": "The baby is crying; he ___ be hungry.",
+    "options": ["can", "will", "must", "shall"],
+    "answer": "must",
+    "explanation": "বর্তমানের কোনো পরিস্থিতি দেখে যুক্তিসঙ্গত সিদ্ধান্তে পৌঁছানো (Logical certainty) বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 94,
+    "question": "He ran as fast as he ___.",
+    "options": ["can", "will", "shall", "could"],
+    "answer": "could",
+    "explanation": "বাক্যের প্রথম অংশ Past Tense-এ (ran) থাকায় সামর্থ্য বোঝাতে 'can' এর Past form 'could' বসবে।"
+  },
+  {
+    "id": 95,
+    "question": "You ___ have paid the bill; it was already paid by me.",
+    "options": ["needn't", "mustn't", "couldn't", "shouldn't"],
+    "answer": "needn't",
+    "explanation": "অতীতে এমন কাজ করা হয়েছে যার কোনো প্রয়োজন ছিল না (Absence of past necessity), তা বোঝাতে 'needn't have + V3' বসে।"
+  },
+  {
+    "id": 96,
+    "question": "Any person ___ make mistakes.",
+    "options": ["must", "can", "shall", "would"],
+    "answer": "can",
+    "explanation": "তাত্ত্বিক সম্ভাবনা বা সাধারণ সত্য (Theoretical Possibility/General truth) বোঝাতে 'can' ব্যবহৃত হয়। ভুল যে কেউই করতে পারে।"
+  },
+  {
+    "id": 97,
+    "question": "I am afraid the patient ___ die.",
+    "options": ["will", "shall", "may", "can"],
+    "answer": "may",
+    "explanation": "আশঙ্কা বা সম্ভাবনা (Possibility with fear) বোঝাতে 'may' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 98,
+    "question": "You ___ not leave the room until you finish your work.",
+    "options": ["need", "dare", "would", "must"],
+    "answer": "must",
+    "explanation": "দৃঢ় আদেশ বা নিষেধাজ্ঞা (Strict order/prohibition) বোঝাতে 'must not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 99,
+    "question": "If you work hard, you ___ succeed.",
+    "options": ["will", "would", "should", "could"],
+    "answer": "will",
+    "explanation": "First Conditional Sentence-এর If-clause Present Indefinite-এ থাকলে Main clause-এ Future Indefinite (will/shall) বসে।"
+  },
+  {
+    "id": 100,
+    "question": "___ I borrow your pen for a moment?",
+    "options": ["Must", "May", "Should", "Will"],
+    "answer": "May",
+    "explanation": "কারো কাছ থেকে ভদ্রভাবে অনুমতি (Formal permission) চাওয়ার জন্য 'May' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 101,
+    "question": "I ___ like to have a cup of coffee.",
+    "options": ["would", "shall", "must", "can"],
+    "answer": "would",
+    "explanation": "ভদ্রভাবে নিজের ইচ্ছা প্রকাশ করতে (Polite expression of desire) 'would like to' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 102,
+    "question": "He ___ obey his parents.",
+    "options": ["can", "should", "might", "dare"],
+    "answer": "should",
+    "explanation": "সাধারণ উপদেশ বা কর্তব্য (Advice/Duty) বোঝাতে 'should' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 103,
+    "question": "___ you please open the window?",
+    "options": ["Shall", "Must", "Could", "Should"],
+    "answer": "Could",
+    "explanation": "কাউকে বিনীতভাবে অনুরোধ (Polite Request) করার জন্য 'Could' বা 'Would' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 104,
+    "question": "You ___ leave now, the meeting is over.",
+    "options": ["ought", "dare", "mustn't", "may"],
+    "answer": "may",
+    "explanation": "অনুমতি দেওয়া (Giving Permission) বোঝাতে 'may' বা 'can' ব্যবহৃত হয়। ফর্মাল ক্ষেত্রে 'may' বেশি প্রচলিত।"
+  },
+  {
+    "id": 105,
+    "question": "We ___ to help the poor.",
+    "options": ["ought", "should", "must", "need"],
+    "answer": "ought",
+    "explanation": "নৈতিক দায়িত্ব বোঝাতে 'ought to' বা 'should' বসে। শূন্যস্থানের পর 'to' থাকায় এখানে 'ought' সঠিক উত্তর।"
+  },
+  {
+    "id": 106,
+    "question": "He ___ not oppose me.",
+    "options": ["needs", "dare", "dares", "ought"],
+    "answer": "dare",
+    "explanation": "'Dare' একটি Marginal Modal। Negative বাক্যে Modal হিসেবে ব্যবহৃত হলে থার্ড পার্সন সিঙ্গুলার নম্বর হওয়া সত্ত্বেও এর সাথে 's' বা 'es' যুক্ত হয় না (dares হয় না)।"
+  },
+  {
+    "id": 107,
+    "question": "She works hard so that she ___ stand first.",
+    "options": ["would", "might", "may", "should"],
+    "answer": "may",
+    "explanation": "উদ্দেশ্য বোঝাতে 'so that'-এর পূর্ববর্তী ক্লজটি Present Tense-এ (works) থাকলে পরবর্তী ক্লজে 'may' বসে।"
+  },
+  {
+    "id": 108,
+    "question": "I thought he ___ come.",
+    "options": ["may", "can", "will", "would"],
+    "answer": "would",
+    "explanation": "বাক্যের প্রথম অংশ (thought) Past Tense-এ থাকায়, ভবিষ্যতের কথা বোঝাতে 'will' এর Past form 'would' বসবে।"
+  },
+  {
+    "id": 109,
+    "question": "___ God bless you with a son!",
+    "options": ["May", "Might", "Can", "Shall"],
+    "answer": "May",
+    "explanation": "প্রার্থনা বা আশীর্বাদ (Wish/Prayer) বোঝাতে Optative Sentence-এর শুরুতে 'May' বসে।"
+  },
+  {
+    "id": 110,
+    "question": "You ___ to do your duty.",
+    "options": ["must", "ought", "should", "can"],
+    "answer": "ought",
+    "explanation": "কর্তব্য বোঝাতে 'ought to' ব্যবহৃত হয়। শূন্যস্থানের পর 'to' থাকায় 'ought' বসবে।"
+  },
+  {
+    "id": 111,
+    "question": "I ___ rather starve than beg.",
+    "options": ["should", "must", "would", "could"],
+    "answer": "would",
+    "explanation": "দুটি কাজের মধ্যে একটিকে বেছে নেওয়া বা বেশি পছন্দ করা (Preference) বোঝাতে 'would rather ... than' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 112,
+    "question": "Walk carefully lest you ___ stumble.",
+    "options": ["might", "would", "could", "should"],
+    "answer": "should",
+    "explanation": "গ্রামারের নিয়ম অনুযায়ী 'lest' (পাছে) কনজাংশনের পর সবসময় Modal verb হিসেবে 'should' বসে।"
+  },
+  {
+    "id": 113,
+    "question": "___ I come in?",
+    "options": ["May", "Can", "Shall", "Will"],
+    "answer": "May",
+    "explanation": "আনুষ্ঠানিক জায়গায় অনুমতি (Formal Permission) নেওয়ার জন্য 'May' এর ব্যবহার সবথেকে বেশি মানানসই।"
+  },
+  {
+    "id": 114,
+    "question": "He ___ be 50 years old now.",
+    "options": ["can", "must", "ought", "need"],
+    "answer": "must",
+    "explanation": "বয়স বা কোনো বিষয় সম্পর্কে প্রবল অনুমান বা নিশ্চিত ধারণা (Strong deduction/certainty) বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 115,
+    "question": "We ___ respect our national flag.",
+    "options": ["may", "can", "must", "dare"],
+    "answer": "must",
+    "explanation": "জাতীয় পতাকাকে সম্মান করা আমাদের অপরিহার্য কর্তব্য (Strong Moral Obligation)। তাই এখানে 'must' বেশি উপযুক্ত।"
+  },
+  {
+    "id": 116,
+    "question": "You ___ not worry about the child.",
+    "options": ["dare", "must", "ought", "need"],
+    "answer": "need",
+    "explanation": "কোনো কাজের প্রয়োজনীয়তা নেই (Lack of necessity) বোঝাতে 'need not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 117,
+    "question": "She ___ play the piano very well.",
+    "options": ["can", "may", "shall", "must"],
+    "answer": "can",
+    "explanation": "কোনো কিছু করার দক্ষতা বা সামর্থ্য (Ability/Skill) বোঝাতে 'can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 118,
+    "question": "I ___ return your book tomorrow.",
+    "options": ["may", "shall", "might", "could"],
+    "answer": "shall",
+    "explanation": "সাধারণ ভবিষ্যৎ কাল (Simple Future) বোঝাতে First Person (I, We) এর সাথে সাধারণত 'shall' বসে।"
+  },
+  {
+    "id": 119,
+    "question": "If he came, I ___ help him.",
+    "options": ["will", "shall", "would", "can"],
+    "answer": "would",
+    "explanation": "Second Conditional Sentence-এর If-clause টি Past Tense-এ (came) থাকায় Main-clause এ 'would' বসবে।"
+  },
+  {
+    "id": 120,
+    "question": "He ran fast so that he ___ catch the train.",
+    "options": ["may", "can", "will", "might"],
+    "answer": "might",
+    "explanation": "'So that' দিয়ে উদ্দেশ্য বোঝালে এবং পূর্ববর্তী ক্লজটি Past Tense-এ (ran) থাকলে 'might' বসে।"
+  },
+  {
+    "id": 121,
+    "question": "You ___ consult a doctor.",
+    "options": ["should", "would", "might", "can"],
+    "answer": "should",
+    "explanation": "কাউকে সাধারণ পরামর্শ বা উপদেশ (Advice) দিতে 'should' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 122,
+    "question": "___ you have a cup of tea?",
+    "options": ["Shall", "Will", "Must", "Should"],
+    "answer": "Will",
+    "explanation": "অন্যের ইচ্ছা জানতে চাইতে বা কিছু অফার করতে Second Person (You) এর সাথে 'Will' দিয়ে প্রশ্ন করা হয়।"
+  },
+  {
+    "id": 123,
+    "question": "Any child ___ make a mistake.",
+    "options": ["must", "shall", "can", "will"],
+    "answer": "can",
+    "explanation": "তাত্ত্বিক সম্ভাবনা বা সাধারণ সত্য (Theoretical Possibility) বোঝাতে 'can' ব্যবহৃত হয়। ভুল যেকোনো শিশুই করতে পারে।"
+  },
+  {
+    "id": 124,
+    "question": "You ___ to respect your elders.",
+    "options": ["must", "should", "need", "ought"],
+    "answer": "ought",
+    "explanation": "বড়দের সম্মান করা নৈতিক কর্তব্য। শূন্যস্থানের পর 'to' থাকায় 'ought' বসবে (ought to)।"
+  },
+  {
+    "id": 125,
+    "question": "He ___ not enter my house again.",
+    "options": ["shall", "will", "can", "may"],
+    "answer": "shall",
+    "explanation": "আদেশ, হুমকি (Threat) বা দৃঢ় সংকল্প বোঝাতে Third Person (He, She, They) এর পর 'shall' বসে। এটি পরীক্ষার জন্য গুরুত্বপূর্ণ একটি নিয়ম।"
+  },
+  {
+    "id": 126,
+    "question": "I ___ go to Delhi tomorrow.",
+    "options": ["would", "will", "might", "ought"],
+    "answer": "will",
+    "explanation": "First Person (I, We) এর পর সাধারণত 'shall' বসে। কিন্তু দৃঢ় ইচ্ছা বা নিশ্চিত পরিকল্পনা বোঝালে 'will' বসে।"
+  },
+  {
+    "id": 127,
+    "question": "You ___ be joking!",
+    "options": ["can", "would", "must", "shall"],
+    "answer": "must",
+    "explanation": "অবাক হওয়া বা নিশ্চিত অনুমানের ক্ষেত্রে (Deduction) 'must' ব্যবহৃত হয়। এর অর্থ 'তুমি নিশ্চয়ই মজা করছো'।"
+  },
+  {
+    "id": 128,
+    "question": "They ___ have reached by now.",
+    "options": ["can", "ought", "shall", "must"],
+    "answer": "must",
+    "explanation": "অতীতের কোনো ঘটনা সম্পর্কে নিশ্চিত অনুমান (Logical Deduction in the past) করতে 'must have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 129,
+    "question": "He ___ be hiding in the forest.",
+    "options": ["could", "will", "shall", "ought"],
+    "answer": "could",
+    "explanation": "বর্তমান বা ভবিষ্যতের ক্ষীণ সম্ভাবনা (Possibility) বোঝাতে 'could', 'may' বা 'might' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 130,
+    "question": "We ___ have gone to the cinema, but we stayed home.",
+    "options": ["must", "could", "will", "shall"],
+    "answer": "could",
+    "explanation": "অতীতে সুযোগ ছিল কিন্তু কাজটা করা হয়নি (Unfulfilled past ability) বোঝাতে 'could have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 131,
+    "question": "You ___ not lose your temper.",
+    "options": ["dare", "need", "should", "ought"],
+    "answer": "should",
+    "explanation": "উপদেশ বা পরামর্শ (Advice) দিতে নেতিবাচক বাক্যে 'should not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 132,
+    "question": "___ you mind passing the salt?",
+    "options": ["Should", "Could", "Shall", "Would"],
+    "answer": "Would",
+    "explanation": "কাউকে বিনীতভাবে কিছু করতে অনুরোধ করতে 'Would you mind + (verb+ing)' এর গঠনটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 133,
+    "question": "___ you prosper in life!",
+    "options": ["May", "Can", "Shall", "Will"],
+    "answer": "May",
+    "explanation": "কারো জীবনের সাফল্য কামনা করে প্রার্থনা বা আশীর্বাদ বোঝাতে Optative Sentence-এর শুরুতে 'May' বসে।"
+  },
+  {
+    "id": 134,
+    "question": "You ___ not buy this book; I have it.",
+    "options": ["must", "need", "dare", "ought"],
+    "answer": "need",
+    "explanation": "যেহেতু বইটি আমার কাছে আছে, তাই তোমার এটি কেনার কোনো 'দরকার' বা 'প্রয়োজন' নেই। তাই 'need not' সঠিক।"
+  },
+  {
+    "id": 135,
+    "question": "He ___ be very rich; he bought a Ferrari.",
+    "options": ["can", "should", "must", "would"],
+    "answer": "must",
+    "explanation": "যুক্তিসঙ্গত অনুমান (Logical conclusion) বোঝাতে 'must' বসে। সে ফেরারি কিনেছে মানে সে নিশ্চয়ই খুব ধনী।"
+  },
+  {
+    "id": 136,
+    "question": "I ___ to swim when I was young.",
+    "options": ["should", "would", "ought", "used"],
+    "answer": "used",
+    "explanation": "অতীতের অভ্যাস (Past Habit) বোঝাতে 'used to' ব্যবহৃত হয়। শূন্যস্থানের পরে 'to' থাকায় 'used' হবে সঠিক।"
+  },
+  {
+    "id": 137,
+    "question": "You ___ better stay in bed today.",
+    "options": ["had", "would", "should", "must"],
+    "answer": "had",
+    "explanation": "'Had better' একটি Modal phrase যার অর্থ 'বরং ভালো'। এটি বর্তমান বা ভবিষ্যতের জোরদার উপদেশ দিতে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 138,
+    "question": "Work hard lest you ___ fail.",
+    "options": ["would", "should", "could", "might"],
+    "answer": "should",
+    "explanation": "'Lest' (যাতে না) যুক্ত বাক্যে সবসময় Modal verb হিসেবে 'should' বসে। এটি সরকারি চাকরির পরীক্ষার অত্যন্ত কমন প্রশ্ন।"
+  },
+  {
+    "id": 139,
+    "question": "He asked if he ___ come in.",
+    "options": ["can", "may", "might", "will"],
+    "answer": "might",
+    "explanation": "Indirect speech-এ রিপোর্টিং ভার্ব (asked) অতীত কালে থাকায়, 'may I come in' পরিবর্তিত হয়ে 'might' হয়।"
+  },
+  {
+    "id": 140,
+    "question": "We ___ to pay respect to our national anthem.",
+    "options": ["must", "should", "need", "ought"],
+    "answer": "ought",
+    "explanation": "জাতীয় সংগীতকে সম্মান জানানো আমাদের কর্তব্য। শূন্যস্থানের পর 'to' থাকায় 'ought' বসবে (ought to)।"
+  },
+  {
+    "id": 141,
+    "question": "___ I open the door?",
+    "options": ["Shall", "Will", "Would", "Could"],
+    "answer": "Shall",
+    "explanation": "অন্যের ইচ্ছা বা অনুমতি জানতে চাইতে First Person (I, We) এর সাথে 'Shall' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 142,
+    "question": "It ___ rain tonight.",
+    "options": ["shall", "might", "must", "ought"],
+    "answer": "might",
+    "explanation": "ভবিষ্যতের সম্ভাবনা (Possibility) বোঝাতে 'may' বা 'might' ব্যবহৃত হয়। অপশন অনুযায়ী এখানে 'might' সঠিক।"
+  },
+  {
+    "id": 143,
+    "question": "How ___ you say such a thing?",
+    "options": ["need", "ought", "dare", "must"],
+    "answer": "dare",
+    "explanation": "কারো দুঃসাহস বা স্পর্ধা বোঝাতে Interrogative বাক্যে Modal হিসেবে 'dare' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 144,
+    "question": "She ___ be tired after the long journey.",
+    "options": ["can", "shall", "ought", "must"],
+    "answer": "must",
+    "explanation": "দীর্ঘ যাত্রার পর ক্লান্ত হওয়াটাই স্বাভাবিক। যুক্তিসঙ্গত অনুমান (Logical Deduction) বোঝাতে 'must' বসে।"
+  },
+  {
+    "id": 145,
+    "question": "I ___ teach you a lesson!",
+    "options": ["will", "shall", "can", "may"],
+    "answer": "will",
+    "explanation": "হুমকি (Threat) বা দৃঢ় সংকল্প বোঝাতে First Person (I) এর পর সাধারণ নিয়ম ভেঙে 'shall' এর পরিবর্তে 'will' বসে।"
+  },
+  {
+    "id": 146,
+    "question": "You ___ obey the rules of the road.",
+    "options": ["can", "must", "would", "might"],
+    "answer": "must",
+    "explanation": "আইনগত বাধ্যবাধকতা (Strict Obligation) বোঝাতে 'should' এর পরিবর্তে 'must' বেশি উপযুক্ত।"
+  },
+  {
+    "id": 147,
+    "question": "If I had known, I ___ have told you.",
+    "options": ["should", "will", "would", "can"],
+    "answer": "would",
+    "explanation": "Third Conditional Sentence-এ If-clause এ 'Had + V3' থাকলে Main clause-এ 'would have + V3' বসে।"
+  },
+  {
+    "id": 148,
+    "question": "He ___ not have committed this crime.",
+    "options": ["dare", "ought", "need", "could"],
+    "answer": "could",
+    "explanation": "অতীতে নেতিবাচক সম্ভাবনা বা অনুমান (Negative past deduction) বোঝাতে 'could not have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 149,
+    "question": "You ___ have seen a doctor; your cough is terrible.",
+    "options": ["should", "would", "could", "might"],
+    "answer": "should",
+    "explanation": "অতীতে কোনো কাজ করা উচিত ছিল কিন্তু করা হয়নি (Past unfulfilled obligation) এমন বোঝাতে 'should have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 150,
+    "question": "There ___ be a temple here years ago.",
+    "options": ["ought to", "used to", "should", "must"],
+    "answer": "used to",
+    "explanation": "অতীতের কোনো অবস্থা বা অস্তিত্ব (Past existence) বোঝাতে 'used to' ব্যবহৃত হয়। এখানে আগে একটি মন্দির ছিল।"
+  },
+  {
+    "id": 151,
+    "question": "___ I help you with your luggage?",
+    "options": ["Shall", "Will", "Would", "Ought"],
+    "answer": "Shall",
+    "explanation": "কাউকে সাহায্য করার প্রস্তাব (Offer to help) দিতে First Person (I, We) এর সাথে সাধারণত 'Shall' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 152,
+    "question": "We ___ rather wait here than go out in the rain.",
+    "options": ["should", "would", "must", "could"],
+    "answer": "would",
+    "explanation": "দুটি কাজের মধ্যে একটিকে বেশি পছন্দ করা (Preference) বোঝাতে 'would rather ... than' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 153,
+    "question": "He ___ easily lift this 50kg weight when he was 20.",
+    "options": ["can", "may", "could", "would"],
+    "answer": "could",
+    "explanation": "অতীতের শারীরিক সামর্থ্য বা Ability বোঝাতে 'can' এর past form 'could' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 154,
+    "question": "___ you please lend me your pen?",
+    "options": ["Shall", "Should", "Must", "Would"],
+    "answer": "Would",
+    "explanation": "কাউকে বিনীতভাবে অনুরোধ (Polite Request) করার জন্য 'Would you please' একটি অত্যন্ত প্রচলিত এবং সঠিক গঠন।"
+  },
+  {
+    "id": 155,
+    "question": "You ___ not touch the antique vase.",
+    "options": ["must", "need", "dare", "ought"],
+    "answer": "must",
+    "explanation": "কঠোর নিষেধাজ্ঞা (Strong Prohibition) বোঝাতে 'must not' ব্যবহৃত হয়। প্রাচীন ফুলদানিটি যাতে ভেঙে না যায় তাই এটি ছোঁয়া নিষিদ্ধ।"
+  },
+  {
+    "id": 156,
+    "question": "She worked hard lest she ___ fail the test.",
+    "options": ["would", "should", "could", "might"],
+    "answer": "should",
+    "explanation": "'Lest' (যাতে না) যুক্ত বাক্যে সবসময় Modal verb হিসেবে 'should' বসে। এটি competitive exam-এর একটি কমন প্রশ্ন।"
+  },
+  {
+    "id": 157,
+    "question": "I ___ be late today; the traffic is heavy.",
+    "options": ["must", "can", "may", "shall"],
+    "answer": "may",
+    "explanation": "রাস্তায় জ্যাম থাকায় দেরি হওয়ার বেশ ভালো সম্ভাবনা (Possibility) রয়েছে। সম্ভাবনা বোঝাতে 'may' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 158,
+    "question": "As a student, you ___ to read books regularly.",
+    "options": ["must", "should", "need", "ought"],
+    "answer": "ought",
+    "explanation": "ছাত্র হিসেবে বই পড়া নৈতিক দায়িত্ব। শূন্যস্থানের পর 'to' থাকায় 'ought' বসবে (ought to)।"
+  },
+  {
+    "id": 159,
+    "question": "I ___ speak three languages fluently.",
+    "options": ["can", "will", "may", "must"],
+    "answer": "can",
+    "explanation": "কোনো ভাষা বলা বা কোনো কাজ করতে পারার দক্ষতা (Skill/Ability) বোঝাতে 'can' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 160,
+    "question": "How ___ you challenge me in my own office?",
+    "options": ["need", "dare", "should", "could"],
+    "answer": "dare",
+    "explanation": "স্পর্ধা বা দুঃসাহস দেখানো (Courage/Audacity) বোঝাতে Interrogative বাক্যে 'dare' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 161,
+    "question": "You ___ pay the bill; I have already paid it.",
+    "options": ["mustn't", "shouldn't", "needn't", "couldn't"],
+    "answer": "needn't",
+    "explanation": "কাজের কোনো আবশ্যকতা বা প্রয়োজন নেই (Absence of necessity) বোঝাতে 'need not' বা 'needn't' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 162,
+    "question": "He ran fast so that he ___ win the race.",
+    "options": ["can", "will", "may", "might"],
+    "answer": "might",
+    "explanation": "'So that' দিয়ে উদ্দেশ্য বোঝালে এবং পূর্ববর্তী ক্লজটি Past Tense-এ (ran) থাকলে পরবর্তী ক্লজে 'might' বসে।"
+  },
+  {
+    "id": 163,
+    "question": "If I were the Prime Minister, I ___ eradicate poverty.",
+    "options": ["would", "will", "shall", "can"],
+    "answer": "would",
+    "explanation": "অবাস্তব কল্পনা (Conditional Sentence Type 2) এর ক্ষেত্রে 'If' ক্লজে past tense থাকলে মেইন ক্লজে 'would' বসে।"
+  },
+  {
+    "id": 164,
+    "question": "You ___ better apologize to your teacher.",
+    "options": ["would", "had", "should", "must"],
+    "answer": "had",
+    "explanation": "'Had better' ফ্রেজটির অর্থ 'বরং ভালো'। এটি জোর দিয়ে উপদেশ দিতে ব্যবহৃত হয়। তাই শূন্যস্থানে 'had' বসবে।"
+  },
+  {
+    "id": 165,
+    "question": "There ___ be a post office at the corner of this street.",
+    "options": ["ought to", "must", "used to", "has to"],
+    "answer": "used to",
+    "explanation": "অতীতের কোনো অবস্থা বা অস্তিত্ব (Past existence) যা এখন আর নেই, তা বোঝাতে 'used to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 166,
+    "question": "___ God grant you a long life!",
+    "options": ["Will", "Can", "Shall", "May"],
+    "answer": "May",
+    "explanation": "প্রার্থনা বা আশীর্বাদ (Wish/Prayer) বোঝাতে Optative Sentence-এর শুরুতে সর্বদা 'May' বসে।"
+  },
+  {
+    "id": 167,
+    "question": "She told me that she ___ come the next day.",
+    "options": ["would", "will", "can", "may"],
+    "answer": "would",
+    "explanation": "Indirect speech-এ Reporting verb (told) Past Tense-এ থাকায় Reported speech-এর 'will' পরিবর্তিত হয়ে 'would' হয়।"
+  },
+  {
+    "id": 168,
+    "question": "You ___ take a taxi, otherwise you will miss the train.",
+    "options": ["could", "must", "ought", "need"],
+    "answer": "must",
+    "explanation": "অত্যন্ত জরুরি বা Strong Necessity বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 169,
+    "question": "We eat so that we ___ get energy.",
+    "options": ["can", "will", "may", "might"],
+    "answer": "may",
+    "explanation": "উদ্দেশ্য বোঝাতে 'so that' এর পূর্ববর্তী ক্লজ Present Tense-এ (eat) থাকলে পরবর্তী ক্লজে 'may' বসে।"
+  },
+  {
+    "id": 170,
+    "question": "I ___ like to introduce my friend, Rahul.",
+    "options": ["will", "shall", "can", "would"],
+    "answer": "would",
+    "explanation": "ভদ্রভাবে নিজের ইচ্ছা প্রকাশ করতে বা কাউকে পরিচয় করিয়ে দিতে 'would like to' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 171,
+    "question": "___ I have your attention, please?",
+    "options": ["May", "Will", "Shall", "Must"],
+    "answer": "May",
+    "explanation": "আনুষ্ঠানিক পরিবেশে (Formal situation) বিনীতভাবে অনুমতি বা মনোযোগ আকর্ষণের জন্য 'May I' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 172,
+    "question": "Anyone ___ make a spelling mistake.",
+    "options": ["must", "can", "shall", "would"],
+    "answer": "can",
+    "explanation": "তাত্ত্বিক সম্ভাবনা বা সাধারণ সত্য (Theoretical Possibility) বোঝাতে 'can' ব্যবহৃত হয়। ভুল যে কেউই করতে পারে।"
+  },
+  {
+    "id": 173,
+    "question": "Had I seen him, I ___ have stopped the car.",
+    "options": ["should", "could", "would", "will"],
+    "answer": "would",
+    "explanation": "Third Conditional Sentence-এ If-clause-এ 'Had + Sub + V3' থাকলে Main clause-এ 'would have + V3' বসে।"
+  },
+  {
+    "id": 174,
+    "question": "She ___ have passed the exam if she had studied harder.",
+    "options": ["must", "will", "shall", "could"],
+    "answer": "could",
+    "explanation": "অতীতে কোনো কাজ করার সামর্থ্য বা সম্ভাবনা ছিল কিন্তু করা হয়নি (Past unfulfilled ability), এমন বোঝাতে 'could have + V3' বসে।"
+  },
+  {
+    "id": 175,
+    "question": "You ___ not worry, the doctor is on his way.",
+    "options": ["need", "dare", "ought", "must"],
+    "answer": "need",
+    "explanation": "চিন্তা করার 'প্রয়োজন নেই' বোঝাতে Modal হিসেবে 'need not' ব্যবহৃত হয়েছে।"
+  },
+  {
+    "id": 176,
+    "question": "Students ___ to wear uniforms to school.",
+    "options": ["should", "ought", "must", "can"],
+    "answer": "ought",
+    "explanation": "নিয়ম বা কর্তব্য পালনের ক্ষেত্রে 'ought to' বসে। শূন্যস্থানের পর 'to' থাকায় 'ought' হবে।"
+  },
+  {
+    "id": 177,
+    "question": "The streets are wet. It ___ have rained last night.",
+    "options": ["should", "would", "must", "can"],
+    "answer": "must",
+    "explanation": "রাস্তা ভেজা দেখে যুক্তিসঙ্গত অনুমান (Logical Deduction in the past) করা হচ্ছে যে বৃষ্টি হয়েছে। তাই 'must have' বসবে।"
+  },
+  {
+    "id": 178,
+    "question": "He is very weak. He ___ not walk properly.",
+    "options": ["will", "shall", "must", "can"],
+    "answer": "can",
+    "explanation": "শারীরিক সামর্থ্যের অভাব (Inability) বোঝাতে 'cannot' বা 'can not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 179,
+    "question": "___ I turn on the AC?",
+    "options": ["Shall", "Will", "Would", "Must"],
+    "answer": "Shall",
+    "explanation": "অন্যের মতামত বা পরামর্শ চাইতে First Person (I, we)-এর ক্ষেত্রে 'Shall' দিয়ে প্রশ্ন করা হয়।"
+  },
+  {
+    "id": 180,
+    "question": "You ___ have consulted me before taking this decision.",
+    "options": ["would", "should", "must", "can"],
+    "answer": "should",
+    "explanation": "অতীতে কোনো কাজ করা উচিত ছিল কিন্তু করা হয়নি (Unfulfilled past obligation) বোঝাতে 'should have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 181,
+    "question": "You are ill. You ___ go to the clinic.",
+    "options": ["will", "can", "should", "would"],
+    "answer": "should",
+    "explanation": "উপদেশ বা পরামর্শ (Advice/Recommendation) দেওয়ার ক্ষেত্রে 'should' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 182,
+    "question": "He ___ definitely come to the party; he promised me.",
+    "options": ["shall", "would", "may", "will"],
+    "answer": "will",
+    "explanation": "ভবিষ্যতে কোনো কাজ নিশ্চিতভাবে ঘটবে এমন প্রতিশ্রুতি (Promise) বা দৃঢ় সংকল্প বোঝাতে 'will' বসে।"
+  },
+  {
+    "id": 183,
+    "question": "___ you mind waiting for a few minutes?",
+    "options": ["Would", "Could", "Should", "Shall"],
+    "answer": "Would",
+    "explanation": "কাউকে বিনীতভাবে অনুরোধ করতে 'Would you mind + verb+ing' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 184,
+    "question": "I ___ definitely teach him a lesson.",
+    "options": ["shall", "will", "can", "may"],
+    "answer": "will",
+    "explanation": "হুমকি (Threat) বা দৃঢ় সংকল্প বোঝাতে First Person (I) এর পর সাধারণ নিয়ম ভেঙে 'shall' এর পরিবর্তে 'will' বসে।"
+  },
+  {
+    "id": 185,
+    "question": "We ___ to follow the traffic signals.",
+    "options": ["must", "should", "ought", "need"],
+    "answer": "ought",
+    "explanation": "আইন মানা আমাদের কর্তব্য। শূন্যস্থানের পর 'to' থাকায় 'ought' বসবে (ought to)।"
+  },
+  {
+    "id": 186,
+    "question": "My father ___ play football when he was in school.",
+    "options": ["should", "ought", "must", "used to"],
+    "answer": "used to",
+    "explanation": "অতীতের নিয়মিত অভ্যাস (Past Habit) বোঝাতে 'used to' ব্যবহৃত হয়, যা এখন আর করা হয় না।"
+  },
+  {
+    "id": 187,
+    "question": "It ___ snow tomorrow according to the forecast.",
+    "options": ["might", "must", "shall", "ought"],
+    "answer": "might",
+    "explanation": "ভবিষ্যতের সম্ভাবনা (Possibility) বোঝাতে 'may' বা 'might' ব্যবহৃত হয়। আবহাওয়ার পূর্বাভাসের ক্ষেত্রে এটি বেশি মানানসই।"
+  },
+  {
+    "id": 188,
+    "question": "You ___ not be late for the interview.",
+    "options": ["need", "must", "dare", "ought"],
+    "answer": "must",
+    "explanation": "কঠোর নির্দেশ বা বাধ্যবাধকতা (Strict obligation) বোঝাতে 'must not' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 189,
+    "question": "If you work hard, you ___ pass the exam.",
+    "options": ["would", "should", "will", "could"],
+    "answer": "will",
+    "explanation": "First Conditional Sentence-এর If-clause Present Indefinite-এ থাকলে Main clause-এ Future Indefinite (will/shall) বসে।"
+  },
+  {
+    "id": 190,
+    "question": "He ___ rather sleep than watch this boring movie.",
+    "options": ["should", "could", "must", "would"],
+    "answer": "would",
+    "explanation": "দুটির মধ্যে একটিকে বেছে নেওয়া (Preference) বোঝাতে 'would rather...than' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 191,
+    "question": "Walk fast lest you ___ miss the train.",
+    "options": ["should", "would", "could", "might"],
+    "answer": "should",
+    "explanation": "'Lest' কনজাংশনের পর সবসময় Modal verb হিসেবে 'should' বসে।"
+  },
+  {
+    "id": 192,
+    "question": "I ___ go to the gym every day, but now I don't have time.",
+    "options": ["should", "used to", "ought to", "must"],
+    "answer": "used to",
+    "explanation": "অতীতের কোনো অভ্যাস বা কাজ যা বর্তমানে আর করা হয় না, তা বোঝাতে 'used to' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 193,
+    "question": "He has just bought a mansion; he ___ be a millionaire.",
+    "options": ["can", "should", "must", "would"],
+    "answer": "must",
+    "explanation": "যুক্তিসঙ্গত অনুমান (Logical conclusion) বোঝাতে 'must' বসে। সে প্রাসাদ কিনেছে মানে সে নিশ্চয়ই কোটিপতি।"
+  },
+  {
+    "id": 194,
+    "question": "She ___ not hide the truth from the police.",
+    "options": ["dares", "needs", "need", "dare"],
+    "answer": "dare",
+    "explanation": "'Dare' একটি Marginal Modal। Negative বাক্যে Modal হিসেবে ব্যবহৃত হলে থার্ড পার্সন সিঙ্গুলার নম্বর হওয়া সত্ত্বেও এর সাথে 's' বা 'es' যুক্ত হয় না, শুধু 'dare not' বসে।"
+  },
+  {
+    "id": 195,
+    "question": "You ___ have bought the tickets; I already got free passes.",
+    "options": ["needn't", "mustn't", "shouldn't", "couldn't"],
+    "answer": "needn't",
+    "explanation": "অতীতে এমন কোনো কাজ করা হয়েছে যার কোনো প্রয়োজন ছিল না, এমন বোঝাতে 'needn't have + V3' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 196,
+    "question": "The train ___ leave at 6 PM sharp.",
+    "options": ["may", "will", "can", "should"],
+    "answer": "will",
+    "explanation": "ভবিষ্যতে নির্ধারিত কোনো কাজের সময়সূচি বোঝাতে 'will' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 197,
+    "question": "___ that I had wings!",
+    "options": ["Could", "Should", "Would", "Can"],
+    "answer": "Would",
+    "explanation": "তীব্র অবাস্তব ইচ্ছা (Strong unfulfilled wish) প্রকাশ করতে বাক্যের শুরুতে 'Would that' ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 198,
+    "question": "A soldier ___ blindly obey his commander.",
+    "options": ["can", "may", "would", "must"],
+    "answer": "must",
+    "explanation": "সেনাবাহিনীর ক্ষেত্রে অপরিহার্য কর্তব্য বা কঠোর নিয়ম (Strict Obligation) বোঝাতে 'must' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 199,
+    "question": "I ___ not surrender without a fight.",
+    "options": ["will", "shall", "can", "may"],
+    "answer": "will",
+    "explanation": "দৃঢ় সংকল্প (Strong Determination) বা প্রতিজ্ঞা বোঝাতে First Person (I) এর সাথে 'shall'-এর পরিবর্তে 'will' বসে।"
+  },
+  {
+    "id": 200,
+    "question": "___ you use my laptop if you want.",
+    "options": ["Must", "Can", "Shall", "Should"],
+    "answer": "Can",
+    "explanation": "সাধারণভাবে বা ইনফর্মাল ভাবে কাউকে অনুমতি (Giving Permission) দিতে 'Can' ব্যবহৃত হয়।"
+  }
+]

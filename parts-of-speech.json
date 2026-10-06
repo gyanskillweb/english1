@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "question": "Study the following sentence:<br>Honesty is the best policy.<br>What part of speech is 'policy'?",
+    "options": ["Noun", "Pronoun", "Adjective", "Verb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'policy' শব্দটি একটি নির্দিষ্ট ধারণার বা গুণের নাম বোঝাচ্ছে। তাই এটি একটি Abstract Noun।"
+  },
+  {
+    "id": 2,
+    "question": "Study the following sentence:<br>He ran fast enough to catch the bus.<br>What part of speech is 'fast'?",
+    "options": ["Adjective", "Adverb", "Verb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "'fast' শব্দটি বাক্যে 'ran' (Verb)-কে modify করছে অর্থাৎ সে কেমন দৌড়েছিল তা বোঝাচ্ছে। Verb-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 3,
+    "question": "Study the following sentence:<br>I will meet you after the class.<br>What part of speech is 'after'?",
+    "options": ["Adverb", "Conjunction", "Preposition", "Adjective"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'after' শব্দটি 'the class' (Noun)-এর পূর্বে বসে বাক্যের অন্যান্য অংশের সাথে তার সম্পর্ক স্থাপন করেছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 4,
+    "question": "Study the following sentence:<br>This is a fast track course.<br>What part of speech is 'fast'?",
+    "options": ["Noun", "Adverb", "Verb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এই বাক্যে 'fast' শব্দটি 'track course' (Noun)-এর অবস্থা বা বৈশিষ্ট্য বোঝাচ্ছে। Noun-কে modify করার জন্য এটি এখানে Adjective।"
+  },
+  {
+    "id": 5,
+    "question": "Study the following sentence:<br>He arrived after I had left.<br>What part of speech is 'after'?",
+    "options": ["Conjunction", "Preposition", "Adverb", "Pronoun"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'after' শব্দটি দুটি ক্লজকে ('He arrived' এবং 'I had left') যুক্ত করেছে। তাই এটি Conjunction হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 6,
+    "question": "Study the following sentence:<br>Alas, we have lost the battle!<br>What part of speech is 'Alas'?",
+    "options": ["Conjunction", "Interjection", "Preposition", "Adverb"],
+    "answer": "Interjection",
+    "explanation": "'Alas' শব্দটি হঠাৎ ঘটা গভীর দুঃখ বা আবেগ প্রকাশ করছে, তাই এটি একটি Interjection।"
+  },
+  {
+    "id": 7,
+    "question": "Study the following sentence:<br>The dog is sleeping under the table.<br>What part of speech is 'under'?",
+    "options": ["Adverb", "Conjunction", "Preposition", "Adjective"],
+    "answer": "Preposition",
+    "explanation": "'under' শব্দটি 'the table' (Noun)-এর পূর্বে বসে বাক্যের কুকুরটির অবস্থান বা সম্পর্ক বোঝাচ্ছে। তাই এটি Preposition।"
+  },
+  {
+    "id": 8,
+    "question": "Study the following sentence:<br>They have a very beautiful house.<br>What part of speech is 'beautiful'?",
+    "options": ["Noun", "Adverb", "Pronoun", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'beautiful' শব্দটি 'house' (Noun)-এর গুণ বা সৌন্দর্য প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 9,
+    "question": "Study the following sentence:<br>Water the plants daily.<br>What part of speech is 'Water'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "সাধারণত 'Water' একটি Noun (জল), কিন্তু এই বাক্যে এটি কাজ করা অর্থাৎ 'গাছে জল দেওয়া' বোঝাচ্ছে। তাই এটি Verb।"
+  },
+  {
+    "id": 10,
+    "question": "Study the following sentence:<br>Please come in.<br>What part of speech is 'in'?",
+    "options": ["Preposition", "Adverb", "Conjunction", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'in'-এর পর কোনো Object (Noun/Pronoun) নেই, এটি শুধু 'come' (Verb)-এর স্থান নির্দেশ করছে। তাই এটি Adverb of Place।"
+  },
+  {
+    "id": 11,
+    "question": "Study the following sentence:<br>He kept the book in the drawer.<br>What part of speech is 'in'?",
+    "options": ["Adverb", "Conjunction", "Preposition", "Adjective"],
+    "answer": "Preposition",
+    "explanation": "এই বাক্যে 'in'-এর পর 'the drawer' (Object) রয়েছে। Noun-এর সাথে সম্পর্ক স্থাপন করায় এটি Preposition হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 12,
+    "question": "Study the following sentence:<br>He is poor but honest.<br>What part of speech is 'but'?",
+    "options": ["Preposition", "Adverb", "Interjection", "Conjunction"],
+    "answer": "Conjunction",
+    "explanation": "'but' শব্দটি দুটি বিপরীতধর্মী Adjective (poor এবং honest)-কে যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 13,
+    "question": "Study the following sentence:<br>Everyone should respect the law.<br>What part of speech is 'Everyone'?",
+    "options": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "'Everyone' শব্দটি অনির্দিষ্টভাবে সকল ব্যক্তিকে বোঝাচ্ছে এবং বাক্যের Subject হিসেবে ব্যবহৃত হয়েছে। এটি Indefinite Pronoun।"
+  },
+  {
+    "id": 14,
+    "question": "Study the following sentence:<br>She dances extremely well.<br>What part of speech is 'well'?",
+    "options": ["Adjective", "Adverb", "Verb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "'well' শব্দটি 'dances' (Verb)-কে modify করছে (সে কেমন নাচে), তাই এটি Adverb।"
+  },
+  {
+    "id": 15,
+    "question": "Study the following sentence:<br>He is a well man now.<br>What part of speech is 'well'?",
+    "options": ["Noun", "Adverb", "Adjective", "Pronoun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'well' মানে সুস্থ। এটি 'man' (Noun)-এর শারীরিক অবস্থা বোঝাচ্ছে, তাই এখানে এটি Adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 16,
+    "question": "Study the following sentence:<br>Hurrah! We won the cup.<br>What part of speech is 'Hurrah'?",
+    "options": ["Conjunction", "Preposition", "Adverb", "Interjection"],
+    "answer": "Interjection",
+    "explanation": "'Hurrah!' শব্দটি হঠাৎ আসা তীব্র আনন্দ বা উচ্ছ্বাস প্রকাশ করছে, তাই এটি Interjection।"
+  },
+  {
+    "id": 17,
+    "question": "Study the following sentence:<br>A rolling stone gathers no moss.<br>What part of speech is 'rolling'?",
+    "options": ["Adjective", "Noun", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'rolling' শব্দটি Verb থেকে এলেও এটি 'stone' (Noun)-এর অবস্থা বোঝাচ্ছে। এটি Present Participle যা Adjective-এর কাজ করছে।"
+  },
+  {
+    "id": 18,
+    "question": "Study the following sentence:<br>He has been working hard.<br>What part of speech is 'hard'?",
+    "options": ["Adjective", "Adverb", "Noun", "Preposition"],
+    "answer": "Adverb",
+    "explanation": "'hard' শব্দটি 'working' (Verb)-কে modify করছে অর্থাৎ সে কতটা কঠোরভাবে কাজ করছে তা বোঝাচ্ছে। তাই এটি Adverb।"
+  },
+  {
+    "id": 19,
+    "question": "Study the following sentence:<br>It is a hard task.<br>What part of speech is 'hard'?",
+    "options": ["Adverb", "Noun", "Adjective", "Verb"],
+    "answer": "Adjective",
+    "explanation": "এই বাক্যে 'hard' শব্দটি 'task' (Noun)-কে modify করছে। Noun-এর অবস্থা বা ধরন বোঝানোর জন্য এটি Adjective।"
+  },
+  {
+    "id": 20,
+    "question": "Study the following sentence:<br>I haven't seen him since Monday.<br>What part of speech is 'since'?",
+    "options": ["Adverb", "Conjunction", "Pronoun", "Preposition"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'since' শব্দটি 'Monday' (Noun)-এর আগে বসে সময়ের সম্পর্ক স্থাপন করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 21,
+    "question": "Study the following sentence:<br>I have known him since we were children.<br>What part of speech is 'since'?",
+    "options": ["Conjunction", "Preposition", "Adverb", "Adjective"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'since' দুটি সম্পূর্ণ ক্লজকে ('I have known him' এবং 'we were children') যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 22,
+    "question": "Study the following sentence:<br>He went away and I haven't seen him since.<br>What part of speech is 'since'?",
+    "options": ["Preposition", "Adverb", "Conjunction", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'since'-এর পর কোনো Noun বা Clause নেই। এটি শুধুমাত্র Verb (seen)-এর সময় নির্দেশ করছে (তারপর থেকে), তাই এটি Adverb।"
+  },
+  {
+    "id": 23,
+    "question": "Study the following sentence:<br>The earth is round.<br>What part of speech is 'round'?",
+    "options": ["Noun", "Adverb", "Adjective", "Verb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'round' শব্দটি 'earth' (Noun)-এর আকৃতি বা অবস্থা বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 24,
+    "question": "Study the following sentence:<br>Walk round the park.<br>What part of speech is 'round'?",
+    "options": ["Adverb", "Adjective", "Noun", "Preposition"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'round' শব্দটি 'the park' (Noun)-এর আগে বসে সম্পর্ক ও দিক নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 25,
+    "question": "Study the following sentence:<br>The wheel goes round.<br>What part of speech is 'round'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'round'-এর পরে কোনো Object নেই, এটি 'goes' (Verb)-কে modify করছে (কীভাবে ঘুরছে), তাই এটি Adverb।"
+  },
+  {
+    "id": 26,
+    "question": "Study the following sentence:<br>They play well.<br>What part of speech is 'play'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'play' (খেলা করা) দ্বারা কাজ করা বোঝাচ্ছে, তাই এটি বাক্যের মূল Verb।"
+  },
+  {
+    "id": 27,
+    "question": "Study the following sentence:<br>This is a good play.<br>What part of speech is 'play'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'play' মানে 'নাটক' বা 'খেলা'। এটি 'good' (Adjective)-এর পরে বসেছে এবং একটি জিনিসের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 28,
+    "question": "Study the following sentence:<br>He was fined for his absence.<br>What part of speech is 'fined'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "তাকে জরিমানা 'করা হয়েছিল' (Action) বোঝাচ্ছে, তাই এটি Verb (Passive Voice-এ ব্যবহৃত)।"
+  },
+  {
+    "id": 29,
+    "question": "Study the following sentence:<br>There is a great demand for this product.<br>What part of speech is 'demand'?",
+    "options": ["Noun", "Verb", "Adjective", "Preposition"],
+    "answer": "Noun",
+    "explanation": "এখানে 'demand' শব্দটি 'a great' (Adjective)-এর পরে বসেছে। এটি একটি বস্তুর অবস্থা (চাহিদা) বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 30,
+    "question": "Study the following sentence:<br>The union demands a higher salary.<br>What part of speech is 'demands'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'demands' (দাবি করে) একটি কাজ বোঝাচ্ছে এবং এটি বাক্যের মূল ক্রিয়া। তাই এটি Verb।"
+  },
+  {
+    "id": 31,
+    "question": "Study the following sentence:<br>She sings beautifully.<br>What part of speech is 'beautifully'?",
+    "options": ["Adjective", "Verb", "Adverb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "'beautifully' শব্দটি সে কেমন গান গায় (sings), সেই Verb-টিকে modify করছে। Adjective-এর শেষে 'ly' যুক্ত থাকলে তা সাধারণত Adverb হয়।"
+  },
+  {
+    "id": 32,
+    "question": "Study the following sentence:<br>The child is playing in the garden.<br>What part of speech is 'child'?",
+    "options": ["Pronoun", "Verb", "Adjective", "Noun"],
+    "answer": "Noun",
+    "explanation": "'child' শব্দটি একটি জাতির বা শ্রেণীবদ্ধ ব্যক্তির সাধারণ নাম বোঝাচ্ছে, তাই এটি Common Noun।"
+  },
+  {
+    "id": 33,
+    "question": "Study the following sentence:<br>He is very intelligent.<br>What part of speech is 'very'?",
+    "options": ["Adverb", "Adjective", "Pronoun", "Preposition"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'very' শব্দটি 'intelligent' (Adjective)-এর মাত্রা বৃদ্ধি করছে (কতটা বুদ্ধিমান)। Adjective-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 34,
+    "question": "Study the following sentence:<br>Oh! What a terrible tragedy.<br>What part of speech is 'Oh'?",
+    "options": ["Conjunction", "Interjection", "Preposition", "Adverb"],
+    "answer": "Interjection",
+    "explanation": "'Oh!' শব্দটি দ্বারা মনের বিস্ময় বা আবেগ হঠাৎ প্রকাশিত হয়েছে, তাই এটি Interjection।"
+  },
+  {
+    "id": 35,
+    "question": "Study the following sentence:<br>He is an old man.<br>What part of speech is 'old'?",
+    "options": ["Noun", "Pronoun", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "'old' শব্দটি 'man' (Noun)-এর বয়সের অবস্থা প্রকাশ করছে, তাই এটি একটি Adjective।"
+  },
+  {
+    "id": 36,
+    "question": "Study the following sentence:<br>I will wait until you return.<br>What part of speech is 'until'?",
+    "options": ["Preposition", "Adverb", "Noun", "Conjunction"],
+    "answer": "Conjunction",
+    "explanation": "'until' শব্দটি দুটি ভিন্ন ক্লজকে ('I will wait' এবং 'you return') যুক্ত করেছে। তাই এটি এখানে Conjunction।"
+  },
+  {
+    "id": 37,
+    "question": "Study the following sentence:<br>They played an excellent game.<br>What part of speech is 'They'?",
+    "options": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "'They' শব্দটি কোনো নির্দিষ্ট ব্যক্তিবর্গের নামের পরিবর্তে বসেছে, তাই এটি একটি Personal Pronoun।"
+  },
+  {
+    "id": 38,
+    "question": "Study the following sentence:<br>That red car is mine.<br>What part of speech is 'mine'?",
+    "options": ["Noun", "Pronoun", "Adjective", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "'mine' শব্দটি অধিকার বোঝাচ্ছে কিন্তু এর পরে কোনো Noun নেই। এটি স্বাধীনভাবে ব্যবহৃত হয়েছে, তাই এটি Possessive Pronoun।"
+  },
+  {
+    "id": 39,
+    "question": "Study the following sentence:<br>It is my red car.<br>What part of speech is 'my'?",
+    "options": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'my' শব্দটি 'car' (Noun)-এর পূর্বে বসে অধিকার বোঝাচ্ছে। Noun-কে নির্দেশ করার জন্য এটি Possessive Adjective (বা Determiner)।"
+  },
+  {
+    "id": 40,
+    "question": "Study the following sentence:<br>The Kolkata express is late today.<br>What part of speech is 'Kolkata'?",
+    "options": ["Noun", "Pronoun", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "সাধারণত 'Kolkata' একটি Proper Noun, কিন্তু এখানে এটি 'express' (Noun)-এর আগে বসে ট্রেনটির পরিচয় বা বৈশিষ্ট্য দিচ্ছে, তাই এটি Proper Adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 41,
+    "question": "Study the following sentence:<br>He likes to play chess.<br>What part of speech is 'likes'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "'likes' (পছন্দ করে) দ্বারা বাক্যের কর্তা কী কাজ করছে বা তার মানসিক ক্রিয়া বোঝানো হচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 42,
+    "question": "Study the following sentence:<br>Do not act like a fool.<br>What part of speech is 'like'?",
+    "options": ["Verb", "Preposition", "Adjective", "Conjunction"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'like' মানে 'পছন্দ করা' নয়, এর অর্থ 'মতো' (a fool-এর মতো)। এটি সম্পর্ক স্থাপন করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 43,
+    "question": "Study the following sentence:<br>They are men of like mind.<br>What part of speech is 'like'?",
+    "options": ["Verb", "Preposition", "Adjective", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এই বাক্যে 'like' শব্দটি 'mind' (Noun)-এর আগে বসে তার অবস্থা বোঝাচ্ছে (একই রকমের বা সদৃশ মানসিকতা)। তাই এটি Adjective।"
+  },
+  {
+    "id": 44,
+    "question": "Study the following sentence:<br>Let us move on to the next topic.<br>What part of speech is 'move'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "'move' শব্দটি এখানে কাজ করা বা অগ্রসর হওয়া বোঝাচ্ছে। এটি বাক্যের মূল ক্রিয়াপদ বা Verb।"
+  },
+  {
+    "id": 45,
+    "question": "Study the following sentence:<br>It was a brilliant move by the captain.<br>What part of speech is 'move'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'move' (পদক্ষেপ) শব্দটি 'brilliant' (Adjective)-এর পরে বসেছে এবং এটি একটি নির্দিষ্ট কাজের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 46,
+    "question": "Study the following sentence:<br>Bravo! That was a great shot.<br>What part of speech is 'Bravo'?",
+    "options": ["Conjunction", "Interjection", "Preposition", "Adverb"],
+    "answer": "Interjection",
+    "explanation": "'Bravo!' শব্দটি দ্বারা হঠাৎ প্রশংসা বা উচ্ছ্বাস প্রকাশ করা হচ্ছে, তাই এটি Interjection।"
+  },
+  {
+    "id": 47,
+    "question": "Study the following sentence:<br>He swims across the pool.<br>What part of speech is 'across'?",
+    "options": ["Adverb", "Adjective", "Preposition", "Verb"],
+    "answer": "Preposition",
+    "explanation": "'across' শব্দটি 'the pool' (Noun)-এর আগে বসে সাঁতার কাটার দিক বা সম্পর্ক নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 48,
+    "question": "Study the following sentence:<br>The boy spoke truthfully.<br>What part of speech is 'truthfully'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'truthfully' শব্দটি 'spoke' (Verb)-কে modify করছে অর্থাৎ সে কীভাবে কথা বলেছিল তা প্রকাশ করছে। তাই এটি Adverb।"
+  },
+  {
+    "id": 49,
+    "question": "Study the following sentence:<br>The committee approved the plan.<br>What part of speech is 'committee'?",
+    "options": ["Noun", "Pronoun", "Verb", "Adjective"],
+    "answer": "Noun",
+    "explanation": "'committee' শব্দটি একাধিক ব্যক্তির একটি সমষ্টি বা গ্রুপকে বোঝাচ্ছে, তাই এটি একটি Collective Noun।"
+  },
+  {
+    "id": 50,
+    "question": "Study the following sentence:<br>Please put the heavy bag down.<br>What part of speech is 'down'?",
+    "options": ["Preposition", "Adverb", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'down' শব্দটি 'put' (Verb)-এর স্থান নির্দেশ করছে (কোথায় রাখবে)। এর পরে কোনো Noun/Object নেই, তাই এটি Adverb।"
+  },
+  {
+    "id": 51,
+    "question": "Study the following sentence:<br>Come and meet me in my office.<br>What part of speech is 'me'?",
+    "options": ["Pronoun", "Noun", "Verb", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'me' শব্দটি বক্তার নামের পরিবর্তে ব্যবহৃত হয়েছে এবং এটি 'meet' (Verb)-এর Object হিসেবে কাজ করছে। নামের পরিবর্তে ব্যবহৃত হওয়ায় এটি Pronoun।"
+  },
+  {
+    "id": 52,
+    "question": "Study the following sentence:<br>Water is essential for life.<br>What part of speech is 'Water'?",
+    "options": ["Adverb", "Noun", "Adjective", "Verb"],
+    "answer": "Noun",
+    "explanation": "'Water' একটি তরল পদার্থের নাম এবং এটি বাক্যের Subject হিসেবে ব্যবহৃত হয়েছে। তাই এটি একটি Material Noun।"
+  },
+  {
+    "id": 53,
+    "question": "Study the following sentence:<br>Please water the plants daily.<br>What part of speech is 'water'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'water' মানে শুধু 'জল' নয়, বরং 'গাছে জল দেওয়া' (Action) বোঝাচ্ছে। এটি একটি Imperative Sentence-এর মূল Verb।"
+  },
+  {
+    "id": 54,
+    "question": "Study the following sentence:<br>I need some cold water to drink.<br>What part of speech is 'cold'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'cold' শব্দটি 'water' (Noun)-এর অবস্থা (জলটি কেমন) বর্ণনা করছে। Noun-কে modify করায় এটি Adjective।"
+  },
+  {
+    "id": 55,
+    "question": "Study the following sentence:<br>She runs incredibly fast.<br>What part of speech is 'incredibly'?",
+    "options": ["Adverb", "Adjective", "Noun", "Verb"],
+    "answer": "Adverb",
+    "explanation": "বাক্যটিতে 'fast' নিজে একটি Adverb। 'incredibly' শব্দটি সেই Adverb-টির মাত্রা (কতটা দ্রুত) বৃদ্ধি করছে। Adverb-কে modify করায় এটিও একটি Adverb।"
+  },
+  {
+    "id": 56,
+    "question": "Study the following sentence:<br>The book is on the table.<br>What part of speech is 'on'?",
+    "options": ["Conjunction", "Preposition", "Adverb", "Adjective"],
+    "answer": "Preposition",
+    "explanation": "'on' শব্দটি 'the table' (Noun)-এর পূর্বে বসে বাক্যের অন্য অংশ (The book)-এর সাথে তার সম্পর্ক ও অবস্থান নির্দেশ করছে। তাই এটি Preposition।"
+  },
+  {
+    "id": 57,
+    "question": "Study the following sentence:<br>I was tired, so I went to bed.<br>What part of speech is 'so'?",
+    "options": ["Preposition", "Adverb", "Conjunction", "Interjection"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'so' (সুতরাং) দুটি সম্পূর্ণ Clause-কে ('I was tired' এবং 'I went to bed') যুক্ত করেছে। তাই এটি একটি Conjunction।"
+  },
+  {
+    "id": 58,
+    "question": "Study the following sentence:<br>Wow, that is a beautiful car!<br>What part of speech is 'Wow'?",
+    "options": ["Adverb", "Adjective", "Noun", "Interjection"],
+    "answer": "Interjection",
+    "explanation": "'Wow' শব্দটি দ্বারা মনের হঠাৎ আসা বিস্ময় ও আনন্দ প্রকাশিত হয়েছে, তাই এটি Interjection।"
+  },
+  {
+    "id": 59,
+    "question": "Study the following sentence:<br>The fast will end tomorrow.<br>What part of speech is 'fast'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'fast' মানে দ্রুত নয়, এর অর্থ 'উপবাস' বা 'রোজা'। এটি বাক্যের Subject এবং একটি প্রথার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 60,
+    "question": "Study the following sentence:<br>Muslims fast during the month of Ramadan.<br>What part of speech is 'fast'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'fast' মানে 'উপবাস করা'। এটি Muslims (Subject)-এর কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 61,
+    "question": "Study the following sentence:<br>He took the fast train to Delhi.<br>What part of speech is 'fast'?",
+    "options": ["Verb", "Adverb", "Adjective", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'fast' শব্দটি 'train' (Noun)-এর বৈশিষ্ট্য (কেমন ট্রেন) বর্ণনা করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 62,
+    "question": "Study the following sentence:<br>He drives very fast on the highway.<br>What part of speech is 'fast'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'fast' শব্দটি 'drives' (Verb)-কে modify করছে (সে কীভাবে গাড়ি চালায়)। Verb-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 63,
+    "question": "Study the following sentence:<br>That is my favorite pen.<br>What part of speech is 'That'?",
+    "options": ["Pronoun", "Adjective", "Conjunction", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'That' শব্দটি কোনো Noun-এর পরিবর্তে সরাসরি Subject হিসেবে বসেছে। এটি একটি Demonstrative Pronoun।"
+  },
+  {
+    "id": 64,
+    "question": "Study the following sentence:<br>That pen is mine.<br>What part of speech is 'That'?",
+    "options": ["Pronoun", "Adjective", "Conjunction", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এই বাক্যে 'That' সরাসরি 'pen' (Noun)-এর পূর্বে বসে তাকে নির্দেশ করছে। Noun-কে নির্দিষ্ট করায় এটি Demonstrative Adjective।"
+  },
+  {
+    "id": 65,
+    "question": "Study the following sentence:<br>He said that he would come.<br>What part of speech is 'that'?",
+    "options": ["Pronoun", "Adjective", "Conjunction", "Adverb"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'that' দুটি Clause-কে ('He said' এবং 'he would come') যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 66,
+    "question": "Study the following sentence:<br>Everyone laughed but him.<br>What part of speech is 'but'?",
+    "options": ["Conjunction", "Adverb", "Noun", "Preposition"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'but'-এর অর্থ 'কিন্তু' নয়, এর অর্থ 'ছাড়া' বা 'ব্যতীত' (except)। এর পরে 'him' Object থাকায় এটি Preposition হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 67,
+    "question": "Study the following sentence:<br>He is poor but honest.<br>What part of speech is 'but'?",
+    "options": ["Conjunction", "Preposition", "Adverb", "Noun"],
+    "answer": "Conjunction",
+    "explanation": "এই বাক্যে 'but' দুটি বিপরীতধর্মী শব্দ (poor এবং honest) বা Clause-কে যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 68,
+    "question": "Study the following sentence:<br>He is but a child.<br>What part of speech is 'but'?",
+    "options": ["Preposition", "Adverb", "Conjunction", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'but'-এর অর্থ 'শুধুমাত্র' (only)। এটি 'a child' কথাটিকে modify করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 69,
+    "question": "Study the following sentence:<br>There are no ifs and buts in this matter.<br>What part of speech is 'buts'?",
+    "options": ["Conjunction", "Adverb", "Noun", "Preposition"],
+    "answer": "Noun",
+    "explanation": "এই বাক্যে 'buts' মানে 'অজুহাত'। এটি Plural Noun হিসেবে Object-এর স্থানে বসেছে।"
+  },
+  {
+    "id": 70,
+    "question": "Study the following sentence:<br>She is a better singer than me.<br>What part of speech is 'better'?",
+    "options": ["Verb", "Noun", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "'better' শব্দটি 'singer' (Noun)-এর দোষ-গুণ বর্ণনা করছে (Good-এর Comparative form)। তাই এটি Adjective।"
+  },
+  {
+    "id": 71,
+    "question": "Study the following sentence:<br>I know him better than you do.<br>What part of speech is 'better'?",
+    "options": ["Adverb", "Adjective", "Verb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'better' শব্দটি 'know' (Verb)-কে modify করছে (আমি কতটা ভালোভাবে জানি)। তাই এটি Adverb।"
+  },
+  {
+    "id": 72,
+    "question": "Study the following sentence:<br>You should better your performance.<br>What part of speech is 'better'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'better' মানে 'উন্নত করা' (to improve)। 'should'-এর পর এটি মূল Action হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 73,
+    "question": "Study the following sentence:<br>Respect your betters.<br>What part of speech is 'betters'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'betters' মানে 'গুরুজন' বা 'শ্রেষ্ঠ ব্যক্তিরা'। এটি নির্দিষ্ট একদল মানুষকে বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 74,
+    "question": "Study the following sentence:<br>Which way should we go?<br>What part of speech is 'Which'?",
+    "options": ["Pronoun", "Noun", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'Which' প্রশ্ন করার জন্য 'way' (Noun)-এর ঠিক আগে বসে তাকে নির্দেশ করছে। তাই এটি Interrogative Adjective।"
+  },
+  {
+    "id": 75,
+    "question": "Study the following sentence:<br>Which of these books is yours?<br>What part of speech is 'Which'?",
+    "options": ["Pronoun", "Adjective", "Noun", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "এই বাক্যে 'Which' সরাসরি Subject হিসেবে বসেছে এবং এর পরে কোনো Noun নেই। তাই এটি Interrogative Pronoun।"
+  },
+  {
+    "id": 76,
+    "question": "Study the following sentence:<br>Any fool can do that simple task.<br>What part of speech is 'Any'?",
+    "options": ["Pronoun", "Adjective", "Adverb", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'Any' শব্দটি 'fool' (Noun)-এর আগে বসে তাকে modify করছে, তাই এটি Adjective (Determiner)।"
+  },
+  {
+    "id": 77,
+    "question": "Study the following sentence:<br>I need some pens, did you buy any?<br>What part of speech is 'any'?",
+    "options": ["Adjective", "Noun", "Pronoun", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'any' শব্দটি 'pens'-এর পরিবর্তে বসেছে (any pens)। Noun-এর পরিবর্তে বসায় এটি Pronoun।"
+  },
+  {
+    "id": 78,
+    "question": "Study the following sentence:<br>Is the patient any better today?<br>What part of speech is 'any'?",
+    "options": ["Pronoun", "Adjective", "Noun", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'any' শব্দটি 'better' (Adjective)-কে modify করছে (আগের চেয়ে 'কিছুটা' ভালো কি না)। Adjective-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 79,
+    "question": "Study the following sentence:<br>Both brothers are very tall.<br>What part of speech is 'Both'?",
+    "options": ["Adjective", "Pronoun", "Conjunction", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "'Both' শব্দটি এখানে 'brothers' (Noun)-এর সংখ্যা (উভয়) নির্দেশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 80,
+    "question": "Study the following sentence:<br>Two men went to war and both are dead.<br>What part of speech is 'both'?",
+    "options": ["Adjective", "Pronoun", "Conjunction", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'both' বলতে ওই দুজন মানুষের কথা বোঝানো হয়েছে, এবং এটি বাক্যের Subject হিসেবে একা বসেছে। তাই এটি Pronoun।"
+  },
+  {
+    "id": 81,
+    "question": "Study the following sentence:<br>He is both kind and generous.<br>What part of speech is 'both'?",
+    "options": ["Adverb", "Pronoun", "Conjunction", "Adjective"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'both' শব্দটি 'and'-এর সাথে যুক্ত হয়ে (Correlative Conjunction) দুটি Adjective-কে যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 82,
+    "question": "Study the following sentence:<br>I have enough money to buy the car.<br>What part of speech is 'enough'?",
+    "options": ["Noun", "Adverb", "Pronoun", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'enough' শব্দটি 'money' (Noun)-এর পরিমাণ নির্দেশ করছে (যথেষ্ট টাকা), তাই এটি Adjective।"
+  },
+  {
+    "id": 83,
+    "question": "Study the following sentence:<br>He is old enough to vote.<br>What part of speech is 'enough'?",
+    "options": ["Adverb", "Adjective", "Noun", "Pronoun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'enough' শব্দটি 'old' (Adjective)-কে modify করছে (কতটা বয়স্ক)। Adjective-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 84,
+    "question": "Study the following sentence:<br>Enough has been said about this topic.<br>What part of speech is 'Enough'?",
+    "options": ["Adjective", "Pronoun", "Noun", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'Enough' শব্দটি বাক্যের Subject হিসেবে বসেছে এবং কোনো একটি বিষয়ের পরিবর্তে ব্যবহৃত হয়েছে। তাই এটি Pronoun।"
+  },
+  {
+    "id": 85,
+    "question": "Study the following sentence:<br>He has little common sense.<br>What part of speech is 'little'?",
+    "options": ["Adverb", "Noun", "Adjective", "Pronoun"],
+    "answer": "Adjective",
+    "explanation": "'little' শব্দটি এখানে 'common sense' (Noun)-এর পরিমাণ নির্দেশ করছে (নেই বললেই চলে)। তাই এটি Adjective।"
+  },
+  {
+    "id": 86,
+    "question": "Study the following sentence:<br>He is little known in this town.<br>What part of speech is 'little'?",
+    "options": ["Adjective", "Noun", "Pronoun", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'little' শব্দটি 'known' (Verb/Participle)-কে modify করছে (তাকে খুব সামান্যই চেনে)। তাই এটি Adverb।"
+  },
+  {
+    "id": 87,
+    "question": "Study the following sentence:<br>Please step inside.<br>What part of speech is 'inside'?",
+    "options": ["Adverb", "Preposition", "Noun", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'inside'-এর পরে কোনো Object নেই, এটি শুধু 'step' (Verb)-এর স্থান নির্দেশ করছে (কোথায় আসবে)। তাই এটি Adverb of Place।"
+  },
+  {
+    "id": 88,
+    "question": "Study the following sentence:<br>The cat is inside the box.<br>What part of speech is 'inside'?",
+    "options": ["Adverb", "Preposition", "Noun", "Adjective"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'inside' শব্দটি 'the box' (Noun)-এর আগে বসে বিড়ালটির অবস্থান নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 89,
+    "question": "Study the following sentence:<br>He knows the inside of the machine well.<br>What part of speech is 'inside'?",
+    "options": ["Adverb", "Preposition", "Noun", "Adjective"],
+    "answer": "Noun",
+    "explanation": "এখানে 'inside' শব্দটির আগে Article 'the' বসেছে এবং এটি মেশিনের ভেতরের অংশটিকে (একটি নাম) বোঝাচ্ছে। তাই এটি Noun।"
+  },
+  {
+    "id": 90,
+    "question": "Study the following sentence:<br>He has inside information about the deal.<br>What part of speech is 'inside'?",
+    "options": ["Adverb", "Preposition", "Noun", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এই বাক্যে 'inside' শব্দটি 'information' (Noun)-এর আগে বসে তাকে modify করছে (কী ধরনের খবর), তাই এটি Adjective।"
+  },
+  {
+    "id": 91,
+    "question": "Study the following sentence:<br>He is a near relative of mine.<br>What part of speech is 'near'?",
+    "options": ["Adjective", "Preposition", "Adverb", "Verb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'near' (নিকটাত্মীয়) শব্দটি 'relative' (Noun)-কে modify করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 92,
+    "question": "Study the following sentence:<br>Draw near and listen carefully.<br>What part of speech is 'near'?",
+    "options": ["Adjective", "Adverb", "Preposition", "Verb"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'near' মানে 'কাছে আসা'। এটি 'Draw' (Verb)-কে modify করছে (কোথায় আসবে), তাই এটি Adverb।"
+  },
+  {
+    "id": 93,
+    "question": "Study the following sentence:<br>His house is near the school.<br>What part of speech is 'near'?",
+    "options": ["Adverb", "Adjective", "Preposition", "Verb"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'near' শব্দটি 'the school' (Noun)-এর আগে বসে বাড়ির অবস্থান নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 94,
+    "question": "Study the following sentence:<br>The final exams are nearing.<br>What part of speech is 'nearing'?",
+    "options": ["Adverb", "Adjective", "Preposition", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'near' শব্দটি 'কাছিয়ে আসছে' (Action) অর্থে ব্যবহৃত হয়েছে। 'ing' যুক্ত হয়ে এটি Present Continuous Tense-এর মূল Verb গঠন করেছে।"
+  },
+  {
+    "id": 95,
+    "question": "Study the following sentence:<br>I have seen him before.<br>What part of speech is 'before'?",
+    "options": ["Adverb", "Preposition", "Conjunction", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'before'-এর পরে কোনো Object বা Clause নেই, এটি 'seen' (Verb)-এর সময় (পূর্বে দেখেছি) নির্দেশ করছে। তাই এটি Adverb।"
+  },
+  {
+    "id": 96,
+    "question": "Study the following sentence:<br>The accused stood before the judge.<br>What part of speech is 'before'?",
+    "options": ["Adverb", "Preposition", "Conjunction", "Noun"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'before' (সামনে) শব্দটি 'the judge' (Noun)-এর পূর্বে বসে সম্পর্ক স্থাপন করেছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 97,
+    "question": "Study the following sentence:<br>Look before you leap.<br>What part of speech is 'before'?",
+    "options": ["Preposition", "Adverb", "Conjunction", "Noun"],
+    "answer": "Conjunction",
+    "explanation": "এই প্রবাদ বাক্যে 'before' শব্দটি দুটি Clause-কে ('Look' এবং 'you leap') যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 98,
+    "question": "Study the following sentence:<br>The above statement is false.<br>What part of speech is 'above'?",
+    "options": ["Adverb", "Noun", "Preposition", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'above' (উপরের) শব্দটি 'statement' (Noun)-এর ঠিক আগে বসে তাকে modify করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 99,
+    "question": "Study the following sentence:<br>The clear blue sky is above us.<br>What part of speech is 'above'?",
+    "options": ["Preposition", "Adverb", "Adjective", "Noun"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'above' শব্দটি 'us' (Pronoun)-এর পূর্বে বসে আকাশের সাথে সম্পর্ক নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 100,
+    "question": "Study the following sentence:<br>Our blessings come from above.<br>What part of speech is 'above'?",
+    "options": ["Adverb", "Noun", "Preposition", "Adjective"],
+    "answer": "Noun",
+    "explanation": "এখানে 'above' শব্দটি Preposition 'from'-এর Object হিসেবে বসেছে। 'from above' মানে 'স্বর্গ থেকে'। তাই এখানে এটি Noun।"
+  },
+  {
+    "id": 101,
+    "question": "Study the following sentence:<br>He has a pain in his back.<br>What part of speech is 'back'?",
+    "options": ["Noun", "Adverb", "Verb", "Adjective"],
+    "answer": "Noun",
+    "explanation": "এখানে 'back' শব্দটি শরীরের একটি অংশের (পিঠ) নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 102,
+    "question": "Study the following sentence:<br>Please step back from the door.<br>What part of speech is 'back'?",
+    "options": ["Noun", "Adverb", "Verb", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'back' শব্দটি 'step' (Verb)-এর দিক নির্দেশ করছে (পিছনের দিকে), তাই এটি Adverb of Place।"
+  },
+  {
+    "id": 103,
+    "question": "Study the following sentence:<br>He backed his car into the garage.<br>What part of speech is 'backed'?",
+    "options": ["Noun", "Adverb", "Verb", "Adjective"],
+    "answer": "Verb",
+    "explanation": "এখানে 'backed' (পিছন দিকে নেওয়া) একটি কাজ বা Action বোঝাচ্ছে। এটি বাক্যের মূল Verb।"
+  },
+  {
+    "id": 104,
+    "question": "Study the following sentence:<br>Go out through the back door.<br>What part of speech is 'back'?",
+    "options": ["Noun", "Adverb", "Verb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'back' শব্দটি 'door' (Noun)-এর ঠিক আগে বসে দরজাটির অবস্থান (পিছনের) নির্দেশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 105,
+    "question": "Study the following sentence:<br>The boy rolled down the hill.<br>What part of speech is 'down'?",
+    "options": ["Preposition", "Adverb", "Noun", "Verb"],
+    "answer": "Preposition",
+    "explanation": "'down' শব্দটি 'the hill' (Noun)-এর আগে বসে বাক্যের অন্যান্য অংশের সাথে সম্পর্ক ও দিক নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 106,
+    "question": "Study the following sentence:<br>Please sit down.<br>What part of speech is 'down'?",
+    "options": ["Preposition", "Adverb", "Noun", "Verb"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'down'-এর পরে কোনো Object নেই। এটি শুধু 'sit' (Verb)-এর দিক নির্দেশ করছে (কোথায় বসবে), তাই এটি Adverb।"
+  },
+  {
+    "id": 107,
+    "question": "Study the following sentence:<br>Life has its ups and downs.<br>What part of speech is 'downs'?",
+    "options": ["Preposition", "Adverb", "Noun", "Verb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'downs' শব্দটি 'ups'-এর সাথে যুক্ত হয়ে জীবনের 'পতন' বা খারাপ সময়কে (একটি নির্দিষ্ট নাম) বোঝাচ্ছে। Object হিসেবে বসায় এটি Noun।"
+  },
+  {
+    "id": 108,
+    "question": "Study the following sentence:<br>Our team will down the opponents.<br>What part of speech is 'down'?",
+    "options": ["Preposition", "Adverb", "Noun", "Verb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'down' মানে 'পরাজিত করা' বা 'নামিয়ে দেওয়া'। এটি 'will' (Modal)-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 109,
+    "question": "Study the following sentence:<br>Prices are going up.<br>What part of speech is 'up'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'up'-এর পরে কোনো Noun নেই। এটি 'going' (Verb)-কে modify করে দাম বৃদ্ধির দিক নির্দেশ করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 110,
+    "question": "Study the following sentence:<br>Jack and Jill went up the hill.<br>What part of speech is 'up'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'up' শব্দটি 'the hill' (Noun)-এর পূর্বে বসে সম্পর্ক স্থাপন করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 111,
+    "question": "Study the following sentence:<br>He caught the next up train.<br>What part of speech is 'up'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এই বাক্যে 'up' শব্দটি 'train' (Noun)-এর আগে বসে ট্রেনটির বৈশিষ্ট্য বা গন্তব্য নির্দেশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 112,
+    "question": "Study the following sentence:<br>He lost his all in the business.<br>What part of speech is 'all'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'all' মানে 'তার সবকিছু' বা সমস্ত সম্পত্তি। Possessive Adjective (his)-এর পরে বসায় এটি Noun হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 113,
+    "question": "Study the following sentence:<br>All are welcome here.<br>What part of speech is 'All'?",
+    "options": ["Pronoun", "Adjective", "Adverb", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "'All' শব্দটি এখানে অনির্দিষ্ট ব্যক্তিবর্গের নামের পরিবর্তে বাক্যের Subject হিসেবে সরাসরি বসেছে, তাই এটি Pronoun।"
+  },
+  {
+    "id": 114,
+    "question": "Study the following sentence:<br>He ate all the biscuits.<br>What part of speech is 'all'?",
+    "options": ["Pronoun", "Adjective", "Adverb", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'all' শব্দটি 'biscuits' (Noun)-এর পরিমাণ (সবগুলো) নির্দেশ করছে, তাই এটি Adjective (বা Determiner)।"
+  },
+  {
+    "id": 115,
+    "question": "Study the following sentence:<br>He was left all alone.<br>What part of speech is 'all'?",
+    "options": ["Pronoun", "Adjective", "Adverb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'all' মানে 'সম্পূর্ণরূপে'। এটি 'alone' (Adjective)-কে modify করছে, Adjective-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 116,
+    "question": "Study the following sentence:<br>He is the only son of his parents.<br>What part of speech is 'only'?",
+    "options": ["Pronoun", "Conjunction", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'only' (একমাত্র) শব্দটি 'son' (Noun)-কে modify করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 117,
+    "question": "Study the following sentence:<br>He can only speak a little English.<br>What part of speech is 'only'?",
+    "options": ["Adverb", "Adjective", "Conjunction", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'only' শব্দটি 'speak' (Verb)-কে modify করছে (সে 'শুধুমাত্র' বলতে পারে)। তাই এটি Adverb।"
+  },
+  {
+    "id": 118,
+    "question": "Study the following sentence:<br>Take the money, only do not waste it.<br>What part of speech is 'only'?",
+    "options": ["Adverb", "Conjunction", "Adjective", "Noun"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'only'-এর অর্থ 'কিন্তু' বা 'except that'। এটি দুটি Clause-কে যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 119,
+    "question": "Study the following sentence:<br>It is my fundamental right.<br>What part of speech is 'right'?",
+    "options": ["Adverb", "Conjunction", "Noun", "Verb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'right' মানে 'অধিকার'। এটি 'fundamental' (Adjective)-এর পরে বসেছে এবং একটি ধারণার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 120,
+    "question": "Study the following sentence:<br>This is the right answer.<br>What part of speech is 'right'?",
+    "options": ["Adverb", "Conjunction", "Noun", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'right' (সঠিক) শব্দটি 'answer' (Noun)-কে modify করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 121,
+    "question": "Study the following sentence:<br>The arrow went right through the target.<br>What part of speech is 'right'?",
+    "options": ["Adverb", "Verb", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'right' মানে 'সোজাসুজি' বা 'ঠিক'। এটি Prepositional phrase 'through the target' বা Verb-কে modify করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 122,
+    "question": "Study the following sentence:<br>We must right the wrongs.<br>What part of speech is 'right'?",
+    "options": ["Adverb", "Verb", "Adjective", "Noun"],
+    "answer": "Verb",
+    "explanation": "এখানে 'right' মানে 'সংশোধন করা'। এটি 'must' (Modal)-এর পর মূল কাজ (Action) হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 123,
+    "question": "Study the following sentence:<br>They were wandering about in the forest.<br>What part of speech is 'about'?",
+    "options": ["Preposition", "Verb", "Adverb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'about' মানে 'আশেপাশে' বা 'এদিক-ওদিক'। এটি 'wandering' (Verb)-কে modify করছে এবং এর পরে সরাসরি কোনো Object নেই, তাই এটি Adverb।"
+  },
+  {
+    "id": 124,
+    "question": "Study the following sentence:<br>Tell me something about your journey.<br>What part of speech is 'about'?",
+    "options": ["Adverb", "Verb", "Adjective", "Preposition"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'about' (সম্পর্কে) শব্দটি 'your journey' (Noun)-এর আগে বসে বাক্যের সাথে তার সম্পর্ক স্থাপন করেছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 125,
+    "question": "Study the following sentence:<br>Either boy can win the prize.<br>What part of speech is 'Either'?",
+    "options": ["Adjective", "Pronoun", "Conjunction", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'Either' (যেকোনো একজন) শব্দটি 'boy' (Noun)-এর ঠিক আগে বসে তাকে নির্দিষ্ট করছে, তাই এটি Distributive Adjective।"
+  },
+  {
+    "id": 126,
+    "question": "Study the following sentence:<br>Ask either of them.<br>What part of speech is 'either'?",
+    "options": ["Adjective", "Pronoun", "Conjunction", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "এই বাক্যে 'either'-এর পরে সরাসরি কোনো Noun নেই, এটি Noun-এর পরিবর্তে ব্যবহৃত হয়েছে। তাই এটি Distributive Pronoun।"
+  },
+  {
+    "id": 127,
+    "question": "Study the following sentence:<br>Either come in or go out.<br>What part of speech is 'Either'?",
+    "options": ["Adjective", "Pronoun", "Conjunction", "Noun"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'Either' শব্দটি 'or'-এর সাথে যুক্ত হয়ে (Correlative) দুটি Clause বা কাজকে যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 128,
+    "question": "Study the following sentence:<br>Poverty is a great ill.<br>What part of speech is 'ill'?",
+    "options": ["Adjective", "Pronoun", "Conjunction", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'ill' মানে 'ব্যাধি' বা 'সমস্যা'। এটি 'a great' (Adjective)-এর পরে বসেছে এবং একটি জিনিসের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 129,
+    "question": "Study the following sentence:<br>She is seriously ill.<br>What part of speech is 'ill'?",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'ill' (অসুস্থ) শব্দটি 'She' (Pronoun)-এর শারীরিক অবস্থা বা বৈশিষ্ট্য প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 130,
+    "question": "Study the following sentence:<br>We can ill afford such luxury.<br>What part of speech is 'ill'?",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'ill' মানে 'খারাপভাবে' বা 'খুব কষ্টে'। এটি 'afford' (Verb)-কে modify করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 131,
+    "question": "Study the following sentence:<br>We need more people for the job.<br>What part of speech is 'more'?",
+    "options": ["Pronoun", "Adverb", "Adjective", "Verb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'more' শব্দটি 'people' (Noun)-এর সংখ্যা বা পরিমাণ (অধিক) নির্দেশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 132,
+    "question": "Study the following sentence:<br>I have enough, you can take more.<br>What part of speech is 'more'?",
+    "options": ["Adverb", "Adjective", "Verb", "Pronoun"],
+    "answer": "Pronoun",
+    "explanation": "এই বাক্যে 'more' কোনো নির্দিষ্ট বস্তুর (Noun) পরিবর্তে ব্যবহৃত হয়ে Object-এর স্থানে বসেছে, তাই এটি Pronoun।"
+  },
+  {
+    "id": 133,
+    "question": "Study the following sentence:<br>You should talk less and work more.<br>What part of speech is 'more'?",
+    "options": ["Adverb", "Adjective", "Pronoun", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'more' শব্দটি 'work' (Verb)-কে modify করছে (কী পরিমাণে কাজ করবে)। Verb-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 134,
+    "question": "Study the following sentence:<br>We need more light here.<br>What part of speech is 'light'?",
+    "options": ["Adverb", "Noun", "Adjective", "Verb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'light' (আলো) একটি দৃশ্যমান বস্তুর নাম বোঝাচ্ছে এবং Object হিসেবে ব্যবহৃত হয়েছে, তাই এটি Noun।"
+  },
+  {
+    "id": 135,
+    "question": "Study the following sentence:<br>She wore a light dress.<br>What part of speech is 'light'?",
+    "options": ["Adverb", "Noun", "Adjective", "Verb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'light' (হালকা রঙের বা পাতলা) শব্দটি 'dress' (Noun)-এর বৈশিষ্ট্য বা অবস্থা বর্ণনা করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 136,
+    "question": "Study the following sentence:<br>Please light the candle.<br>What part of speech is 'light'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'light' মানে 'জ্বালানো'। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি বাক্যের মূল Verb।"
+  },
+  {
+    "id": 137,
+    "question": "Study the following sentence:<br>He visits us once a month.<br>What part of speech is 'once'?",
+    "options": ["Adverb", "Conjunction", "Noun", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'once' (একবার) শব্দটি 'visits' (Verb)-এর ফ্রিকোয়েন্সি বা কতবার কাজটা হয় তা বোঝাচ্ছে, তাই এটি Adverb of Frequency।"
+  },
+  {
+    "id": 138,
+    "question": "Study the following sentence:<br>Once he starts speaking, he never stops.<br>What part of speech is 'Once'?",
+    "options": ["Adverb", "Conjunction", "Noun", "Adjective"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'Once' (যে মুহূর্তে বা যখনই) দুটি আলাদা Clause-কে যুক্ত করেছে, তাই এটি Conjunction হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 139,
+    "question": "Study the following sentence:<br>Please forgive him for this once.<br>What part of speech is 'once'?",
+    "options": ["Adverb", "Conjunction", "Noun", "Adjective"],
+    "answer": "Noun",
+    "explanation": "এই বাক্যে 'once' (একবার) শব্দটি Preposition 'for' এবং Adjective 'this'-এর পরে বসে Object-এর স্থানে রয়েছে, তাই এটি Noun।"
+  },
+  {
+    "id": 140,
+    "question": "Study the following sentence:<br>The baby is still sleeping.<br>What part of speech is 'still'?",
+    "options": ["Conjunction", "Noun", "Adjective", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'still' (এখনো) শব্দটি 'sleeping' (Verb)-এর সময়কাল বোঝাতে তাকে modify করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 141,
+    "question": "Study the following sentence:<br>Still waters run deep.<br>What part of speech is 'Still'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'Still' (স্থির বা শান্ত) শব্দটি 'waters' (Noun)-এর অবস্থা বা গুণ প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 142,
+    "question": "Study the following sentence:<br>A mother can still her crying child.<br>What part of speech is 'still'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'still' মানে 'শান্ত করা'। এটি 'can' (Modal)-এর পর মূল কাজ (Action) হিসেবে ব্যবহৃত হয়েছে, তাই এটি Verb।"
+  },
+  {
+    "id": 143,
+    "question": "Study the following sentence:<br>They met in the still of the night.<br>What part of speech is 'still'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'still' মানে 'নিস্তব্ধতা'। এটি Article 'the'-এর পরে বসে একটি অবস্থার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 144,
+    "question": "Study the following sentence:<br>Give me some time to think.<br>What part of speech is 'some'?",
+    "options": ["Verb", "Noun", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'some' (কিছু) শব্দটি 'time' (Noun)-এর পরিমাণ নির্দেশ করছে, তাই এটি Adjective of Quantity।"
+  },
+  {
+    "id": 145,
+    "question": "Study the following sentence:<br>Some are born great.<br>What part of speech is 'Some'?",
+    "options": ["Pronoun", "Adverb", "Adjective", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'Some' শব্দটি অনির্দিষ্ট ব্যক্তিবর্গের নামের পরিবর্তে সরাসরি বাক্যের Subject হিসেবে বসেছে, তাই এটি Indefinite Pronoun।"
+  },
+  {
+    "id": 146,
+    "question": "Study the following sentence:<br>The village is some twenty miles away.<br>What part of speech is 'some'?",
+    "options": ["Pronoun", "Adverb", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'some' মানে 'প্রায়' (about)। এটি 'twenty' (Number/Adjective)-কে modify করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 147,
+    "question": "Study the following sentence:<br>What do you want for dinner?<br>What part of speech is 'What'?",
+    "options": ["Adjective", "Interjection", "Pronoun", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'What' শব্দটি কোনো একটি জিনিসের নামের পরিবর্তে প্রশ্ন করার জন্য ব্যবহৃত হয়েছে, তাই এটি Interrogative Pronoun।"
+  },
+  {
+    "id": 148,
+    "question": "Study the following sentence:<br>What evidence do you have?<br>What part of speech is 'What'?",
+    "options": ["Interjection", "Pronoun", "Noun", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'What' শব্দটি 'evidence' (Noun)-এর ঠিক আগে বসে প্রশ্ন করতে সাহায্য করছে, তাই এটি Interrogative Adjective।"
+  },
+  {
+    "id": 149,
+    "question": "Study the following sentence:<br>What! You have failed again?<br>What part of speech is 'What'?",
+    "options": ["Interjection", "Pronoun", "Adjective", "Conjunction"],
+    "answer": "Interjection",
+    "explanation": "এই বাক্যে 'What!' শব্দটি কোনো প্রশ্ন করছে না, বরং হঠাৎ ঘটা তীব্র বিস্ময় প্রকাশ করছে, তাই এটি Interjection।"
+  },
+  {
+    "id": 150,
+    "question": "Study the following sentence:<br>Where does this road head to?<br>What part of speech is 'head'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "সাধারণত 'head' মানে মাথা (Noun), কিন্তু এখানে এটি 'এগিয়ে যাওয়া' বা 'পরিচালিত হওয়া' (Action) বোঝাচ্ছে। তাই এটি Verb।"
+  },
+  {
+    "id": 151,
+    "question": "Study the following sentence:<br>I sat there for a while.<br>What part of speech is 'while'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'while' (কিছু সময়) শব্দটি Preposition 'for' এবং Article 'a'-এর পরে বসে একটি নির্দিষ্ট সময়ের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 152,
+    "question": "Study the following sentence:<br>While there is life, there is hope.<br>What part of speech is 'While'?",
+    "options": ["Adverb", "Conjunction", "Preposition", "Noun"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'While' (যতক্ষণ) শব্দটি দুটি Clause-কে ('there is life' এবং 'there is hope') যুক্ত করেছে, তাই এটি Conjunction।"
+  },
+  {
+    "id": 153,
+    "question": "Study the following sentence:<br>They while away their evenings with books.<br>What part of speech is 'while'?",
+    "options": ["Noun", "Adverb", "Verb", "Adjective"],
+    "answer": "Verb",
+    "explanation": "এখানে 'while away' একটি Phrasal Verb যার অর্থ 'সময় কাটানো'। এটি বাক্যে মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 154,
+    "question": "Study the following sentence:<br>We walked as fast as we could.<br>What part of speech is the first 'as'?",
+    "options": ["Adjective", "Pronoun", "Noun", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "প্রথম 'as' শব্দটি 'fast' (Adverb)-কে modify করছে (কতটা দ্রুত), Adverb-কে modify করায় এটি নিজেও একটি Adverb।"
+  },
+  {
+    "id": 155,
+    "question": "Study the following sentence:<br>As he was poor, I helped him.<br>What part of speech is 'As'?",
+    "options": ["Conjunction", "Preposition", "Adverb", "Pronoun"],
+    "answer": "Conjunction",
+    "explanation": "এখানে 'As' (যেহেতু) শব্দটি দুটি Clause-কে যুক্ত করেছে, তাই এটি Conjunction হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 156,
+    "question": "Study the following sentence:<br>He likes the same color as I do.<br>What part of speech is 'as'?",
+    "options": ["Adjective", "Pronoun", "Adverb", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "Grammar-এর নিয়মানুযায়ী 'same'-এর পর 'as' ব্যবহৃত হলে সেটি Relative Pronoun হিসেবে কাজ করে।"
+  },
+  {
+    "id": 157,
+    "question": "Study the following sentence:<br>There is much sense in what he says.<br>What part of speech is 'much'?",
+    "options": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'much' শব্দটি 'sense' (Noun)-এর পরিমাণ নির্দেশ করছে (যথেষ্ট অর্থ), তাই এটি Adjective of Quantity।"
+  },
+  {
+    "id": 158,
+    "question": "Study the following sentence:<br>He talks too much.<br>What part of speech is 'much'?",
+    "options": ["Noun", "Pronoun", "Adjective", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'much' শব্দটি 'talks' (Verb)-কে modify করছে (সে কতটা কথা বলে)। Verb-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 159,
+    "question": "Study the following sentence:<br>Much of it is true.<br>What part of speech is 'Much'?",
+    "options": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'Much' (অনেকটাই) শব্দটি বাক্যের Subject হিসেবে বসেছে এবং একটি পরিমাণের পরিবর্তে ব্যবহৃত হয়েছে, তাই এটি Pronoun।"
+  },
+  {
+    "id": 160,
+    "question": "Study the following sentence:<br>I will see you next week.<br>What part of speech is 'next'?",
+    "options": ["Noun", "Adjective", "Adverb", "Preposition"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'next' শব্দটি 'week' (Noun)-এর আগে বসে তাকে নির্দিষ্ট করছে (পরবর্তী সপ্তাহ), তাই এটি Adjective।"
+  },
+  {
+    "id": 161,
+    "question": "Study the following sentence:<br>What happened next?<br>What part of speech is 'next'?",
+    "options": ["Preposition", "Noun", "Adverb", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'next' শব্দটি 'happened' (Verb)-এর সময় বা ক্রম (তারপর কী হলো) বোঝাচ্ছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 162,
+    "question": "Study the following sentence:<br>I shall tell you more in my next.<br>What part of speech is 'next'?",
+    "options": ["Preposition", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'my' (Possessive Adjective)-এর পর 'next' বসেছে যার অর্থ 'আমার পরবর্তী চিঠিতে বা সাক্ষাতে'। এটি Object হিসেবে বসায় Noun।"
+  },
+  {
+    "id": 163,
+    "question": "Study the following sentence:<br>Half of the apples are rotten.<br>What part of speech is 'Half'?",
+    "options": ["Pronoun", "Noun", "Adjective", "Adverb"],
+    "answer": "Pronoun",
+    "explanation": "'Half' (অর্ধেক) শব্দটি নির্দিষ্ট কোনো Noun-এর পরিবর্তে বসে বাক্যের Subject হিসেবে কাজ করছে, তাই এটি Pronoun।"
+  },
+  {
+    "id": 164,
+    "question": "Study the following sentence:<br>He gave me a half share.<br>What part of speech is 'half'?",
+    "options": ["Adverb", "Adjective", "Pronoun", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'half' শব্দটি 'share' (Noun)-এর পরিমাণ বোঝাচ্ছে (অর্ধেক ভাগ), তাই এটি Adjective।"
+  },
+  {
+    "id": 165,
+    "question": "Study the following sentence:<br>He was half dead with fear.<br>What part of speech is 'half'?",
+    "options": ["Noun", "Adjective", "Adverb", "Pronoun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'half' শব্দটি 'dead' (Adjective)-কে modify করছে (অর্ধমৃত)। Adjective-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 166,
+    "question": "Study the following sentence:<br>You are paying less attention to your studies.<br>What part of speech is 'less'?",
+    "options": ["Adverb", "Noun", "Pronoun", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'less' শব্দটি 'attention' (Noun)-এর পরিমাণ নির্দেশ করছে (কম মনোযোগ), তাই এটি Adjective।"
+  },
+  {
+    "id": 167,
+    "question": "Study the following sentence:<br>He sleeps less than he used to.<br>What part of speech is 'less'?",
+    "options": ["Adverb", "Adjective", "Pronoun", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'less' শব্দটি 'sleeps' (Verb)-কে modify করছে (সে কতটা ঘুমায়), তাই এটি Adverb।"
+  },
+  {
+    "id": 168,
+    "question": "Study the following sentence:<br>Less is known about this disease.<br>What part of speech is 'Less'?",
+    "options": ["Adverb", "Pronoun", "Adjective", "Noun"],
+    "answer": "Pronoun",
+    "explanation": "এখানে 'Less' (অল্প কিছু) শব্দটি বাক্যের Subject হিসেবে বসেছে এবং একটি পরিমাণের পরিবর্তে ব্যবহৃত হয়েছে, তাই এটি Pronoun।"
+  },
+  {
+    "id": 169,
+    "question": "Study the following sentence:<br>The ground is even here.<br>What part of speech is 'even'?",
+    "options": ["Verb", "Adverb", "Adjective", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'even' মানে 'সমতল'। এটি 'ground' (Noun)-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 170,
+    "question": "Study the following sentence:<br>Let us even the ground.<br>What part of speech is 'even'?",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'even' মানে 'সমতল করা' (Action)। এটি বাক্যে কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 171,
+    "question": "Study the following sentence:<br>Does he even know you?<br>What part of speech is 'even'?",
+    "options": ["Adverb", "Adjective", "Verb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'even' (এমনকি) শব্দটি 'know' (Verb)-কে modify করে বাক্যে জোর প্রদান করছে, তাই এটি Adverb।"
+  },
+  {
+    "id": 172,
+    "question": "Study the following sentence:<br>He walked past me.<br>What part of speech is 'past'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'past' শব্দটি 'me' (Pronoun)-এর আগে বসে অতিক্রম করার দিক ও সম্পর্ক নির্দেশ করছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 173,
+    "question": "Study the following sentence:<br>The time for action is past.<br>What part of speech is 'past'?",
+    "options": ["Noun", "Adverb", "Adjective", "Preposition"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'past' শব্দটি 'time' (Noun)-এর অবস্থা (অতীত হয়ে গেছে) বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 174,
+    "question": "Study the following sentence:<br>Let us forget the past.<br>What part of speech is 'past'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'past' মানে 'অতীত কাল'। Article 'the'-এর পরে বসে এটি একটি অবস্থার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 175,
+    "question": "Study the following sentence:<br>The train went past at full speed.<br>What part of speech is 'past'?",
+    "options": ["Adverb", "Preposition", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'past'-এর পরে কোনো Object নেই, এটি শুধুমাত্র 'went' (Verb)-কে modify করে গতিপথ বোঝাচ্ছে। তাই এটি Adverb।"
+  },
+  {
+    "id": 176,
+    "question": "Study the following sentence:<br>I was present at the meeting.<br>What part of speech is 'present'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'present' (উপস্থিত) শব্দটি Subject 'I'-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 177,
+    "question": "Study the following sentence:<br>At present, he is busy.<br>What part of speech is 'present'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'present' শব্দটি Preposition 'At'-এর Object হিসেবে বসে বর্তমান সময়কালকে (একটি নাম) বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 178,
+    "question": "Study the following sentence:<br>He will present a paper at the conference.<br>What part of speech is 'present'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'present' মানে 'উপস্থাপন করা'। এটি 'will' (Modal)-এর পর কাজ করা বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 179,
+    "question": "Study the following sentence:<br>May God save the King!<br>What part of speech is 'save'?",
+    "options": ["Verb", "Preposition", "Conjunction", "Noun"],
+    "answer": "Verb",
+    "explanation": "এখানে 'save' মানে 'রক্ষা করা'। এটি বাক্যের মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 180,
+    "question": "Study the following sentence:<br>All save him were drowned.<br>What part of speech is 'save'?",
+    "options": ["Verb", "Preposition", "Conjunction", "Noun"],
+    "answer": "Preposition",
+    "explanation": "এখানে 'save'-এর অর্থ 'ছাড়া' বা 'ব্যতীত' (except)। এটি 'him' (Pronoun)-এর আগে বসে সম্পর্ক স্থাপন করেছে, তাই এটি Preposition।"
+  },
+  {
+    "id": 181,
+    "question": "Study the following sentence:<br>This soup tastes delicious.<br>What part of speech is 'tastes'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'tastes' মানে 'স্বাদ লাগা'। এটি বাক্যের কাজ বোঝাচ্ছে, তাই এটি একটি Linking Verb।"
+  },
+  {
+    "id": 182,
+    "question": "Study the following sentence:<br>He has a good taste in music.<br>What part of speech is 'taste'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'taste' মানে 'রুচি' বা 'পছন্দ'। এটি Adjective 'good'-এর পরে বসে একটি গুণ বা ধারণার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 183,
+    "question": "Study the following sentence:<br>He took the pen in his hand.<br>What part of speech is 'hand'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'hand' শব্দটি শরীরের একটি অঙ্গের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 184,
+    "question": "Study the following sentence:<br>Please hand me the book.<br>What part of speech is 'hand'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'hand' মানে 'হাতে তুলে দেওয়া'। এটি কাজ করা বোঝাচ্ছে (Imperative sentence), তাই এটি Verb।"
+  },
+  {
+    "id": 185,
+    "question": "Study the following sentence:<br>This is a hand towel.<br>What part of speech is 'hand'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'hand' শব্দটি 'towel' (Noun)-এর আগে বসে তার ধরন (হাত মোছার তোয়ালে) বোঝাচ্ছে, তাই এটি Adjective হিসেবে কাজ করছে (Noun Adjective)।"
+  },
+  {
+    "id": 186,
+    "question": "Study the following sentence:<br>She has a smiling face.<br>What part of speech is 'face'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'face' শব্দটি মুখমণ্ডল বা চেহারার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 187,
+    "question": "Study the following sentence:<br>We must face the truth.<br>What part of speech is 'face'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'face' মানে 'মোকাবিলা করা' বা 'সম্মুখীন হওয়া'। এটি 'must' (Modal)-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 188,
+    "question": "Study the following sentence:<br>What is the color of the sky?<br>What part of speech is 'color'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'color' (রং) শব্দটি Article 'the'-এর পর বসেছে এবং একটি জিনিসের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 189,
+    "question": "Study the following sentence:<br>He will color the picture.<br>What part of speech is 'color'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'color' মানে 'রং করা'। এটি 'will' (Modal)-এর পর কাজ করা বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 190,
+    "question": "Study the following sentence:<br>They bought a color television.<br>What part of speech is 'color'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'color' শব্দটি 'television' (Noun)-এর আগে বসে তাকে modify করছে (রঙিন টিভি), তাই এটি Adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 191,
+    "question": "Study the following sentence:<br>Iron is a useful metal.<br>What part of speech is 'Iron'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'Iron' (লোহা) একটি ধাতুর নাম বোঝাচ্ছে এবং বাক্যের Subject হিসেবে বসেছে, তাই এটি Material Noun।"
+  },
+  {
+    "id": 192,
+    "question": "Study the following sentence:<br>He used an iron rod to break the lock.<br>What part of speech is 'iron'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'iron' শব্দটি 'rod' (Noun)-এর আগে বসে তার উপাদান (লোহার তৈরি) বোঝাচ্ছে, তাই এটি Adjective (Noun Adjective)।"
+  },
+  {
+    "id": 193,
+    "question": "Study the following sentence:<br>Please iron the shirt.<br>What part of speech is 'iron'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'iron' মানে 'ইস্ত্রি করা' (Action)। এটি কাজ করা বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 194,
+    "question": "Study the following sentence:<br>The boy threw a stone.<br>What part of speech is 'stone'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'stone' (পাথর) একটি বস্তুর নাম বোঝাচ্ছে এবং Object হিসেবে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 195,
+    "question": "Study the following sentence:<br>The house is built of stone walls.<br>What part of speech is 'stone'?",
+    "options": ["Adjective", "Noun", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'stone' শব্দটি 'walls' (Noun)-এর আগে বসে তার উপাদান (পাথরের দেওয়াল) বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 196,
+    "question": "Study the following sentence:<br>People used to stone the criminals.<br>What part of speech is 'stone'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'stone' মানে 'পাথর ছোড়া'। এটি 'used to'-এর পর মূল কাজ (Action) হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 197,
+    "question": "Study the following sentence:<br>Draw a square on the paper.<br>What part of speech is 'square'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'square' (চতুর্ভুজ বা বর্গক্ষেত্র) একটি আকারের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 198,
+    "question": "Study the following sentence:<br>He is a square peg in a round hole.<br>What part of speech is 'square'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'square' শব্দটি 'peg' (Noun)-এর আগে বসে তার আকার বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 199,
+    "question": "Study the following sentence:<br>Why did you do it?<br>What part of speech is 'Why'?",
+    "options": ["Adverb", "Interjection", "Noun", "Pronoun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'Why' শব্দটি 'did' (Verb)-কে modify করে কারণ (Reason) জিজ্ঞেস করছে, তাই এটি Interrogative Adverb।"
+  },
+  {
+    "id": 200,
+    "question": "Study the following sentence:<br>Why, it is surely a mistake!<br>What part of speech is 'Why'?",
+    "options": ["Adverb", "Interjection", "Noun", "Pronoun"],
+    "answer": "Interjection",
+    "explanation": "এই বাক্যে 'Why' শব্দটি কোনো প্রশ্ন করছে না, বরং হঠাৎ করে বিস্ময় বা বিরক্তি প্রকাশ করছে, তাই এটি Interjection।"
+  },
+  {
+    "id": 201,
+    "question": "Study the following sentence:<br>I heard a strange sound in the night.<br>What part of speech is 'sound'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'sound' (শব্দ) একটি নির্দিষ্ট ইন্দ্রিয়গ্রাহ্য বিষয়ের নাম বোঝাচ্ছে এবং এটি Article 'a'-এর পরে Object হিসেবে বসেছে। তাই এটি Noun।"
+  },
+  {
+    "id": 202,
+    "question": "Study the following sentence:<br>He has a sound mind in a sound body.<br>What part of speech is 'sound'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'sound' (সুস্থ বা সবল) শব্দটি 'mind' এবং 'body' (Noun)-এর গুণ বা অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 203,
+    "question": "Study the following sentence:<br>Sound the alarm immediately.<br>What part of speech is 'sound'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'sound' মানে 'বাজানো'। এটি একটি Imperative Sentence-এর মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 204,
+    "question": "Study the following sentence:<br>He has a brilliant mind.<br>What part of speech is 'mind'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'mind' (মন বা মেধা) শব্দটি একটি গুণের নাম বোঝাচ্ছে এবং 'brilliant' (Adjective)-এর পরে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 205,
+    "question": "Study the following sentence:<br>Mind your own business.<br>What part of speech is 'Mind'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'Mind' মানে 'মনোযোগ দেওয়া' বা 'খেয়াল রাখা'। এটি বাক্যের মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 206,
+    "question": "Study the following sentence:<br>Please keep the door open.<br>What part of speech is 'open'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'open' (খোলা) শব্দটি 'door' (Noun)-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 207,
+    "question": "Study the following sentence:<br>Open the door for the guests.<br>What part of speech is 'Open'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এই বাক্যে 'Open' মানে 'খোলা' (Action)। এটি কাজ করা বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 208,
+    "question": "Study the following sentence:<br>The children are playing in the open.<br>What part of speech is 'open'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'open' মানে 'খোলা জায়গা' বা মাঠ। Article 'the'-এর পরে বসে এটি একটি স্থানের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 209,
+    "question": "Study the following sentence:<br>Close the window before you leave.<br>What part of speech is 'Close'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'Close' মানে 'বন্ধ করা'। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 210,
+    "question": "Study the following sentence:<br>He is a close friend of mine.<br>What part of speech is 'close'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'close' (ঘনিষ্ঠ) শব্দটি 'friend' (Noun)-এর আগে বসে তাকে modify করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 211,
+    "question": "Study the following sentence:<br>Come close and look at this.<br>What part of speech is 'close'?",
+    "options": ["Verb", "Noun", "Adverb", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'close' শব্দটি 'Come' (Verb)-এর স্থান বা দিক নির্দেশ করছে (কোথায় আসবে), তাই এটি Adverb।"
+  },
+  {
+    "id": 212,
+    "question": "Study the following sentence:<br>He is the master of this house.<br>What part of speech is 'master'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'master' (প্রভু বা মালিক) শব্দটি একটি পদমর্যাদা বা ব্যক্তির নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 213,
+    "question": "Study the following sentence:<br>You must master the English language.<br>What part of speech is 'master'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'master' মানে 'আয়ত্ত করা' বা 'দক্ষ হওয়া'। এটি 'must' (Modal)-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 214,
+    "question": "Study the following sentence:<br>They have created a master plan.<br>What part of speech is 'master'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'master' শব্দটি 'plan' (Noun)-এর আগে বসে তার ধরন (মূল পরিকল্পনা) নির্দেশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 215,
+    "question": "Study the following sentence:<br>Write your name on a piece of paper.<br>What part of speech is 'paper'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'paper' (কাগজ) একটি বস্তু বা উপাদানের নাম বোঝাচ্ছে, তাই এটি Material Noun।"
+  },
+  {
+    "id": 216,
+    "question": "Study the following sentence:<br>The children are making paper boats.<br>What part of speech is 'paper'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'paper' শব্দটি 'boats' (Noun)-এর আগে বসে তার উপাদান (কাগজের তৈরি) বোঝাচ্ছে, তাই এটি Adjective (Noun Adjective)।"
+  },
+  {
+    "id": 217,
+    "question": "Study the following sentence:<br>My father bought me a gold watch.<br>What part of speech is 'watch'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'watch' (ঘড়ি) একটি বস্তুর নাম বোঝাচ্ছে এবং Object হিসেবে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 218,
+    "question": "Study the following sentence:<br>I like to watch movies on weekends.<br>What part of speech is 'watch'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'watch' মানে 'দেখা' (Action)। এটি 'to'-এর পর বসে Infinitive গঠন করেছে এবং মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 219,
+    "question": "Study the following sentence:<br>Spring is the king of all seasons.<br>What part of speech is 'Spring'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'Spring' (বসন্তকাল) একটি ঋতুর নাম বোঝাচ্ছে এবং বাক্যের Subject হিসেবে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 220,
+    "question": "Study the following sentence:<br>Tigers spring on their prey suddenly.<br>What part of speech is 'spring'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'spring' মানে 'ঝাঁপিয়ে পড়া' বা 'লাফ দেওয়া'। এটি বাক্যের মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 221,
+    "question": "Study the following sentence:<br>Is there a direct flight to Delhi?<br>What part of speech is 'direct'?",
+    "options": ["Adjective", "Verb", "Adverb", "Noun"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'direct' (সরাসরি) শব্দটি 'flight' (Noun)-এর বৈশিষ্ট্য বা ধরন বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 222,
+    "question": "Study the following sentence:<br>Please direct the tourists to the museum.<br>What part of speech is 'direct'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'direct' মানে 'পথ দেখানো' বা 'পরিচালনা করা'। এটি বাক্যের মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 223,
+    "question": "Study the following sentence:<br>He went direct to the station.<br>What part of speech is 'direct'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'direct' শব্দটি 'went' (Verb)-এর ধরন বা দিক নির্দেশ করছে (সোজাসুজি গেল), তাই এটি Adverb।"
+  },
+  {
+    "id": 224,
+    "question": "Study the following sentence:<br>The sky is clear today.<br>What part of speech is 'clear'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'clear' (পরিষ্কার) শব্দটি 'sky' (Noun)-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 225,
+    "question": "Study the following sentence:<br>Clear the table immediately.<br>What part of speech is 'Clear'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'Clear' মানে 'পরিষ্কার করা' (Action)। এটি একটি Imperative Sentence-এর মূল Verb।"
+  },
+  {
+    "id": 226,
+    "question": "Study the following sentence:<br>Please stand clear of the doors.<br>What part of speech is 'clear'?",
+    "options": ["Verb", "Adverb", "Noun", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'clear' শব্দটি 'stand' (Verb)-কে modify করছে (দূরে দাঁড়ানো)। Verb-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 227,
+    "question": "Study the following sentence:<br>He is now a free man.<br>What part of speech is 'free'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'free' (মুক্ত বা স্বাধীন) শব্দটি 'man' (Noun)-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 228,
+    "question": "Study the following sentence:<br>They decided to free the caged birds.<br>What part of speech is 'free'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'free' মানে 'মুক্ত করা' (Action)। 'to'-এর পর বসে এটি মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 229,
+    "question": "Study the following sentence:<br>Children under five can travel free.<br>What part of speech is 'free'?",
+    "options": ["Adverb", "Noun", "Verb", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'free' শব্দটি 'travel' (Verb)-কে modify করছে (কীভাবে ভ্রমণ করবে - বিনামূল্যে)। তাই এটি Adverb।"
+  },
+  {
+    "id": 230,
+    "question": "Study the following sentence:<br>It was a long and tiring journey.<br>What part of speech is 'long'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'long' (দীর্ঘ) শব্দটি 'journey' (Noun)-এর বৈশিষ্ট্য বা দৈর্ঘ্য প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 231,
+    "question": "Study the following sentence:<br>He did not stay long at the party.<br>What part of speech is 'long'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'long' (দীর্ঘক্ষণ) শব্দটি 'stay' (Verb)-এর সময়কাল বোঝাচ্ছে, তাই এটি Adverb of Time।"
+  },
+  {
+    "id": 232,
+    "question": "Study the following sentence:<br>I long for a quiet vacation.<br>What part of speech is 'long'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'long' মানে 'তীব্র আকাঙ্ক্ষা করা' (Action)। এটি বাক্যের মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 233,
+    "question": "Study the following sentence:<br>Keep calm and carry on.<br>What part of speech is 'calm'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'calm' (শান্ত) শব্দটি মনের অবস্থা বোঝাচ্ছে, তাই এটি Adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 234,
+    "question": "Study the following sentence:<br>A mother can calm her crying baby.<br>What part of speech is 'calm'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'calm' মানে 'শান্ত করা'। এটি 'can' (Modal)-এর পর মূল কাজ (Action) হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 235,
+    "question": "Study the following sentence:<br>Enjoy the calm before the storm.<br>What part of speech is 'calm'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'calm' মানে 'নিস্তব্ধতা'। এটি Article 'the'-এর পর বসে একটি অবস্থার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 236,
+    "question": "Study the following sentence:<br>He was a brave soldier.<br>What part of speech is 'brave'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'brave' (সাহসী) শব্দটি 'soldier' (Noun)-এর গুণ প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 237,
+    "question": "Study the following sentence:<br>Fortune favors the brave.<br>What part of speech is 'brave'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "Adjective-এর আগে 'the' বসলে তা সমগ্র শ্রেণিকে বুঝিয়ে Plural Common Noun হিসেবে কাজ করে। 'the brave' মানে সাহসী মানুষেরা, তাই এটি Noun।"
+  },
+  {
+    "id": 238,
+    "question": "Study the following sentence:<br>They had to brave the heavy storm.<br>What part of speech is 'brave'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'brave' মানে 'সাহসের সাথে মোকাবিলা করা' (Action)। এটি কাজ করা বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 239,
+    "question": "Study the following sentence:<br>He handed me an empty glass.<br>What part of speech is 'empty'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'empty' (খালি) শব্দটি 'glass' (Noun)-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 240,
+    "question": "Study the following sentence:<br>Please empty the dustbin.<br>What part of speech is 'empty'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'empty' মানে 'খালি করা'। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 241,
+    "question": "Study the following sentence:<br>He helped a blind man to cross the road.<br>What part of speech is 'blind'?",
+    "options": ["Adjective", "Verb", "Noun", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'blind' (অন্ধ) শব্দটি 'man' (Noun)-এর শারীরিক অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 242,
+    "question": "Study the following sentence:<br>Do not blind him with the flashlight.<br>What part of speech is 'blind'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'blind' মানে 'অন্ধ করে দেওয়া' বা 'দৃষ্টি ধাঁধিয়ে দেওয়া'। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 243,
+    "question": "Study the following sentence:<br>The blind need our help and support.<br>What part of speech is 'blind'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "Adjective-এর আগে 'the' বসলে তা সমগ্র শ্রেণিকে বুঝিয়ে Plural Common Noun হিসেবে কাজ করে। 'The blind' মানে দৃষ্টিহীন মানুষেরা, তাই এটি Noun।"
+  },
+  {
+    "id": 244,
+    "question": "Study the following sentence:<br>You have given the wrong answer.<br>What part of speech is 'wrong'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'wrong' (ভুল) শব্দটি 'answer' (Noun)-এর গুণ বা অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 245,
+    "question": "Study the following sentence:<br>You guessed wrong this time.<br>What part of speech is 'wrong'?",
+    "options": ["Adverb", "Noun", "Verb", "Adjective"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'wrong' শব্দটি 'guessed' (Verb)-কে modify করছে (কীভাবে অনুমান করেছে - ভুলভাবে), তাই এটি Adverb।"
+  },
+  {
+    "id": 246,
+    "question": "Study the following sentence:<br>A king can do no wrong.<br>What part of speech is 'wrong'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'wrong' মানে 'ভুল কাজ' বা 'অন্যায়'। এটি 'do' (Verb)-এর Object হিসেবে বসে একটি কাজের নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 247,
+    "question": "Study the following sentence:<br>Do not wrong the poor people.<br>What part of speech is 'wrong'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'wrong' মানে 'অন্যায় করা' বা 'ক্ষতি করা'। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 248,
+    "question": "Study the following sentence:<br>They gave him a warm welcome.<br>What part of speech is 'warm'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'warm' (উষ্ণ বা আন্তরিক) শব্দটি 'welcome' (Noun)-এর বৈশিষ্ট্য প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 249,
+    "question": "Study the following sentence:<br>Please warm the milk for the baby.<br>What part of speech is 'warm'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'warm' মানে 'গরম করা' (Action)। এটি কাজ করা বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 250,
+    "question": "Study the following sentence:<br>Men and women should have equal rights.<br>What part of speech is 'equal'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'equal' (সমান) শব্দটি 'rights' (Noun)-এর পরিমাণ বা বৈশিষ্ট্য প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 251,
+    "question": "Study the following sentence:<br>He has no equal in this field.<br>What part of speech is 'equal'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'equal' (সমকক্ষ ব্যক্তি) শব্দটি 'no' (Adjective)-এর পরে বসে একটি ব্যক্তির অবস্থান বা নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 252,
+    "question": "Study the following sentence:<br>Two plus two equals four.<br>What part of speech is 'equals'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'equals' (সমান হওয়া) একটি কাজ বা সমীকরণ মেলাচ্ছে। এটি বাক্যের মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 253,
+    "question": "Study the following sentence:<br>I am reading a good book.<br>What part of speech is 'book'?",
+    "options": ["Verb", "Adverb", "Noun", "Adjective"],
+    "answer": "Noun",
+    "explanation": "এখানে 'book' (বই) একটি পড়ার সামগ্রীর নাম বোঝাচ্ছে এবং Object হিসেবে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 254,
+    "question": "Study the following sentence:<br>Did you book the tickets?<br>What part of speech is 'book'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'book' মানে 'সংরক্ষণ করা' (Reserve)। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 255,
+    "question": "Study the following sentence:<br>The book fair is very crowded today.<br>What part of speech is 'book'?",
+    "options": ["Adjective", "Noun", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'book' শব্দটি 'fair' (Noun)-এর আগে বসে তার ধরন (বইমেলা) বোঝাচ্ছে, তাই এটি Adjective (Noun Adjective)।"
+  },
+  {
+    "id": 256,
+    "question": "Study the following sentence:<br>He has a very large head.<br>What part of speech is 'head'?",
+    "options": ["Adverb", "Noun", "Verb", "Adjective"],
+    "answer": "Noun",
+    "explanation": "এখানে 'head' শব্দটি শরীরের একটি অংশের (মাথা) নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 257,
+    "question": "Study the following sentence:<br>He is the head clerk of this office.<br>What part of speech is 'head'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'head' (প্রধান) শব্দটি 'clerk' (Noun)-এর আগে বসে তার পদমর্যাদা বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 258,
+    "question": "Study the following sentence:<br>Who will head the committee?<br>What part of speech is 'head'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'head' মানে 'নেতৃত্ব দেওয়া'। এটি 'will' (Modal)-এর পর মূল কাজ (Action) হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 259,
+    "question": "Study the following sentence:<br>Jesus died on the cross.<br>What part of speech is 'cross'?",
+    "options": ["Noun", "Verb", "Adjective", "Preposition"],
+    "answer": "Noun",
+    "explanation": "এখানে 'cross' (ক্রুশ) একটি বিশেষ আকৃতির কাঠামোর নাম বোঝাচ্ছে এবং Article 'the'-এর পর বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 260,
+    "question": "Study the following sentence:<br>Do not cross the road here.<br>What part of speech is 'cross'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'cross' মানে 'পার হওয়া' (Action)। এটি একটি Imperative Sentence-এর মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 261,
+    "question": "Study the following sentence:<br>The little girl is very cross today.<br>What part of speech is 'cross'?",
+    "options": ["Noun", "Verb", "Adjective", "Preposition"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'cross' মানে 'রাগান্বিত' বা 'বিরক্ত' (Angry)। এটি 'girl' (Noun)-এর মানসিক অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 262,
+    "question": "Study the following sentence:<br>There is no smoke without fire.<br>What part of speech is 'fire'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'fire' (আগুন) একটি প্রাকৃতিক উপাদানের নাম বোঝাচ্ছে, তাই এটি Material Noun।"
+  },
+  {
+    "id": 263,
+    "question": "Study the following sentence:<br>Fire the gun immediately!<br>What part of speech is 'Fire'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'Fire' মানে 'গুলি চালানো'। এটি কাজ করা (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 264,
+    "question": "Study the following sentence:<br>It was a very tough match.<br>What part of speech is 'match'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'match' (খেলা) একটি প্রতিযোগিতার নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 265,
+    "question": "Study the following sentence:<br>These shoes do not match your dress.<br>What part of speech is 'match'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'match' মানে 'মানানসই হওয়া' বা 'মেলা'। এটি বাক্যের মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 266,
+    "question": "Study the following sentence:<br>He has a double chin.<br>What part of speech is 'double'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'double' (দ্বিগুণ বা জোড়া) শব্দটি 'chin' (Noun)-এর বৈশিষ্ট্য বা আকার বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 267,
+    "question": "Study the following sentence:<br>You must double your efforts.<br>What part of speech is 'double'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'double' মানে 'দ্বিগুণ করা' (Action)। এটি 'must'-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 268,
+    "question": "Study the following sentence:<br>He was bent double with pain.<br>What part of speech is 'double'?",
+    "options": ["Noun", "Adverb", "Adjective", "Verb"],
+    "answer": "Adverb",
+    "explanation": "এই বাক্যে 'double' শব্দটি 'bent' (Verb)-কে modify করছে (কীভাবে বেঁকে গেছে - দুমড়ে মুচড়ে), তাই এটি Adverb।"
+  },
+  {
+    "id": 269,
+    "question": "Study the following sentence:<br>He reached the top of the mountain.<br>What part of speech is 'top'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'top' (চূড়া) একটি নির্দিষ্ট অবস্থানের নাম বোঝাচ্ছে এবং Article 'the'-এর পরে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 270,
+    "question": "Study the following sentence:<br>This is a top secret mission.<br>What part of speech is 'top'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'top' শব্দটি 'secret' (Noun/Adjective)-এর আগে বসে তার সর্বোচ্চ মাত্রা (অত্যন্ত গোপনীয়) বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 271,
+    "question": "Study the following sentence:<br>He will surely top the exam.<br>What part of speech is 'top'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'top' মানে 'প্রথম স্থান অধিকার করা' (Action)। এটি 'will' (Modal)-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 272,
+    "question": "Study the following sentence:<br>Let us put an end to this discussion.<br>What part of speech is 'end'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'end' (সমাপ্তি) একটি অবস্থার নাম বোঝাচ্ছে এবং Article 'an'-এর পর Object হিসেবে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 273,
+    "question": "Study the following sentence:<br>The movie will end soon.<br>What part of speech is 'end'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'end' মানে 'শেষ হওয়া' (Action)। এটি বাক্যের মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 274,
+    "question": "Study the following sentence:<br>Love is blind.<br>What part of speech is 'Love'?",
+    "options": ["Verb", "Adjective", "Adverb", "Noun"],
+    "answer": "Noun",
+    "explanation": "এখানে 'Love' (ভালোবাসা) একটি অনুভূতির নাম বোঝাচ্ছে এবং বাক্যের Subject হিসেবে বসেছে, তাই এটি Abstract Noun।"
+  },
+  {
+    "id": 275,
+    "question": "Study the following sentence:<br>I love to read story books.<br>What part of speech is 'love'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'love' (ভালোবাসা বা পছন্দ করা) একটি কাজ বা মানসিক অবস্থা (Action/State) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 276,
+    "question": "Study the following sentence:<br>He played a great part in the play.<br>What part of speech is 'part'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'part' (ভূমিকা বা অংশ) একটি ধারণার নাম বোঝাচ্ছে এবং Object হিসেবে ব্যবহৃত হয়েছে, তাই এটি Noun।"
+  },
+  {
+    "id": 277,
+    "question": "Study the following sentence:<br>The two friends had to part in tears.<br>What part of speech is 'part'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'part' মানে 'আলাদা হওয়া' বা 'বিচ্ছিন্ন হওয়া' (Action)। 'to'-এর পর বসে এটি মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 278,
+    "question": "Study the following sentence:<br>His lips were part open.<br>What part of speech is 'part'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'part' মানে 'আংশিক ভাবে' (partially)। এটি 'open' (Adjective)-কে modify করছে, Adjective-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 279,
+    "question": "Study the following sentence:<br>They offered him a square meal.<br>What part of speech is 'square'?",
+    "options": ["Adjective", "Noun", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'square meal' একটি phrase যার অর্থ 'পর্যাপ্ত ও পুষ্টিকর খাবার'। 'square' শব্দটি 'meal' (Noun)-এর গুণ বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 280,
+    "question": "Study the following sentence:<br>You should square your shoulders.<br>What part of speech is 'square'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'square' মানে 'সোজা করা' বা 'টানটান করা' (Action)। এটি 'should'-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 281,
+    "question": "Study the following sentence:<br>There is no hope left for his recovery.<br>What part of speech is 'hope'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'hope' (আশা) একটি অনুভূতির নাম বোঝাচ্ছে এবং 'no' (Adjective)-এর পর বসেছে, তাই এটি Abstract Noun।"
+  },
+  {
+    "id": 282,
+    "question": "Study the following sentence:<br>I hope to see you again soon.<br>What part of speech is 'hope'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'hope' (আশা করা) একটি মানসিক কাজ (Action) বোঝাচ্ছে, তাই এটি বাক্যের মূল Verb।"
+  },
+  {
+    "id": 283,
+    "question": "Study the following sentence:<br>He stood at the front of the line.<br>What part of speech is 'front'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'front' (সামনের অংশ) একটি নির্দিষ্ট স্থানের নাম বোঝাচ্ছে এবং Article 'the'-এর পরে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 284,
+    "question": "Study the following sentence:<br>Please close the front door.<br>What part of speech is 'front'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'front' শব্দটি 'door' (Noun)-এর আগে বসে তার অবস্থান (সামনের) নির্দিষ্ট করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 285,
+    "question": "Study the following sentence:<br>The house fronts the sea.<br>What part of speech is 'fronts'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'fronts' মানে 'মুখোমুখি হওয়া' বা 'সামনে অবস্থিত হওয়া'। এটি বাক্যের মূল কাজ (Action) বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 286,
+    "question": "Study the following sentence:<br>He spoke in a lower voice.<br>What part of speech is 'lower'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'lower' (নিচু) শব্দটি 'voice' (Noun)-এর অবস্থা (কেমন স্বর) বোঝাচ্ছে, তাই এটি Adjective (Comparative form)।"
+  },
+  {
+    "id": 287,
+    "question": "Study the following sentence:<br>Lower your voice in the hospital.<br>What part of speech is 'Lower'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'Lower' মানে 'নিচু করা' (Action)। এটি একটি Imperative Sentence-এর মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 288,
+    "question": "Study the following sentence:<br>He broke the world record yesterday.<br>What part of speech is 'record'?",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'record' (রেকর্ড বা নথি) একটি জিনিসের নাম বোঝাচ্ছে এবং Object হিসেবে ব্যবহৃত হয়েছে, তাই এটি Noun।"
+  },
+  {
+    "id": 289,
+    "question": "Study the following sentence:<br>Please record this transaction in the book.<br>What part of speech is 'record'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'record' মানে 'নথিভুক্ত করা' বা 'লিখে রাখা' (Action)। এটি বাক্যের কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  },
+  {
+    "id": 290,
+    "question": "Study the following sentence:<br>He completed the race in record time.<br>What part of speech is 'record'?",
+    "options": ["Noun", "Verb", "Adverb", "Adjective"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'record' শব্দটি 'time' (Noun)-এর আগে বসে তার বৈশিষ্ট্য (রেকর্ড গড়া সময়) বোঝাচ্ছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 291,
+    "question": "Study the following sentence:<br>They live in a beautiful house.<br>What part of speech is 'house'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'house' (বাড়ি) একটি নির্দিষ্ট কাঠামোর নাম বোঝাচ্ছে, তাই এটি Noun।"
+  },
+  {
+    "id": 292,
+    "question": "Study the following sentence:<br>The museum can house thousands of artifacts.<br>What part of speech is 'house'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'house' মানে 'জায়গা দেওয়া' বা 'সংরক্ষণ করা' (Action)। এটি 'can' (Modal)-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 293,
+    "question": "Study the following sentence:<br>He drew a perfect circle on the board.<br>What part of speech is 'perfect'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'perfect' (নিখুঁত) শব্দটি 'circle' (Noun)-এর গুণ বা অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 294,
+    "question": "Study the following sentence:<br>Practice will perfect your skills.<br>What part of speech is 'perfect'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'perfect' মানে 'নিখুঁত করা' বা 'উন্নত করা' (Action)। এটি 'will'-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 295,
+    "question": "Study the following sentence:<br>He stood clear of the danger.<br>What part of speech is 'clear'?",
+    "options": ["Adverb", "Verb", "Adjective", "Noun"],
+    "answer": "Adverb",
+    "explanation": "এখানে 'clear' শব্দটি 'stood' (Verb)-কে modify করছে (বিপদ থেকে 'দূরে' দাঁড়ানো)। Verb-কে modify করায় এটি Adverb।"
+  },
+  {
+    "id": 296,
+    "question": "Study the following sentence:<br>It is a fine day for a picnic.<br>What part of speech is 'fine'?",
+    "options": ["Noun", "Adjective", "Verb", "Adverb"],
+    "answer": "Adjective",
+    "explanation": "এখানে 'fine' (সুন্দর বা রৌদ্রোজ্জ্বল) শব্দটি 'day' (Noun)-এর অবস্থা প্রকাশ করছে, তাই এটি Adjective।"
+  },
+  {
+    "id": 297,
+    "question": "Study the following sentence:<br>He had to pay a heavy fine.<br>What part of speech is 'fine'?",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'fine' (জরিমানা) একটি অর্থের নাম বোঝাচ্ছে এবং 'heavy' (Adjective)-এর পরে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 298,
+    "question": "Study the following sentence:<br>The police will fine you for speeding.<br>What part of speech is 'fine'?",
+    "options": ["Noun", "Adjective", "Adverb", "Verb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'fine' মানে 'জরিমানা করা' (Action)। এটি 'will'-এর পর মূল কাজ হিসেবে বসেছে, তাই এটি Verb।"
+  },
+  {
+    "id": 299,
+    "question": "Study the following sentence:<br>Did you see the notice on the wall?<br>What part of speech is 'notice'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Noun",
+    "explanation": "এখানে 'notice' (বিজ্ঞপ্তি) একটি লেখার বা নথির নাম বোঝাচ্ছে এবং Article 'the'-এর পর Object হিসেবে বসেছে, তাই এটি Noun।"
+  },
+  {
+    "id": 300,
+    "question": "Study the following sentence:<br>I didn't notice him entering the room.<br>What part of speech is 'notice'?",
+    "options": ["Noun", "Verb", "Adjective", "Adverb"],
+    "answer": "Verb",
+    "explanation": "এখানে 'notice' মানে 'খেয়াল করা' বা 'লক্ষ্য করা' (Action)। এটি বাক্যের মূল কাজ বোঝাচ্ছে, তাই এটি Verb।"
+  }
+]

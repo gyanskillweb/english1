@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "The ______ of Kashmir is very charming.",
+    "options": ["scenery", "sceneries", "scenery's", "sceneries'"],
+    "answer": "scenery",
+    "explanation": "'Scenery' একটি Uncountable Noun (যাকে গোনা যায় না)। তাই এর কোনো Plural form (sceneries) হয় না। সর্বদা Singular form-এ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 2,
+    "question": "He gave me a lot of good ______.",
+    "options": ["advice", "advices", "advise", "advises"],
+    "answer": "advice",
+    "explanation": "'Advice' (উপদেশ) একটি Uncountable Noun। এর সাথে 's' যুক্ত করে Plural করা যায় না। 'Advise' হলো Verb।"
+  },
+  {
+    "id": 3,
+    "question": "All the ______ in the room are broken.",
+    "options": ["furniture", "furnitures", "piece of furnitures", "furniture's"],
+    "answer": "furniture",
+    "explanation": "'Furniture' একটি Uncountable Noun। একে Plural করতে 'furnitures' লেখা ভুল। অনেকগুলো বোঝাতে 'pieces of furniture' বলা যেতে পারে, কিন্তু শুধু 'furniture' সর্বদা Singular form-এ থাকে।"
+  },
+  {
+    "id": 4,
+    "question": "The ______ are grazing in the field.",
+    "options": ["cattle", "cattles", "cattle's", "cattles'"],
+    "answer": "cattle",
+    "explanation": "'Cattle' শব্দটি দেখতে Singular হলেও এটি মূলত Plural Noun। তাই এর সাথে আলাদা করে 's' (cattles) যোগ করার প্রয়োজন নেই।"
+  },
+  {
+    "id": 5,
+    "question": "I have read many ______ of Rabindranath Tagore.",
+    "options": ["poetry", "poetries", "poems", "piece of poetry"],
+    "answer": "poems",
+    "explanation": "'Poetry' হলো Uncountable Noun (কাব্য), এর Plural হয় না। অনেকগুলো কবিতা বোঝাতে 'poems' (কবিতাগুলি) ব্যবহার করতে হবে।"
+  },
+  {
+    "id": 6,
+    "question": "The ______ arrested the thief last night.",
+    "options": ["police", "polices", "policeman", "polices'"],
+    "answer": "police",
+    "explanation": "'Police' শব্দটি সর্বদা Plural Noun হিসেবে ব্যবহৃত হয় এবং এর পরে Plural verb বসে। 'polices' বলে কোনো শব্দ নেই। একজন পুলিশ বোঝাতে 'policeman' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 7,
+    "question": "Where are my ______?",
+    "options": ["trouser", "trousers", "trouser's", "trousers's"],
+    "answer": "trousers",
+    "explanation": "যেসব পোশাক বা যন্ত্রের দুটি অংশ থাকে (যেমন- trousers, scissors, spectacles), তারা সর্বদা Plural form-এ থাকে।"
+  },
+  {
+    "id": 8,
+    "question": "Mathematics ______ my favorite subject.",
+    "options": ["is", "are", "have", "has"],
+    "answer": "is",
+    "explanation": "'Mathematics' শব্দের শেষে 's' থাকলেও এটি একটি বিষয়ের নাম, তাই এটি Singular Noun এবং এর সাথে Singular verb 'is' বসবে।"
+  },
+  {
+    "id": 9,
+    "question": "I need a pair of ______ to cut this paper.",
+    "options": ["scissor", "scissors", "scissor's", "scissors'"],
+    "answer": "scissors",
+    "explanation": "কাঁচির দুটি অংশ থাকে, তাই এটি সর্বদা Plural noun 'scissors' হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 10,
+    "question": "No ______ is good news.",
+    "options": ["news", "newses", "new", "news's"],
+    "answer": "news",
+    "explanation": "'News' শব্দটি দেখতে Plural মনে হলেও এটি Singular Uncountable Noun। এর কোনো Plural form হয় না।"
+  },
+  {
+    "id": 11,
+    "question": "He bought three ______ eggs.",
+    "options": ["dozen", "dozens", "dozen's", "dozens'"],
+    "answer": "dozen",
+    "explanation": "Dozen, hundred, thousand ইত্যাদি শব্দের আগে নির্দিষ্ট সংখ্যা (যেমন- three) থাকলে এদের সাথে 's' যোগ করে Plural করা যায় না।"
+  },
+  {
+    "id": 12,
+    "question": "The ______ of this table are broken.",
+    "options": ["leg", "legs", "table's legs", "tables' legs"],
+    "answer": "legs",
+    "explanation": "জড়বস্তুর (Non-living things) ক্ষেত্রে Apostrophe 's' ('s) ব্যবহার করা যায় না। তাই 'table's legs' ভুল, সঠিক হলো 'The legs of the table'। অপশন অনুযায়ী শুধু 'legs' বসবে।"
+  },
+  {
+    "id": 13,
+    "question": "She has beautiful black ______.",
+    "options": ["hair", "hairs", "hair's", "hairs'"],
+    "answer": "hair",
+    "explanation": "মাথার সম্পূর্ণ চুল বোঝাতে 'hair' Uncountable Noun হিসেবে ব্যবহৃত হয়, তাই 'hairs' হয় না। তবে গোনা যায় এমন দু-তিনটি চুল বোঝালে hairs হতে পারে।"
+  },
+  {
+    "id": 14,
+    "question": "My father gave me a ten-______ note.",
+    "options": ["rupee", "rupees", "rupee's", "rupees'"],
+    "answer": "rupee",
+    "explanation": "Hyphenated noun (হাইফেন যুক্ত শব্দ) কখনো Plural হয় না। এখানে 'ten-rupee' একটি Adjective হিসেবে কাজ করছে, তাই 'rupee' হবে।"
+  },
+  {
+    "id": 15,
+    "question": "His ______ has been stolen at the station.",
+    "options": ["luggage", "luggages", "baggages", "luggage's"],
+    "answer": "luggage",
+    "explanation": "'Luggage' এবং 'Baggage' হলো Uncountable Noun। এদের সাথে 's' যুক্ত করে Plural করা যায় না।"
+  },
+  {
+    "id": 16,
+    "question": "The ______ has taken its decision unanimously.",
+    "options": ["jury", "juries", "jury's", "juries'"],
+    "answer": "jury",
+    "explanation": "'Jury' (বিচারকমণ্ডলী) একটি Collective Noun। যখন তারা একমত (unanimous) হয়ে কাজ করে, তখন এটি Singular Noun হিসেবে গণ্য হয়।"
+  },
+  {
+    "id": 17,
+    "question": "The ______ were divided in their opinion.",
+    "options": ["jury", "juries", "jury's", "juries'"],
+    "answer": "jury",
+    "explanation": "Collective Noun 'Jury' এর সদস্যরা যখন ভিন্ন ভিন্ন মত পোষণ করে (divided), তখন তা Noun of Multitude হয়ে যায় এবং Plural Verb (were) নেয়, কিন্তু শব্দটি 'jury' থাকে।"
+  },
+  {
+    "id": 18,
+    "question": "A flock of ______ is grazing.",
+    "options": ["sheep", "sheeps", "sheep's", "sheeps'"],
+    "answer": "sheep",
+    "explanation": "'Sheep' (ভেড়া), 'Deer' (হরিণ) - এদের Singular এবং Plural form একই থাকে। 'Sheeps' বলে কোনো শব্দ নেই।"
+  },
+  {
+    "id": 19,
+    "question": "There are many ______ in the pond.",
+    "options": ["fish", "fishes", "fish's", "fishes'"],
+    "answer": "fish",
+    "explanation": "সাধারণভাবে মাছের বহুবচন হিসেবে 'fish' ব্যবহৃত হয়। তবে বিভিন্ন প্রজাতির (species) মাছ বোঝাতে 'fishes' ব্যবহৃত হতে পারে। এখানে সাধারণ অর্থে 'fish' সঠিক।"
+  },
+  {
+    "id": 20,
+    "question": "He provided me with a lot of ______.",
+    "options": ["information", "informations", "inform", "information's"],
+    "answer": "information",
+    "explanation": "'Information' (তথ্য) একটি Uncountable Noun। এর কোনো Plural form (informations) হয় না।"
+  },
+  {
+    "id": 21,
+    "question": "Measles ______ an infectious disease.",
+    "options": ["is", "are", "have", "has"],
+    "answer": "is",
+    "explanation": "'Measles' (হাম) একটি রোগের নাম। এর শেষে 's' থাকলেও এটি Singular Noun, তাই Singular verb 'is' বসবে।"
+  },
+  {
+    "id": 22,
+    "question": "The Indian ______ won the match easily.",
+    "options": ["team", "teams", "team's", "teams'"],
+    "answer": "team",
+    "explanation": "'Team' একটি Collective Noun। এখানে একটি দলের কথা বলা হচ্ছে যারা একটি ইউনিট হিসেবে জিতেছে, তাই Singular form 'team' বসবে।"
+  },
+  {
+    "id": 23,
+    "question": "He gave me two important ______ of information.",
+    "options": ["piece", "pieces", "peace", "peaces"],
+    "answer": "pieces",
+    "explanation": "'Information' আনকাউন্টেবল হওয়ায় একে বহুবচন করতে 'pieces of information' (তথ্যের অংশ/টুকরো) ব্যবহার করা হয়।"
+  },
+  {
+    "id": 24,
+    "question": "Five ______ kilometres is a long distance.",
+    "options": ["hundred", "hundreds", "hundred's", "hundreds'"],
+    "answer": "hundred",
+    "explanation": "নির্দিষ্ট সংখ্যা (Five) থাকলে hundred, thousand, million ইত্যাদির সাথে 's' যোগ হয় না।"
+  },
+  {
+    "id": 25,
+    "question": "______ of people gathered to see the Prime Minister.",
+    "options": ["Thousand", "Thousands", "Thousand's", "Thousands'"],
+    "answer": "Thousands",
+    "explanation": "অনির্দিষ্ট সংখ্যা বোঝাতে (যেমন- হাজার হাজার মানুষ) 'Thousands of', 'Hundreds of' ইত্যাদি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 26,
+    "question": "The ______ of this village are very poor.",
+    "options": ["peasantry", "peasantries", "peasantry's", "peasantries'"],
+    "answer": "peasantry",
+    "explanation": "'Peasantry' (কৃষক সম্প্রদায়) দেখতে Singular হলেও এটি Plural অর্থ প্রকাশ করে। এর সাথে 'ies' যোগ করার দরকার নেই।"
+  },
+  {
+    "id": 27,
+    "question": "Alms ______ given to the beggars.",
+    "options": ["is", "are", "has", "was"],
+    "answer": "are",
+    "explanation": "'Alms' (ভিক্ষা) শব্দটি সর্বদা Plural Noun হিসেবে ব্যবহৃত হয় এবং এর পরে Plural verb (are/were) বসে।"
+  },
+  {
+    "id": 28,
+    "question": "I need some ______ to write a letter.",
+    "options": ["paper", "papers", "paper's", "papers'"],
+    "answer": "paper",
+    "explanation": "কাগজ অর্থে 'paper' একটি Uncountable Noun, তাই এর বহুবচন হয় না। তবে নথিপত্র (documents) বোঝাতে 'papers' ব্যবহৃত হয়। এখানে সাধারণ কাগজের কথা বলা হয়েছে।"
+  },
+  {
+    "id": 29,
+    "question": "All his ______ are married.",
+    "options": ["sister-in-laws", "sisters-in-law", "sister-in-law", "sisters-in-laws"],
+    "answer": "sisters-in-law",
+    "explanation": "Compound Noun (যেমন- sister-in-law, commander-in-chief) এর Plural করার সময় মূল শব্দের (root word - 'sister') সাথে 's' যুক্ত করতে হয়।"
+  },
+  {
+    "id": 30,
+    "question": "We should help the ______.",
+    "options": ["poor", "poors", "poor's", "poors'"],
+    "answer": "poor",
+    "explanation": "Adjective (যেমন- poor, rich) এর আগে 'the' বসলে তা সম্পূর্ণ শ্রেণিকে বোঝায় এবং Plural Noun হিসেবে কাজ করে। এর সাথে 's' (poors) যুক্ত করা ভুল।"
+  },
+  {
+    "id": 31,
+    "question": "His ______ towards his studies is not good.",
+    "options": ["behaviour", "behaviours", "behaviour's", "behaviours'"],
+    "answer": "behaviour",
+    "explanation": "'Behaviour' (আচরণ) একটি Abstract Noun এবং Uncountable। এর কোনো Plural form হয় না।"
+  },
+  {
+    "id": 32,
+    "question": "Billiards ______ a very expensive game.",
+    "options": ["is", "are", "has", "have"],
+    "answer": "is",
+    "explanation": "'Billiards' একটি খেলার নাম। শেষে 's' থাকলেও এটি Singular Noun এবং এর সাথে Singular verb বসে।"
+  },
+  {
+    "id": 33,
+    "question": "She packed all her ______ in the car.",
+    "options": ["belonging", "belongings", "belongings'", "belonging's"],
+    "answer": "belongings",
+    "explanation": "'Belongings' (সম্পদ/জিনিসপত্র) শব্দটি সর্বদা Plural form-এ ব্যবহৃত হয়। 'belonging' বলে কোনো Noun সাধারণত এই অর্থে ব্যবহৃত হয় না।"
+  },
+  {
+    "id": 34,
+    "question": "He has lost his ______.",
+    "options": ["binocular", "binoculars", "binocular's", "binoculars's"],
+    "answer": "binoculars",
+    "explanation": "দূরবীনের দুটি অংশ (চোখ রাখার জায়গা) থাকে। যেসব জিনিসের দুটি অভিন্ন অংশ থাকে, তারা সবসময় Plural Noun (binoculars, spectacles) হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 35,
+    "question": "The ______ of the Himalayas are breathtaking.",
+    "options": ["scenery", "sceneries", "scenery's", "sceneries'"],
+    "answer": "scenery",
+    "explanation": "পূর্বেই উল্লেখ করা হয়েছে, 'scenery' Uncountable Noun। এর কোনো Plural form (sceneries) নেই।"
+  },
+  {
+    "id": 36,
+    "question": "My ______ are aching.",
+    "options": ["tooth", "teeth", "tooths", "teeths"],
+    "answer": "teeth",
+    "explanation": "'Tooth' (দাঁত) এর Plural form হলো 'teeth'। 'tooths' বা 'teeths' ভুল।"
+  },
+  {
+    "id": 37,
+    "question": "We saw many ______ in the zoo.",
+    "options": ["deer", "deers", "deer's", "deers'"],
+    "answer": "deer",
+    "explanation": "'Deer' এর Singular এবং Plural form একই। অনেকগুলো হরিণ বোঝাতেও 'deer' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 38,
+    "question": "I have urgent ______ to do at home.",
+    "options": ["work", "works", "piece of works", "works'"],
+    "answer": "work",
+    "explanation": "কাজ অর্থে 'work' আনকাউন্টেবল নাউন। 'works' বলতে কারখানার কাজ বা সাহিত্যকর্ম (যেমন- Shakespeare's works) বোঝায়। এখানে 'work' বা 'piece of work' সঠিক।"
+  },
+  {
+    "id": 39,
+    "question": "The boy has committed a ______.",
+    "options": ["mischief", "mischiefs", "mischieves", "mischief's"],
+    "answer": "mischief",
+    "explanation": "'Mischief' (দুষ্টুমি/ক্ষতি) একটি Uncountable Noun এবং সর্বদা Singular form-এ থাকে।"
+  },
+  {
+    "id": 40,
+    "question": "I went to the market to buy some ______.",
+    "options": ["fruit", "fruits", "fruit's", "fruits'"],
+    "answer": "fruit",
+    "explanation": "খাদ্য হিসেবে ফল বোঝাতে সাধারণত 'fruit' (Uncountable Noun) ব্যবহৃত হয়। তবে বিভিন্ন প্রজাতির ফল বোঝালে 'fruits' ব্যবহৃত হতে পারে। এখানে সাধারণ অর্থে 'fruit' সঠিক।"
+  },
+  {
+    "id": 41,
+    "question": "The ______ of the poem is very deep.",
+    "options": ["meaning", "meanings", "meaning's", "meanings'"],
+    "answer": "meaning",
+    "explanation": "এখানে একটি নির্দিষ্ট কবিতার অর্থের কথা বলা হয়েছে, তাই Singular form 'meaning' ব্যবহৃত হবে।"
+  },
+  {
+    "id": 42,
+    "question": "He has no ______ of English grammar.",
+    "options": ["knowledge", "knowledges", "knowledge's", "knowledges'"],
+    "answer": "knowledge",
+    "explanation": "'Knowledge' (জ্ঞান) একটি Abstract Noun এবং এটি Uncountable। এর কোনো বহুবচন হয় না।"
+  },
+  {
+    "id": 43,
+    "question": "They bought expensive ______ for the new factory.",
+    "options": ["equipment", "equipments", "equipment's", "equipments'"],
+    "answer": "equipment",
+    "explanation": "'Equipment' (সরঞ্জাম) একটি Uncountable Noun। এর সাথে 's' যুক্ত করে বহুবচন করা যায় না।"
+  },
+  {
+    "id": 44,
+    "question": "The ______ were given to the poor.",
+    "options": ["alms", "alm", "alms'", "alm's"],
+    "answer": "alms",
+    "explanation": "'Alms' (ভিক্ষা) একটি Plural Noun, এর কোনো Singular form 'alm' নেই।"
+  },
+  {
+    "id": 45,
+    "question": "His ______ were lost in the fair.",
+    "options": ["spectacle", "spectacles", "spectacle's", "spectacles'"],
+    "answer": "spectacles",
+    "explanation": "চশমা (spectacles) এর দুটি অংশ থাকে বলে এটি সর্বদা বহুবচন হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 46,
+    "question": "______ is a dangerous disease.",
+    "options": ["Rabies", "Rabie", "Rabie's", "Rabies's"],
+    "answer": "Rabies",
+    "explanation": "'Rabies' (জলাতঙ্ক) একটি রোগের নাম যা 's' দিয়ে শেষ হয়, কিন্তু এটি Singular Noun।"
+  },
+  {
+    "id": 47,
+    "question": "He ordered three ______ of coffee.",
+    "options": ["cup", "cups", "cup's", "cups'"],
+    "answer": "cups",
+    "explanation": "'Cup' একটি Countable Noun। Three (৩টি) থাকায় এর বহুবচন 'cups' হবে।"
+  },
+  {
+    "id": 48,
+    "question": "The manager asked the ______ to work hard.",
+    "options": ["staff", "staffs", "staff's", "staffs'"],
+    "answer": "staff",
+    "explanation": "'Staff' (কর্মীবৃন্দ) একটি Collective Noun যা অনেক সময় Plural অর্থ বহন করলেও সাধারণত এর সাথে 's' যুক্ত করা হয় না। অনেক কর্মীকে বোঝাতে 'staff members' বা শুধু 'staff' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 49,
+    "question": "Please put your ______ here.",
+    "options": ["sign", "signature", "signatures", "sign's"],
+    "answer": "signature",
+    "explanation": "'Sign' একটি Verb (সাক্ষর করা) অথবা প্রতীক (চিহ্ন)। বিশেষ্য (Noun) হিসেবে 'signature' (স্বাক্ষর) ব্যবহার করতে হবে।"
+  },
+  {
+    "id": 50,
+    "question": "I have read ______ of this book.",
+    "options": ["two third", "two thirds", "two third's", "two thirds'"],
+    "answer": "two thirds",
+    "explanation": "ভগ্নাংশের ক্ষেত্রে লব (Numerator) যদি ১ এর বেশি হয় (যেমন- two), তবে হর (Denominator) এর সাথে 's' যোগ করতে হয় (যেমন- thirds)। তাই 'two thirds' সঠিক।"
+  },
+  {
+    "id": 51,
+    "question": "He was put behind the ______.",
+    "options": ["bar", "bars", "bar's", "bars'"],
+    "answer": "bars",
+    "explanation": "এখানে 'bars' বলতে জেলের গরাদ বা শিক বোঝানো হয়েছে। 'behind the bars' একটি ফ্রেজ যার অর্থ জেলে বন্দী হওয়া।"
+  },
+  {
+    "id": 52,
+    "question": "The prisoner was bound in ______.",
+    "options": ["iron", "irons", "iron's", "irons'"],
+    "answer": "irons",
+    "explanation": "'Iron' মানে লোহা (Material Noun), কিন্তু এর সাথে 's' যোগ করে 'Irons' করলে অর্থ পালটে যায় এবং এর মানে হয় 'লোহার শিকল' বা 'হাতকড়া'। তাই এখানে irons বসবে।"
+  },
+  {
+    "id": 53,
+    "question": "He had to pay heavy ______ at the airport.",
+    "options": ["custom", "customs", "custom's", "customs'"],
+    "answer": "customs",
+    "explanation": "'Custom' মানে প্রথা বা নিয়ম, কিন্তু 'Customs' মানে হলো শুল্ক বা কর (Tax)। এয়ারপোর্টে শুল্ক দিতে হয় বলে 'customs' বসবে।"
+  },
+  {
+    "id": 54,
+    "question": "The Indian ______ fought bravely.",
+    "options": ["force", "forces", "force's", "forces'"],
+    "answer": "forces",
+    "explanation": "'Force' মানে শক্তি বা বল, কিন্তু 'Forces' মানে হলো সেনাবাহিনী (Army/Troops)।"
+  },
+  {
+    "id": 55,
+    "question": "Please pay my ______ to your parents.",
+    "options": ["respect", "respects", "respect's", "respects'"],
+    "answer": "respects",
+    "explanation": "'Respect' মানে সম্মান (Uncountable), কিন্তু কারও কাছে শ্রদ্ধা বা নমস্কার পাঠাতে বা জানাতে 'respects' (Greetings/Compliments) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 56,
+    "question": "Many ______ stopped to help the accident victim.",
+    "options": ["passer-by", "passers-by", "passer-bys", "passers-bys"],
+    "answer": "passers-by",
+    "explanation": "Compound Noun 'passer-by' (পথচারী) এর Plural করতে হলে মূল শব্দ 'passer' এর সাথে 's' যোগ করতে হয়। তাই 'passers-by' সঠিক।"
+  },
+  {
+    "id": 57,
+    "question": "All the ______ held a meeting yesterday.",
+    "options": ["commander-in-chiefs", "commanders-in-chief", "commander-in-chief", "commanders-in-chiefs"],
+    "answer": "commanders-in-chief",
+    "explanation": "Compound Noun-এর ক্ষেত্রে মূল শব্দের সাথে 's' বসে। এখানে 'commander' হলো মূল শব্দ, তাই এর বহুবচন 'commanders-in-chief' হবে।"
+  },
+  {
+    "id": 58,
+    "question": "This is not my book; it is ______.",
+    "options": ["somebody's else", "somebody else's", "somebodies else", "somebody elses"],
+    "answer": "somebody else's",
+    "explanation": "Somebody else, anyone else, nobody else ইত্যাদির পর Apostrophe 's' ('s) বসে। 'somebody's else' লেখা সম্পূর্ণ ভুল।"
+  },
+  {
+    "id": 59,
+    "question": "She studies in a ______ college.",
+    "options": ["girl's", "girls'", "girls", "girls's"],
+    "answer": "girls'",
+    "explanation": "মেয়েদের কলেজ বোঝাতে Plural Noun 'girls' এর পর শুধু Apostrophe (') বসবে। শব্দ শেষে 's' থাকলে শুধু (') দিতে হয়, আবার 's' লিখতে হয় না।"
+  },
+  {
+    "id": 60,
+    "question": "He gave me a ______ note.",
+    "options": ["five-hundreds-rupees", "five-hundred-rupee", "five-hundred-rupees", "five-hundreds-rupee"],
+    "answer": "five-hundred-rupee",
+    "explanation": "Hyphen যুক্ত Noun কখনো বহুবচন (Plural) হয় না। এখানে 'five-hundred-rupee' একটি Adjective হিসেবে কাজ করছে।"
+  },
+  {
+    "id": 61,
+    "question": "I need a ______ leave.",
+    "options": ["day's", "days", "days'", "day"],
+    "answer": "day's",
+    "explanation": "সময়, দূরত্ব এবং ওজনের (Time, distance, weight) ক্ষেত্রে Non-living জিনিস হলেও Apostrophe 's' ব্যবহৃত হয়। যেমন- A day's leave, A week's holiday।"
+  },
+  {
+    "id": 62,
+    "question": "The committee consists of ______ members.",
+    "options": ["five-men", "five-man", "five-mans", "fives-man"],
+    "answer": "five-man",
+    "explanation": "Hyphenated noun সর্বদা Singular ফর্মে থাকে। তাই 'five-men' না হয়ে 'five-man' হবে।"
+  },
+  {
+    "id": 63,
+    "question": "A pride of ______ is resting under the tree.",
+    "options": ["elephants", "lions", "dogs", "sheep"],
+    "answer": "lions",
+    "explanation": "Collective Noun এর নিয়মানুসারে সিংহের দলের জন্য 'pride' শব্দটি ব্যবহৃত হয়। হাতির জন্য herd এবং কুকুরের জন্য pack ব্যবহৃত হয়।"
+  },
+  {
+    "id": 64,
+    "question": "The ______ of data shows a significant increase.",
+    "options": ["analysis", "analyses", "analys", "analysis's"],
+    "answer": "analysis",
+    "explanation": "'Analysis' (বিশ্লেষণ) হলো Singular Noun। এর Plural form হলো 'analyses'। বাক্যটিতে Singular রূপটি প্রয়োজন।"
+  },
+  {
+    "id": 65,
+    "question": "What is the main ______ for selection in this job?",
+    "options": ["criteria", "criterias", "criterion", "criterions"],
+    "answer": "criterion",
+    "explanation": "'Criterion' (মাপকাঠি) হলো Singular, আর এর Plural হলো 'criteria'। এখানে Singular Noun বসবে।"
+  },
+  {
+    "id": 66,
+    "question": "The new ______ have been collected.",
+    "options": ["datum", "data", "datas", "datums"],
+    "answer": "data",
+    "explanation": "'Datum' হলো Singular এবং 'Data' হলো Plural। 'have' থাকায় এখানে Plural noun 'data' বসবে। Data-এর সাথে 's' যুক্ত হয় না।"
+  },
+  {
+    "id": 67,
+    "question": "Lightning is a natural ______.",
+    "options": ["phenomenon", "phenomena", "phenomenons", "phenomenas"],
+    "answer": "phenomenon",
+    "explanation": "'Phenomenon' (ঘটনা) হলো Singular। এর Plural হলো 'phenomena'। এখানে 'a natural...' থাকায় Singular ফর্ম বসবে।"
+  },
+  {
+    "id": 68,
+    "question": "The ______ of the circle is 7 cm.",
+    "options": ["radius", "radii", "radiuses", "radius's"],
+    "answer": "radius",
+    "explanation": "বৃত্তের ব্যাসার্ধ বোঝাতে Singular Noun 'radius' ব্যবহৃত হয়। এর বহুবচন হলো 'radii'।"
+  },
+  {
+    "id": 69,
+    "question": "Wash your hands properly to kill the ______.",
+    "options": ["bacterium", "bacteria", "bacterias", "bacteriums"],
+    "answer": "bacteria",
+    "explanation": "'Bacteria' শব্দটি নিজেই Plural, এর Singular হলো 'bacterium'। সাধারণত জীবাণু বহুবচনেই থাকে, আর 'bacterias' বলে কোনো শব্দ নেই।"
+  },
+  {
+    "id": 70,
+    "question": "The ______ in the farm are feeding on grains.",
+    "options": ["poultry", "poultries", "poultry's", "poultries'"],
+    "answer": "poultry",
+    "explanation": "'Poultry' (হাঁস-মুরগি) শব্দটি দেখতে Singular হলেও এটি সবসময় Plural অর্থ বহন করে এবং Plural Verb (are) নেয়।"
+  },
+  {
+    "id": 71,
+    "question": "The ______ of the town were invited to the party.",
+    "options": ["gentry", "gentries", "gentry's", "gentries'"],
+    "answer": "gentry",
+    "explanation": "'Gentry' (ভদ্রলোক সমাজ) শব্দটি Plural। এর সাথে 'ies' যুক্ত করার প্রয়োজন নেই।"
+  },
+  {
+    "id": 72,
+    "question": "The court has issued a ______ against him.",
+    "options": ["summon", "summons", "summonses", "summon's"],
+    "answer": "summons",
+    "explanation": "'Summons' (আদালতের ডাক) শব্দটি শেষে 's' থাকলেও এটি Singular Noun। এর Plural হলো 'summonses'। 'A' থাকায় 'summons' বসবে।"
+  },
+  {
+    "id": 73,
+    "question": "Sachin Tendulkar played a brilliant ______.",
+    "options": ["inning", "innings", "inning's", "innings'"],
+    "answer": "innings",
+    "explanation": "'Innings' শব্দটির Singular এবং Plural একই রূপ থাকে। ক্রিকেট বা অন্যান্য খেলার ক্ষেত্রে 'inning' বলে কোনো শব্দ হয় না, সর্বদাই 'innings' হয়।"
+  },
+  {
+    "id": 74,
+    "question": "Please check his ______ before hiring him.",
+    "options": ["credential", "credentials", "credential's", "credentials'"],
+    "answer": "credentials",
+    "explanation": "'Credentials' (যোগ্যতার প্রমাণপত্র) সর্বদা বহুবচন (Plural) হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 75,
+    "question": "The ______ of the building are being guarded.",
+    "options": ["premise", "premises", "premise's", "premises'"],
+    "answer": "premises",
+    "explanation": "'Premise' মানে প্রস্তাবনা বা ধারণা, কিন্তু 'Premises' মানে হলো বাড়ি ও তার সংলগ্ন প্রাঙ্গণ বা জায়গা। তাই এখানে 'premises' হবে।"
+  },
+  {
+    "id": 76,
+    "question": "He has received official ______ to transfer.",
+    "options": ["order", "orders", "order's", "orders'"],
+    "answer": "orders",
+    "explanation": "অফিসিয়াল নির্দেশিকা বোঝাতে 'order' এর জায়গায় সর্বদা 'orders' (Plural Noun) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "Two ______ are flying in the sky.",
+    "options": ["aircraft", "aircrafts", "aircraft's", "aircrafts'"],
+    "answer": "aircraft",
+    "explanation": "'Aircraft' (উড়োজাহাজ) শব্দটির Singular এবং Plural রূপ একই। তাই 'aircrafts' লেখা ভুল।"
+  },
+  {
+    "id": 78,
+    "question": "A new ______ of matching clothes has arrived.",
+    "options": ["series", "serieses", "series'", "serie"],
+    "answer": "series",
+    "explanation": "'Series' শব্দটির Singular এবং Plural ফর্ম একই থাকে। 'serieses' বলে কিছু হয় না।"
+  },
+  {
+    "id": 79,
+    "question": "How many ______ of birds are found here?",
+    "options": ["species", "specieses", "specie", "species'"],
+    "answer": "species",
+    "explanation": "'Species' (প্রজাতি) শব্দটিও Singular এবং Plural-এ একই রূপে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 80,
+    "question": "I learnt the English ______ at the age of five.",
+    "options": ["alphabet", "alphabets", "alphabet's", "alphabets'"],
+    "answer": "alphabet",
+    "explanation": "'Alphabet' মানে বর্ণমালা (A-Z পর্যন্ত সব লেটার একসাথে)। এর সাথে 's' যোগ করে 'alphabets' করলে তার অর্থ হয়ে যায় 'বিভিন্ন ভাষা'। তাই শুধু 'alphabet' হবে।"
+  },
+  {
+    "id": 81,
+    "question": "The beautiful ______ of the place fascinated me.",
+    "options": ["surrounding", "surroundings", "surrounding's", "surroundings'"],
+    "answer": "surroundings",
+    "explanation": "'Surroundings' (চারপাশের পরিবেশ) শব্দটি সর্বদা Plural form-এ ব্যবহৃত হয়।"
+  },
+  {
+    "id": 82,
+    "question": "He bought new ______ for his factory.",
+    "options": ["machinery", "machineries", "machinery's", "machineries'"],
+    "answer": "machinery",
+    "explanation": "'Machinery' একটি Uncountable Noun। এর কোনো বহুবচন (machineries) হয় না।"
+  },
+  {
+    "id": 83,
+    "question": "They have no ______.",
+    "options": ["offspring", "offsprings", "offspring's", "offsprings'"],
+    "answer": "offspring",
+    "explanation": "'Offspring' (সন্তানসন্ততি) শব্দটি Singular এবং Plural উভয় ক্ষেত্রেই একই থাকে। এর সাথে 's' যুক্ত হয় না।"
+  },
+  {
+    "id": 84,
+    "question": "Raju is a man of his ______.",
+    "options": ["word", "words", "word's", "words'"],
+    "answer": "word",
+    "explanation": "'Man of word' একটি প্রবাদ, যার অর্থ হলো যে ব্যক্তি নিজের কথা বা প্রতিশ্রুতি রাখে। এখানে 'words' হবে না, 'word' (প্রতিশ্রুতি) হবে।"
+  },
+  {
+    "id": 85,
+    "question": "______ makes a man perfect.",
+    "options": ["Practice", "Practise", "Practices", "Practises"],
+    "answer": "Practice",
+    "explanation": "'Practice' (c দিয়ে) হলো Noun (অনুশীলন), আর 'Practise' (s দিয়ে) হলো Verb (অনুশীলন করা)। এখানে বাক্যের Subject হিসেবে Noun 'Practice' বসবে।"
+  },
+  {
+    "id": 86,
+    "question": "The doctor advised him to take two ______ of medicine.",
+    "options": ["spoonful", "spoonfuls", "spoonsful", "spoonsfuls"],
+    "answer": "spoonfuls",
+    "explanation": "Spoonful, handful, cupful ইত্যাদি শব্দের Plural করতে হলে শব্দের শেষে 's' যোগ করতে হয়। তাই 'spoonfuls' সঠিক।"
+  },
+  {
+    "id": 87,
+    "question": "The house is made of ______ and stone.",
+    "options": ["brick", "bricks", "brick's", "bricks'"],
+    "answer": "brick",
+    "explanation": "যখন ইট এবং পাথর উপাদান (Material) হিসেবে ব্যবহৃত হয়, তখন এগুলো Uncountable Noun হয়ে যায়। তাই এদের সাথে 's' যোগ করা যায় না।"
+  },
+  {
+    "id": 88,
+    "question": "I love listening to old ______.",
+    "options": ["music", "musics", "music's", "musics'"],
+    "answer": "music",
+    "explanation": "'Music' একটি Uncountable Noun। এর কোনো Plural form হয় না।"
+  },
+  {
+    "id": 89,
+    "question": "The ______ ruled India for a long time.",
+    "options": ["English", "Englishs", "English people", "English's"],
+    "answer": "English",
+    "explanation": "ভাষার নামের আগে 'The' বসলে তা সেই দেশের জাতি বা মানুষকে বোঝায় (The English = ইংরেজরা)। তাই আলাদা করে 'people' লেখার দরকার নেই।"
+  },
+  {
+    "id": 90,
+    "question": "Rabindranath Tagore was a man of ______.",
+    "options": ["letter", "letters", "letter's", "letters'"],
+    "answer": "letters",
+    "explanation": "'Man of letters' একটি ফ্রেজ, যার অর্থ পণ্ডিত ব্যক্তি বা সাহিত্যিক। এখানে 'letters' বসবে।"
+  },
+  {
+    "id": 91,
+    "question": "The king died without any ______.",
+    "options": ["issue", "issues", "issue's", "issues'"],
+    "answer": "issue",
+    "explanation": "'Issue' মানে সমস্যা, কিন্তু সন্তান (Child/Heir) বোঝাতেও 'issue' ব্যবহৃত হয়, যা Uncountable। তাই 'issues' হবে না।"
+  },
+  {
+    "id": 92,
+    "question": "She burst into ______ upon hearing the news.",
+    "options": ["tear", "tears", "tear's", "tears'"],
+    "answer": "tears",
+    "explanation": "কান্নায় ভেঙে পড়া বোঝাতে 'burst into tears' (Idiom) ব্যবহৃত হয়। 'tear' হবে না।"
+  },
+  {
+    "id": 93,
+    "question": "He takes a lot of ______ over his work.",
+    "options": ["pain", "pains", "pain's", "pains'"],
+    "answer": "pains",
+    "explanation": "'Pain' মানে শারীরিক ব্যথা, কিন্তু 'Pains' মানে হলো প্রচেষ্টা বা কষ্ট করা (Efforts)। কাজের ক্ষেত্রে প্রচেষ্টা বোঝাতে 'pains' বসে।"
+  },
+  {
+    "id": 94,
+    "question": "Please write your name in ______.",
+    "options": ["ink", "inks", "ink's", "inks'"],
+    "answer": "ink",
+    "explanation": "কালি একটি তরল পদার্থ (Material Noun), এটি Uncountable। তাই 'inks' হবে না।"
+  },
+  {
+    "id": 95,
+    "question": "Give me the pair of ______.",
+    "options": ["tong", "tongs", "tong's", "tongs'"],
+    "answer": "tongs",
+    "explanation": "'Tongs' (সাঁড়াশি)-এর দুটি অংশ থাকে, তাই এটি সর্বদা Plural form-এ থাকে।"
+  },
+  {
+    "id": 96,
+    "question": "Mumps ______ a very painful disease.",
+    "options": ["is", "are", "have", "has"],
+    "answer": "is",
+    "explanation": "'Mumps' একটি রোগের নাম। শেষে 's' থাকলেও এটি Singular Noun, তাই Singular Verb 'is' বসবে।"
+  },
+  {
+    "id": 97,
+    "question": "The Indian ______ is growing fast.",
+    "options": ["economy", "economics", "economy's", "economics'"],
+    "answer": "economy",
+    "explanation": "'Economics' হলো একটি বিষয়ের নাম (অর্থনীতি বিদ্যা), কিন্তু কোনো দেশের আর্থিক ব্যবস্থা বোঝাতে 'economy' (অর্থনীতি) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 98,
+    "question": "There is no ______ in this compartment.",
+    "options": ["place", "room", "space", "area"],
+    "answer": "room",
+    "explanation": "ট্রেন, বাস, বা বেঞ্চে বসার ফাঁকা জায়গা বোঝাতে 'place' বা 'space' এর পরিবর্তে 'room' শব্দটি ব্যবহার করাই সঠিক।"
+  },
+  {
+    "id": 99,
+    "question": "I have two ______ of shoes.",
+    "options": ["pair", "pairs", "pair's", "pairs'"],
+    "answer": "pairs",
+    "explanation": "Pair, dozen, score - এদের আগে নির্দিষ্ট সংখ্যা (যেমন Two) থাকলে 's' হয় না, এমন নিয়ম আছে ঠিকই, কিন্তু shoes, socks ইত্যাদির ক্ষেত্রে 'two pairs of shoes' বলা ব্যাকরণগতভাবে সঠিক।"
+  },
+  {
+    "id": 100,
+    "question": "My ______ is completely empty.",
+    "options": ["pocket", "pockets", "pocket's", "pockets'"],
+    "answer": "pocket",
+    "explanation": "সাধারণভাবে একটি পকেটের কথা বলতে Singular Noun 'pocket' ব্যবহৃত হয়। Subject Singular হলে verb-ও (is) Singular হয়।"
+  }
+]

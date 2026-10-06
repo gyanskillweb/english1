@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "question": "A ______ of lions.",
+    "options": ["pride", "herd", "flock", "pack"],
+    "answer": "pride",
+    "explanation": "সিংহের দল বা গোষ্ঠীকে একত্রে বোঝাতে Collective Noun হিসেবে 'pride' (A pride of lions) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 2,
+    "question": "A ______ of birds.",
+    "options": ["herd", "flock", "swarm", "fleet"],
+    "answer": "flock",
+    "explanation": "আকাশে উড়ন্ত পাখির ঝাঁক বা ভেড়ার পাল বোঝাতে 'flock' ব্যবহৃত হয়। (A flock of birds / sheep)।"
+  },
+  {
+    "id": 3,
+    "question": "A ______ of bees.",
+    "options": ["pack", "bunch", "swarm", "school"],
+    "answer": "swarm",
+    "explanation": "মৌমাছি বা উড়ন্ত পোকামাকড়ের ঝাঁক বোঝাতে 'swarm' শব্দটি বসে। (A swarm of bees/insects)।"
+  },
+  {
+    "id": 4,
+    "question": "A ______ of ships.",
+    "options": ["pack", "group", "shoal", "fleet"],
+    "answer": "fleet",
+    "explanation": "একসাথে অনেকগুলি জাহাজের বহর বা গাড়ির সারি বোঝাতে Collective Noun হিসেবে 'fleet' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 5,
+    "question": "A ______ of fish.",
+    "options": ["shoal", "herd", "flight", "choir"],
+    "answer": "shoal",
+    "explanation": "জলে সাঁতার কাটা মাছের ঝাঁককে একত্রে 'shoal' বা 'school' বলা হয়। অপশনে 'shoal' থাকায় এটি সঠিক।"
+  },
+  {
+    "id": 6,
+    "question": "A ______ of puppies.",
+    "options": ["group", "litter", "pack", "brood"],
+    "answer": "litter",
+    "explanation": "একসাথে জন্ম নেওয়া কুকুরছানা (puppies), বিড়ালছানা (kittens) বা শূকরছানার দলকে 'litter' বলা হয়।"
+  },
+  {
+    "id": 7,
+    "question": "A ______ of cattle.",
+    "options": ["flock", "swarm", "herd", "pack"],
+    "answer": "herd",
+    "explanation": "গবাদি পশু (গরু, মোষ, হরিণ) বা হাতির পাল বোঝাতে 'herd' শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 8,
+    "question": "A ______ of thieves.",
+    "options": ["crew", "crowd", "colony", "gang"],
+    "answer": "gang",
+    "explanation": "চোর, ডাকাত বা দুষ্কৃতীদের দলকে একত্রে বোঝাতে 'gang' (A gang of thieves/robbers) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 9,
+    "question": "A ______ of ants.",
+    "options": ["colony", "swarm", "herd", "pack"],
+    "answer": "colony",
+    "explanation": "পিঁপড়ের বিশাল দল বা তাদের বাসস্হানকে একত্রে 'colony' বলা হয়। (A colony of ants)।"
+  },
+  {
+    "id": 10,
+    "question": "A ______ of singers.",
+    "options": ["band", "choir", "troupe", "team"],
+    "answer": "choir",
+    "explanation": "গির্জা বা কোনো অনুষ্ঠানে একসঙ্গে গান গাওয়া গায়কদের দলকে 'choir' (উচ্চারণ: কয়ার) বলা হয়।"
+  },
+  {
+    "id": 11,
+    "question": "A ______ of grapes.",
+    "options": ["packet", "litter", "bunch", "basket"],
+    "answer": "bunch",
+    "explanation": "আঙুরের থোকা, চাবির গোছা বা কলার কাঁদি বোঝাতে Collective Noun হিসেবে 'bunch' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 12,
+    "question": "A ______ of players.",
+    "options": ["crew", "crowd", "gang", "team"],
+    "answer": "team",
+    "explanation": "খেলোয়াড়দের দল বোঝাতে সবথেকে পরিচিত এবং সঠিক Collective Noun হলো 'team'।"
+  },
+  {
+    "id": 13,
+    "question": "A ______ of students.",
+    "options": ["class", "batch", "crowd", "group"],
+    "answer": "class",
+    "explanation": "ছাত্রছাত্রীদের একটি নির্দিষ্ট দলকে একত্রে বোঝাতে 'class' বা 'batch' ব্যবহৃত হয়। অপশন অনুযায়ী 'class' সঠিক।"
+  },
+  {
+    "id": 14,
+    "question": "A ______ of musicians.",
+    "options": ["choir", "band", "troupe", "team"],
+    "answer": "band",
+    "explanation": "বাদ্যযন্ত্র বাজানো শিল্পী বা মিউজিশিয়ানদের দলকে একত্রে 'band' বলা হয়। (A band of musicians)।"
+  },
+  {
+    "id": 15,
+    "question": "A ______ of magistrates.",
+    "options": ["board", "jury", "bench", "panel"],
+    "answer": "bench",
+    "explanation": "ম্যাজিস্ট্রেট বা বিচারকদের একটি নির্দিষ্ট বেঞ্চ বা দলকে একত্রে 'bench' বলা হয়।"
+  },
+  {
+    "id": 16,
+    "question": "A ______ of sailors.",
+    "options": ["group", "gang", "staff", "crew"],
+    "answer": "crew",
+    "explanation": "জাহাজ বা বিমানের নাবিক এবং কর্মচারীদের দলকে একত্রে 'crew' বলা হয়।"
+  },
+  {
+    "id": 17,
+    "question": "A ______ of dancers.",
+    "options": ["troupe", "team", "band", "choir"],
+    "answer": "troupe",
+    "explanation": "নৃত্যশিল্পী বা পারফর্মারদের দলকে বোঝাতে 'troupe' (উচ্চারণ: ট্রুপ) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 18,
+    "question": "A ______ of experts.",
+    "options": ["board", "panel", "jury", "team"],
+    "answer": "panel",
+    "explanation": "কোনো বিশেষ বিষয়ে বিশেষজ্ঞ বা পরীক্ষকদের দলকে একত্রে 'panel' বলা হয়। (A panel of experts)।"
+  },
+  {
+    "id": 19,
+    "question": "A ______ of judges.",
+    "options": ["panel", "board", "jury", "council"],
+    "answer": "jury",
+    "explanation": "আদালতের বিচারক বা কোনো প্রতিযোগিতার বিচারকমণ্ডলীকে একত্রে 'jury' বলা হয়।"
+  },
+  {
+    "id": 20,
+    "question": "A ______ of monkeys.",
+    "options": ["pack", "herd", "swarm", "troop"],
+    "answer": "troop",
+    "explanation": "বানরের দলকে বোঝাতে Collective Noun হিসেবে 'troop' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 21,
+    "question": "A ______ of owls.",
+    "options": ["parliament", "congress", "senate", "council"],
+    "answer": "parliament",
+    "explanation": "পেঁচার দলকে মজাদার ভাবে 'parliament' বলা হয়। এটি competitive exam-এর অত্যন্ত জনপ্রিয় একটি প্রশ্ন।"
+  },
+  {
+    "id": 22,
+    "question": "A ______ of stars.",
+    "options": ["cluster", "galaxy", "bunch", "group"],
+    "answer": "galaxy",
+    "explanation": "মহাকাশে অসংখ্য তারার সমাহারকে 'galaxy' বা 'constellation' বলা হয়। অপশনে 'galaxy' থাকায় এটি সঠিক।"
+  },
+  {
+    "id": 23,
+    "question": "A ______ of soldiers.",
+    "options": ["crew", "gang", "army", "team"],
+    "answer": "army",
+    "explanation": "সৈন্যদের দলকে একত্রে 'army', 'regiment' বা 'battalion' বলা হয়। অপশন অনুযায়ী 'army' সঠিক।"
+  },
+  {
+    "id": 24,
+    "question": "A ______ of keys.",
+    "options": ["set", "group", "ring", "bunch"],
+    "answer": "bunch",
+    "explanation": "চাবির গোছাকে ইংরেজিতে 'A bunch of keys' বলা হয়।"
+  },
+  {
+    "id": 25,
+    "question": "A ______ of wolves.",
+    "options": ["pack", "herd", "flock", "swarm"],
+    "answer": "pack",
+    "explanation": "নেকড়ে বা শিকারি কুকুরের (hounds) দলকে একত্রে 'pack' বলা হয়।"
+  },
+  {
+    "id": 26,
+    "question": "A ______ of flowers.",
+    "options": ["bunch", "bouquet", "wreath", "garland"],
+    "answer": "bouquet",
+    "explanation": "সাজানো ফুলের তোড়াকে 'bouquet' বলা হয়। (A bouquet of flowers)।"
+  },
+  {
+    "id": 27,
+    "question": "A ______ of mountains.",
+    "options": ["line", "group", "range", "series"],
+    "answer": "range",
+    "explanation": "পাহাড় বা পর্বতের সারি বোঝাতে 'range' বা 'chain' ব্যবহৃত হয়। (A range of mountains)।"
+  },
+  {
+    "id": 28,
+    "question": "A ______ of stairs.",
+    "options": ["step", "set", "series", "flight"],
+    "answer": "flight",
+    "explanation": "সিঁড়ির ধাপগুলির সমাহারকে ইংরেজিতে 'flight' বলা হয়। (A flight of stairs)।"
+  },
+  {
+    "id": 29,
+    "question": "A ______ of books.",
+    "options": ["library", "bundle", "pile", "stack"],
+    "answer": "library",
+    "explanation": "প্রচুর বইয়ের সংগ্রহকে 'library' বলা হয়। (স্তূপ করে রাখা বই হলে 'pile' বা 'stack' হতো)।"
+  },
+  {
+    "id": 30,
+    "question": "A ______ of pearls.",
+    "options": ["necklace", "string", "line", "row"],
+    "answer": "string",
+    "explanation": "মুক্তোর মালা বা মুক্তোর সারি বোঝাতে 'string' শব্দটি ব্যবহৃত হয়। (A string of pearls)।"
+  },
+  {
+    "id": 31,
+    "question": "A ______ of people.",
+    "options": ["gang", "team", "crowd", "crew"],
+    "answer": "crowd",
+    "explanation": "সাধারণ মানুষের ভিড় বা জমায়েতকে 'crowd' বলা হয়। (উত্তেজিত জনতা হলে 'mob' হতো)।"
+  },
+  {
+    "id": 32,
+    "question": "A ______ of cards.",
+    "options": ["bundle", "box", "set", "deck"],
+    "answer": "deck",
+    "explanation": "খেলার তাসের প্যাকেটকে 'deck' বা 'pack' বলা হয়। (A deck of cards)।"
+  },
+  {
+    "id": 33,
+    "question": "A ______ of trees.",
+    "options": ["grove", "pack", "swarm", "herd"],
+    "answer": "grove",
+    "explanation": "গাছপালার ছোট বন বা কুঞ্জবনকে 'grove' বলা হয়। (A grove of trees)।"
+  },
+  {
+    "id": 34,
+    "question": "A ______ of papers.",
+    "options": ["pack", "sheaf", "bundle", "set"],
+    "answer": "sheaf",
+    "explanation": "কাগজের তাড়া বা শস্যের আঁটি বোঝাতে 'sheaf' ব্যবহৃত হয়। (A sheaf of papers/corn)।"
+  },
+  {
+    "id": 35,
+    "question": "A ______ of sticks.",
+    "options": ["packet", "bunch", "bundle", "deck"],
+    "answer": "bundle",
+    "explanation": "লাঠি বা কাঠের টুকরোর আঁটি বোঝাতে 'bundle' ব্যবহৃত হয়। (A bundle of sticks)।"
+  },
+  {
+    "id": 36,
+    "question": "A ______ of events.",
+    "options": ["line", "chain", "range", "series"],
+    "answer": "series",
+    "explanation": "পরপর ঘটে যাওয়া ঘটনার পর্যায়ক্রমকে 'series' বলা হয়। (A series of events)।"
+  },
+  {
+    "id": 37,
+    "question": "A ______ of geese.",
+    "options": ["gaggle", "flock", "herd", "swarm"],
+    "answer": "gaggle",
+    "explanation": "মাটিতে থাকা রাজহাঁসের দলকে 'gaggle' বলা হয়। আকাশে উড়ন্ত অবস্থায় এদের 'skein' বলা হয়।"
+  },
+  {
+    "id": 38,
+    "question": "A ______ of chickens.",
+    "options": ["litter", "brood", "nest", "flock"],
+    "answer": "brood",
+    "explanation": "মুরগির ছানা বা যেকোনো পাখির বাচ্চাদের দলকে একত্রে 'brood' বলা হয়।"
+  },
+  {
+    "id": 39,
+    "question": "A ______ of cars.",
+    "options": ["pack", "group", "fleet", "range"],
+    "answer": "fleet",
+    "explanation": "গাড়ি বা ট্যাক্সির বহরকে জাহাজের মতোই 'fleet' বলা হয়। (A fleet of cars/taxis)।"
+  },
+  {
+    "id": 40,
+    "question": "A ______ of rubbish.",
+    "options": ["hill", "mountain", "stack", "heap"],
+    "answer": "heap",
+    "explanation": "আবর্জনা, পাথর বা বালির স্তূপ বোঝাতে 'heap' ব্যবহৃত হয়। (A heap of rubbish/stones)।"
+  },
+  {
+    "id": 41,
+    "question": "A ______ of arrows.",
+    "options": ["quiver", "set", "pack", "bundle"],
+    "answer": "quiver",
+    "explanation": "তীর রাখার খাপ বা তীরের সমাহারকে ইংরেজিতে 'quiver' (তূণ বা তূণীর) বলা হয়।"
+  },
+  {
+    "id": 42,
+    "question": "A ______ of rooms.",
+    "options": ["set", "suite", "series", "block"],
+    "answer": "suite",
+    "explanation": "হোটেলের একাধিক ঘরের সেট বা আসবাবপত্রের সেটকে 'suite' (উচ্চারণ: স্যুইট) বলা হয়।"
+  },
+  {
+    "id": 43,
+    "question": "A ______ of islands.",
+    "options": ["group", "range", "archipelago", "chain"],
+    "answer": "archipelago",
+    "explanation": "দ্বীপপুঞ্জ বা অনেকগুলো দ্বীপের সমাহারকে 'archipelago' বলা হয়।"
+  },
+  {
+    "id": 44,
+    "question": "A ______ of savages.",
+    "options": ["gang", "crew", "crowd", "horde"],
+    "answer": "horde",
+    "explanation": "বন্য, অসভ্য মানুষ বা আক্রমণকারীদের বিশাল দলকে 'horde' বলা হয়। (A horde of savages)।"
+  },
+  {
+    "id": 45,
+    "question": "A ______ of worshippers.",
+    "options": ["congregation", "crowd", "gathering", "mob"],
+    "answer": "congregation",
+    "explanation": "মন্দির, মসজিদ বা গির্জায় প্রার্থনারত ভক্তদের জমায়েতকে 'congregation' বলা হয়।"
+  },
+  {
+    "id": 46,
+    "question": "A ______ of riotous people.",
+    "options": ["crew", "mob", "pack", "flock"],
+    "answer": "mob",
+    "explanation": "দাঙ্গাকারী বা ক্ষুব্ধ উত্তেজিত জনতার ভিড়কে 'mob' বলা হয়। এটি crowd-এর চেয়ে হিংস্র।"
+  },
+  {
+    "id": 47,
+    "question": "A ______ of dust.",
+    "options": ["heap", "pile", "cloud", "layer"],
+    "answer": "cloud",
+    "explanation": "বাতাসে ওড়া ধুলোর কুণ্ডলী বা ধোঁয়ার মেঘকে 'cloud' বলা হয়। (A cloud of dust/smoke)।"
+  },
+  {
+    "id": 48,
+    "question": "A ______ of directors.",
+    "options": ["jury", "panel", "council", "board"],
+    "answer": "board",
+    "explanation": "কোনো কোম্পানির পরিচালক বা ডিরেক্টরদের কমিটিকে একত্রে 'board' (Board of directors) বলা হয়।"
+  },
+  {
+    "id": 49,
+    "question": "A ______ of camels.",
+    "options": ["caravan", "pack", "flock", "swarm"],
+    "answer": "caravan",
+    "explanation": "মরুভূমিতে সারিবদ্ধভাবে চলা উটের দলকে 'caravan' বা 'train' বলা হয়।"
+  },
+  {
+    "id": 50,
+    "question": "A ______ of actors.",
+    "options": ["crew", "cast", "pack", "board"],
+    "answer": "cast",
+    "explanation": "কোনো নাটক, সিনেমা বা থিয়েটারের অভিনয়শিল্পীদের দলকে একত্রে 'cast' বলা হয়।"
+  },
+  {
+    "id": 51,
+    "question": "A ______ of drawers.",
+    "options": ["chest", "set", "pack", "wardrobe"],
+    "answer": "chest",
+    "explanation": "একসাথে অনেকগুলি ড্রয়ারের সেটকে একত্রে 'chest' (A chest of drawers) বলা হয়।"
+  },
+  {
+    "id": 52,
+    "question": "A ______ of fruit trees.",
+    "options": ["forest", "orchard", "grove", "wood"],
+    "answer": "orchard",
+    "explanation": "ফলের বাগান বা অনেক ফলগাছের সমাহারকে 'orchard' বলা হয়।"
+  },
+  {
+    "id": 53,
+    "question": "A ______ of employees.",
+    "options": ["crew", "team", "staff", "panel"],
+    "answer": "staff",
+    "explanation": "কোনো প্রতিষ্ঠান বা অফিসের কর্মচারীদের দলকে একত্রে 'staff' (কর্মচারীবৃন্দ) বলা হয়।"
+  },
+  {
+    "id": 54,
+    "question": "A ______ of poems.",
+    "options": ["diary", "album", "directory", "anthology"],
+    "answer": "anthology",
+    "explanation": "কবিতা বা গল্পের সংকলনকে ইংরেজিতে 'anthology' বলা হয়। এটি competitive exam-এর অত্যন্ত কমন প্রশ্ন।"
+  },
+  {
+    "id": 55,
+    "question": "A ______ of ladies.",
+    "options": ["bevy", "group", "troupe", "choir"],
+    "answer": "bevy",
+    "explanation": "মহিলাদের (বিশেষত সুন্দরী মহিলাদের) বা মেয়েদের দলকে একত্রে 'bevy' (A bevy of ladies/girls) বলা হয়।"
+  },
+  {
+    "id": 56,
+    "question": "A ______ of clothes.",
+    "options": ["suite", "wardrobe", "pack", "bundle"],
+    "answer": "wardrobe",
+    "explanation": "পোশাকের সংগ্রহ বা আলমারিতে সাজিয়ে রাখা পোশাকের সেটকে 'wardrobe' বলা হয়।"
+  },
+  {
+    "id": 57,
+    "question": "A ______ of listeners.",
+    "options": ["crowd", "mob", "audience", "spectators"],
+    "answer": "audience",
+    "explanation": "কোনো অনুষ্ঠান বা বক্তৃতা শোনার জন্য উপস্থিত শ্রোতাদের দলকে 'audience' (শ্রোতামণ্ডলী) বলা হয়।"
+  },
+  {
+    "id": 58,
+    "question": "A ______ of maps.",
+    "options": ["collection", "directory", "album", "atlas"],
+    "answer": "atlas",
+    "explanation": "মানচিত্রের সংগ্রহ বা মানচিত্রের বইকে 'atlas' বলা হয়।"
+  },
+  {
+    "id": 59,
+    "question": "A ______ of crows.",
+    "options": ["murder", "flock", "flight", "pack"],
+    "answer": "murder",
+    "explanation": "কাকের দলকে ইংরেজিতে মজার ছলে 'murder' (A murder of crows) বলা হয়। এটি পরীক্ষায় খুব আসে।"
+  },
+  {
+    "id": 60,
+    "question": "A ______ of guns.",
+    "options": ["pack", "battery", "set", "fleet"],
+    "answer": "battery",
+    "explanation": "একসাথে অনেকগুলি কামান বা বন্দুকের সারিকে 'battery' (A battery of guns) বলা হয়।"
+  },
+  {
+    "id": 61,
+    "question": "A ______ of angels.",
+    "options": ["flock", "swarm", "host", "choir"],
+    "answer": "host",
+    "explanation": "স্বর্গদূত বা ফেরেশতাদের (angels) বিশাল দলকে একত্রে 'host' বলা হয়।"
+  },
+  {
+    "id": 62,
+    "question": "A ______ of stamps.",
+    "options": ["album", "pile", "stack", "collection"],
+    "answer": "collection",
+    "explanation": "ডাকটিকিট বা স্ট্যাম্পের সংগ্রহ বোঝাতে 'collection' ব্যবহৃত হয়।"
+  },
+  {
+    "id": 63,
+    "question": "A ______ of whales.",
+    "options": ["pod", "school", "shoal", "swarm"],
+    "answer": "pod",
+    "explanation": "তিমি মাছের (whales) বা ডলফিনের দলকে একত্রে 'pod' বলা হয়।"
+  },
+  {
+    "id": 64,
+    "question": "A ______ of bats.",
+    "options": ["flock", "colony", "swarm", "pack"],
+    "answer": "colony",
+    "explanation": "বাদুড়ের (bats) বা পিঁপড়ের বিশাল দলকে একত্রে 'colony' বলা হয়।"
+  },
+  {
+    "id": 65,
+    "question": "A ______ of spectators.",
+    "options": ["mob", "audience", "crowd", "host"],
+    "answer": "crowd",
+    "explanation": "খেলা বা কোনো ঘটনা দেখতে আসা দর্শকদের ভিড়কে 'crowd' (A crowd of spectators) বলা হয়।"
+  },
+  {
+    "id": 66,
+    "question": "A ______ of cotton.",
+    "options": ["bundle", "sheaf", "heap", "bale"],
+    "answer": "bale",
+    "explanation": "তুলো বা খড়ের বড়ো গাঁট বোঝাতে 'bale' (A bale of cotton/hay) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 67,
+    "question": "A ______ of peacocks.",
+    "options": ["ostentation", "pride", "flock", "swarm"],
+    "answer": "ostentation",
+    "explanation": "ময়ূরের দলকে ইংরেজিতে 'ostentation' বলা হয়, যার অর্থ জাঁকজমক বা আড়ম্বর।"
+  },
+  {
+    "id": 68,
+    "question": "A ______ of foxes.",
+    "options": ["pack", "skulk", "herd", "troop"],
+    "answer": "skulk",
+    "explanation": "শিয়ালের দলকে একত্রে 'skulk' বলা হয়। এটি বেশ আনকমন কিন্তু গুরুত্বপূর্ণ একটি প্রশ্ন।"
+  },
+  {
+    "id": 69,
+    "question": "A ______ of dolphins.",
+    "options": ["shoal", "school", "pod", "pack"],
+    "answer": "pod",
+    "explanation": "তিমি মাছের মতো ডলফিনের দলকেও একত্রে 'pod' বলা হয়।"
+  },
+  {
+    "id": 70,
+    "question": "A ______ of hay.",
+    "options": ["stack", "bundle", "sheaf", "bale"],
+    "answer": "bale",
+    "explanation": "খড়ের গাঁটকে ইংরেজিতে 'bale' (A bale of hay) বলা হয়।"
+  },
+  {
+    "id": 71,
+    "question": "A ______ of rhinoceroses.",
+    "options": ["crash", "herd", "pack", "troop"],
+    "answer": "crash",
+    "explanation": "গন্ডারের দলকে একত্রে 'crash' বলা হয়। এটি প্রতিযোগিতামূলক পরীক্ষার জন্য খুবই গুরুত্বপূর্ণ।"
+  },
+  {
+    "id": 72,
+    "question": "A ______ of flying geese.",
+    "options": ["gaggle", "skein", "flock", "flight"],
+    "answer": "skein",
+    "explanation": "আকাশে উড়ন্ত রাজহাঁসের (geese) দলকে 'skein' বলা হয়। (মাটিতে থাকলে 'gaggle' বলে)।"
+  },
+  {
+    "id": 73,
+    "question": "A ______ of toads.",
+    "options": ["army", "swarm", "knot", "pack"],
+    "answer": "knot",
+    "explanation": "কুনোব্যাঙ বা toads-এর দলকে একত্রে 'knot' বলা হয়। (Frogs-এর দলকে 'army' বলে)।"
+  },
+  {
+    "id": 74,
+    "question": "A ______ of hounds.",
+    "options": ["flock", "herd", "swarm", "pack"],
+    "answer": "pack",
+    "explanation": "শিকারি কুকুর বা hounds-এর দলকে 'pack' (A pack of hounds) বলা হয়।"
+  },
+  {
+    "id": 75,
+    "question": "A ______ of eggs.",
+    "options": ["clutch", "set", "pack", "bundle"],
+    "answer": "clutch",
+    "explanation": "পাখির বাসায় একসঙ্গে পাড়া ডিমের সমাহারকে 'clutch' বলা হয়।"
+  },
+  {
+    "id": 76,
+    "question": "A ______ of grass.",
+    "options": ["bundle", "tuft", "sheaf", "bale"],
+    "answer": "tuft",
+    "explanation": "ঘাসের গোছা বা গুচ্ছ বোঝাতে 'tuft' (A tuft of grass) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 77,
+    "question": "A ______ of vipers.",
+    "options": ["swarm", "pack", "nest", "knot"],
+    "answer": "nest",
+    "explanation": "বিষধর সাপ (vipers) বা সাপের দলকে একত্রে 'nest' বলা হয়।"
+  },
+  {
+    "id": 78,
+    "question": "A ______ of pictures.",
+    "options": ["album", "collection", "set", "gallery"],
+    "answer": "gallery",
+    "explanation": "ছবি বা শিল্পকর্মের প্রদর্শনী বা সংগ্রহকে 'gallery' (A gallery of pictures) বলা হয়।"
+  },
+  {
+    "id": 79,
+    "question": "A ______ of notes.",
+    "options": ["wad", "bundle", "packet", "stack"],
+    "answer": "wad",
+    "explanation": "টাকার নোটের তাড়া বা বান্ডিল বোঝাতে 'wad' (A wad of notes) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 80,
+    "question": "A ______ of shoes.",
+    "options": ["set", "pair", "pack", "suit"],
+    "answer": "pair",
+    "explanation": "জুতোর ক্ষেত্রে সবসময় জোড়া বোঝাতে 'pair' (A pair of shoes) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 81,
+    "question": "A ______ of merchants.",
+    "options": ["board", "council", "syndicate", "panel"],
+    "answer": "syndicate",
+    "explanation": "ব্যবসায়ী বা বণিকদের বড়ো দল বা সমিতিকে 'syndicate' বলা হয়।"
+  },
+  {
+    "id": 82,
+    "question": "A ______ of bears.",
+    "options": ["pack", "herd", "troop", "sloth"],
+    "answer": "sloth",
+    "explanation": "ভাল্লুকের দলকে একত্রে 'sloth' বা 'sleuth' বলা হয়।"
+  },
+  {
+    "id": 83,
+    "question": "A ______ of frogs.",
+    "options": ["army", "knot", "swarm", "herd"],
+    "answer": "army",
+    "explanation": "ব্যাঙের (frogs) দলকে একত্রে 'army' বলা হয়।"
+  },
+  {
+    "id": 84,
+    "question": "A ______ of hair.",
+    "options": ["bundle", "lock", "tuft", "sheaf"],
+    "answer": "lock",
+    "explanation": "চুলের গোছা বা একগুচ্ছ চুল বোঝাতে 'lock' (A lock of hair) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 85,
+    "question": "A ______ of rooks.",
+    "options": ["flock", "flight", "building", "murder"],
+    "answer": "building",
+    "explanation": "দাঁড়কাক বা rooks-এর দলকে মজার ছলে 'building' বলা হয়।"
+  },
+  {
+    "id": 86,
+    "question": "A ______ of bacteria.",
+    "options": ["colony", "swarm", "group", "culture"],
+    "answer": "culture",
+    "explanation": "ল্যাবরেটরিতে বেড়ে ওঠা ব্যাকটেরিয়ার সমাহারকে 'culture' (A culture of bacteria) বলা হয়।"
+  },
+  {
+    "id": 87,
+    "question": "A ______ of leopards.",
+    "options": ["leap", "pack", "herd", "pride"],
+    "answer": "leap",
+    "explanation": "চিতা বাঘ বা leopards-এর দলকে 'leap' বলা হয়।"
+  },
+  {
+    "id": 88,
+    "question": "A ______ of delegates.",
+    "options": ["board", "delegation", "panel", "council"],
+    "answer": "delegation",
+    "explanation": "কোনো অনুষ্ঠানে পাঠানো প্রতিনিধিদের দলকে 'delegation' বলা হয়।"
+  },
+  {
+    "id": 89,
+    "question": "A ______ of wild animals.",
+    "options": ["park", "herd", "zoo", "pack"],
+    "answer": "zoo",
+    "explanation": "খাঁচাবন্দী বন্যপ্রাণীদের সমাহারকে একত্রে 'zoo' বলা হয়।"
+  },
+  {
+    "id": 90,
+    "question": "A ______ of eagles.",
+    "options": ["flight", "flock", "swarm", "convocation"],
+    "answer": "convocation",
+    "explanation": "ঈগলের দলকে 'convocation' বলা হয়। এটি বেশ আনকমন এবং অ্যাডভান্সড লেভেলের প্রশ্ন।"
+  },
+  {
+    "id": 91,
+    "question": "A ______ of natives.",
+    "options": ["tribe", "mob", "crowd", "gang"],
+    "answer": "tribe",
+    "explanation": "কোনো জায়গার আদিবাসী বা উপজাতিদের দলকে 'tribe' (A tribe of natives) বলা হয়।"
+  },
+  {
+    "id": 92,
+    "question": "A ______ of penguins.",
+    "options": ["flock", "waddle", "colony", "pack"],
+    "answer": "waddle",
+    "explanation": "মাটিতে হাঁটা পেঙ্গুইনের দলকে 'waddle' বা 'colony' বলা হয়। অপশনে 'waddle' থাকায় এটি সঠিক।"
+  },
+  {
+    "id": 93,
+    "question": "A ______ of sparrows.",
+    "options": ["flock", "swarm", "host", "flight"],
+    "answer": "host",
+    "explanation": "চড়ুই পাখির দলকে একত্রে 'host' বলা হয়।"
+  },
+  {
+    "id": 94,
+    "question": "A ______ of rules.",
+    "options": ["set", "list", "book", "code"],
+    "answer": "code",
+    "explanation": "আইন বা নিয়মের সমষ্টি বা সংকলনকে 'code' (A code of laws/rules) বলা হয়।"
+  },
+  {
+    "id": 95,
+    "question": "A ______ of kittens.",
+    "options": ["kindle", "litter", "pack", "brood"],
+    "answer": "kindle",
+    "explanation": "একসঙ্গে জন্ম নেওয়া বিড়ালছানাদের (kittens) দলকে 'kindle' বা 'litter' বলা হয়। অপশনে 'kindle' থাকলে সেটিকেই অগ্রাধিকার দেওয়া হয়।"
+  },
+  {
+    "id": 96,
+    "question": "A ______ of wood.",
+    "options": ["pile", "stack", "bundle", "bunch"],
+    "answer": "stack",
+    "explanation": "সুন্দরভাবে সাজিয়ে রাখা কাঠের গুঁড়ির স্তূপকে 'stack' (A stack of wood) বলা হয়।"
+  },
+  {
+    "id": 97,
+    "question": "A ______ of questions.",
+    "options": ["set", "series", "volley", "pack"],
+    "answer": "volley",
+    "explanation": "পরপর দ্রুত করা প্রশ্ন বা বুলেটের বর্ষণ বোঝাতে 'volley' (A volley of questions/bullets) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 98,
+    "question": "A ______ of lies.",
+    "options": ["bunch", "set", "series", "pack"],
+    "answer": "pack",
+    "explanation": "একগুচ্ছ মিথ্যা কথা বোঝাতে ইংরেজিতে 'pack' (A pack of lies) ফ্রেজটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 99,
+    "question": "A ______ of policemen.",
+    "options": ["posse", "gang", "crew", "team"],
+    "answer": "posse",
+    "explanation": "পুলিশ বা কনস্টেবলের একটি সশস্ত্র দলকে একত্রে 'posse' (A posse of policemen) বলা হয়।"
+  },
+  {
+    "id": 100,
+    "question": "A ______ of bells.",
+    "options": ["ring", "peal", "chime", "set"],
+    "answer": "peal",
+    "explanation": "একসঙ্গে বেজে ওঠা ঘন্টার ধ্বনি বা ঘণ্টার সেট বোঝাতে 'peal' (A peal of bells) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 101,
+    "question": "A ______ of oxen.",
+    "options": ["yoke", "herd", "pair", "flock"],
+    "answer": "yoke",
+    "explanation": "মাঠে কাজ করার জন্য একসাথে জোড়া বলদ বা ষাঁড়কে ইংরেজিতে 'yoke' (A yoke of oxen) বলা হয়।"
+  },
+  {
+    "id": 102,
+    "question": "A ______ of locusts.",
+    "options": ["swarm", "plague", "pack", "herd"],
+    "answer": "plague",
+    "explanation": "পঙ্গপালের (locusts) বিশাল ঝাঁক যা শস্য ধ্বংস করে, তাকে 'plague' বা 'swarm' বলা হয়। অপশনে 'plague' থাকলে সেটিকেই অগ্রাধিকার দেওয়া হয়।"
+  },
+  {
+    "id": 103,
+    "question": "A ______ of giraffes.",
+    "options": ["flock", "herd", "tower", "group"],
+    "answer": "tower",
+    "explanation": "জিরাফ খুব লম্বা প্রাণী হওয়ায় এদের দলকে মজাদার ভাবে 'tower' (A tower of giraffes) বলা হয়।"
+  },
+  {
+    "id": 104,
+    "question": "A ______ of kangaroos.",
+    "options": ["gang", "pack", "herd", "mob"],
+    "answer": "mob",
+    "explanation": "অস্ট্রেলিয়ায় ক্যাঙ্গারুর দলকে সাধারণত 'mob' (A mob of kangaroos) বলা হয়।"
+  },
+  {
+    "id": 105,
+    "question": "A ______ of wild boars.",
+    "options": ["sounder", "pack", "herd", "swarm"],
+    "answer": "sounder",
+    "explanation": "বুনো শূকরের (wild boars) দলকে একত্রে 'sounder' বলা হয়। এটি competitive exam-এর অত্যন্ত কমন প্রশ্ন।"
+  },
+  {
+    "id": 106,
+    "question": "A ______ of porcupines.",
+    "options": ["pack", "prickle", "herd", "group"],
+    "answer": "prickle",
+    "explanation": "সজারুর (porcupines) গায়ে কাঁটা থাকায় এদের দলকে মজাদার ভাবে 'prickle' বলা হয়।"
+  },
+  {
+    "id": 107,
+    "question": "A ______ of squirrels.",
+    "options": ["flock", "pack", "dray", "herd"],
+    "answer": "dray",
+    "explanation": "কাঠবিড়ালির (squirrels) দলকে বা তাদের তৈরি বাসাকে 'dray' বলা হয়।"
+  },
+  {
+    "id": 108,
+    "question": "A ______ of hyenas.",
+    "options": ["pack", "herd", "flock", "clan"],
+    "answer": "clan",
+    "explanation": "হায়েনাদের দলকে 'clan' বা 'cackle' বলা হয়।"
+  },
+  {
+    "id": 109,
+    "question": "A ______ of starlings.",
+    "options": ["murmuration", "flock", "flight", "pack"],
+    "answer": "murmuration",
+    "explanation": "শালিক বা স্টার্লিং পাখিদের আকাশে একসাথে ওড়ার অপূর্ব দৃশ্যকে 'murmuration' বলা হয়।"
+  },
+  {
+    "id": 110,
+    "question": "A ______ of goldfinches.",
+    "options": ["flock", "charm", "group", "choir"],
+    "answer": "charm",
+    "explanation": "গোল্ডফিঞ্চ (এক ধরনের ছোট গায়ক পাখি) পাখিদের দলকে 'charm' বলা হয়।"
+  },
+  {
+    "id": 111,
+    "question": "A ______ of ferrets.",
+    "options": ["pack", "herd", "business", "swarm"],
+    "answer": "business",
+    "explanation": "ফেরেট (ferrets) বা বেজি জাতীয় প্রাণীদের দলকে 'business' বলা হয়। এটি বেশ আনকমন শব্দ।"
+  },
+  {
+    "id": 112,
+    "question": "A ______ of cattle (when driven).",
+    "options": ["herd", "pack", "flock", "drove"],
+    "answer": "drove",
+    "explanation": "গবাদি পশুকে (গরু/ভেড়া) যখন তাড়িয়ে এক জায়গা থেকে অন্য জায়গায় নিয়ে যাওয়া হয়, তখন তাকে 'herd'-এর বদলে 'drove' বলা হয়।"
+  },
+  {
+    "id": 113,
+    "question": "A ______ of horses.",
+    "options": ["stud", "pack", "herd", "flock"],
+    "answer": "stud",
+    "explanation": "প্রজননের জন্য বিশেষভাবে রাখা উন্নত জাতের ঘোড়াদের দলকে 'stud' বলা হয়।"
+  },
+  {
+    "id": 114,
+    "question": "A ______ of kings.",
+    "options": ["board", "line", "gang", "team"],
+    "answer": "line",
+    "explanation": "একই বংশের পরপর রাজাদের বোঝাতে 'a line of kings' বা 'dynasty' বলা হয়।"
+  },
+  {
+    "id": 115,
+    "question": "A ______ of actors.",
+    "options": ["gang", "crew", "company", "pack"],
+    "answer": "company",
+    "explanation": "থিয়েটার বা নাটকের অভিনেতা-অভিনেত্রীদের দলকে 'company' বা 'troupe' বলা হয়।"
+  },
+  {
+    "id": 116,
+    "question": "A ______ of pilgrims.",
+    "options": ["herd", "flock", "crew", "band"],
+    "answer": "band",
+    "explanation": "তীর্থযাত্রীদের দল (pilgrims) বা মিউজিশিয়ানদের দলকে 'band' বলা হয়।"
+  },
+  {
+    "id": 117,
+    "question": "A ______ of mourners.",
+    "options": ["procession", "crowd", "mob", "gang"],
+    "answer": "procession",
+    "explanation": "অন্ত্যেষ্টিক্রিয়ায় বা শোকযাত্রায় অংশগ্রহণকারীদের দলকে 'procession' (শোকযাত্রা) বলে।"
+  },
+  {
+    "id": 118,
+    "question": "A ______ of runners.",
+    "options": ["team", "field", "gang", "group"],
+    "answer": "field",
+    "explanation": "কোনো দৌড় প্রতিযোগিতায় অংশগ্রহণকারী সমস্ত দৌড়বিদদের একত্রে 'field' বলা হয়।"
+  },
+  {
+    "id": 119,
+    "question": "A ______ of candidates.",
+    "options": ["board", "panel", "slate", "gang"],
+    "answer": "slate",
+    "explanation": "কোনো নির্বাচনে প্রার্থীদের তালিকা বা প্যানেলকে 'slate' (A slate of candidates) বলা হয়।"
+  },
+  {
+    "id": 120,
+    "question": "A ______ of witches.",
+    "options": ["gang", "crew", "crowd", "coven"],
+    "answer": "coven",
+    "explanation": "ডাইনিদের (witches) জমায়েত বা দলকে 'coven' বলা হয়।"
+  },
+  {
+    "id": 121,
+    "question": "A ______ of thieves.",
+    "options": ["den", "pack", "herd", "flock"],
+    "answer": "den",
+    "explanation": "চোর বা ডাকাতদের গোপন আস্তানা বা দলকে 'den' (A den of thieves) বলা হয়। ('gang'-ও ব্যবহৃত হয়)।"
+  },
+  {
+    "id": 122,
+    "question": "A ______ of tests.",
+    "options": ["set", "battery", "series", "pack"],
+    "answer": "battery",
+    "explanation": "পরপর অনেকগুলি পরীক্ষা বা টেস্ট করানোকে 'a battery of tests' বলা হয়।"
+  },
+  {
+    "id": 123,
+    "question": "A ______ of flats.",
+    "options": ["set", "pile", "block", "stack"],
+    "answer": "block",
+    "explanation": "একই বিল্ডিংয়ে থাকা অনেকগুলি ফ্ল্যাটের সমষ্টিকে 'a block of flats' বলে।"
+  },
+  {
+    "id": 124,
+    "question": "A ______ of books (or goods).",
+    "options": ["library", "pile", "bundle", "catalogue"],
+    "answer": "catalogue",
+    "explanation": "বই, পণ্য বা মূল্যের সুশৃঙ্খল তালিকাকে 'catalogue' বলা হয়।"
+  },
+  {
+    "id": 125,
+    "question": "A ______ of apples.",
+    "options": ["crop", "heap", "bunch", "bundle"],
+    "answer": "crop",
+    "explanation": "একবারে উৎপন্ন হওয়া আপেল বা অন্য কোনো ফলের ফলনকে 'crop' (A crop of apples) বলে।"
+  },
+  {
+    "id": 126,
+    "question": "A ______ of bananas.",
+    "options": ["bunch", "hand", "pack", "set"],
+    "answer": "hand",
+    "explanation": "কলার ছড়াকে ইংরেজিতে 'a hand of bananas' বলা হয়। (পুরো কলার কাঁদিকে bunch বলে)।"
+  },
+  {
+    "id": 127,
+    "question": "A ______ of wheat.",
+    "options": ["bundle", "sheaf", "harvest", "stack"],
+    "answer": "harvest",
+    "explanation": "গম বা অন্যান্য ফসলের এক মরসুমের সম্পূর্ণ ফলনকে 'harvest' বলে।"
+  },
+  {
+    "id": 128,
+    "question": "A ______ of bushes.",
+    "options": ["line", "row", "pack", "hedge"],
+    "answer": "hedge",
+    "explanation": "ছোট ছোট ঝোপঝাড় দিয়ে তৈরি সীমানা বা সারিকে 'hedge' (A hedge of bushes) বলা হয়।"
+  },
+  {
+    "id": 129,
+    "question": "A ______ of ruins.",
+    "options": ["mass", "heap", "pile", "stack"],
+    "answer": "mass",
+    "explanation": "কোনো বিল্ডিংয়ের ধ্বংসস্তূপের বিশাল আকার বা স্তূপকে 'a mass of ruins' বলা হয়।"
+  },
+  {
+    "id": 130,
+    "question": "A ______ of paper.",
+    "options": ["bundle", "ream", "pack", "stack"],
+    "answer": "ream",
+    "explanation": "কাগজের তাড়া বা সাধারণত ৫০০ পিস কাগজের বান্ডিলকে 'ream' (রিম) বলা হয়।"
+  },
+  {
+    "id": 131,
+    "question": "A ______ of thread.",
+    "options": ["bundle", "pack", "reel", "set"],
+    "answer": "reel",
+    "explanation": "সুতো বা ফিল্ম জড়ানো থাকে এমন রোলকে 'reel' (A reel of thread) বলা হয়।"
+  },
+  {
+    "id": 132,
+    "question": "A ______ of drinks.",
+    "options": ["set", "pack", "series", "round"],
+    "answer": "round",
+    "explanation": "উপস্থিত সকলের জন্য এক দফা পানীয়ের ব্যবস্থাকে 'a round of drinks' বলা হয়।"
+  },
+  {
+    "id": 133,
+    "question": "A ______ of houses.",
+    "options": ["row", "line", "set", "pack"],
+    "answer": "row",
+    "explanation": "পরপর একই লাইনে থাকা বাড়ির সারিকে 'a row of houses' বলা হয়।"
+  },
+  {
+    "id": 134,
+    "question": "A ______ of tools.",
+    "options": ["bunch", "set", "pack", "bundle"],
+    "answer": "set",
+    "explanation": "যন্ত্রপাতি বা হাতিয়ারের সম্পূর্ণ সংগ্রহকে 'a set of tools' বলা হয়।"
+  },
+  {
+    "id": 135,
+    "question": "A ______ of hair.",
+    "options": ["lock", "tuft", "shock", "bunch"],
+    "answer": "shock",
+    "explanation": "মাথায় থাকা এলোমেলো বা ঝাঁকড়া চুলের গোছাকে 'a shock of hair' বলা হয়। ('lock'-ও চুলের ক্ষেত্রে ব্যবহৃত হয়)।"
+  },
+  {
+    "id": 136,
+    "question": "A ______ of rain.",
+    "options": ["drop", "fall", "cloud", "shower"],
+    "answer": "shower",
+    "explanation": "অল্প সময়ের জন্য আসা বৃষ্টির পশলা বা তীরের বৃষ্টিকে 'shower' (A shower of rain/arrows) বলে।"
+  },
+  {
+    "id": 137,
+    "question": "A ______ of armor.",
+    "options": ["suit", "set", "pack", "wardrobe"],
+    "answer": "suit",
+    "explanation": "বর্ম বা সুরক্ষামূলক পোশাকের সম্পূর্ণ সেটকে 'a suit of armor' বলা হয়।"
+  },
+  {
+    "id": 138,
+    "question": "A ______ of carriages.",
+    "options": ["line", "train", "row", "fleet"],
+    "answer": "train",
+    "explanation": "ট্রেনের কামরা বা ঘোড়ার গাড়ির পরপর সারিকে 'a train of carriages' বলা হয়।"
+  },
+  {
+    "id": 139,
+    "question": "A ______ of aeroplanes.",
+    "options": ["fleet", "flock", "flight", "pack"],
+    "answer": "flight",
+    "explanation": "আকাশে একসাথে ওড়া উড়োজাহাজ বা বিমানের বহরকে 'a flight of aeroplanes' বলে। মাটিতে থাকলে 'fleet' হয়।"
+  },
+  {
+    "id": 140,
+    "question": "A ______ of fish (caught at one time).",
+    "options": ["shoal", "school", "pack", "catch"],
+    "answer": "catch",
+    "explanation": "জেলেদের জালে একবারে ধরা পড়া মাছের পরিমাণকে 'catch' বলা হয়। (জলে সাঁতার কাটা মাছের ঝাঁককে 'shoal' বলে)।"
+  },
+  {
+    "id": 141,
+    "question": "A ______ of fish (in a net).",
+    "options": ["haul", "catch", "shoal", "group"],
+    "answer": "haul",
+    "explanation": "জাল টেনে তোলা মাছের বিশাল পরিমাণ বা লুণ্ঠিত দ্রব্যকে 'haul' (A haul of fish) বলে।"
+  },
+  {
+    "id": 142,
+    "question": "A ______ of nightingales.",
+    "options": ["flock", "watch", "choir", "flight"],
+    "answer": "watch",
+    "explanation": "মিষ্টি গানের পাখি নাইটিঙ্গেলদের দলকে একত্রে 'a watch of nightingales' বলা হয়।"
+  },
+  {
+    "id": 143,
+    "question": "A ______ of turkeys.",
+    "options": ["flock", "herd", "rafter", "pack"],
+    "answer": "rafter",
+    "explanation": "টার্কি পাখিদের দলকে 'rafter' বা 'flock' বলা হয়। অপশনে 'rafter' থাকলে সেটি সঠিক।"
+  },
+  {
+    "id": 144,
+    "question": "A ______ of companies.",
+    "options": ["group", "syndicate", "board", "consortium"],
+    "answer": "consortium",
+    "explanation": "বড়ো কোনো প্রোজেক্ট করার জন্য কয়েকটি কোম্পানির জোট বা সংগঠনকে 'consortium' বলে।"
+  },
+  {
+    "id": 145,
+    "question": "A ______ of rays.",
+    "options": ["pencil", "bundle", "beam", "pack"],
+    "answer": "pencil",
+    "explanation": "সূর্যালোক বা অন্য কোনো আলোর সরু রশ্মিগুচ্ছকে 'a pencil of rays' বলা হয়।"
+  },
+  {
+    "id": 146,
+    "question": "A ______ of hair (or grass).",
+    "options": ["shock", "tuft", "lock", "bunch"],
+    "answer": "tuft",
+    "explanation": "চুল বা ঘাসের ছোট গোছাকে 'tuft' (A tuft of hair/grass) বলা হয়।"
+  },
+  {
+    "id": 147,
+    "question": "A ______ of people (small group).",
+    "options": ["crowd", "mob", "knot", "gang"],
+    "answer": "knot",
+    "explanation": "ছোট জটলা বা এক জায়গায় জড়ো হওয়া মানুষের ছোট দলকে 'knot' বলা হয়।"
+  },
+  {
+    "id": 148,
+    "question": "A ______ of blood.",
+    "options": ["pool", "stream", "shower", "drop"],
+    "answer": "drop",
+    "explanation": "এক ফোঁটা রক্ত বা জল বোঝাতে 'drop' (A drop of blood) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 149,
+    "question": "A ______ of wind.",
+    "options": ["gust", "blow", "breeze", "storm"],
+    "answer": "gust",
+    "explanation": "হঠাৎ আসা দমকা হাওয়াকে ইংরেজিতে 'a gust of wind' বলা হয়।"
+  },
+  {
+    "id": 150,
+    "question": "A ______ of thunder.",
+    "options": ["peal", "clap", "flash", "sound"],
+    "answer": "clap",
+    "explanation": "বজ্রপাতের হঠাৎ ও জোরালো শব্দকে 'a clap of thunder' বা 'a peal of thunder' বলা হয়।"
+  },
+  {
+    "id": 151,
+    "question": "A ______ of partridges.",
+    "options": ["covey", "flock", "flight", "pack"],
+    "answer": "covey",
+    "explanation": "তিতির পাখি বা partridges-এর দলকে একত্রে 'covey' বলা হয়। এটি স্টাফ সিলেকশন কমিশনের (SSC) একটি অত্যন্ত কমন প্রশ্ন।"
+  },
+  {
+    "id": 152,
+    "question": "A ______ of ravens.",
+    "options": ["murder", "unkindness", "flock", "swarm"],
+    "answer": "unkindness",
+    "explanation": "দাঁড়কাক বা ravens-এর দলকে মজাদার এবং সাহিত্যিক ভাষায় 'an unkindness of ravens' বলা হয়।"
+  },
+  {
+    "id": 153,
+    "question": "A ______ of larks.",
+    "options": ["flight", "flock", "exaltation", "choir"],
+    "answer": "exaltation",
+    "explanation": "লার্ক (lark) বা ভরত পাখিদের দলকে একত্রে 'exaltation' বলা হয়, কারণ এদের গান খুব আনন্দদায়ক।"
+  },
+  {
+    "id": 154,
+    "question": "A ______ of parrots.",
+    "options": ["flock", "pandemonium", "company", "swarm"],
+    "answer": "pandemonium",
+    "explanation": "টিয়া পাখিদের দলকে তাদের অত্যাধিক কোলাহলের জন্য 'pandemonium' বা 'company' বলা হয়। অপশনে 'pandemonium' থাকলে সেটিকেই সঠিক ধরা হয়।"
+  },
+  {
+    "id": 155,
+    "question": "A ______ of cats.",
+    "options": ["clowder", "pack", "litter", "herd"],
+    "answer": "clowder",
+    "explanation": "প্রাপ্তবয়স্ক বিড়ালদের (cats) দলকে একত্রে 'clowder' বা 'glaring' বলা হয়। (বাচ্চা বিড়াল হলে litter হতো)।"
+  },
+  {
+    "id": 156,
+    "question": "A ______ of tigers.",
+    "options": ["pack", "ambush", "pride", "herd"],
+    "answer": "ambush",
+    "explanation": "বাঘের দলকে সাধারণত 'ambush' বা 'streak' বলা হয়। তারা লুকিয়ে শিকার করে বলে এই নাম।"
+  },
+  {
+    "id": 157,
+    "question": "A ______ of hippopotamuses.",
+    "options": ["bloat", "crash", "herd", "pack"],
+    "answer": "bloat",
+    "explanation": "জলহস্তী বা hippos-এর দলকে একত্রে 'bloat' বলা হয়। এটি বেশ অ্যাডভান্সড লেভেলের প্রশ্ন।"
+  },
+  {
+    "id": 158,
+    "question": "A ______ of flying swans.",
+    "options": ["wedge", "flock", "flight", "bank"],
+    "answer": "wedge",
+    "explanation": "আকাশে উড়ন্ত রাজহাঁসের দলকে তাদের 'V' আকৃতির ওড়ার প্যাটার্নের জন্য 'wedge' বলা হয়। মাটিতে থাকলে 'bank' বা 'bevy' হয়।"
+  },
+  {
+    "id": 159,
+    "question": "A ______ of ducks (on water).",
+    "options": ["raft", "flock", "waddle", "flight"],
+    "answer": "raft",
+    "explanation": "জলে ভাসমান পাতিহাঁসের দলকে 'raft' বা 'paddling' বলা হয়।"
+  },
+  {
+    "id": 160,
+    "question": "A ______ of apes.",
+    "options": ["troop", "shrewdness", "pack", "band"],
+    "answer": "shrewdness",
+    "explanation": "বনমানুষ বা apes-এর দলকে 'shrewdness' বলা হয়।"
+  },
+  {
+    "id": 161,
+    "question": "A ______ of badgers.",
+    "options": ["pack", "cete", "herd", "sloth"],
+    "answer": "cete",
+    "explanation": "ব্যাজার (badger) নামক প্রাণীদের দলকে 'cete' বলা হয়। এটি বিদেশী পরীক্ষায় প্রায়ই আসে।"
+  },
+  {
+    "id": 162,
+    "question": "A ______ of cobras.",
+    "options": ["nest", "pack", "quiver", "swarm"],
+    "answer": "quiver",
+    "explanation": "গোখরো সাপ বা cobras-এর দলকে 'quiver' বলা হয়।"
+  },
+  {
+    "id": 163,
+    "question": "A ______ of elephants.",
+    "options": ["pack", "swarm", "flock", "parade"],
+    "answer": "parade",
+    "explanation": "হাতির দলকে সাধারণত 'herd' বলা হয়, তবে সারিবদ্ধভাবে চলা হাতির দলকে 'parade' (A parade of elephants) বলা হয়।"
+  },
+  {
+    "id": 164,
+    "question": "A ______ of trees.",
+    "options": ["clump", "bunch", "bundle", "herd"],
+    "answer": "clump",
+    "explanation": "একসাথে থাকা বা গায়ে গায়ে লাগানো গাছের গুচ্ছকে 'clump' (A clump of trees) বলা হয়।"
+  },
+  {
+    "id": 165,
+    "question": "A ______ of onions.",
+    "options": ["rope", "bunch", "string", "packet"],
+    "answer": "rope",
+    "explanation": "দড়িতে বা বিনুনির মতো করে বাঁধা পেঁয়াজের গুচ্ছকে 'a rope of onions' বলা হয়।"
+  },
+  {
+    "id": 166,
+    "question": "A ______ of warships.",
+    "options": ["fleet", "armada", "flotilla", "squadron"],
+    "answer": "armada",
+    "explanation": "যুদ্ধে ব্যবহৃত রণতরী বা যুদ্ধজাহাজের বিশাল বহরকে 'armada' বলা হয়। (সাধারণ জাহাজ হলে fleet হতো)।"
+  },
+  {
+    "id": 167,
+    "question": "A ______ of small boats.",
+    "options": ["flotilla", "fleet", "armada", "pack"],
+    "answer": "flotilla",
+    "explanation": "ছোট ছোট নৌকা বা জাহাজের বহরকে 'flotilla' বলা হয়।"
+  },
+  {
+    "id": 168,
+    "question": "A ______ of voters.",
+    "options": ["mob", "crowd", "electorate", "audience"],
+    "answer": "electorate",
+    "explanation": "কোনো নির্বাচন কেন্দ্রের সমস্ত ভোটারদের একত্রে 'electorate' বলা হয়।"
+  },
+  {
+    "id": 169,
+    "question": "A ______ of lectures.",
+    "options": ["series", "course", "set", "pack"],
+    "answer": "course",
+    "explanation": "কোনো নির্দিষ্ট বিষয়ের ওপর পরপর দেওয়া বক্তৃতার সমষ্টিকে 'a course of lectures' বলা হয়।"
+  },
+  {
+    "id": 170,
+    "question": "A ______ of crockery / china.",
+    "options": ["set", "pile", "stack", "collection"],
+    "answer": "set",
+    "explanation": "চিনামাটির বাসনপত্র বা কাপ-প্লেটের সমষ্টিকে 'a set of china' বা 'crockery' বলা হয়।"
+  },
+  {
+    "id": 171,
+    "question": "A ______ of scissors.",
+    "options": ["set", "pair", "pack", "bundle"],
+    "answer": "pair",
+    "explanation": "কাঁচি, জুতো বা মোজার ক্ষেত্রে সবসময় জোড়া বোঝাতে 'pair' (A pair of scissors) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 172,
+    "question": "A ______ of musicians (playing classical music).",
+    "options": ["band", "choir", "orchestra", "troupe"],
+    "answer": "orchestra",
+    "explanation": "শাস্ত্রীয় বা ধ্রুপদী সঙ্গীত বাজানো বাদ্যযন্ত্রশিল্পীদের বিশাল দলকে 'orchestra' বলা হয়।"
+  },
+  {
+    "id": 173,
+    "question": "A ______ of names.",
+    "options": ["pack", "directory", "list", "catalogue"],
+    "answer": "list",
+    "explanation": "নামের সমাহারকে 'a list of names' (নামের তালিকা) বলা হয়।"
+  },
+  {
+    "id": 174,
+    "question": "A ______ of stars (forming a pattern).",
+    "options": ["galaxy", "cluster", "constellation", "group"],
+    "answer": "constellation",
+    "explanation": "আকাশে নির্দিষ্ট আকার বা প্যাটার্ন তৈরি করা তারামণ্ডলকে 'constellation' বলা হয়। (অসংখ্য তারার সমাহারকে galaxy বলে)।"
+  },
+  {
+    "id": 175,
+    "question": "A ______ of singers (in a group).",
+    "options": ["chorus", "band", "troupe", "orchestra"],
+    "answer": "chorus",
+    "explanation": "সমবেত কণ্ঠে গাওয়া গায়কদের দলকে 'chorus' বলা হয়। গির্জার গায়কদের 'choir' বলে।"
+  },
+  {
+    "id": 176,
+    "question": "A ______ of trustees.",
+    "options": ["panel", "board", "council", "jury"],
+    "answer": "board",
+    "explanation": "কোনো প্রতিষ্ঠানের অছি পরিষদ বা ট্রাস্টিদের দলকে 'a board of trustees' বলা হয়।"
+  },
+  {
+    "id": 177,
+    "question": "A ______ of beauties.",
+    "options": ["bevy", "troupe", "galaxy", "crowd"],
+    "answer": "galaxy",
+    "explanation": "অত্যন্ত সুন্দরী বা গ্ল্যামারাস মহিলাদের সমাহারকে সাহিত্যিক ভাষায় 'a galaxy of beauties' বা 'bevy' বলা হয়।"
+  },
+  {
+    "id": 178,
+    "question": "A ______ of abuses.",
+    "options": ["series", "set", "pack", "volley"],
+    "answer": "volley",
+    "explanation": "পরপর অনেকগুলো গালিগালাজ বা প্রশ্নের বর্ষণ বোঝাতে 'volley' (A volley of abuses/questions) ব্যবহৃত হয়।"
+  },
+  {
+    "id": 179,
+    "question": "A ______ of treasure or money.",
+    "options": ["hoard", "stack", "pile", "heap"],
+    "answer": "hoard",
+    "explanation": "সঞ্চিত বা লুকিয়ে রাখা ধনসম্পদ ও টাকাপয়সাকে 'hoard' (A hoard of money/treasure) বলা হয়।"
+  },
+  {
+    "id": 180,
+    "question": "A ______ of stones.",
+    "options": ["heap", "bunch", "bundle", "pack"],
+    "answer": "heap",
+    "explanation": "পাথর, বালি বা আবর্জনার স্তূপ বোঝাতে 'heap' (A heap of stones) শব্দটি ব্যবহৃত হয়।"
+  },
+  {
+    "id": 181,
+    "question": "A ______ of sand.",
+    "options": ["stack", "mound", "pack", "bundle"],
+    "answer": "mound",
+    "explanation": "বালি বা মাটির উঁচু স্তূপকে 'mound' (A mound of sand) বলা হয়।"
+  },
+  {
+    "id": 182,
+    "question": "A ______ of hay.",
+    "options": ["truss", "bunch", "pile", "bale"],
+    "answer": "truss",
+    "explanation": "খড়ের আঁটি বা গাঁট বোঝাতে 'truss' বা 'bale' ব্যবহৃত হয়। অপশনে 'truss' থাকলে সেটিও সঠিক।"
+  },
+  {
+    "id": 183,
+    "question": "A ______ of sticks or firewood.",
+    "options": ["packet", "faggot", "set", "heap"],
+    "answer": "faggot",
+    "explanation": "জ্বালানি কাঠ বা লাঠির আঁটিকে ইংরেজিতে 'faggot' বা 'bundle' বলা হয়।"
+  },
+  {
+    "id": 184,
+    "question": "A ______ of smoke.",
+    "options": ["column", "line", "row", "stack"],
+    "answer": "column",
+    "explanation": "ওপরের দিকে সোজা উঠে যাওয়া ধোঁয়ার কুণ্ডলীকে 'a column of smoke' বলা হয়। (cloud-ও বলা যায়)।"
+  },
+  {
+    "id": 185,
+    "question": "A ______ of snow.",
+    "options": ["drop", "shower", "fall", "cloud"],
+    "answer": "fall",
+    "explanation": "তুষারপাত বা বরফ পড়ার পরিমাণকে 'a fall of snow' বলা হয়।"
+  },
+  {
+    "id": 186,
+    "question": "A ______ of lightning.",
+    "options": ["flash", "clap", "peal", "drop"],
+    "answer": "flash",
+    "explanation": "বিদ্যুতের চমক বোঝাতে 'a flash of lightning' বলা হয়।"
+  },
+  {
+    "id": 187,
+    "question": "A ______ of artillery.",
+    "options": ["pack", "battery", "fleet", "set"],
+    "answer": "battery",
+    "explanation": "ভারী কামান বা গোলাগুলির সারিকে 'a battery of artillery/guns' বলা হয়।"
+  },
+  {
+    "id": 188,
+    "question": "A ______ of bishops.",
+    "options": ["board", "jury", "bench", "panel"],
+    "answer": "bench",
+    "explanation": "বিশপ বা যাজকপ্রধানদের নির্দিষ্ট বেঞ্চ বা দলকে একত্রে 'bench' বলা হয়।"
+  },
+  {
+    "id": 189,
+    "question": "A ______ of clergymen.",
+    "options": ["synod", "council", "board", "choir"],
+    "answer": "synod",
+    "explanation": "পুরোহিত বা যাজকদের (clergymen) সভাকে 'synod' বলা হয়। এটি অত্যন্ত গুরুত্বপূর্ণ একটি শব্দ।"
+  },
+  {
+    "id": 190,
+    "question": "A ______ of scholars.",
+    "options": ["academy", "board", "panel", "team"],
+    "answer": "academy",
+    "explanation": "পণ্ডিত বা বিদ্যান ব্যক্তিদের সমাহার বা প্রতিষ্ঠানকে 'academy' বলা হয়।"
+  },
+  {
+    "id": 191,
+    "question": "A ______ of laborers.",
+    "options": ["team", "gang", "crew", "mob"],
+    "answer": "gang",
+    "explanation": "শ্রমিক বা কুলি-মজুরদের দলকে একত্রে 'gang' (A gang of laborers) বলা হয়।"
+  },
+  {
+    "id": 192,
+    "question": "A ______ of rowers.",
+    "options": ["team", "gang", "crew", "pack"],
+    "answer": "crew",
+    "explanation": "নৌকা চালক বা দাঁড়টানাদের (rowers) দলকে 'crew' বলা হয়।"
+  },
+  {
+    "id": 193,
+    "question": "A ______ of tourists.",
+    "options": ["herd", "mob", "pack", "flock"],
+    "answer": "flock",
+    "explanation": "পর্যটকদের দলকে পাখির ঝাঁকের মতো 'flock' (A flock of tourists) বলা হয়।"
+  },
+  {
+    "id": 194,
+    "question": "A ______ of successes.",
+    "options": ["series", "run", "set", "pack"],
+    "answer": "run",
+    "explanation": "পরপর পাওয়া সাফল্য বা জয়ের ধারাকে 'a run of successes/luck' বলা হয়।"
+  },
+  {
+    "id": 195,
+    "question": "A ______ of furniture.",
+    "options": ["set", "chest", "suite", "wardrobe"],
+    "answer": "suite",
+    "explanation": "আসবাবপত্রের সম্পূর্ণ সেটকে 'a suite of furniture' (উচ্চারণ: স্যুইট) বলা হয়।"
+  },
+  {
+    "id": 196,
+    "question": "A ______ of cards (dealt to a player).",
+    "options": ["hand", "pack", "deck", "set"],
+    "answer": "hand",
+    "explanation": "তাস খেলার সময় একজন খেলোয়াড়ের হাতে থাকা তাসগুলোকে 'hand' বলা হয়। পুরো প্যাকেটকে deck/pack বলে।"
+  },
+  {
+    "id": 197,
+    "question": "A ______ of hounds (when vocal/chasing).",
+    "options": ["pack", "cry", "herd", "swarm"],
+    "answer": "cry",
+    "explanation": "শিকারি কুকুররা যখন শব্দ করে তাড়া করে, তখন তাদের দলকে 'a cry of hounds' বলা হয়। স্বাভাবিক অবস্থায় 'pack' বলে।"
+  },
+  {
+    "id": 198,
+    "question": "A ______ of silk.",
+    "options": ["bale", "bundle", "skein", "pack"],
+    "answer": "skein",
+    "explanation": "রেশম সুতো বা সিল্কের গোছাকে 'skein' (A skein of silk) বলা হয়।"
+  },
+  {
+    "id": 199,
+    "question": "A ______ of questions.",
+    "options": ["bundle", "set", "pack", "barrage"],
+    "answer": "barrage",
+    "explanation": "অবিরত ধেয়ে আসা প্রশ্ন বা আক্রমণের বর্ষণকে 'barrage' (A barrage of questions) বলা হয়।"
+  },
+  {
+    "id": 200,
+    "question": "A ______ of facts or information.",
+    "options": ["mine", "pack", "set", "bundle"],
+    "answer": "mine",
+    "explanation": "তথ্য বা জ্ঞানের বিশাল ভাণ্ডার বোঝাতে 'mine' (A mine of information) শব্দটি ব্যবহৃত হয়।"
+  }
+]
